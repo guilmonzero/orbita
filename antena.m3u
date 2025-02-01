@@ -2,7 +2,7 @@
 #EXTINF:-1 GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 #EXTINF:-1 Para disfrutar de los canales y abrir correctamente, añade esta dirección a la aplicación IPTV PRO una vez instalada, disponible GRATIS en Google Play o bien descargala sin anuncios y completa acá: https//bit.ly/orbitaxpp  Compactible para todos tus dispositivos con Android y Google TV, TVBox, ect... 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/t4pDwvx/orbi1.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 30.01.25
+#EXTINF:-1 tvg-logo="https://i.ibb.co/t4pDwvx/orbi1.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 01.02.25
 https://pomf2.lain.la/f/572x442.mp4
 
 #EXTINF:-1 tvg-id="66b0dfa1d512590008bfa7fd" tvg-logo="https://i.postimg.cc/pVgRH9CQ/pluto-g.jpg" tvg-chno="02" group-title="Animados | Variado",Pluto TV | Gore & Slasher (ES)
@@ -1166,10 +1166,14 @@ https://ythls.armelin.one/channel/UC1h8_HKc5wScqeRw1HV6a6w.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qRpKCV42/discovery-channel.jpg" group-title="Ciencia | Cultura 🪐",Discovery Channel (US)
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qRpKCV42/discovery-channel.jpg" group-title="Ciencia | Cultura 🪐",Discovery Channel | Opción 2 (US)
+https://xyzdddd.mizhls.ru/lb/premium313/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/R0C0VR40/discovery-id.jpg" group-title="Ciencia | Cultura 🪐",Discovery | ID (US)
 http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kXPn7VG1/discovery-life.jpg" group-title="Ciencia | Cultura 🪐",Discovery | Life (US)
 http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kXPn7VG1/discovery-life.jpg" group-title="Ciencia | Cultura 🪐",Discovery | Life | Opción 2 (US)
+https://xyzdddd.mizhls.ru/lb/premium311/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JnD9Pn6b/divinity.jpg" group-title="Ciencia | Cultura 🪐",Divinity (ES)
 
@@ -1266,6 +1270,8 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-664296050e0ec7b4ce5eb290.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTpQrqGJ/Hgtv.jpg" group-title="Ciencia | Cultura 🪐",HGTV | Home & Garden (US)
 http://fl5.moveonjoy.com/HGTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTpQrqGJ/Hgtv.jpg" group-title="Ciencia | Cultura 🪐",HGTV | Home & Garden | Opción 2 (US)
+https://xyzdddd.mizhls.ru/lb/premium382/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YqmZLpZT/hipertv.jpg" group-title="Ciencia | Cultura 🪐",Hiper TV (CL)
 https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8
@@ -1406,6 +1412,8 @@ http://endpnt.com:8000/nasa-uhd-30p.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bJnm5TxQ/nasa4k.jpg" group-title="Ciencia | Cultura 🪐",NASA | 4K | Test (US)
 https://endpnt.com/hls/nasa4k/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ryHYVBwb/natgeopride.jpg" group-title="Ciencia | Cultura 🪐",Natgeo (US)
+https://xyzdddd.mizhls.ru/lb/premium328/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJFCNNLW/natgeowild.jpg" group-title="Ciencia | Cultura 🪐",Natgeo | Wild (US)
 http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 
@@ -2069,6 +2077,14 @@ https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HxYVjHC6/foxsports-US2.jpg" group-title="Deportes | Aventura",FOX Sports | 1 (US)
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn6r2jLJ/foxsports2us.jpg" group-title="Deportes | Aventura",FOX Sports | 2 (US)
+https://xyzdddd.mizhls.ru/lb/premium758/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kGQcxXkw/foxs.jpg" group-title="Deportes | Aventura",FOX Sports | 502 (AU)
+https://xyzdddd.mizhls.ru/lb/premium820/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kGQcxXkw/foxs.jpg" group-title="Deportes | Aventura",FOX Sports | 503 (AU)
+https://xyzdddd.mizhls.ru/lb/premium821/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kGQcxXkw/foxs.jpg" group-title="Deportes | Aventura",FOX Sports | 504 (AU)
+https://xyzdddd.mizhls.ru/lb/premium822/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjz2nBYf/foxdeportes.jpg" group-title="Deportes | Aventura",FOX Sports | En Español (MX)
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 
@@ -2862,6 +2878,8 @@ https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index_4.m3u8
 https://jmp2.uk/sam-USBD2700019N0.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yxLmCh7h/foxlivenow.jpg" group-title="Informativo",FOX | Live Now (US)
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/44BxkrmB/foxnews.jpg" group-title="Informativo",FOX | News (US)
+https://xyzdddd.mizhls.ru/lb/premium347/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Cx2Mjwwg/fox-we.jpg" group-title="Informativo",FOX | Weather (US)
 https://247wlive.foxweather.com/stream/index.m3u8
@@ -12812,6 +12830,9 @@ https://5d8d85cf2c308.streamlock.net:1936/AlcalaTV/endirecto/chunklist_w15882191
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/90VwpMyS/4uv.jpg" group-title="Estados Unidos",4UV | Samsung TV Plus (US)
 https://jmp2.uk/sam-USBD70000412.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qM6MzS8g/a-e.jpg" group-title="Estados Unidos",A&E (US)
+https://xyzdddd.mizhls.ru/lb/premium302/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xd6G56gT/abc-us.jpg" group-title="Estados Unidos",ABC (US)
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xd6G56gT/abc-us.jpg" group-title="Estados Unidos",ABC | Opción 2 (US)
@@ -12962,6 +12983,8 @@ https://jmp2.uk/sam-USBD7000145C.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DZb93r6k/comet.jpg" group-title="Estados Unidos",Comet (US)
 http://fl3.moveonjoy.com/COMET/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MGz0pyb0/cw.jpg" group-title="Estados Unidos",CW | Twin Cities | Minneapolis (US)
+https://xyzdddd.mizhls.ru/lb/premium300/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MGz0pyb0/cw.jpg" group-title="Estados Unidos",CW | Dallas (US)
 http://tvmate.icu:8080/6025505794/osmanmata@gmail.com/120881
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MGz0pyb0/cw.jpg" group-title="Estados Unidos",CW | Orlando (US)
@@ -12977,6 +13000,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e9debf8c881310007d7bd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N0zP4nzN/dry.jpg" group-title="Estados Unidos",Dry Bar Comedy (US)
 https://jmp2.uk/sam-USAJ30000039U.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/D02HMsY4/canale-latino.jpg" group-title="Estados Unidos",E! Entertainment (US)
+https://xyzdddd.mizhls.ru/lb/premium315/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dQS55ch1/elec.jpg" group-title="Estados Unidos",Electric Now | Samsung TV Plus (US)
 https://jmp2.uk/sam-USBC6000225M.m3u8
@@ -13001,6 +13027,8 @@ http://tvmate.icu:8080/6025505794/osmanmata@gmail.com/7323
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9Mq86h3p/fox.jpg" group-title="Estados Unidos",FOX (US)
 http://143.244.60.30/FOX_EAST/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9Mq86h3p/fox.jpg" group-title="Estados Unidos",FOX | Miami (US)
+https://xyzdddd.mizhls.ru/lb/premium54/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZLYJFqV/fox5n.jpg" group-title="Estados Unidos",FOX | 5 | New York (US)
 https://live-manifest.production-public.tubi.io/live/43fa471a-5820-4153-bab1-2f57e309731d/playlist.m3u8
