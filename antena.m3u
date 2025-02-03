@@ -2,7 +2,7 @@
 #EXTINF:-1 GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 #EXTINF:-1 Para disfrutar de los canales y abrir correctamente, añade esta dirección a la aplicación IPTV PRO una vez instalada, disponible GRATIS en Google Play o bien descargala sin anuncios y completa acá: https//bit.ly/orbitaxpp  Compactible para todos tus dispositivos con Android y Google TV, TVBox, ect... 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/t4pDwvx/orbi1.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 01.02.25
+#EXTINF:-1 tvg-logo="https://i.ibb.co/t4pDwvx/orbi1.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 03.02.25
 https://pomf2.lain.la/f/572x442.mp4
 
 #EXTINF:-1 tvg-id="66b0dfa1d512590008bfa7fd" tvg-logo="https://i.postimg.cc/pVgRH9CQ/pluto-g.jpg" tvg-chno="02" group-title="Animados | Variado",Pluto TV | Gore & Slasher (ES)
@@ -586,8 +586,6 @@ https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
 http://143.244.60.30/NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0yCmCSdB/nickjunior.jpg" group-title="Animados | Variado",Nick | Junior (US)
 http://fl2.moveonjoy.com/NICK_JR/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRgWtW1S/nicktoons3.jpg" group-title="Animados | Variado",Nick | Toons (UK)
-https://d20opqftbkv2z0.cloudfront.net/live13/nicktoons/bitrate1-clear.isml/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRgWtW1S/nicktoons3.jpg" group-title="Animados | Variado",Nick | Toons (US)
 http://143.244.60.30/NICKTOONS/index.m3u8
 
@@ -15966,6 +15964,21 @@ https://archive.org/download/94-1_20210929/1x08%20-%20El%20l%C3%ADder.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZLMfVr1/cal.jpg" group-title="Juego del Calamar",Juego del Calamar | S01E09 | Latino [2021]
 https://archive.org/download/94-1_20210929/1x09%20-%20Un%20d%C3%ADa%20de%20suerte.mp4
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tgc5fhQ2/cal2.jpg" group-title="Juego del Calamar",Juego del Calamar | S02E01 | Latino [2024]
+https://archive.org/serve/el-juego-del-calamar-temporada-2-ep-1_202501/El%20juego%20del%20Calamar%20Temporada%202%20Ep1.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tgc5fhQ2/cal2.jpg" group-title="Juego del Calamar",Juego del Calamar | S02E02 | Latino [2024]
+https://ia600805.us.archive.org/1/items/el-juego-del-calamar-temporada-2-ep-2/El%20juego%20del%20Calamar%20Temporada%202%20Ep2.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tgc5fhQ2/cal2.jpg" group-title="Juego del Calamar",Juego del Calamar | S02E03 | Latino [2024]
+https://ia600609.us.archive.org/7/items/el-juego-del-calamar-temporada-2-ep-3/El%20juego%20del%20Calamar%20Temporada%202%20Ep3.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tgc5fhQ2/cal2.jpg" group-title="Juego del Calamar",Juego del Calamar | S02E04 | Latino [2024]
+https://ia600605.us.archive.org/1/items/el-juego-del-calamar-temporada-2-ep-4_202501/El%20juego%20del%20Calamar%20Temporada%202%20Ep4.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tgc5fhQ2/cal2.jpg" group-title="Juego del Calamar",Juego del Calamar | S02E05 | Latino [2024]
+https://ia600607.us.archive.org/16/items/el-juego-del-calamar-temporada-2-ep-5/El%20juego%20del%20Calamar%20Temporada%202%20Ep5.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tgc5fhQ2/cal2.jpg" group-title="Juego del Calamar",Juego del Calamar | S02E06 | Latino [2024]
+https://ia802302.us.archive.org/20/items/el-juego-del-calamar-temporada-2-ep-6/El%20juego%20del%20Calamar%20Temporada%202%20Ep6.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tgc5fhQ2/cal2.jpg" group-title="Juego del Calamar",Juego del Calamar | S02E07 | Latino [2024]
+https://pomf2.lain.la/f/plu5nbs5.mp4
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KVTxc16/b1.jpg" group-title="Mundo de Beakman",Beakman | S01E01 | Lluvia y Volcanes | Latino [1992]
 https://archive.org/download/Beakman92/S01E01%20Beakman%20-%20Lluvia%2C%20Beakman%C3%ADa%20y%20Volcanes.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KVTxc16/b1.jpg" group-title="Mundo de Beakman",Beakman | S01E02 | Gravedad e Inercia | Latino [1992]
@@ -16248,6 +16261,10 @@ https://metalstation.stream.laut.fm/metalstation
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wM2Ttb3B/mtvr.jpg" group-title="GUILMONZERO 😉",MTV | Rocks (ID)
 https://stream-164.zeno.fm/mqy5rybacxhvv
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/44DjN91W/radio-15.jpg" group-title="GUILMONZERO 😉",Radio Anime | 24
+http://91.232.4.33:7028/stream/;
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6pwjdthY/radio-3.jpg" group-title="GUILMONZERO 😉",Radio Anime | Alemania
+https://stream.animeradio.de/animeradio.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j2794xR6/radio-10.jpg" group-title="GUILMONZERO 😉",Radio Anime | AMC | Brasil
 https://ssl.painelcast.com:6728/stream
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FKCv8TJw/radio-1.jpg" group-title="GUILMONZERO 😉",Radio Anime | Animax
@@ -16255,37 +16272,35 @@ https://stream-57.zeno.fm/ep9mpnntsnhvv?zs=ChPrtqZ1SMuqfQHUnpqhFw
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vH5k1Zqb/radio-13.jpg" group-title="GUILMONZERO 😉",Radio Anime | AX | Colombia
 https://stream.zeno.fm/c963db7eec9uv
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x89rqMq3/radio-5.jpg" group-title="GUILMONZERO 😉",Radio Anime | Col
-http://186.147.235.2:80/animecol
+https://stream.zeno.fm/eg9unacxc6quv
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sgy85CqS/radio-16.jpg" group-title="GUILMONZERO 😉",Radio Anime | Estéreo | Bolivia
 https://radio.stereoanime.net/listen/stereoanime/128
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g2D7DBb7/radio-12.jpg" group-title="GUILMONZERO 😉",Radio Anime | Estéreo | México
 https://radioanime.radioca.st/stream/1/
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mZXpzGxx/radio-1.jpg" group-title="GUILMONZERO 😉",Radio Anime | Fan World
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mZXpzGxx/radio-1.jpg" group-title="GUILMONZERO 😉",Radio Anime | Fan World*
 http://184.154.45.106:8461/autodj
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/D01X6Z5y/radio9.jpg" group-title="GUILMONZERO 😉",Radio Anime | FM
 https://stream.laut.fm/animefm?ref=radiode
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xjJW2RLk/radio-11.jpg" group-title="GUILMONZERO 😉",Radio Anime | FM | Brasil
 https://cast.animu.com.br:9079/stream
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VkP2NH2x/radio11.jpg" group-title="GUILMONZERO 😉",Radio Anime | Japan
-https://streaming.shoutcast.com/japanimradio
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/44DjN91W/radio-15.jpg" group-title="GUILMONZERO 😉",Radio Anime | JPop Project | Reino Unido
-https://26383.live.streamtheworld.com/SAM10AAC139.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VkP2NH2x/radio11.jpg" group-title="GUILMONZERO 😉",Radio Anime | Japan | Only Hit
+https://j.onlyhit.us/play
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FK3tpX3s/radio10.jpg" group-title="GUILMONZERO 😉",Radio Anime | Kawaii
-https://azura12.instainternet.com/radio/8030/radio.mp3
+https://kathy.torontocast.com:3060/;
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J0hQ0z32/radio-8.jpg" group-title="GUILMONZERO 😉",Radio Anime | Nexus
 http://cast.animenexusla.com:8000/animenexus
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6pwjdthY/radio-3.jpg" group-title="GUILMONZERO 😉",Radio Anime | Otaku Music
-https://kathy.torontocast.com:2880/;?type=http&nocache=1606748882
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mD6NJGCf/radio-2.jpg" group-title="GUILMONZERO 😉",Radio Anime | Para ti
 http://node-03.zeno.fm:80/qpn8mkt8c4duv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxjFj0Kh/radio-9.jpg" group-title="GUILMONZERO 😉",Radio Anime | Tracks
+https://centova.listenon.in/proxy/animetracks/stream
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FF6q2MVx/radio-6.jpg" group-title="GUILMONZERO 😉",Radio Anime | Tu Musica
 https://radioanime.radioca.st/stream
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxjFj0Kh/radio-9.jpg" group-title="GUILMONZERO 😉",Radio Anime | X | Alemania
-https://stream.animeradio.de/animeradio.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zBLPqzHm/radio-18.jpg" group-title="GUILMONZERO 😉",Radio Anime | Vocaloid | Estados Unidos
-http://curiosity.shoutca.st:8019/128?1423847655393.mp3
+http://curiosity.shoutca.st:8019/stream
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VkvTXtrY/radio-19.jpg" group-title="GUILMONZERO 😉",Radio Anime | Weeb
+https://stream.zeno.fm/6rd41zgh2uhvv.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k5Ypr64F/radio-14.jpg" group-title="GUILMONZERO 😉",Radio AniNeko | Híbrido | Alemania
-https://anip-rs01.anineko.de:8270/R-AniNeko_128kbps.mp3
+https://radio01.projectventure.net:8270/RadioAniNeko-128kbps.mp3
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HWhQ1KXp/co-80.jpg" group-title="GUILMONZERO 😉",Radio Contact | 80s (BE)
 https://contact90s.ice.infomaniak.ch/contact80s-128.mp3
@@ -16307,9 +16322,9 @@ https://contactlaplaylistdetonton.ice.infomaniak.ch/contactlaplaylistdetonton-19
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsdrRWxt/disneyr.jpg" group-title="GUILMONZERO 😉",Radio Disney | Argentina
 https://27613.live.streamtheworld.com/DISNEY_ARG_BA.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsdrRWxt/disneyr.jpg" group-title="GUILMONZERO 😉",Radio Disney | Bolivia
-https://19793.live.streamtheworld.com/DISNEY_BOL_SCAAC.aac
+https://24383.live.streamtheworld.com/DISNEY_BOL_SCAAC.aac
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsdrRWxt/disneyr.jpg" group-title="GUILMONZERO 😉",Radio Disney | Chile
-https://26583.live.streamtheworld.com/DISNEY_CHI_SA_ADP/HLS/c35a2638-39b3-473b-afb0-02ee7a05e0c3/0/playlist.m3u8
+https://24223.live.streamtheworld.com/DISNEY_CHI_SA_ADP.aac
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsdrRWxt/disneyr.jpg" group-title="GUILMONZERO 😉",Radio Disney | Costa Rica
 https://ic.streann.com/disneycostarica
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsdrRWxt/disneyr.jpg" group-title="GUILMONZERO 😉",Radio Disney | Ecuador
@@ -16327,7 +16342,7 @@ https://radio5.domint.net:8062/stream
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsdrRWxt/disneyr.jpg" group-title="GUILMONZERO 😉",Radio Disney | Suecia
 https://live-bauerse-fm.sharp-stream.com/radiodisney_instream_se_aacp
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsdrRWxt/disneyr.jpg" group-title="GUILMONZERO 😉",Radio Disney | Uruguay
-https://27393.live.streamtheworld.com/DISNEY_URY_MVAAC/HLS/4a13da05-3a98-4b10-ac77-8071fecff750/0/playlist.m3u8
+https://27383.live.streamtheworld.com/DISNEY_URY_MVAAC/HLS/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsdrRWxt/disneyr.jpg" group-title="GUILMONZERO 😉",Radio Disney | USA
 http://c23.radioboss.fm:8035/stream
