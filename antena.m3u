@@ -2,7 +2,7 @@
 #EXTINF:-1 GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 #EXTINF:-1 Para disfrutar de los canales y abrir correctamente, añade esta dirección a la aplicación IPTV PRO una vez instalada, disponible GRATIS en Google Play o bien descargala sin anuncios y completa acá: https//bit.ly/orbitaxpp  Compactible para todos tus dispositivos con Android y Google TV, TVBox, ect... 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/t4pDwvx/orbi1.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 06.02.25
+#EXTINF:-1 tvg-logo="https://i.ibb.co/t4pDwvx/orbi1.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 10.02.25
 https://pomf2.lain.la/f/572x442.mp4
 
 #EXTINF:-1 tvg-id="600ae79fa46e17000794e84c" tvg-logo="https://i.postimg.cc/gj9kH6YJ/pluto-m.jpg" tvg-chno="01" group-title="Animados | Variado",Pluto TV | MTV | Love Music (ES)
@@ -173,7 +173,6 @@ https://xhateaec.com:8800/hls/bigtv/bigtv/2e7c0930c48d249969862b4c76ab97c8/index
 https://ssh101.bozztv.com/ssh101/bigchannel/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VLgJ0XnN/bitm.jpg" group-title="Animados | Variado",BitMe (MX)
-http://190.60.49.243:4000/play/a09h
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HkqqLTcs/boing.jpg" group-title="Animados | Variado",Boing (ES)
 https://nodep002.service.openstream.es/SVoriginOperatorEdge/smil:17_HD.smil/manifest.mpd
@@ -193,7 +192,7 @@ http://tvmate.icu:8080/6025505794/osmanmata@gmail.com/14741
 https://brat-samsung-us.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WbYKDSrZ/calder.jpg" group-title="Animados | Variado",Caldera Vision | Radio y TV (CL)
-https://5eaccbab48461.streamlock.net:1936/8058/8058/index.m3u8
+https://v4.tustreaming.cl/calderavisiontv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-6164a963766ab4f9f57e81b1" tvg-logo="https://i.postimg.cc/Pq1gkBDS/camp-xjae.jpg" group-title="Animados | Variado",Camp Spoopy | Plex (US)
 https://jmp2.uk/plex-643054b1fc3be59477853717-6164a963766ab4f9f57e81b1.m3u8
@@ -270,11 +269,6 @@ https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
 https://jmp2.uk/plu-655b5d865812e80008843bd1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t4Z93PKq/comedytv.jpg" group-title="Animados | Variado",Comedy TV (LATAM)
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8zJXmpMP/comg.jpg" group-title="Animados | Variado",Comgo | Latam (CL)
-https://streaming-cl.sh1ny.space/memfs/4f2393d1-64eb-4e8f-a2f4-f60feea9e63d.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8zJXmpMP/comg.jpg" group-title="Animados | Variado",Comgo | Latam | 2 (CL)
-https://mitv.zplay.cl/MuchmusicCL/video.m3u8?token=D4lm1R0m-tFJES
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HnG71kb5/coz.jpg" group-title="Animados | Variado",Cozi TV (US)
 http://fl3.moveonjoy.com/COZI_TV/index.m3u8
@@ -835,6 +829,15 @@ https://unlimited1-us.dps.live/tvr/tvr.smil/tvr/livestream0/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G29CKqJt/tvytv.jpg" group-title="Animados | Variado",TV y TV (CL)
 https://stmv5.voxtvhd.com.br/tvytv/tvytv/chunklist_w2038239014.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/K8yDkBFb/u-d.jpg" group-title="Animados | Variado",Ultra | Docu (US)
+http://45.176.193.222:2405/play/a05z
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cHTbTTxf/u-fa.jpg" group-title="Animados | Variado",Ultra | Familia (US)
+http://45.176.193.222:2405/play/a03j
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/50jBdm5B/u-f.jpg" group-title="Animados | Variado",Ultra | Fiesta (US)
+http://45.176.193.222:2405/play/a05r
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8CFZH8h/u-m.jpg" group-title="Animados | Variado",Ultra | Mex (US)
+http://45.176.193.222:2405/play/a061
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZYfjWdCT/unimas.jpg" group-title="Animados | Variado",Unimás (US)
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASMIAMI&calidad=hd&.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1RYB2ytx/univers2.jpg" group-title="Animados | Variado",Universo (US)
@@ -910,26 +913,42 @@ https://mitv.zplay.cl/Ztv/tracks-v1a1/mono.m3u8?token=_3X8xrfOrbW3B_
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r3ZXxVz/orbi-pride.jpg" group-title="Temporal 😜",Órbita by @guilmonzero
 https://pomf2.lain.la/f/572x442.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJLx4KZz/cinecanal.jpg" group-title="Temporal 😜",Cinecanal (LATAM)
+http://gruposatelitalhd2.com/CINECANAL.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/43PBNJwH/DHE.jpg" group-title="Temporal 😜",DHE (LATAM)
+http://gruposatelitalhd2.com/de15f.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzbC9n8b/ESPN1.jpg" group-title="Temporal 😜",ESPN | 1 (LATAM)
+http://gruposatelitalhd2.com/e15f.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6JX6J7Q/ESPN2.jpg" group-title="Temporal 😜",ESPN | 2 (LATAM)
+http://gruposatelitalhd2.com/e215f.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jjKbbp2S/fx2.jpg" group-title="Temporal 😜",FX (LATAM)
+http://gruposatelitalhd2.com/fx15f.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Rh5nNDJD/golden.jpg" group-title="Temporal 😜",Golden (LATAM)
+http://gruposatelitalhd2.com/golden15f.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yxnqzfnP/hbo.jpg" group-title="Temporal 😜",HBO (LATAM)
 http://gruposatelitalhd2.com/HBO.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5jJtpw1/hbo-plusx.jpg" group-title="Temporal 😜",HBO | Plus (LATAM)
 http://gruposatelitalhd2.com/HBOPLUS.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/prRkRR6N/hbo-xtreme.jpg" group-title="Temporal 😜",HBO | Xtreme (LATAM)
 http://gruposatelitalhd2.com/HBOXTREME.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJLx4KZz/cinecanal.jpg" group-title="Temporal 😜",Cinecanal (LATAM)
-http://gruposatelitalhd2.com/CINECANAL.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G21V9j5V/mtv-latino.jpg" group-title="Temporal 😜",MTV (LATAM)
+http://gruposatelitalhd2.com/MTV00S.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ryHYVBwb/natgeopride.jpg" group-title="Temporal 😜",Natgeo (LATAM)
+http://gruposatelitalhd2.com/NATGEO.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W3yxZkjy/nick2.jpg" group-title="Temporal 😜",Nickelodeon (LATAM)
+http://gruposatelitalhd2.com/n15f.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sx5jh4gN/sony-la2.jpg" group-title="Temporal 😜",Sony (LATAM)
 http://gruposatelitalhd2.com/SONY.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jj18vRqY/space.jpg" group-title="Temporal 😜",Space (LATAM)
 http://gruposatelitalhd2.com/SPACE.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DyTkkpGP/star2.jpg" group-title="Temporal 😜",Star Channel (LATAM)
+http://gruposatelitalhd2.com/star15f.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WpS2wj5J/tntp.jpg" group-title="Temporal 😜",TNT (LATAM)
 http://gruposatelitalhd2.com/TNT.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MT2whpcS/tnt-series.jpg" group-title="Temporal 😜",TNT | Series (LATAM)
 http://gruposatelitalhd2.com/TNTSERIES.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ryHYVBwb/natgeopride.jpg" group-title="Temporal 😜",Natgeo (LATAM)
-http://gruposatelitalhd2.com/NATGEO.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3RMjJ2Qk/mtv-00s.jpg" group-title="Temporal 😜",MTV | 00s (LATAM)
-http://gruposatelitalhd2.com/MTV00S.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Prv41BkC/universal-comedy.jpg" group-title="Temporal 😜",Universal | Comedy (LATAM)
+http://gruposatelitalhd2.com/uc15f.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yd6H41dC/dyp.jpg" group-title="Temporal 😜",Disney | Pixar (LATAM)
 https://nxt.plus:8443/olmos/1234guz/214275
@@ -3525,9 +3544,6 @@ https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwxwp5PK/JOVENM.jpg" group-title="Música 🎼",Jovem Hits (BR)
 https://streamlov.alsolnet.com/jovenhit/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5tcRhz9/karavana3.jpg" group-title="Música 🎼",Karavana (CL)
-https://marine2.miplay.cl/karavanatv/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rF7py5Bk/karibe-a.jpg" group-title="Música 🎼",Karibeña (PE)
 https://iptv-c9-x-m-mck9-video.cusac.online:50050/karibena/index.fmp4.m3u8
 
@@ -4740,9 +4756,7 @@ https://jmp2.uk/sam-USBD17000117B.m3u8
 https://jmp2.uk/sam-US1800015K5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zfXnxYWj/mx-classic.jpg" group-title="Películas | Series",MX | Classic (LATAM)
-https://marine2.miplay.cl/mxclassic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FHbdtCmB/mx-family.jpg" group-title="Películas | Series",MX | Family (LATAM)
-https://marine2.miplay.cl/mxfamily/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pVstkdSm/mx-series.jpg" group-title="Películas | Series",MX | Series (LATAM)
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VkrnZsDv/yupp.jpg" group-title="Películas | Series",Murasu TV | Yupp TV | India (IN)
@@ -4765,7 +4779,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nzh0Z24s/oldplay.jpg" group-title="Películas | Series",OLD (LATAM)
-https://marine2.miplay.cl/old/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bJ1LyZYW/orbit.jpg" group-title="Películas | Series",Orbit (RD)
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
@@ -11539,6 +11552,8 @@ https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RCG57z4c/13-realities.jpg" group-title="Chile",13 | Realities (CL)
 https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tTTn63Xv/13-rec.jpg" group-title="Chile",13 | Rec (CL)
+https://marine2.miplay.cl:/rec/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QCCQDvGZ/13series.jpg" group-title="Chile",13 | Teleseries (CL)
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 
@@ -11652,6 +11667,11 @@ https://paneltv.online:1936/8046/8046/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fyzdHqDk/clubradiotv.jpg" group-title="Chile",Club TV (CL)
 https://stmv5.voxtvhd.com.br/clubtv/clubtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8zJXmpMP/comg.jpg" group-title="Chile",Comgo | Latam (CL)
+https://streaming-cl.sh1ny.space/memfs/4f2393d1-64eb-4e8f-a2f4-f60feea9e63d.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8zJXmpMP/comg.jpg" group-title="Chile",Comgo | Latam | 2 (CL)
+https://mitv.zplay.cl/MuchmusicCL/video.m3u8?token=D4lm1R0m-tFJES
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SQwgXR38/comu.jpg" group-title="Chile",Comunitaria | Radio TV (CL)
 https://panel.tvstream.cl:1936/8050/8050/playlist.m3u8
@@ -15414,6 +15434,457 @@ https://archive.org/download/alf_latino/S04.E24.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yyhYGKf/alf5.jpg" group-title="ALF 👽",Proyecto ALF | Pelicula | Latino [1996]
 https://archive.org/serve/extraextra-01-extra-01-pelicula-proyecto-alf-20240821141229-da5b576a96e0417c8c7ca64855deaa76/ALF-P01%20-%20Serieslan.com.mp4
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cHrD54M/m1.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S01E01 | Latino [1965]
+https://archive.org/download/mbg-01x-17/MBG-01x01.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cHrD54M/m1.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S01E02 | Latino [1965]
+https://archive.org/download/mbg-01x-17/MBG-01x02.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cHrD54M/m1.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S01E03 | Latino [1965]
+https://archive.org/download/mbg-01x-17/MBG-01x03.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cHrD54M/m1.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S01E04 | Latino [1965]
+https://archive.org/download/mbg-01x-17/MBG-01x04.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cHrD54M/m1.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S01E05 | Latino [1965]
+https://archive.org/download/mbg-01x-17/MBG-01x05.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cHrD54M/m1.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S01E06 | Latino [1965]
+https://archive.org/download/mbg-01x-17/MBG-01x06.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cHrD54M/m1.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S01E07 | Latino [1965]
+https://archive.org/download/mbg-01x-17/MBG-01x07.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cHrD54M/m1.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S01E08 | Latino [1965]
+https://archive.org/download/mbg-01x-17/MBG-01x08.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cHrD54M/m1.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S01E09 | Latino [1965]
+https://archive.org/download/mbg-01x-17/MBG-01x09.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cHrD54M/m1.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S01E10 | Latino [1965]
+https://archive.org/download/mbg-01x-17/MBG-01x10.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cHrD54M/m1.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S01E11 | Latino [1965]
+https://archive.org/download/mbg-01x-17/MBG-01x11.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cHrD54M/m1.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S01E12 | Latino [1965]
+https://archive.org/download/mbg-01x-17/MBG-01x12.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cHrD54M/m1.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S01E13 | Latino [1965]
+https://archive.org/download/mbg-01x-17/MBG-01x13.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cHrD54M/m1.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S01E14 | Latino [1965]
+https://archive.org/download/mbg-01x-17/MBG-01x14.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cHrD54M/m1.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S01E15 | Latino [1965]
+https://archive.org/download/mbg-01x-17/MBG-01x15.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cHrD54M/m1.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S01E16 | Latino [1966]
+https://archive.org/download/mbg-01x-17/MBG-01x16.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cHrD54M/m1.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S01E17 | Latino [1966]
+https://archive.org/download/mbg-01x-17/MBG-01x17.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cHrD54M/m1.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S01E18 | Latino [1966]
+https://archive.org/download/mbg-01x-17/MBG-01x18.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cHrD54M/m1.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S01E19 | Latino [1966]
+https://archive.org/download/mbg-01x-17/MBG-01x19.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cHrD54M/m1.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S01E20 | Latino [1966]
+https://archive.org/download/mbg-01x-17/MBG-01x20.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cHrD54M/m1.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S01E21 | Latino [1966]
+https://archive.org/download/mbg-01x-17/MBG-01x21.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cHrD54M/m1.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S01E22 | Latino [1966]
+https://archive.org/download/mbg-01x-17/MBG-01x22.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cHrD54M/m1.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S01E23 | Latino [1966]
+https://archive.org/download/mbg-01x-17/MBG-01x23.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cHrD54M/m1.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S01E24 | Latino [1966]
+https://archive.org/download/mbg-01x-17/MBG-01x24.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cHrD54M/m1.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S01E25 | Latino [1966]
+https://archive.org/download/mbg-01x-17/MBG-01x25.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cHrD54M/m1.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S01E26 | Latino [1966]
+https://archive.org/download/mbg-01x-17/MBG-01x26.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cHrD54M/m1.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S01E27 | Latino [1966]
+https://archive.org/download/mbg-01x-17/MBG-01x27.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cHrD54M/m1.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S01E28 | Latino [1966]
+https://archive.org/download/mbg-01x-17/MBG-01x28.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cHrD54M/m1.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S01E29 | Latino [1966]
+https://archive.org/download/mbg-01x-17/MBG-01x29.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cHrD54M/m1.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S01E30 | Latino [1966]
+https://archive.org/download/mbg-01x-17/MBG-01x30.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbGHS2N5/m2.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S02E01 | Latino [1966]
+https://archive.org/download/mbg-01x-17/MBG-02x01.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbGHS2N5/m2.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S02E02 | Latino [1966]
+https://archive.org/download/mbg-01x-17/MBG-02x02.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbGHS2N5/m2.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S02E03 | Latino [1966]
+https://archive.org/download/mbg-01x-17/MBG-02x03.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbGHS2N5/m2.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S02E04 | Latino [1966]
+https://archive.org/download/mbg-01x-17/MBG-02x04.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbGHS2N5/m2.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S02E05 | Latino [1966]
+https://archive.org/download/mbg-01x-17/MBG-02x05.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbGHS2N5/m2.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S02E06 | Latino [1966]
+https://archive.org/download/mbg-01x-17/MBG-02x06.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbGHS2N5/m2.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S02E07 | Latino [1966]
+https://archive.org/download/mbg-01x-17/MBG-02x07.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbGHS2N5/m2.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S02E08 | Latino [1966]
+https://archive.org/download/mbg-01x-17/MBG-02x08.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbGHS2N5/m2.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S02E09 | Latino [1966]
+https://archive.org/download/mbg-01x-17/MBG-02x09.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbGHS2N5/m2.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S02E10 | Latino [1966]
+https://archive.org/download/mbg-01x-17/MBG-02x10.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbGHS2N5/m2.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S02E11 | Latino [1966]
+https://archive.org/download/mbg-01x-17/MBG-02x11.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbGHS2N5/m2.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S02E12 | Latino [1966]
+https://archive.org/download/mbg-01x-17/MBG-02x12.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbGHS2N5/m2.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S02E13 | Latino [1966]
+https://archive.org/download/mbg-01x-17/MBG-02x13.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbGHS2N5/m2.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S02E14 | Latino [1966]
+https://archive.org/download/mbg-01x-17/MBG-02x14.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbGHS2N5/m2.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S02E15 | Latino [1966]
+https://archive.org/download/mbg-01x-17/MBG-02x15.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbGHS2N5/m2.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S02E16 | Latino [1966]
+https://archive.org/download/mbg-01x-17/MBG-02x16.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbGHS2N5/m2.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S02E17 | Latino [1966]
+https://archive.org/download/mbg-01x-17/MBG-02x17.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbGHS2N5/m2.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S02E18 | Latino [1967]
+https://archive.org/download/mbg-01x-17/MBG-02x18.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbGHS2N5/m2.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S02E19 | Latino [1967]
+https://archive.org/download/mbg-01x-17/MBG-02x19.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbGHS2N5/m2.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S02E20 | Latino [1967]
+https://archive.org/download/mbg-01x-17/MBG-02x20.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbGHS2N5/m2.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S02E21 | Latino [1967]
+https://archive.org/download/mbg-01x-17/MBG-02x21.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbGHS2N5/m2.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S02E22 | Latino [1967]
+https://archive.org/download/mbg-01x-17/MBG-02x22.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbGHS2N5/m2.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S02E23 | Latino [1967]
+https://archive.org/download/mbg-01x-17/MBG-02x23.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbGHS2N5/m2.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S02E24 | Latino [1967]
+https://archive.org/download/mbg-01x-17/MBG-02x24.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbGHS2N5/m2.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S02E25 | Latino [1967]
+https://archive.org/download/mbg-01x-17/MBG-02x25.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbGHS2N5/m2.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S02E26 | Latino [1967]
+https://archive.org/download/mbg-01x-17/MBG-02x26.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbGHS2N5/m2.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S02E27 | Latino [1967]
+https://archive.org/download/mbg-01x-17/MBG-02x27.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbGHS2N5/m2.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S02E28 | Latino [1967]
+https://archive.org/download/mbg-01x-17/MBG-02x28.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbGHS2N5/m2.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S02E29 | Latino [1967]
+https://archive.org/download/mbg-01x-17/MBG-02x29.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbGHS2N5/m2.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S02E30 | Latino [1967]
+https://archive.org/download/mbg-01x-17/MBG-02x30.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbGHS2N5/m2.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S02E31 | Latino [1967]
+https://archive.org/download/mbg-01x-17/MBG-02x31.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Q7VYY5v/m3.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S03E01 | Latino [1967]
+https://archive.org/download/mbg-01x-17/MBG-03x01.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Q7VYY5v/m3.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S03E02 | Latino [1967]
+https://archive.org/download/mbg-01x-17/MBG-03x02.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Q7VYY5v/m3.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S03E03 | Latino [1967]
+https://archive.org/download/mbg-01x-17/MBG-03x03.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Q7VYY5v/m3.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S03E04 | Latino [1967]
+https://archive.org/download/mbg-01x-17/MBG-03x04.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Q7VYY5v/m3.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S03E05 | Latino [1967]
+https://archive.org/download/mbg-01x-17/MBG-03x05.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Q7VYY5v/m3.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S03E06 | Latino [1967]
+https://archive.org/download/mbg-01x-17/MBG-03x06.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Q7VYY5v/m3.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S03E07 | Latino [1967]
+https://archive.org/download/mbg-01x-17/MBG-03x07.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Q7VYY5v/m3.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S03E08 | Latino [1967]
+https://archive.org/download/mbg-01x-17/MBG-03x08.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Q7VYY5v/m3.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S03E09 | Latino [1967]
+https://archive.org/download/mbg-01x-17/MBG-03x09.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Q7VYY5v/m3.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S03E10 | Latino [1967]
+https://archive.org/download/mbg-01x-17/MBG-03x10.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Q7VYY5v/m3.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S03E11 | Latino [1967]
+https://archive.org/download/mbg-01x-17/MBG-03x11.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Q7VYY5v/m3.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S03E12 | Latino [1967]
+https://archive.org/download/mbg-01x-17/MBG-03x12.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Q7VYY5v/m3.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S03E13 | Latino [1967]
+https://archive.org/download/mbg-01x-17/MBG-03x13.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Q7VYY5v/m3.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S03E14 | Latino [1967]
+https://archive.org/download/mbg-01x-17/MBG-03x14.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Q7VYY5v/m3.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S03E15 | Latino [1968]
+https://archive.org/download/mbg-01x-17/MBG-03x15.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Q7VYY5v/m3.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S03E16 | Latino [1968]
+https://archive.org/download/mbg-01x-17/MBG-03x16.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Q7VYY5v/m3.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S03E17 | Latino [1968]
+https://archive.org/download/mbg-01x-17/MBG-03x17.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Q7VYY5v/m3.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S03E18 | Latino [1968]
+https://archive.org/download/mbg-01x-17/MBG-03x18.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Q7VYY5v/m3.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S03E19 | Latino [1968]
+https://archive.org/download/mbg-01x-17/MBG-03x19.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Q7VYY5v/m3.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S03E20 | Latino [1968]
+https://archive.org/download/mbg-01x-17/MBG-03x20.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Q7VYY5v/m3.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S03E21 | Latino [1968]
+https://archive.org/download/mbg-01x-17/MBG-03x21.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Q7VYY5v/m3.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S03E22 | Latino [1968]
+https://archive.org/download/mbg-01x-17/MBG-03x22.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Q7VYY5v/m3.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S03E23 | Latino [1968]
+https://archive.org/download/mbg-01x-17/MBG-03x23.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Q7VYY5v/m3.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S03E24 | Latino [1968]
+https://archive.org/download/mbg-01x-17/MBG-03x24.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Q7VYY5v/m3.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S03E25 | Latino [1968]
+https://archive.org/download/mbg-01x-17/MBG-03x25.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Q7VYY5v/m3.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S03E26 | Latino [1968]
+https://archive.org/download/mbg-01x-17/MBG-03x26.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y1nnXjC/m4.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S04E01 | Latino [1968]
+https://archive.org/download/mbg-01x-17/MBG-04x01.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y1nnXjC/m4.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S04E02 | Latino [1968]
+https://archive.org/download/mbg-01x-17/MBG-04x02.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y1nnXjC/m4.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S04E03 | Latino [1968]
+https://archive.org/download/mbg-01x-17/MBG-04x03.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y1nnXjC/m4.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S04E04 | Latino [1968]
+https://archive.org/download/mbg-01x-17/MBG-04x04.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y1nnXjC/m4.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S04E05 | Latino [1968]
+https://archive.org/download/mbg-01x-17/MBG-04x05.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y1nnXjC/m4.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S04E06 | Latino [1968]
+https://archive.org/download/mbg-01x-17/MBG-04x06.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y1nnXjC/m4.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S04E07 | Latino [1968]
+https://archive.org/download/mbg-01x-17/MBG-04x07.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y1nnXjC/m4.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S04E08 | Latino [1968]
+https://archive.org/download/mbg-01x-17/MBG-04x08.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y1nnXjC/m4.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S04E09 | Latino [1968]
+https://archive.org/download/mbg-01x-17/MBG-04x09.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y1nnXjC/m4.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S04E10 | Latino [1968]
+https://archive.org/download/mbg-01x-17/MBG-04x10.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y1nnXjC/m4.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S04E11 | Latino [1968]
+https://archive.org/download/mbg-01x-17/MBG-04x11.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y1nnXjC/m4.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S04E12 | Latino [1968]
+https://archive.org/download/mbg-01x-17/MBG-04x12.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y1nnXjC/m4.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S04E13 | Latino [1969]
+https://archive.org/download/mbg-01x-17/MBG-04x13.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y1nnXjC/m4.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S04E14 | Latino [1969]
+https://archive.org/download/mbg-01x-17/MBG-04x14.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y1nnXjC/m4.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S04E15 | Latino [1969]
+https://archive.org/download/mbg-01x-17/MBG-04x15.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y1nnXjC/m4.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S04E16 | Latino [1969]
+https://archive.org/download/mbg-01x-17/MBG-04x16.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y1nnXjC/m4.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S04E17 | Latino [1969]
+https://archive.org/download/mbg-01x-17/MBG-04x17.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y1nnXjC/m4.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S04E18 | Latino [1969]
+https://archive.org/download/mbg-01x-17/MBG-04x18.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y1nnXjC/m4.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S04E19 | Latino [1969]
+https://archive.org/download/mbg-01x-17/MBG-04x19.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y1nnXjC/m4.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S04E20 | Latino [1969]
+https://archive.org/download/mbg-01x-17/MBG-04x20.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y1nnXjC/m4.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S04E21 | Latino [1969]
+https://archive.org/download/mbg-01x-17/MBG-04x21.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y1nnXjC/m4.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S04E22 | Latino [1969]
+https://archive.org/download/mbg-01x-17/MBG-04x22.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y1nnXjC/m4.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S04E23 | Latino [1969]
+https://archive.org/download/mbg-01x-17/MBG-04x23.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y1nnXjC/m4.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S04E24 | Latino [1969]
+https://archive.org/download/mbg-01x-17/MBG-04x24.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y1nnXjC/m4.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S04E25 | Latino [1969]
+https://archive.org/download/mbg-01x-17/MBG-04x25.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y1nnXjC/m4.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S04E26 | Latino [1969]
+https://archive.org/download/mbg-01x-17/MBG-04x26.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLvpng6N/m5.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S05E01 | Latino [1969]
+https://archive.org/download/mbg-01x-17/MBG-05x01.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLvpng6N/m5.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S05E02 | Latino [1969]
+https://archive.org/download/mbg-01x-17/MBG-05x02.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLvpng6N/m5.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S05E03 | Latino [1969]
+https://archive.org/download/mbg-01x-17/MBG-05x03.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLvpng6N/m5.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S05E04 | Latino [1969]
+https://archive.org/download/mbg-01x-17/MBG-05x04.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLvpng6N/m5.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S05E05 | Latino [1969]
+https://archive.org/download/mbg-01x-17/MBG-05x05.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLvpng6N/m5.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S05E06 | Latino [1969]
+https://archive.org/download/mbg-01x-17/MBG-05x06.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLvpng6N/m5.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S05E07 | Latino [1969]
+https://archive.org/download/mbg-01x-17/MBG-05x07.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLvpng6N/m5.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S05E08 | Latino [1969]
+https://archive.org/download/mbg-01x-17/MBG-05x08.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLvpng6N/m5.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S05E09 | Latino [1969]
+https://archive.org/download/mbg-01x-17/MBG-05x09.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLvpng6N/m5.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S05E10 | Latino [1969]
+https://archive.org/download/mbg-01x-17/MBG-05x10.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLvpng6N/m5.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S05E11 | Latino [1969]
+https://archive.org/download/mbg-01x-17/MBG-05x11.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLvpng6N/m5.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S05E12 | Latino [1969]
+https://archive.org/download/mbg-01x-17/MBG-05x12.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLvpng6N/m5.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S05E13 | Latino [1969]
+https://archive.org/download/mbg-01x-17/MBG-05x13.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLvpng6N/m5.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S05E14 | Latino [1969]
+https://archive.org/download/mbg-01x-17/MBG-05x14.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLvpng6N/m5.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S05E15 | Latino [1970]
+https://archive.org/download/mbg-01x-17/MBG-05x15.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLvpng6N/m5.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S05E16 | Latino [1970]
+https://archive.org/download/mbg-01x-17/MBG-05x16.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLvpng6N/m5.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S05E17 | Latino [1970]
+https://archive.org/download/mbg-01x-17/MBG-05x17.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLvpng6N/m5.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S05E18 | Latino [1970]
+https://archive.org/download/mbg-01x-17/MBG-05x18.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLvpng6N/m5.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S05E19 | Latino [1970]
+https://archive.org/download/mbg-01x-17/MBG-05x19.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLvpng6N/m5.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S05E20 | Latino [1970]
+https://archive.org/download/mbg-01x-17/MBG-05x20.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLvpng6N/m5.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S05E21 | Latino [1970]
+https://archive.org/download/mbg-01x-17/MBG-05x21.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLvpng6N/m5.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S05E22 | Latino [1970]
+https://archive.org/download/mbg-01x-17/MBG-05x22.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLvpng6N/m5.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S05E23 | Latino [1970]
+https://archive.org/download/mbg-01x-17/MBG-05x23.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLvpng6N/m5.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S05E24 | Latino [1970]
+https://archive.org/download/mbg-01x-17/MBG-05x24.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLvpng6N/m5.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S05E25 | Latino [1970]
+https://archive.org/download/mbg-01x-17/MBG-05x25.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLvpng6N/m5.jpg" group-title="Mi Bella Genio",Mi Bella Genio | S05E26 | Latino [1970]
+https://archive.org/download/mbg-01x-17/MBG-05x26.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zGFW1b9G/p1.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S01E01 | Latino [1965]
+https://archive.org/download/PEEE-V1/01x01%20El%20poliz%C3%B3n%20reticente.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zGFW1b9G/p1.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S01E02 | Latino [1965]
+https://archive.org/download/PEEE-V1/01x02%20El%20despojo.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zGFW1b9G/p1.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S01E03 | Latino [1965]
+https://archive.org/download/PEEE-V1/01x03%20Una%20isla%20en%20el%20cielo.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zGFW1b9G/p1.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S01E04 | Latino [1965]
+https://archive.org/download/PEEE-V1/01x04%20Hab%C3%ADa%20gigantes%20en%20la%20Tierra.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zGFW1b9G/p1.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S01E05 | Latino [1965]
+https://archive.org/download/PEEE-V1/01x05%20El%20mar%20hambriento.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zGFW1b9G/p1.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S01E06 | Latino [1965]
+https://archive.org/download/PEEE-V1/01X06%20Bienvenido%20extra%C3%B1o.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zGFW1b9G/p1.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S01E07 | Latino [1965]
+https://archive.org/download/PEEE-V1/01X07%20Mi%20amigo%2C%20el%20se%C3%B1or%20Don%20Nadie.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zGFW1b9G/p1.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S01E08 | Latino [1965]
+https://archive.org/download/PEEE-V1/01x08%20Invasores%20de%20la%20quinta%20dimensi%C3%B3n.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zGFW1b9G/p1.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S01E09 | Latino [1965]
+https://archive.org/download/PEEE-V1/01x09%20El%20oasis.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zGFW1b9G/p1.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S01E10 | Latino [1965]
+https://archive.org/download/PEEE-V1/01X10%20El%20cielo%20se%20est%C3%A1%20cayendo.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zGFW1b9G/p1.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S01E11 | Latino [1965]
+https://archive.org/download/PEEE-V1/01x11%20Pide%20un%20deseo%20a%20una%20estrella.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zGFW1b9G/p1.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S01E12 | Latino [1965]
+https://archive.org/download/PEEE-V1/01x12%20La%20balsa.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zGFW1b9G/p1.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S01E13 | Latino [1965]
+https://archive.org/download/PEEE-V1/01x13%20Uno%20de%20nuestros%20perros%20ha%20desaparecido.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zGFW1b9G/p1.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S01E14 | Latino [1965]
+https://archive.org/download/PEEE-V1/01x14%20El%20ataque%20del%20monstruo%20Plantas.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zGFW1b9G/p1.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S01E15 | Latino [1965]
+https://archive.org/download/PEEE-V1/01x15%20El%20regreso%20del%20espacio%20exterior.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zGFW1b9G/p1.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S01E16 | Latino [1966]
+https://archive.org/download/PEEE-V1/01x16%20El%20guardi%C3%A1n%20%281%29.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zGFW1b9G/p1.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S01E17 | Latino [1966]
+https://archive.org/download/PEEE-V1/01x17%20El%20guardi%C3%A1n%20%282%29.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zGFW1b9G/p1.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S01E18 | Latino [1966]
+https://archive.org/download/PEEE-V1/01x18%20The%20Sky%20Pirate.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zGFW1b9G/p1.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S01E19 | Latino [1966]
+https://archive.org/download/PEEE-V1/01x19%20%20El%20Fantasma.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zGFW1b9G/p1.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S01E20 | Latino [1966]
+https://archive.org/download/PEEE-V1/01x20%20%20La%20Guerra%20De%20Los%20Robots.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zGFW1b9G/p1.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S01E21 | Latino [1966]
+https://archive.org/download/PEEE-V1/01x21%20%20El%20Espejo%20Magico.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zGFW1b9G/p1.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S01E22 | Latino [1966]
+https://archive.org/download/PEEE-V1/01x22%20El%20Duelo.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zGFW1b9G/p1.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S01E23 | Latino [1966]
+https://archive.org/download/PEEE-V1/01x23%20El%20Mercader%20Del%20Espacio.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zGFW1b9G/p1.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S01E24 | Latino [1966]
+https://archive.org/download/PEEE-V1/01x24%20%20Su%20Majestad%20El%20Dr.%20Smith.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zGFW1b9G/p1.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S01E25 | Latino [1966]
+https://archive.org/download/PEEE-V1/01x25%20%20Cultivadores%20Del%20Espacio.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zGFW1b9G/p1.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S01E26 | Latino [1966]
+https://archive.org/download/PEEE-V1/01x26%20%20No%20Todo%20Lo%20Que%20Brilla.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zGFW1b9G/p1.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S01E27 | Latino [1966]
+https://archive.org/download/PEEE-V1/01x27%20-La%20Civilizacion%20Perdida.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zGFW1b9G/p1.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S01E28 | Latino [1966]
+https://archive.org/download/PEEE-V1/01x28%20-Cambio%20De%20Espacio.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zGFW1b9G/p1.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S01E29 | Latino [1966]
+https://archive.org/download/PEEE-V1/01x29%20%20Sigan%20Al%20Lider.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CKM8MMgH/p2.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S02E01 | Latino [1966]
+https://archive.org/download/PEEE-V1/02x01%20-%20Lanzamiento%20Al%20Espacio.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CKM8MMgH/p2.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S02E02 | Latino [1966]
+https://archive.org/download/PEEE-V1/02x02%20-%20Una%20aventura%20increible.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CKM8MMgH/p2.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S02E03 | Latino [1966]
+https://archive.org/download/PEEE-V1/02x03%20-%20El%20Planeta%20Fantasma.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CKM8MMgH/p2.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S02E04 | Latino [1966]
+https://archive.org/download/PEEE-V1/02x04%20-%20El%20Mundo%20Prohibido.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CKM8MMgH/p2.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S02E05 | Latino [1966]
+https://archive.org/download/PEEE-V1/02x05%20-%20El%20Circo%20Del%20Espacio.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CKM8MMgH/p2.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S02E06 | Latino [1966]
+https://archive.org/download/PEEE-V1/02x06%20-%20Prisioneros%20En%20El%20Espacio.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CKM8MMgH/p2.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S02E07 | Latino [1966]
+https://archive.org/download/PEEE-V1/02x07%20La%20M%C3%A1quina%20Androide.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CKM8MMgH/p2.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S02E08 | Latino [1966]
+https://archive.org/download/PEEE-V1/02X08%20-%20Los%20Juegos%20Mortales%20De%20Gamma%206.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CKM8MMgH/p2.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S02E09 | Latino [1966]
+https://archive.org/download/PEEE-V1/02x09%20-%20El%20ladr%C3%B3n%20del%20Espacio.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CKM8MMgH/p2.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S02E10 | Latino [1966]
+https://archive.org/download/PEEE-V1/02x10%20-%20La%20maldici%C3%B3n%20de%20Cousin%20Smith.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CKM8MMgH/p2.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S02E11 | Latino [1966]
+https://archive.org/download/PEEE-V1/02x11%20-%20Al%20Oeste%20de%20Marte.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CKM8MMgH/p2.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S02E12 | Latino [1966]
+https://archive.org/download/PEEE-V1/02x12%20-%20Una%20visita%20al%20Hades.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CKM8MMgH/p2.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S02E13 | Latino [1966]
+https://archive.org/download/PEEE-V1/02x13%20Naufragio%20del%20robot.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CKM8MMgH/p2.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S02E14 | Latino [1966]
+https://archive.org/download/PEEE-V1/02x14%20-%20El%20monstruo%20de%20sue%C3%B1o.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CKM8MMgH/p2.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S02E15 | Latino [1966]
+https://archive.org/download/PEEE-V1/02x15%20-%20El%20hombre%20de%20oro.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CKM8MMgH/p2.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S02E16 | Latino [1966]
+https://archive.org/download/PEEE-V1/02x16%20-%20La%20chica%20de%20la%20Dimensi%C3%B3n%20verde.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CKM8MMgH/p2.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S02E17 | Latino [1967]
+https://archive.org/download/PEEE-V1/02x17%20-%20La%20bestia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CKM8MMgH/p2.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S02E18 | Latino [1967]
+https://archive.org/download/PEEE-V1/02x18%20-%20El%20fabricante%20de%20juguetes.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CKM8MMgH/p2.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S02E19 | Latino [1967]
+https://archive.org/download/PEEE-V1/02x19%20Mot%C3%ADn%20En%20El%20Espacio.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CKM8MMgH/p2.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S02E20 | Latino [1967]
+https://archive.org/download/PEEE-V1/02x20%20Vikingos%20Del%20Espacio.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CKM8MMgH/p2.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S02E21 | Latino [1967]
+https://archive.org/download/PEEE-V1/02x21%20Cohete%20A%20La%20Tierra.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CKM8MMgH/p2.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S02E22 | Latino [1967]
+https://archive.org/download/PEEE-V1/02x22%20-%20La%20cueva%20de%20los%20hechiceros.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CKM8MMgH/p2.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S02E23 | Latino [1967]
+https://archive.org/download/PEEE-V1/02x23%20El%20Tesoro%20Del%20Planeta%20Escondido.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CKM8MMgH/p2.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S02E24 | Latino [1967]
+https://archive.org/download/PEEE-V1/02x24%20La%20Rebeli%C3%B3n%20De%20Los%20Androides.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CKM8MMgH/p2.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S02E25 | Latino [1967]
+https://archive.org/download/PEEE-V1/02x25%20-%20Los%20colonos.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CKM8MMgH/p2.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S02E26 | Latino [1967]
+https://archive.org/download/PEEE-V1/02x26%20-%20Aventura%20Dentro%20Del%20Robot..mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CKM8MMgH/p2.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S02E27 | Latino [1967]
+https://archive.org/download/PEEE-V1/02x27%20-%20La%20Familia%20Fantasma..mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CKM8MMgH/p2.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S02E28 | Latino [1967]
+https://archive.org/download/PEEE-V1/02x28%20-%20Los%20Hombrecillos%20Mecanicos.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CKM8MMgH/p2.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S02E29 | Latino [1967]
+https://archive.org/download/PEEE-V1/02x29%20-%20El%20Viajero%20Astral..mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CKM8MMgH/p2.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S02E30 | Latino [1967]
+https://archive.org/download/PEEE-V1/02x30%20-%20Regalo%20De%20La%20Galaxia..mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLx6HfvL/p3.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S03E01 | Latino [1967]
+https://archive.org/download/PEEE-V1/03x01%20-%20Condenados%20Del%20Espacio..mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLx6HfvL/p3.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S03E02 | Latino [1967]
+https://archive.org/download/PEEE-V1/03x02%20-%20Visita%20A%20Un%20Planeta%20Hostil.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLx6HfvL/p3.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S03E03 | Latino [1967]
+https://archive.org/download/PEEE-V1/03x03%20-%20Rapto%20En%20El%20Espacio..mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLx6HfvL/p3.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S03E04 | Latino [1967]
+https://archive.org/download/PEEE-V1/03x04%20-%20Luna%20Del%20Cazador..mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLx6HfvL/p3.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S03E05 | Latino [1967]
+https://archive.org/download/PEEE-V1/03x05%20-%20Los%20Primitivos%20Del%20Espacio.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLx6HfvL/p3.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S03E06 | Latino [1967]
+https://archive.org/download/PEEE-V1/03x06%20-%20Destructores%20Del%20Espacio..mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLx6HfvL/p3.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S03E07 | Latino [1967]
+https://archive.org/download/PEEE-V1/03x07%20-%20El%20Faro%20Encantado.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLx6HfvL/p3.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S03E08 | Latino [1967]
+https://archive.org/download/PEEE-V1/03x08%20-%20Viaje%20Hacia%20El%20Futuro.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLx6HfvL/p3.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S03E09 | Latino [1967]
+https://archive.org/download/PEEE-V1/03x09%20-%20Colision%20De%20Planetas..mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLx6HfvL/p3.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S03E10 | Latino [1967]
+https://archive.org/download/PEEE-V1/03x10%20-%20Criatura%20Del%20Espacio..mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLx6HfvL/p3.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S03E11 | Latino [1967]
+https://archive.org/download/PEEE-V1/03x11%20-%20La%20Mas%20Mortal%20De%20Las%20Especies.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLx6HfvL/p3.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S03E12 | Latino [1967]
+https://archive.org/download/PEEE-V1/03x12%20-%20El%20Zoologico.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLx6HfvL/p3.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S03E13 | Latino [1967]
+https://archive.org/download/PEEE-V1/03x13%20-%20Dos%20Semanas%20En%20El%20Espacio.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLx6HfvL/p3.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S03E14 | Latino [1967]
+https://archive.org/download/PEEE-V1/03x14%20-%20Castillos%20En%20El%20Espacio..mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLx6HfvL/p3.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S03E15 | Latino [1967]
+https://archive.org/download/PEEE-V1/03x15%20-%20El%20Hombre%20Antimateria..mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLx6HfvL/p3.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S03E16 | Latino [1968]
+https://archive.org/download/PEEE-V1/03x16%20-%20Mision%20Tierra..mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLx6HfvL/p3.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S03E17 | Latino [1968]
+https://archive.org/download/PEEE-V1/03x17%20-%20Princesa%20Del%20Espacio..mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLx6HfvL/p3.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S03E18 | Latino [1968]
+https://archive.org/download/PEEE-V1/03x18%20-%20El%20Mercader%20Del%20Tiempo.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLx6HfvL/p3.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S03E19 | Latino [1968]
+https://archive.org/download/PEEE-V1/03x19%20-%20El%20Planeta%20Prometido..mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLx6HfvL/p3.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S03E20 | Latino [1968]
+https://archive.org/download/PEEE-V1/03x20%20-%20Fugitivos%20Del%20Espacio..mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLx6HfvL/p3.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S03E21 | Latino [1968]
+https://archive.org/download/PEEE-V1/03x21%20-%20Belleza%20Del%20Espacio.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLx6HfvL/p3.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S03E22 | Latino [1968]
+https://archive.org/download/PEEE-V1/03x22%20-%20Planeta%20En%20Llamas..mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLx6HfvL/p3.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S03E23 | Latino [1968]
+https://archive.org/download/PEEE-V1/03x23%20-%20La%20Gran%20Rebelion%20De%20Las%20Plantas..mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLx6HfvL/p3.jpg" group-title="Perdidos en el Espacio",Perdidos en el Espacio | S03E24 | Latino [1968]
+https://archive.org/download/PEEE-V1/03x24%20-%20El%20Chatarrero%20Del%20Espacio..mp4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BLbZymq/futurama.jpg" group-title="Futurama [2023] 🚀",Futurama | Aviso | Nueva Temporada
 https://i.postimg.cc/155XPdqZ/orbita-avisos-futurama.jpg
@@ -15488,135 +15959,136 @@ https://pomf2.lain.la/f/00w8vj2p.mp4
 https://pomf2.lain.la/f/r0f876bt.mp4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0XHH417/a1.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E01 | Latino [1964]
-https://archive.org/download/locos-addams-64/1x01.ia.mp4
+https://archive.org/serve/LLA-V1/S01xE01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0XHH417/a1.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E02 | Latino [1964]
-https://archive.org/download/locos-addams-64/1x02.ia.mp4
+https://archive.org/serve/LLA-V1/S01xE02.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0XHH417/a1.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E03 | Latino [1964]
-https://archive.org/download/locos-addams-64/1x03.ia.mp4
+https://archive.org/serve/LLA-V1/S01xE03.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0XHH417/a1.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E04 | Latino [1964]
-https://archive.org/download/locos-addams-64/1x04.ia.mp4
+https://archive.org/serve/LLA-V1/S01xE04.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0XHH417/a1.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E05 | Latino [1964]
-https://archive.org/download/locos-addams-64/1x05.ia.mp4
+https://archive.org/serve/LLA-V1/S01xE05.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0XHH417/a1.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E06 | Latino [1964]
-https://archive.org/download/locos-addams-64/1x06.ia.mp4
+https://archive.org/serve/LLA-V1/S01xE06.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0XHH417/a1.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E07 | Latino [1964]
-https://archive.org/download/locos-addams-64/1x07.ia.mp4
+https://archive.org/serve/LLA-V1/S01xE07.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0XHH417/a1.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E08 | Latino [1964]
-https://archive.org/download/locos-addams-64/1x08.ia.mp4
+https://archive.org/serve/LLA-V1/S01xE08.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0XHH417/a1.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E09 | Latino [1964]
-https://archive.org/download/locos-addams-64/1x09.ia.mp4
+https://archive.org/serve/LLA-V1/S01xE09.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0XHH417/a1.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E10 | Latino [1964]
-https://archive.org/download/locos-addams-64/1x10.ia.mp4
+https://archive.org/serve/LLA-V1/S01xE10.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0XHH417/a1.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E11 | Latino [1964]
-https://archive.org/download/locos-addams-64/1x11.ia.mp4
+https://archive.org/serve/LLA-V1/S01xE11.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kBNgzyC/a4.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E12 | Latino [1964]
-https://archive.org/download/locos-addams-64/1x12.ia.mp4
+https://archive.org/serve/LLA-V1/S01xE12.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kBNgzyC/a4.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E13 | Latino [1964]
-https://archive.org/download/locos-addams-64/1x13.ia.mp4
+https://archive.org/serve/LLA-V1/S01xE13.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kBNgzyC/a4.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E14 | Latino [1964]
-https://archive.org/download/locos-addams-64/1x14.ia.mp4
+https://archive.org/serve/LLA-V1/S01xE14.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kBNgzyC/a4.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E15 | Latino [1965]
-https://archive.org/download/locos-addams-64/1x15.ia.mp4
+https://archive.org/serve/LLA-V1/S01xE15.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kBNgzyC/a4.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E16 | Latino [1965]
-https://archive.org/download/locos-addams-64/1x16.ia.mp4
+https://archive.org/serve/LLA-V1/S01xE16.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vQnS4rm/a5.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E17 | Latino [1965]
-https://archive.org/download/locos-addams-64/1x17.ia.mp4
+https://archive.org/serve/LLA-V1/S01xE17.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vQnS4rm/a5.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E18 | Latino [1965]
-https://archive.org/download/locos-addams-64/1x18.ia.mp4
+https://archive.org/serve/LLA-V1/S01xE18.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vQnS4rm/a5.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E19 | Latino [1965]
-https://archive.org/download/locos-addams-64/1x19.ia.mp4
+https://archive.org/serve/LLA-V1/S01xE19.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vQnS4rm/a5.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E20 | Latino [1965]
-https://archive.org/download/locos-addams-64/1x20.ia.mp4
+https://archive.org/serve/LLA-V1/S01xE20.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vQnS4rm/a5.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E21 | Latino [1965]
-https://archive.org/download/locos-addams-64/1x21.ia.mp4
+https://archive.org/serve/LLA-V1/S01xE21.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vQnS4rm/a5.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E22 | Latino [1965]
-https://archive.org/download/locos-addams-64/1x22.ia.mp4
+https://archive.org/serve/LLA-V1/S01xE22.mp4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DbYYXG1/a2.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E23 | Latino [1965]
-https://archive.org/download/locos-addams-64/2x01.ia.mp4
+https://archive.org/serve/LLA-V1/S01xE23.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DbYYXG1/a2.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E24 | Latino [1965]
-https://archive.org/download/locos-addams-64/2x02.ia.mp4
+https://archive.org/serve/LLA-V1/S01xE24.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DbYYXG1/a2.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E25 | Latino [1965]
-https://archive.org/download/locos-addams-64/2x03.ia.mp4
+https://archive.org/serve/LLA-V1/S01xE25.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DbYYXG1/a2.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E26 | Latino [1965]
-https://archive.org/download/locos-addams-64/2x04.ia.mp4
+https://archive.org/serve/LLA-V1/S01xE26.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DbYYXG1/a2.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E27 | Latino [1965]
-https://archive.org/download/locos-addams-64/2x05.ia.mp4
+https://archive.org/serve/LLA-V1/S01xE27.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DbYYXG1/a2.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E28 | Latino [1965]
-https://archive.org/download/locos-addams-64/2x06.ia.mp4
+https://archive.org/serve/LLA-V1/S01xE28.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DbYYXG1/a2.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E29 | Latino [1965]
-https://archive.org/download/locos-addams-64/2x07.ia.mp4
+https://archive.org/serve/LLA-V1/S01xE29.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DbYYXG1/a2.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E30 | Latino [1965]
-https://archive.org/download/locos-addams-64/2x08.ia.mp4
+https://archive.org/serve/LLA-V1/S01xE30.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DbYYXG1/a2.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E31 | Latino [1965]
-https://archive.org/download/locos-addams-64/2x09.ia.mp4
+https://archive.org/serve/LLA-V1/S01xE31.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DbYYXG1/a2.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E32 | Latino [1965]
-https://archive.org/download/locos-addams-64/2x10.ia.mp4
+https://archive.org/serve/LLA-V1/S01xE32.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DbYYXG1/a2.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E33 | Latino [1965]
-https://archive.org/download/locos-addams-64/2x11.ia.mp4
+https://archive.org/serve/LLA-V1/S01xE33.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qstXX4D/a3.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E34 | Latino [1965]
-https://archive.org/download/locos-addams-64/2x12.ia.mp4
+https://archive.org/serve/LLA-V1/S01xE34.mp4
+https://archive.org/download/LLA-V1/S01xE34.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qstXX4D/a3.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E01 | Latino [1965]
-https://archive.org/download/locos-addams-64/2x13.ia.mp4
+https://ia600409.us.archive.org/31/items/LLA-V1/S02xE1%20Mi%20bello%20T%C3%ADo%20Eso.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qstXX4D/a3.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E02 | Latino [1965]
-https://archive.org/download/locos-addams-64/2x14.ia.mp4
+https://archive.org/download/LLA-V1/S02xE2%20El%20romance%20de%20Morticia%20%281%C2%AA%20Parte%29.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qstXX4D/a3.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E03 | Latino [1965]
-https://archive.org/download/locos-addams-64/2x15.ia.mp4
+https://archive.org/download/LLA-V1/S02xE3%20El%20romance%20de%20Morticia%20%282%C2%AA%20Parte%29.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qstXX4D/a3.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E04 | Latino [1965]
-https://archive.org/download/locos-addams-64/2x16.ia.mp4
+https://archive.org/download/LLA-V1/S02xE4%20Morticia%20conoce%20a%20la%20realeza.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qstXX4D/a3.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E05 | Latino [1965]
-https://archive.org/download/locos-addams-64/2x17.ia.mp4
+https://archive.org/download/LLA-V1/S02xE5%20G%C3%B3mez%2C%20la%20elecci%C3%B3n%20del%20pueblo.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qstXX4D/a3.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E06 | Latino [1965]
-https://archive.org/download/locos-addams-64/2x18.ia.mp4
+https://archive.org/download/LLA-V1/S02xE6%20T%C3%ADo%20Eso%20es%20un%20problema.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qstXX4D/a3.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E07 | Latino [1965]
-https://archive.org/download/locos-addams-64/2x19.ia.mp4
+https://archive.org/download/LLA-V1/S02xE7%20Halloween%20estilo%20Addams.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qstXX4D/a3.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E08 | Latino [1965]
-https://archive.org/download/locos-addams-64/2x20.ia.mp4
+https://archive.org/download/LLA-V1/S02xE8%20Morticia%2C%20la%20escritora.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qstXX4D/a3.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E09 | Latino [1965]
-https://archive.org/download/locos-addams-64/2x21.ia.mp4
+https://archive.org/download/LLA-V1/S02xE9%20Morticia%2C%20la%20escultora.mp4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TkMT237/a6.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E10 | Latino [1965]
-https://archive.org/download/locos-addams-64/3x01.ia.mp4
+https://archive.org/download/LLA-V1/S02xE10%20G%C3%B3mez%2C%20amante%20reluciente.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5592dXv/a7.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E11 | Latino [1965]
-https://archive.org/download/locos-addams-64/3x02.ia.mp4
+https://archive.org/download/LLA-V1/S02xE11%20Querella%20en%20la%20Familia%20Addams.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TkMT237/a6.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E12 | Latino [1965]
-https://archive.org/download/locos-addams-64/3x03.ia.mp4
+https://archive.org/download/LLA-V1/S02xE12%20G%C3%B3mez%2C%20el%20ladr%C3%B3n%20de%20gatos.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5592dXv/a7.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E13 | Latino [1965]
-https://archive.org/download/locos-addams-64/3x04.ia.mp4
+https://archive.org/download/LLA-V1/S02xE13%20Retrato%20de%20G%C3%B3mez.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TkMT237/a6.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E14 | Latino [1965]
-https://archive.org/download/locos-addams-64/3x05.ia.mp4
+https://archive.org/download/LLA-V1/S02xE14%20El%20dilema%20de%20Morticia.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5592dXv/a7.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E15 | Latino [1965]
-https://archive.org/download/locos-addams-64/3x06.ia.mp4
+https://archive.org/download/LLA-V1/S02xE15%20Navidad%20con%20la%20familia%20Addams.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TkMT237/a6.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E16 | Latino [1965]
-https://archive.org/download/locos-addams-64/3x07.ia.mp4
+https://archive.org/download/LLA-V1/S02xE16%20%20Tio%20F%C3%A9tido%2C%20Magnate.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5592dXv/a7.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E17 | Latino [1966]
-https://archive.org/download/locos-addams-64/3x08.ia.mp4
+https://archive.org/download/LLA-V1/S02xE17%20Morticia%20y%20G%C3%B3mez%20vs.%20F%C3%A9tido%20y%20abuela.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TkMT237/a6.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E18 | Latino [1966]
-https://archive.org/download/locos-addams-64/3x09.ia.mp4
+https://archive.org/download/LLA-V1/S02xE18%20%20T%C3%ADo%20F%C3%A9tido%20a%20dieta.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5592dXv/a7.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E19 | Latino [1966]
-https://archive.org/download/locos-addams-64/3x10.ia.mp4
+https://archive.org/download/LLA-V1/S02xE19%20%20El%20gran%20tesoro%20encantado.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TkMT237/a6.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E20 | Latino [1966]
-https://archive.org/download/locos-addams-64/3x11.ia.mp4
+https://archive.org/download/LLA-V1/S02xE20%20Ofelia%20halla%20un%20romance.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5592dXv/a7.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E21 | Latino [1966]
-https://archive.org/download/locos-addams-64/3x12.ia.mp4
+https://archive.org/download/LLA-V1/S02xE21%20Permiso%20de%20Pugsley.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TkMT237/a6.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E22 | Latino [1966]
-https://archive.org/download/locos-addams-64/3x13.ia.mp4
+https://archive.org/download/LLA-V1/S02xE22%20%20Feliz%20cumplea%C3%B1os%20abuela.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5592dXv/a7.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E23 | Latino [1966]
-https://archive.org/download/locos-addams-64/3x14.ia.mp4
+https://archive.org/download/LLA-V1/S02xE23%20%20Morticia%20la%20decoradora.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TkMT237/a6.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E24 | Latino [1966]
-https://archive.org/download/locos-addams-64/3x15.ia.mp4
+https://archive.org/download/LLA-V1/S02xE24%20%20Ofelia%20visita%20a%20Morticia.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5592dXv/a7.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E25 | Latino [1966]
-https://archive.org/download/locos-addams-64/3x16.ia.mp4
+https://archive.org/download/LLA-V1/S02xE25%20Addams%20distinguidos.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TkMT237/a6.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E26 | Latino [1966]
-https://archive.org/download/locos-addams-64/3x17.ia.mp4
+https://archive.org/download/LLA-V1/S02xE26%20Gato%20Addams.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5592dXv/a7.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E27 | Latino [1966]
-https://archive.org/download/locos-addams-64/3x18.ia.mp4
+https://archive.org/download/LLA-V1/S02xE27%20El%20peque%C3%B1o%20ayudante%20de%20Lurch.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TkMT237/a6.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E28 | Latino [1966]
-https://archive.org/download/locos-addams-64/3x19.ia.mp4
+https://archive.org/download/LLA-V1/S02xE28%20%20Pol%C3%ADtica%20de%20los%20Addams.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5592dXv/a7.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E29 | Latino [1966]
-https://archive.org/download/locos-addams-64/3x20.ia.mp4
+https://archive.org/download/LLA-V1/S02xE29%20%20El%20gran%20romance%20de%20Lurch.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TkMT237/a6.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E30 | Latino [1966]
-https://archive.org/download/locos-addams-64/3x21.ia.mp4
+https://archive.org/download/LLA-V1/S02xE30%20La%20carrera%20de%20Ofelia.mp4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/prcqmFC/e1.jpg" group-title="Escalofríos 🪲",Escalofríos | S01E01 | Latino [1995]
 https://archive.org/serve/escalofrios-temporada-1/1x01%20%20-%20La%20m%C3%A1scara%20encantada%20-%20parte%201.mp4
