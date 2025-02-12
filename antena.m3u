@@ -2,7 +2,7 @@
 #EXTINF:-1 GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 #EXTINF:-1 Para disfrutar de los canales y abrir correctamente, añade esta dirección a la aplicación IPTV PRO una vez instalada, disponible GRATIS en Google Play o bien descargala sin anuncios y completa acá: https//bit.ly/orbitaxpp  Compactible para todos tus dispositivos con Android y Google TV, TVBox, ect... 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/t4pDwvx/orbi1.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 10.02.25
+#EXTINF:-1 tvg-logo="https://i.ibb.co/t4pDwvx/orbi1.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 12.02.25
 https://pomf2.lain.la/f/572x442.mp4
 
 #EXTINF:-1 tvg-id="600ae79fa46e17000794e84c" tvg-logo="https://i.postimg.cc/gj9kH6YJ/pluto-m.jpg" tvg-chno="01" group-title="Animados | Variado",Pluto TV | MTV | Love Music (ES)
@@ -173,7 +173,7 @@ https://xhateaec.com:8800/hls/bigtv/bigtv/2e7c0930c48d249969862b4c76ab97c8/index
 https://ssh101.bozztv.com/ssh101/bigchannel/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VLgJ0XnN/bitm.jpg" group-title="Animados | Variado",BitMe (MX)
-
+http://190.60.33.245:4002/play/a0kd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HkqqLTcs/boing.jpg" group-title="Animados | Variado",Boing (ES)
 https://nodep002.service.openstream.es/SVoriginOperatorEdge/smil:17_HD.smil/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HxvQr464/boingit.jpg" group-title="Animados | Variado",Boing (IT)
@@ -359,6 +359,8 @@ https://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:98_HD.smil/man
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T3YrRxQ3/Etc.jpg" group-title="Animados | Variado",ETC (CL)
 http://45.181.122.46:8090/play/a00t
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3YrRxQ3/Etc.jpg" group-title="Animados | Variado",ETC | Opción 2 (CL)
+http://190.60.33.245:4002/play/a14k/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nVkvMTxQ/eureka1.jpg" group-title="Animados | Variado",Eureka (CO)
 https://cdns.livewave.co:19360/eurekatv/eurekatv.m3u8
 
@@ -789,6 +791,8 @@ https://jmp2.uk/sam-USBB3600001R6.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4ZKSsC9/toonizak3.jpg" group-title="Animados | Variado",Toonizaki (CL)
 https://mitv.zplay.cl/ZRetro/tracks-v1a1/mono.m3u8?token=_3X8xrfOrbW3B_
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4ZKSsC9/toonizak3.jpg" group-title="Animados | Variado",Toonizaki | 2 (CL)
+https://mitv.zplay.cl/NinjaZ/video.m3u8?token=D4lm1R0m-tFJES
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JhdTb0SG/toonz.jpg" group-title="Animados | Variado",Toonz Kids (LATAM)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/master.m3u8
@@ -839,7 +843,7 @@ http://45.176.193.222:2405/play/a05r
 http://45.176.193.222:2405/play/a061
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZYfjWdCT/unimas.jpg" group-title="Animados | Variado",Unimás (US)
-http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASMIAMI&calidad=hd&.ts
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1RYB2ytx/univers2.jpg" group-title="Animados | Variado",Universo (US)
 https://nxt.plus:8443/olmos/1234guz/225186
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1zSFgjW5/univisio2.jpg" group-title="Animados | Variado",Univision (US)
@@ -865,9 +869,6 @@ https://manage.lineasdns.com:19360/vivotv/vivotv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qqrd9KpV/vo1.jpg" group-title="Animados | Variado",Voice Over Radio TV (CR)
 https://cloudvideo.servers10.com:8081/8198/rewind-3600.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VvYDNPJS/wa.jpg" group-title="Animados | Variado",Wapa TV | Puerto Rico [NO 24/7] (PR)
-https://live.field59.com/wapa/wapa1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-621672612c2627c068e73ad6" tvg-logo="https://i.postimg.cc/X7yDJ6MY/watchitk.jpg" group-title="Animados | Variado",Watch it Kid | Plex (US)
 https://jmp2.uk/plex-643054b1fc3be59477853717-621672612c2627c068e73ad6.m3u8
@@ -3306,6 +3307,9 @@ https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J7XkTXyB/calt.jpg" group-title="Música 🎼",Caltex Music | Persia (IR)
 https://vid1.caltexmusic.com/hls/caltextv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3mJvSRr/canal506.jpg" group-title="Música 🎼",Canal 506 TV (CR)
+https://acceso.radiosportstv.online:3974/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xjmytpff/canela-co.jpg" group-title="Música 🎼",Canela TV | Conciertos (LATAM)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1085
@@ -10998,13 +11002,13 @@ https://videostream.shockmedia.com.ar:19360/redamericatv/redamericatv.m3u8
 https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fRKwz3Yq/seotv.jpg" group-title="Bolivia",Seo TV (BO)
-https://seo.tv.bo/tv/IPSEO-TV-1.m3u8
+https://seo.tv.bo/tv/ISEO-TV-1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dVNv1TFY/seopelis.jpg" group-title="Bolivia",Seo TV | Películas (BO)
-https://seo.tv.bo/tv/IPSEO-TV-4.m3u8
+https://seo.tv.bo/tv/ISEO-TV-4.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tRcQ6nmR/seonovelas1.jpg" group-title="Bolivia",Seo TV | Novelas (BO)
-https://seo.tv.bo/tv/IPSEO-TV-3.m3u8
+https://seo.tv.bo/tv/ISEO-TV-3.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j2R3rZL4/seoyungas.jpg" group-title="Bolivia",Seo TV | Yungas (BO)
-https://seo.tv.bo/tv/IPSEO-TV-7.m3u8
+https://seo.tv.bo/tv/ISEO-TV-7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Ghkmm5Pt/tdt.jpg" group-title="Bolivia",TDT | Multimedia (BO)
 https://video01.kshost.com.br:4443/juan6318/juan6318/playlist.m3u8
@@ -11019,23 +11023,16 @@ https://video.live.com.bo:3003/live/tvuumsalive.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BbLZGqs7/univalle.jpg" group-title="Bolivia",UNV | Univalle (BO)
 https://master.tucableip.com/univalletv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0sVbvD8/zoytv.jpg" group-title="Bolivia",Zoy TV (BO)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0sVbvD8/zoytv.jpg" group-title="Bolivia",Zoy TV | Sports (BO)
 https://fl1004.bozztv.com/ssh101/zoytvsports/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/R0sVbvD8/zoytv.jpg" group-title="Bolivia",Zoy TV | FMH | Family (BO)
-https://fl1004.bozztv.com/ssh101/zoytvfamily/index.m3u8
+https://fl1004.bozztv.com/ssh101/zoytv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/R0sVbvD8/zoytv.jpg" group-title="Bolivia",Zoy TV | FMH | Movies | Plus (BO)
 https://fl1004.bozztv.com/ssh101/zoytv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0sVbvD8/zoytv.jpg" group-title="Bolivia",Zoy TV | Los Pitufos (BO)
+https://stream.ads.ottera.tv/cl/250211cultta0845e3ekdd2pqg/1280x720_3071200_0_f.m3u8?i=728_5444
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/R0sVbvD8/zoytv.jpg" group-title="Bolivia",Zoy TV | Turcas (BO)
 https://fl1004.bozztv.com/ssh101/zoytvturcas/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0sVbvD8/zoytv.jpg" group-title="Bolivia",Zoy TV | 2 | Evento (BO)
-https://fl1004.bozztv.com/ssh101/zoytvsports2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0sVbvD8/zoytv.jpg" group-title="Bolivia",Zoy TV | 3 | Evento (BO)
-https://fl1004.bozztv.com/ssh101/zoytvsports3/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0sVbvD8/zoytv.jpg" group-title="Bolivia",Zoy TV | 4 | Evento (BO)
-https://fl1004.bozztv.com/ssh101/zoytvsports4/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0sVbvD8/zoytv.jpg" group-title="Bolivia",Zoy TV | 5 | Evento (BO)
-https://fl1004.bozztv.com/ssh101/zoytvsports5/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ry19Qq4y/tlestrella.jpg" group-title="Bolivia",TL Estrella (BO)
 https://envivo.bolivia-link.com:3785/live/teleestrellalive.m3u8
@@ -12177,14 +12174,11 @@ http://163.178.170.127:1935/quinceucr/_definst_/quinceucr.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T24wCVf3/cbtvcr.jpg" group-title="Costa Rica 🇨🇷",CBTV | Cotobrus TV (CR)
 https://s1.tvdatta.com:3072/live/cotobrustvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNn0Qr1n/comunicaciones-jimenez.jpg" group-title="Costa Rica 🇨🇷",Comunicaciones Jiménez | Cartago (CR)
-https://cloudvideo.servers10.com:8081/8146/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dtWx0DTJ/comunicaciones.jpg" group-title="Costa Rica 🇨🇷",Comunicaciones Jiménez | Cartago (CR)
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/comunicaciones/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0N0L4R0/costaricachannel.jpg" group-title="Costa Rica 🇨🇷",Costa Rica Channel (CR)
 https://video0.rogohosting.com:19360/8006/8006.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bb8G8qP2/elite.jpg" group-title="Costa Rica 🇨🇷",Elite TV (CR)
-https://k10.usastreams.com:1936/elitetv/elitetv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65dLCdMM/extra-m.jpg" group-title="Costa Rica 🇨🇷",Extra | Music | 97.9FM (CR)
 https://gxtra-cr-dxtra-radio2.stream.mediatiquestream.com/index.m3u8
@@ -12200,15 +12194,12 @@ https://v2.azulstream.com:8081/gamtv/gamtv/tracks-v1a1/mono.m3u8
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KYQ6g3HR/Guatusotv2.jpg" group-title="Costa Rica 🇨🇷",Guatuso TV | Radio (CR)
-https://5cf4a2c2512a2.streamlock.net/8162/8162/master.m3u8
+https://5cf4a2c2512a2.streamlock.net/8176/8176/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g0RwzdSS/guatusoc.jpg" group-title="Costa Rica 🇨🇷",Guatuso TV | Cinema (CR)
 https://5cf4a2c2512a2.streamlock.net/8172/8172/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1XkjNjwZ/kmk.jpg" group-title="Costa Rica 🇨🇷",KMK TV (CR)
 https://cloudvideo.servers10.com:8081/8120/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzM6SQGv/lap.jpg" group-title="Costa Rica 🇨🇷",La Potente | Radio TV (CR)
-https://radioaserri.com:3645/live/lapotentetvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3NxBT05N/limontv.jpg" group-title="Costa Rica 🇨🇷",Limón TV (CR)
 http://k4.usastreams.com/limontv1/limontv1/chunklist_w1958710633.m3u8
@@ -12225,9 +12216,6 @@ https://fl1002.bozztv.com/ssh101/megatvcr2024/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/52NRJRP4/Metv.jpg" group-title="Costa Rica 🇨🇷",Meta Versus (CR)
 https://vivo.solumedia.com:19360/metaversus/metaversus.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3h6z3mN/multizonas.jpg" group-title="Costa Rica 🇨🇷",Multizonas Televisión (CR)
-https://tvservices.fullhd-streaming.com:3673/live/multizonastvlive.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjV2Z4t7/norteinformativo1.jpg" group-title="Costa Rica 🇨🇷",Norte Informativo (CR)
 https://videohd.live:19360/8076/8076.m3u8
 
@@ -12235,7 +12223,7 @@ https://videohd.live:19360/8076/8076.m3u8
 https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wBSnmtbt/opa.jpg" group-title="Costa Rica 🇨🇷",Opa! (CR)
-https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/chunklist_w29325292.m3u8
+https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/chunklist_w363758423.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vZLQ4xd1/alaj.jpg" group-title="Costa Rica 🇨🇷",Radio Alajuela | 1120 AM [Solo Audio] [No 24/7] (CR)
 https://tupanel.info:8970/;stream.nsv
@@ -12281,9 +12269,6 @@ https://vivo.radiosportstv.online:3151/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d0tT7bkC/tvcachi.jpg" group-title="Costa Rica 🇨🇷",TV Cachi (CR)
 https://ssh101.bozztv.com/ssh101/tvcachi/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cKBKZzH/cartag.jpg" group-title="Costa Rica 🇨🇷",TV Cartago Digital (CR)
-https://fl1002.bozztv.com/ssh101/tvcdstreaming/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvkFL2V5/tvnosara.jpg" group-title="Costa Rica 🇨🇷",TV Nosara (CR)
 https://acceso.radiosportstv.online:3430/hybrid/play.m3u8
 
@@ -12292,9 +12277,6 @@ https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G29kZ8d4/tvguanaca.jpg" group-title="Costa Rica 🇨🇷",TV Santa Cruz | Guanacaste (CR)
 https://rtmp.info/tvsantacruz/envivo/chunklist_w307342586.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqxGY94Q/tvsurcanal9.jpg" group-title="Costa Rica 🇨🇷",TV Sur | Canal 9 (CR)
-http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G2zwzFdF/telesurpz.jpg" group-title="Costa Rica 🇨🇷",Tv Sur | PZ (CR)
 https://k20.usastreams.com:8081/tvsur/index.m3u8
@@ -13077,9 +13059,6 @@ http://fl2.moveonjoy.com/FXX/index.m3u8
 http://fl2.moveonjoy.com/FYI/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vZ91fGZF/galavi.jpg" group-title="Estados Unidos",Galavisión (US)
-http://23.237.66.106:25461/now_160322/now2.php?id=GALAVISIONMIAMI&calidad=sd&.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZ91fGZF/galavi.jpg" group-title="Estados Unidos",Galavisión | West (US)
-http://23.237.66.106:25461/now_160322/now2.php?id=GALAVISIONWEST&calidad=hd&.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T24vg4JF/games.jpg" group-title="Estados Unidos",Game Show Network (US)
 http://fl5.moveonjoy.com/GAME_SHOW_NETWORK/index.m3u8
@@ -13240,7 +13219,6 @@ http://fl2.moveonjoy.com/TRU_TV/index.m3u8
 http://fl2.moveonjoy.com/TV_ONE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1zSFgjW5/univisio2.jpg" group-title="Estados Unidos",Univision | Miami (US)
-http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=hd&.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MHs7qK4X/usa.jpg" group-title="Estados Unidos",USA Network (US)
 http://fl2.moveonjoy.com/USA_Network/index.m3u8
@@ -14924,6 +14902,9 @@ https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist_1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hth9pk1p/vaanavil.jpg" group-title="Mas Señales",Vaanavil TV | India (IN)
 https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VvYDNPJS/wa.jpg" group-title="Mas Señales",Wapa TV | Puerto Rico [NO 24/7] (PR)
+https://live.field59.com/wapa/wapa1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x1DKfC69/z3.jpg" group-title="Mas Señales",Zhejiang | Economic Lifestyle (CN)
 http://ali-vl.cztv.com/channels/lantian/channel003/360p.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9MhLkb7H/z4.jpg" group-title="Mas Señales",Zhejiang | Education and Film (CN)
@@ -16027,7 +16008,7 @@ https://archive.org/serve/LLA-V1/S01xE32.mp4
 https://archive.org/serve/LLA-V1/S01xE33.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qstXX4D/a3.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E34 | Latino [1965]
 https://archive.org/serve/LLA-V1/S01xE34.mp4
-https://archive.org/download/LLA-V1/S01xE34.mp4
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qstXX4D/a3.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E01 | Latino [1965]
 https://ia600409.us.archive.org/31/items/LLA-V1/S02xE1%20Mi%20bello%20T%C3%ADo%20Eso.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qstXX4D/a3.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E02 | Latino [1965]
@@ -16089,6 +16070,148 @@ https://archive.org/download/LLA-V1/S02xE28%20%20Pol%C3%ADtica%20de%20los%20Adda
 https://archive.org/download/LLA-V1/S02xE29%20%20El%20gran%20romance%20de%20Lurch.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TkMT237/a6.jpg" group-title="La Familia Addams 💀",La Familia Addams | S02E30 | Latino [1966]
 https://archive.org/download/LLA-V1/S02xE30%20La%20carrera%20de%20Ofelia.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbRypvdw/mu1.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S01E01 | Latino [1964]
+https://archive.org/download/LM-V2/S01xE01.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbRypvdw/mu1.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S01E02 | Latino [1964]
+https://archive.org/download/LM-V2/S01xE02.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbRypvdw/mu1.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S01E03 | Latino [1964]
+https://archive.org/download/LM-V2/S01xE03.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbRypvdw/mu1.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S01E04 | Latino [1964]
+https://archive.org/download/LM-V2/S01xE04.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbRypvdw/mu1.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S01E05 | Latino [1964]
+https://archive.org/download/LM-V2/S01xE05.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbRypvdw/mu1.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S01E06 | Latino [1964]
+https://archive.org/download/LM-V2/S01xE06.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbRypvdw/mu1.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S01E07 | Latino [1964]
+https://archive.org/download/LM-V2/S01xE07.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbRypvdw/mu1.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S01E08 | Latino [1964]
+https://archive.org/download/LM-V2/S01xE08.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbRypvdw/mu1.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S01E09 | Latino [1964]
+https://archive.org/download/LM-V2/S01xE09.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbRypvdw/mu1.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S01E10 | Latino [1964]
+https://archive.org/download/LM-V2/S01xE10.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbRypvdw/mu1.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S01E11 | Latino [1964]
+https://archive.org/download/LM-V2/S01xE11.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbRypvdw/mu1.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S01E12 | Latino [1964]
+https://archive.org/download/LM-V2/S01xE12.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbRypvdw/mu1.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S01E13 | Latino [1964]
+https://archive.org/download/LM-V2/S01xE13.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbRypvdw/mu1.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S01E14 | Latino [1964]
+https://archive.org/download/LM-V2/S01xE14.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbRypvdw/mu1.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S01E15 | Latino [1964]
+https://archive.org/download/LM-V2/S01xE15.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbRypvdw/mu1.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S01E16 | Latino [1965]
+https://archive.org/download/LM-V2/S01xE16.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbRypvdw/mu1.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S01E17 | Latino [1965]
+https://archive.org/download/LM-V2/S01xE17.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbRypvdw/mu1.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S01E18 | Latino [1965]
+https://archive.org/download/LM-V2/S01xE18.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbRypvdw/mu1.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S01E19 | Latino [1965]
+https://archive.org/download/LM-V2/S01xE19.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbRypvdw/mu1.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S01E20 | Latino [1965]
+https://archive.org/download/LM-V2/S01xE20.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbRypvdw/mu1.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S01E21 | Latino [1965]
+https://archive.org/download/LM-V2/S01xE21.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbRypvdw/mu1.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S01E22 | Latino [1965]
+https://archive.org/download/LM-V2/S01xE22.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbRypvdw/mu1.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S01E23 | Latino [1965]
+https://archive.org/download/LM-V2/S01xE23.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbRypvdw/mu1.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S01E24 | Latino [1965]
+https://archive.org/download/LM-V2/S01xE24.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbRypvdw/mu1.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S01E25 | Latino [1965]
+https://archive.org/download/LM-V2/S01xE25.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbRypvdw/mu1.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S01E26 | Latino [1965]
+https://archive.org/download/LM-V2/S01xE26.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbRypvdw/mu1.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S01E27 | Latino [1965]
+https://archive.org/download/LM-V2/S01xE27.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbRypvdw/mu1.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S01E28 | Latino [1965]
+https://archive.org/download/LM-V2/S01xE28.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbRypvdw/mu1.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S01E29 | Latino [1965]
+https://archive.org/download/LM-V2/S01xE29.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbRypvdw/mu1.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S01E30 | Latino [1965]
+https://archive.org/download/LM-V2/S01xE30.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbRypvdw/mu1.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S01E31 | Latino [1965]
+https://archive.org/download/LM-V2/S01xE31.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbRypvdw/mu1.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S01E32 | Latino [1965]
+https://archive.org/download/LM-V2/S01xE32.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbRypvdw/mu1.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S01E33 | Latino [1965]
+https://archive.org/download/LM-V2/S01xE33.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbRypvdw/mu1.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S01E34 | Latino [1965]
+https://archive.org/download/LM-V2/S01xE34.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbRypvdw/mu1.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S01E35 | Latino [1965]
+https://archive.org/download/LM-V2/S01xE35.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbRypvdw/mu1.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S01E36 | Latino [1965]
+https://archive.org/download/LM-V2/S01xE36.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbRypvdw/mu1.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S01E37 | Latino [1965]
+https://archive.org/download/LM-V2/S01xE37.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbRypvdw/mu1.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S01E38 | Latino [1965]
+https://archive.org/download/LM-V2/S01xE38.ia.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvZ2rdhF/mu2.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S02E01 | Latino [1965]
+https://archive.org/download/LM-V2/S02xE01.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvZ2rdhF/mu2.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S02E02 | Latino [1965]
+https://archive.org/download/LM-V2/S02xE02.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvZ2rdhF/mu2.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S02E03 | Latino [1965]
+https://archive.org/download/LM-V2/S02xE03.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvZ2rdhF/mu2.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S02E04 | Latino [1965]
+https://archive.org/download/LM-V2/S02xE04.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvZ2rdhF/mu2.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S02E05 | Latino [1965]
+https://archive.org/download/LM-V2/S02xE05.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvZ2rdhF/mu2.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S02E06 | Latino [1965]
+https://archive.org/download/LM-V2/S02xE06.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvZ2rdhF/mu2.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S02E07 | Latino [1965]
+https://archive.org/download/LM-V2/S02xE07.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvZ2rdhF/mu2.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S02E08 | Latino [1965]
+https://archive.org/download/LM-V2/S02xE08.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvZ2rdhF/mu2.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S02E09 | Latino [1965]
+https://archive.org/download/LM-V2/S02xE09.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvZ2rdhF/mu2.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S02E10 | Latino [1965]
+https://archive.org/download/LM-V2/S02xE10.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvZ2rdhF/mu2.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S02E11 | Latino [1965]
+https://archive.org/download/LM-V2/S02xE11.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvZ2rdhF/mu2.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S02E12 | Latino [1965]
+https://archive.org/download/LM-V2/S02xE12.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvZ2rdhF/mu2.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S02E13 | Latino [1965]
+https://archive.org/download/LM-V2/S02xE13.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvZ2rdhF/mu2.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S02E14 | Latino [1965]
+https://archive.org/download/LM-V2/S02xE14.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvZ2rdhF/mu2.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S02E15 | Latino [1965]
+https://archive.org/download/LM-V2/S02xE15.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvZ2rdhF/mu2.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S02E16 | Latino [1966]
+https://archive.org/download/LM-V2/S02xE16.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvZ2rdhF/mu2.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S02E17 | Latino [1966]
+https://archive.org/download/LM-V2/S02xE17.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvZ2rdhF/mu2.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S02E18 | Latino [1966]
+https://archive.org/download/LM-V2/S02xE18.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvZ2rdhF/mu2.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S02E19 | Latino [1966]
+https://archive.org/download/LM-V2/S02xE19.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvZ2rdhF/mu2.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S02E20 | Latino [1966]
+https://archive.org/download/LM-V2/S02xE20.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvZ2rdhF/mu2.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S02E21 | Latino [1966]
+https://archive.org/download/LM-V2/S02xE21.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvZ2rdhF/mu2.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S02E22 | Latino [1966]
+https://archive.org/download/LM-V2/S02xE22.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvZ2rdhF/mu2.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S02E23 | Latino [1966]
+https://archive.org/download/LM-V2/S02xE23.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvZ2rdhF/mu2.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S02E24 | Latino [1966]
+https://archive.org/download/LM-V2/S02xE24.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvZ2rdhF/mu2.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S02E25 | Latino [1966]
+https://archive.org/download/LM-V2/S02xE25.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvZ2rdhF/mu2.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S02E26 | Latino [1966]
+https://archive.org/download/LM-V2/S02xE26.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvZ2rdhF/mu2.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S02E27 | Latino [1966]
+https://archive.org/download/LM-V2/S02xE27.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvZ2rdhF/mu2.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S02E28 | Latino [1966]
+https://archive.org/download/LM-V2/S02xE28.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvZ2rdhF/mu2.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S02E29 | Latino [1966]
+https://archive.org/download/LM-V2/S02xE29.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvZ2rdhF/mu2.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S02E30 | Latino [1966]
+https://archive.org/download/LM-V2/S02xE30.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvZ2rdhF/mu2.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S02E31 | Latino [1966]
+https://archive.org/download/LM-V2/S02xE31.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvZ2rdhF/mu2.jpg" group-title="La Familia Monster 🦇",La Familia Monster | S02E32 | Latino [1966]
+https://archive.org/download/LM-V2/S02xE32.ia.mp4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/prcqmFC/e1.jpg" group-title="Escalofríos 🪲",Escalofríos | S01E01 | Latino [1995]
 https://archive.org/serve/escalofrios-temporada-1/1x01%20%20-%20La%20m%C3%A1scara%20encantada%20-%20parte%201.mp4
@@ -16428,6 +16551,335 @@ https://archive.org/download/oscuridad90/07x11.mp4
 https://archive.org/download/oscuridad90/07x12.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bXJ6sRt/l7.jpg" group-title="Le Temes 😈",Le Temes A la Oscuridad | S07E13 | Latino [2000]
 https://archive.org/download/oscuridad90/07x13.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtpZBTG/t1.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S01E01 | Latino [1985]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/01X01%20Dimensi%C3%B3n%20Desconocida%201985.%20D%C3%ADa%20De%20La%20Ruptura%20%28Shatterday%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtpZBTG/t1.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S01E02 | Latino [1985]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/01X02%20Dimensi%C3%B3n%20Desconocida%201985.%20Un%20Poco%20De%20Paz%20Y%20Silencio%20%28A%20Little%20Peace%20And%20Quiet%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtpZBTG/t1.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S01E03 | Latino [1985]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/01X03%20Dimensi%C3%B3n%20Desconocida%201985.%20Palabras%20%28Wordplay%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtpZBTG/t1.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S01E04 | Latino [1985]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/01X04%20Dimensi%C3%B3n%20Desconocida%201985.%20Sue%C3%B1os%20En%20Venta%20%28Dreams%20For%20Sale%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtpZBTG/t1.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S01E05 | Latino [1985]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/01X05%20Dimensi%C3%B3n%20Desconocida%201985.%20Camale%C3%B3n%20%28Chameleon%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtpZBTG/t1.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S01E06 | Latino [1985]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/01X06%20Dimensi%C3%B3n%20Desconocida%201985.%20Curandero%20%28Healer%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtpZBTG/t1.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S01E07 | Latino [1985]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/01X07%20Dimensi%C3%B3n%20Desconocida%201985.%20Zool%C3%B3gico%20Infantil%20%28Children%27s%20Zoo%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtpZBTG/t1.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S01E08 | Latino [1985]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/01X08%20The%20Twilight%20Zone%20-%201X08%20La%20Taberna%20%28Kentuky%20Rye%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtpZBTG/t1.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S01E09 | Latino [1985]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/01X09%20Dimensi%C3%B3n%20Desconocida%201985.%20El%20Ni%C3%B1o%20Perdido%20%28Little%20Boy%20Lost%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtpZBTG/t1.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S01E10 | Latino [1985]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/01X10%20Dimensi%C3%B3n%20Desconocida%201985.%20La%20L%C3%A1mpara%20%28Wish%20Bank%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtpZBTG/t1.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S01E11 | Latino [1985]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/01X11%20Dimensi%C3%B3n%20Desconocida%201985.%20Rastreros%20%28Nightcrawlers%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtpZBTG/t1.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S01E12 | Latino [1985]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/01X12%20Dimension%20Desconocida%2080S%20%20The%20Twilight%20Zone%201X12%20If%20She%20Dies.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtpZBTG/t1.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S01E13 | Latino [1985]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/01X13%20Dimensi%C3%B3n%20Desconocida%201985.%20%C2%A1Ay%20Dioses%21%20%28Ye%20Gods%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtpZBTG/t1.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S01E14 | Latino [1986]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/01X14%20Dimensi%C3%B3n%20Desconocida%201985.%20Dia%20De%20Ex%C3%A1men%20%28Examination%20Day%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtpZBTG/t1.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S01E15 | Latino [1986]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/01X15%20The%20Twilight%20Zone%20-%201X15%20-%20A%20Message%20From%20Charity.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtpZBTG/t1.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S01E16 | Latino [1986]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/01X16%20Dimensi%C3%B3n%20Desconocida%201985.%20El%20Ayudante%20De%20La%20Maestra%20%28Teacher%27s%20Aide%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtpZBTG/t1.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S01E17 | Latino [1986]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/01X17%20-%20Paladin%20Of%20The%20Lost%20Hour.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtpZBTG/t1.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S01E18 | Latino [1986]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/01X18%20The%20Twilight%20Zone%20-%201X18%20-%20Act%20Break.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtpZBTG/t1.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S01E19 | Latino [1986]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/01X19%20Dimensi%C3%B3n%20Desconocida%201985.%20Gen%C3%A9tica%20Maligna%20%28The%20Burning%20Man%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtpZBTG/t1.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S01E20 | Latino [1986]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/01X20%20Dimensi%C3%B3n%20Desconocida%201985.%20Bola%20Baja%20%28Dealer%27s%20Choice%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtpZBTG/t1.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S01E21 | Latino [1986]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/01X21%20Dimension%20Desconocida%2080S%20%20The%20Twilight%20Zone%201X21%20Dead%20Womans%20Shoes.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtpZBTG/t1.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S01E22 | Latino [1986]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/01X22%20El%20Emporio%20De%20Objetos%20Perdidos%20De%20Wong%20%28Wong%27s%20Lost%20And%20Found%20Emporium%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtpZBTG/t1.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S01E23 | Latino [1986]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/01X23%20Dimensi%C3%B3n%20Desconocida%201985.%20El%20Hombre%20De%20Negro%20%28The%20Shadow%20Man%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtpZBTG/t1.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S01E24 | Latino [1986]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/01X24%20The%20Twilight%20Zone%20-%201X24%20-%20The%20Uncle%20Devil%20Show.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtpZBTG/t1.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S01E25 | Latino [1986]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/01X25%20Dimension%20Desconocida%201985.%20El%20Primer%20D%C3%ADa%20%28Opening%20Day%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtpZBTG/t1.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S01E26 | Latino | Parte 1 [1986]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/01X26%20Dimensi%C3%B3n%20Desconocida%201985.%20El%20Faro%20%28The%20Beacon%29%20Primera%20Parte.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtpZBTG/t1.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S01E26 | Latino | Parte 2 [1986]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/01X26%20Dimensi%C3%B3n%20Desconocida%201985.%20El%20Faro%20%28The%20Beacon%29%20Segunda%20Parte.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtpZBTG/t1.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S01E27 | Latino [1986]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/01X27%20Una%20Vida%20Por%20Cortes%C3%ADa%20De%20Una%20Pobreza%20Temprana.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtpZBTG/t1.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S01E28 | Latino [1986]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/01X28%20The%20Twilight%20Zone%20-%201X28%20-%20Her%20Pilgrim%20Soul.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtpZBTG/t1.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S01E29 | Latino [1986]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/01X29%20Dimensi%C3%B3n%20Desconocida%201985.%20Las%20Tres%20Preguntas%20%28I%20Of%20Newton%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtpZBTG/t1.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S01E30 | Latino [1986]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/01X30%20Dimensi%C3%B3n%20Desconocida%201985.%20Un%20Hombre%20Manso%20%28Night%20Of%20The%20Meek%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtpZBTG/t1.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S01E31 | Latino [1986]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/01X31%20Dimensi%C3%B3n%20Desconocida%201985.%20%C2%BFSabe%20Escribir%20En%20M%C3%A1quina.%20%28But%20Can%20She%20Type.%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtpZBTG/t1.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S01E32 | Latino [1986]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/01X32%20Dimensi%C3%B3n%20Desconocida%201985.%20La%20Estrella%20%28The%20Star%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtpZBTG/t1.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S01E33 | Latino [1986]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/01X33%20Dimensi%C3%B3n%20Desconocida%201985.%20Naturaleza%20Muerta%20%28Still%20Life%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtpZBTG/t1.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S01E34 | Latino [1986]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/01X34%20Dimensi%C3%B3n%20Desconocida%201985.%20Los%20Seres%20Diminutos%20%28The%20Little%20People%20Of%20Killany%20Woods%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtpZBTG/t1.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S01E35 | Latino [1986]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/01X35%20Dimensi%C3%B3n%20Desconocida%201985.%20La%20Galleta%20De%20La%20Desgracia%20%28The%20Misfortune%20Cookie%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtpZBTG/t1.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S01E36 | Latino [1986]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/01X36%20Dimensi%C3%B3n%20Desconocida%201985.%20%C2%A1Monstruos%21%20%28Monsters%21%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtpZBTG/t1.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S01E37 | Latino [1986]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/01X37%20Dimensi%C3%B3n%20Desconocida%201985.%20Un%20Peque%C3%B1o%20Talento%20Para%20La%20Guerra%20%28A%20Small%20Talent%20For%20War%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtpZBTG/t1.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S01E38 | Latino [1986]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/01X38%20-%20A%20Matter%20Of%20Minutes.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtpZBTG/t1.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S01E39 | Latino [1986]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/01X39%20Dimensi%C3%B3n%20Desconocida%201985.%20El%20Ascensor%20%28The%20Elevator%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtpZBTG/t1.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S01E40 | Latino [1986]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/01X40%20The%20Twilight%20Zone%20-%201X40%20-%20To%20See%20The%20Invisible%20Man.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtpZBTG/t1.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S01E41 | Latino [1986]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/01X41%20Dimensi%C3%B3n%20Desconocida%201985.%20Cosas%20De%20Dentistas%20%28Tooth%20And%20Consequences%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtpZBTG/t1.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S01E42 | Latino [1986]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/01X42%20The%20Twilight%20Zone%20-%201X42%20Bienvenidos%20A%20Winfield%20%28Welcome%20To%20Winfield%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtpZBTG/t1.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S01E43 | Latino [1986]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/01X43%20Dimensi%C3%B3n%20Desconocida%201985.%20Cuarentena%20%28Quarantine%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtpZBTG/t1.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S01E44 | Latino [1986]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/01X44%20Dimensi%C3%B3n%20Desconocida%201985.%20La%20Abuela%20%28Gramma%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtpZBTG/t1.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S01E45 | Latino [1986]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/01X45%20The%20Twilight%20Zone%20Personal%20Demons.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtpZBTG/t1.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S01E46 | Latino [1986]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/01X46%20En%20Busca%20De%20Lo%20Aut%C3%A9ntico%20%28Cold%20Reading%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtpZBTG/t1.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S01E47 | Latino [1986]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/01X47%20-%20The%20Leprechaun%20Artist.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtpZBTG/t1.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S01E48 | Latino [1986]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/01X48%20Dimensi%C3%B3n%20Desconocida%201985.%20Camino%20Al%20Infierno%20%28Dead%20Run%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtpZBTG/t1.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S01E49 | Latino [1986]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/01X48%20Dimensi%C3%B3n%20Desconocida%201985.%20Camino%20Al%20Infierno%20%28Dead%20Run%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtpZBTG/t1.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S01E50 | Latino [1986]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/01X50%20The%20Twilight%20Zone%201X50%20Button%20Button.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtpZBTG/t1.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S01E51 | Latino [1986]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/01X51%20La%20Dimensi%C3%B3n%20Desconocida%20-%201985%20-%20Necesito%20Saber%20%28%20Need%20To%20Know%20%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtpZBTG/t1.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S01E52 | Latino [1986]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/01X52%20The%20Twilight%20Zone%20-%201X52%20-%20Red%20Snow.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtpZBTG/t1.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S01E53 | Latino [1986]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/01X53%20The%20Twilight%20Zone%20-%201X53%20-%20Take%20My%20Life...Please%21.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtpZBTG/t1.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S01E54 | Latino [1986]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/01X54%20La%20Dimensi%C3%B3n%20Desconocida%20-%201985%20-%20El%20Alfabeto%20Del%20Diablo%20%28%20Devil%C2%B4S%20Alphabet%20%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtpZBTG/t1.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S01E55 | Latino [1986]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/01X55%20The%20Twilight%20Zone%20-%201X55%20-%20The%20Library.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtpZBTG/t1.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S01E56 | Latino [1986]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/01X56%20The%20Twilight%20Zone%20-%201X56%20-%20Shadow%20Play.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtpZBTG/t1.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S01E57 | Latino [1986]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/01X57%20Dimensi%C3%B3n%20Desconocida%201985.%20El%20Regalo%20%28Grace%20Note%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtpZBTG/t1.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S01E58 | Latino [1986]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/01X58%20The%20Twilight%20Zone%20-%201X58%20-%20A%20Day%20In%20Beaumont.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtpZBTG/t1.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S01E59 | Latino [1986]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/01X59%20The%20Twilight%20Zone%20-%201X59%20-%20The%20Last%20Defender%20Of%20Camelot.ia.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QxkVnWKX/t2.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S02E01 | Latino [1986]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/02X01%20The%20Twilight%20Zone%20-%202X01%20-%20The%20Once%20And%20Future%20King.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QxkVnWKX/t2.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S02E02 | Latino [1986]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/02X02%20The%20Twilight%20Zone%20-%202X02%20-%20A%20Saucer%20Of%20Loneliness.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QxkVnWKX/t2.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S02E03 | Latino [1986]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/02X03%20The%20Twilight%20Zone%20-%202X03%20-%20What%20Are%20Friends%20For..ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QxkVnWKX/t2.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S02E04 | Latino [1986]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/02X04%20The%20Twilight%20Zone%20-%202X04%20-%20Aqua%20Vita.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QxkVnWKX/t2.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S02E05 | Latino [1986]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/02X05%20The%20Twilight%20Zone%20-%202X05%20-%20The%20Storyteller.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QxkVnWKX/t2.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S02E06 | Latino [1986]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/02X06%20The%20Twilight%20Zone%20-%202X06%20-%20Nightsong.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QxkVnWKX/t2.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S02E07 | Latino [1986]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/02X07%20The%20Twilight%20Zone%20-%202X07%20-%20The%20After%20Hours.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QxkVnWKX/t2.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S02E08 | Latino [1987]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/02X08%20The%20Twilight%20Zone%20-%202X08%20-%20Lost%20And%20Found.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QxkVnWKX/t2.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S02E09 | Latino [1987]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/02X09%20The%20Twilight%20Zone%20-%202X09%20-%20The%20World%20Next%20Door.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QxkVnWKX/t2.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S02E10 | Latino [1987]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/02X10%20The%20Twilight%20Zone%20-%202X10%20-%20The%20Toys%20Of%20Caliban.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QxkVnWKX/t2.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S02E11 | Latino [1987]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/02X11%20The%20Twilight%20Zone%20-%202X11%20-%20The%20Convict%27s%20Piano.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QxkVnWKX/t2.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S02E12 | Latino [1987]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/02X12%20The%20Twilight%20Zone%20-%202X12%20-%20The%20Road%20Less%20Traveled.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QxkVnWKX/t2.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S02E13 | Latino [1987]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/02X13%20The%20Twilight%20Zone%20-%202X13%20-%20The%20Card.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QxkVnWKX/t2.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S02E14 | Latino [1987]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/02X14%20The%20Twilight%20Zone%20-%202X14%20-%20The%20Junction.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QxkVnWKX/t2.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S02E15 | Latino [1987]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/02X15%20The%20Twilight%20Zone%20-%202X15%20-%20Joy%20Ride.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QxkVnWKX/t2.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S02E16 | Latino [1987]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/02X16%20The%20Twilight%20Zone%20-%202X16%20-%20Shelter%20Skelter.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QxkVnWKX/t2.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S02E17 | Latino [1987]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/02X17%20The%20Twilight%20Zone%20-%202X17%20-%20Private%20Channel.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QxkVnWKX/t2.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S02E18 | Latino [1987]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/02X18%20The%20Twilight%20Zone%20-%202X18%20-%20Time%20And%20Teresa%20Golowitz.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QxkVnWKX/t2.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S02E19 | Latino [1987]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/02X19%20The%20Twilight%20Zone%20-%202X19%20-%20Voices%20In%20The%20Earth.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QxkVnWKX/t2.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S02E20 | Latino [1987]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/02X20%20The%20Twilight%20Zone%20-%202X20%20-%20Song%20Of%20The%20Younger%20World.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QxkVnWKX/t2.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S02E21 | Latino [1987]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/02X21%20The%20Twilight%20Zone%20-%202X21%20-%20The%20Girl%20I%20Married.ia.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzrtw4jj/t3.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S03E01 | Latino [1988]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/03X01%20Dimensi%C3%B3n%20Desconocida%201985.%20El%20Extra%C3%B1o%20Caso%20De%20Edgar%20Witherspoon%20%28Curious%20Case%20Of%20Edgar%20Witherspoon%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzrtw4jj/t3.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S03E02 | Latino [1988]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/03X02%20The%20Twilight%20Zone%20-%203X02%20-%20Extra%20Innings.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzrtw4jj/t3.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S03E03 | Latino [1988]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/03X03%20The%20Twilight%20Zone%20-%203X03%20-%20The%20Crossing.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzrtw4jj/t3.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S03E04 | Latino [1988]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/03X04%20The%20Twilight%20Zone%201985%20%20%203X04%20%20%20The%20Hunters.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzrtw4jj/t3.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S03E05 | Latino [1988]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/03X05%20Twilight%20Zone%203X05%20Dream%20Me%20A%20Life.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzrtw4jj/t3.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S03E06 | Latino [1988]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/03X06%20Twilight%20Zone%203X06%20%20Memories.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzrtw4jj/t3.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S03E07 | Latino [1988]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/03X07%20Dimensi%C3%B3n%20Desconocida%201985.%20El%20M%C3%A9todo%20Helgramita%20%28The%20Hellgramite%20Method%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzrtw4jj/t3.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S03E08 | Latino [1988]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/03X08%20The%20Twilight%20Zone%20-%203X08%20-%20Our%20Selena%20Is%20Dying.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzrtw4jj/t3.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S03E09 | Latino [1988]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/03X09%20Dimensi%C3%B3n%20Desconocida%201985.%20La%20Llamada%20%28The%20Call%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzrtw4jj/t3.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S03E10 | Latino [1988]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/03X10%20Dimension%20Desconocida%2080S%20%20Twilight%20Zone%203X10%20The%20Trance%20Audio%20Latino.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzrtw4jj/t3.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S03E11 | Latino [1988]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/03X11%20The%20Twilight%20Zone%20-%203X11%20-%20Acts%20Of%20Terror.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzrtw4jj/t3.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S03E12 | Latino [1988]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/03X12%20The%20Twilight%20Zone%20-%203X12%20Visi%C3%B3n%2020-20%20%2820-20%20Vision%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzrtw4jj/t3.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S03E13 | Latino [1988]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/03X13%20Twilight%20Zone%203X13%20There%20Was%20An%20Old%20Woman.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzrtw4jj/t3.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S03E14 | Latino [1989]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/03X14%20Dimensi%C3%B3n%20Desconocida%201985.%20El%20Ba%C3%BAl%20%28The%20Trunk%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzrtw4jj/t3.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S03E15 | Latino [1989]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/03X15%20Twilight%20Zone%203X15%20Appointment%20On%20Route%2017.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzrtw4jj/t3.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S03E16 | Latino [1989]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/03X16%20Twilight%20Zone%203X16%20The%20Cold%20Equations.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzrtw4jj/t3.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S03E17 | Latino [1989]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/03X17%20Twilight%20Zone%203X17%20Stranger%20In%20Possum%20Meadow.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzrtw4jj/t3.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S03E18 | Latino [1989]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/03X18%20The%20Twilight%20Zone%20-%203X18%20-%20Street%20Of%20Shadows.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzrtw4jj/t3.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S03E19 | Latino [1989]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/03X19%20The%20Twilight%20Zone%20-%203X19%20-%20Something%20In%20The%20Walls.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzrtw4jj/t3.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S03E20 | Latino [1989]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/03X20%20The%20Twilight%20Zone%20-%203X20%20-%20A%20Game%20Of%20Pool.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzrtw4jj/t3.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S03E21 | Latino [1989]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/03X21%20Dimension%20Desconocida%2080S%20%20Twilight%20Zone%203X21%20The%20Wall%20Audio%20Latino.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzrtw4jj/t3.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S03E22 | Latino [1989]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/03X22%20Dimension%20Desconocida%20%20Twilight%20Zone%203X22%20Room%202426%20Audio%20Latino.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzrtw4jj/t3.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S03E23 | Latino [1989]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/03X23%20Dimension%20Desconocida%20Twilight%20Zone%203X23%20The%20Mind%20Of%20Simon%20Foster%201989Audio%20Latino.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzrtw4jj/t3.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S03E24 | Latino [1989]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/03X24%20The%20Twilight%20Zone%20-%203X24%20-%20Cat%20And%20Mouse.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzrtw4jj/t3.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S03E25 | Latino [1989]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/03X25%20Twilight%20Zone%203X25%20Many%20Many%20Monkeys%201989%201.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzrtw4jj/t3.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S03E26 | Latino [1989]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/03X26%20The%20Twilight%20Zone%20-%203X26%20-%20Rendezvous%20In%20A%20Dark%20Place.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzrtw4jj/t3.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S03E27 | Latino [1989]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/03X27%20The%20Twilight%20Zone%20-%203X27%20-%20Special%20Service.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzrtw4jj/t3.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S03E28 | Latino [1989]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/03X28%20The%20Twilight%20Zone%20-%203X28%20-%20Love%20Is%20Blind.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzrtw4jj/t3.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S03E29 | Latino [1989]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/03X29%20The%20Twilight%20Zone%20-%203X29%20-%20Crazy%20As%20A%20Soup%20Sandwich.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzrtw4jj/t3.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S03E30 | Latino [1989]
+https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/03X30%20Dimensi%C3%B3n%20Desconocida%201985.%20El%20Juego%20De%20Padre%20E%20Hijo%20%28Father%20And%20Son%20Game%29.ia.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fR9Y8vQJ/g1.jpg" group-title="Tierra de Gigantes",Tierra de Gigantes | S01E01 | Latino [1968]
+https://archive.org/serve/TDG-V1/S01x1%20La%20ca%C3%ADda.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fR9Y8vQJ/g1.jpg" group-title="Tierra de Gigantes",Tierra de Gigantes | S01E02 | Latino [1968]
+https://archive.org/download/TDG-V1/S01x2%20%20Pueblo%20fantasma.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fR9Y8vQJ/g1.jpg" group-title="Tierra de Gigantes",Tierra de Gigantes | S01E03 | Latino [1968]
+https://archive.org/download/TDG-V1/S01x3%20Complot.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fR9Y8vQJ/g1.jpg" group-title="Tierra de Gigantes",Tierra de Gigantes | S01E04 | Latino [1968]
+https://archive.org/download/TDG-V1/S01x4%20%20Los%20rebeldes.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fR9Y8vQJ/g1.jpg" group-title="Tierra de Gigantes",Tierra de Gigantes | S01E05 | Latino [1968]
+https://archive.org/download/TDG-V1/S01x5%20%20Carrusel%20del%20terror.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fR9Y8vQJ/g1.jpg" group-title="Tierra de Gigantes",Tierra de Gigantes | S01E06 | Latino [1968]
+https://archive.org/download/TDG-V1/S01x6%20El%20plan%20de%20vuelo.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fR9Y8vQJ/g1.jpg" group-title="Tierra de Gigantes",Tierra de Gigantes | S01E07 | Latino [1968]
+https://archive.org/download/TDG-V1/S01x7%20Ejecuci%C3%B3n.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fR9Y8vQJ/g1.jpg" group-title="Tierra de Gigantes",Tierra de Gigantes | S01E08 | Latino [1968]
+https://archive.org/download/TDG-V1/S01x8%20La%20trampa.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fR9Y8vQJ/g1.jpg" group-title="Tierra de Gigantes",Tierra de Gigantes | S01E09 | Latino [1968]
+https://archive.org/download/TDG-V1/S01x9%20%20El%20credo.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fR9Y8vQJ/g1.jpg" group-title="Tierra de Gigantes",Tierra de Gigantes | S01E10 | Latino [1968]
+https://archive.org/download/TDG-V1/S01x10%20La%20traici%C3%B3n.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fR9Y8vQJ/g1.jpg" group-title="Tierra de Gigantes",Tierra de Gigantes | S01E11 | Latino [1968]
+https://archive.org/download/TDG-V1/S01x11%20El%20Mundo%20Siniestro.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fR9Y8vQJ/g1.jpg" group-title="Tierra de Gigantes",Tierra de Gigantes | S01E12 | Latino [1968]
+https://archive.org/download/TDG-V1/S01x12%20%20La%20jaula%20de%20oro.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fR9Y8vQJ/g1.jpg" group-title="Tierra de Gigantes",Tierra de Gigantes | S01E13 | Latino [1968]
+https://archive.org/download/TDG-V1/S01x13%20%20Los%20perdidos.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fR9Y8vQJ/g1.jpg" group-title="Tierra de Gigantes",Tierra de Gigantes | S01E14 | Latino [1969]
+https://archive.org/download/TDG-V1/S01x14%20%20Lavado%20de%20cerebro.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fR9Y8vQJ/g1.jpg" group-title="Tierra de Gigantes",Tierra de Gigantes | S01E15 | Latino [1969]
+https://archive.org/download/TDG-V1/S01x15%20Cazadores%20de%20recompensas.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fR9Y8vQJ/g1.jpg" group-title="Tierra de Gigantes",Tierra de Gigantes | S01E16 | Latino [1969]
+https://archive.org/download/TDG-V1/S01x16%20%20En%20una%20noche%20clara%20usted%20puede%20ver%20la%20tierra.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fR9Y8vQJ/g1.jpg" group-title="Tierra de Gigantes",Tierra de Gigantes | S01E17 | Latino [1969]
+https://archive.org/download/TDG-V1/S01x17%20%20Im%C3%A1n%20mortal.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fR9Y8vQJ/g1.jpg" group-title="Tierra de Gigantes",Tierra de Gigantes | S01E18 | Latino [1969]
+https://archive.org/download/TDG-V1/S01x18%20%20La%20noche%20de%20la%20thrombeldinbar.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fR9Y8vQJ/g1.jpg" group-title="Tierra de Gigantes",Tierra de Gigantes | S01E19 | Latino [1969]
+https://archive.org/download/TDG-V1/S01x19%20%20Los%20Siete%20Indios.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fR9Y8vQJ/g1.jpg" group-title="Tierra de Gigantes",Tierra de Gigantes | S01E20 | Latino [1969]
+https://archive.org/download/TDG-V1/S01x20%20%20Objetivo%20la%20tierra.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fR9Y8vQJ/g1.jpg" group-title="Tierra de Gigantes",Tierra de Gigantes | S01E21 | Latino [1969]
+https://archive.org/download/TDG-V1/S01x21%20Genio%20en%20el%20trabajo.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fR9Y8vQJ/g1.jpg" group-title="Tierra de Gigantes",Tierra de Gigantes | S01E22 | Latino [1969]
+https://archive.org/download/TDG-V1/S01x22%20%20Regreso%20de%20inidu.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fR9Y8vQJ/g1.jpg" group-title="Tierra de Gigantes",Tierra de Gigantes | S01E23 | Latino [1969]
+https://archive.org/download/TDG-V1/S01x23%20%20Rescate.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fR9Y8vQJ/g1.jpg" group-title="Tierra de Gigantes",Tierra de Gigantes | S01E24 | Latino [1969]
+https://archive.org/download/TDG-V1/S01x24%20%20Sabotaje.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fR9Y8vQJ/g1.jpg" group-title="Tierra de Gigantes",Tierra de Gigantes | S01E25 | Latino [1969]
+https://archive.org/download/TDG-V1/S01x25%20Juego%20de%20caracoles.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fR9Y8vQJ/g1.jpg" group-title="Tierra de Gigantes",Tierra de Gigantes | S01E26 | Latino [1969]
+https://archive.org/download/TDG-V1/S01x26%20La%20persecuci%C3%B3n.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0xKynvG/g2.jpg" group-title="Tierra de Gigantes",Tierra de Gigantes | S02E01 | Latino [1969]
+https://archive.org/download/TDG-V1/S02x1%20%20El%20hombre%20mec%C3%A1nico.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0xKynvG/g2.jpg" group-title="Tierra de Gigantes",Tierra de Gigantes | S02E02 | Latino [1969]
+https://archive.org/download/TDG-V1/S02x2%20%20Seis%20horas%20para%20vivir.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0xKynvG/g2.jpg" group-title="Tierra de Gigantes",Tierra de Gigantes | S02E03 | Latino [1969]
+https://archive.org/download/TDG-V1/S02x3%20%20La%20Gran%20Aventura.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0xKynvG/g2.jpg" group-title="Tierra de Gigantes",Tierra de Gigantes | S02E04 | Latino [1969]
+https://archive.org/download/TDG-V1/S02x4%20%20La%20Jugada%20Mortal.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0xKynvG/g2.jpg" group-title="Tierra de Gigantes",Tierra de Gigantes | S02E05 | Latino [1969]
+https://archive.org/download/TDG-V1/S02x5%20%20Lo%20Insospechado.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0xKynvG/g2.jpg" group-title="Tierra de Gigantes",Tierra de Gigantes | S02E06 | Latino [1969]
+https://archive.org/download/TDG-V1/S02x6%20%20El%20Trompetista.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0xKynvG/g2.jpg" group-title="Tierra de Gigantes",Tierra de Gigantes | S02E07 | Latino [1969]
+https://archive.org/download/TDG-V1/S02x7%20%20El%20Coleccionista.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0xKynvG/g2.jpg" group-title="Tierra de Gigantes",Tierra de Gigantes | S02E08 | Latino [1969]
+https://archive.org/download/TDG-V1/S02x8%20%20El%20Ni%C3%B1o%20Y%20El%20Perro.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0xKynvG/g2.jpg" group-title="Tierra de Gigantes",Tierra de Gigantes | S02E09 | Latino [1969]
+https://archive.org/download/TDG-V1/S02x9%20%20La%20Camara%20Del%20Terror.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0xKynvG/g2.jpg" group-title="Tierra de Gigantes",Tierra de Gigantes | S02E10 | Latino [1969]
+https://archive.org/download/TDG-V1/S02x10%20%20El%20Regreso%20Del%20Actor.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0xKynvG/g2.jpg" group-title="Tierra de Gigantes",Tierra de Gigantes | S02E11 | Latino [1969]
+https://archive.org/download/TDG-V1/S02x11%20%20Los%20Clones.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0xKynvG/g2.jpg" group-title="Tierra de Gigantes",Tierra de Gigantes | S02E12 | Latino [1969]
+https://archive.org/download/TDG-V1/S02x12%20%20Los%20Invasores.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0xKynvG/g2.jpg" group-title="Tierra de Gigantes",Tierra de Gigantes | S02E13 | Latino [1969]
+https://archive.org/download/TDG-V1/S02x13%20%20El%20Mundo%20Perdido.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0xKynvG/g2.jpg" group-title="Tierra de Gigantes",Tierra de Gigantes | S02E14 | Latino [1969]
+https://archive.org/download/TDG-V1/S02x14%20%20El%20Regreso.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0xKynvG/g2.jpg" group-title="Tierra de Gigantes",Tierra de Gigantes | S02E15 | Latino [1969]
+https://archive.org/download/TDG-V1/S02x15%20%20El%20Gigante%20Amigo.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0xKynvG/g2.jpg" group-title="Tierra de Gigantes",Tierra de Gigantes | S02E16 | Latino [1970]
+https://archive.org/download/TDG-V1/S02x16%20%20Pesadilla.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0xKynvG/g2.jpg" group-title="Tierra de Gigantes",Tierra de Gigantes | S02E17 | Latino [1970]
+https://archive.org/download/TDG-V1/S02x17%20El%20Flautista.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0xKynvG/g2.jpg" group-title="Tierra de Gigantes",Tierra de Gigantes | S02E18 | Latino [1970]
+https://archive.org/download/TDG-V1/S02x18%20%20La%20Ciudad%20Secreta.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0xKynvG/g2.jpg" group-title="Tierra de Gigantes",Tierra de Gigantes | S02E19 | Latino [1970]
+https://archive.org/download/TDG-V1/S02x19%20%20Panico.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0xKynvG/g2.jpg" group-title="Tierra de Gigantes",Tierra de Gigantes | S02E20 | Latino [1970]
+https://archive.org/download/TDG-V1/S02x20%20%20Oscuridad%20Mortal.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0xKynvG/g2.jpg" group-title="Tierra de Gigantes",Tierra de Gigantes | S02E21 | Latino [1970]
+https://archive.org/download/TDG-V1/S02x21%20%20El%20Dia%20De%20La%20Bomba.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0xKynvG/g2.jpg" group-title="Tierra de Gigantes",Tierra de Gigantes | S02E22 | Latino [1970]
+https://archive.org/download/TDG-V1/S02x22%20Una%20Peque%C3%B1a%20Guerra.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0xKynvG/g2.jpg" group-title="Tierra de Gigantes",Tierra de Gigantes | S02E23 | Latino [1970]
+https://archive.org/download/TDG-V1/S02x23%20%20Las%20Marionetas.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0xKynvG/g2.jpg" group-title="Tierra de Gigantes",Tierra de Gigantes | S02E24 | Latino [1970]
+https://archive.org/download/TDG-V1/S02x24%20%20Viaje%20Salvaje.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0xKynvG/g2.jpg" group-title="Tierra de Gigantes",Tierra de Gigantes | S02E25 | Sub Español [1970]
+https://archive.org/download/TDG-V1/S02x25%20%20Graveyard%20Of%20Fools.mp4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZLMfVr1/cal.jpg" group-title="Juego del Calamar",Juego del Calamar | S01E01 | Latino [2021]
 https://archive.org/download/94-1_20210929/1x01%20-%20Luz%20roja%2C%20luz%20verde.mp4
