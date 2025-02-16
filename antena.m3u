@@ -2,7 +2,7 @@
 #EXTINF:-1 GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 #EXTINF:-1 Para disfrutar de los canales y abrir correctamente, añade esta dirección a la aplicación IPTV PRO una vez instalada, disponible GRATIS en Google Play o bien descargala sin anuncios y completa acá: https//bit.ly/orbitaxpp  Compactible para todos tus dispositivos con Android y Google TV, TVBox, ect... 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/t4pDwvx/orbi1.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 13.02.25
+#EXTINF:-1 tvg-logo="https://i.ibb.co/t4pDwvx/orbi1.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 16.02.25
 https://pomf2.lain.la/f/572x442.mp4
 
 #EXTINF:-1 tvg-id="600ae79fa46e17000794e84c" tvg-logo="https://i.postimg.cc/gj9kH6YJ/pluto-m.jpg" tvg-chno="01" group-title="Animados | Variado",Pluto TV | MTV | Love Music (ES)
@@ -916,36 +916,9 @@ https://mitv.zplay.cl/Ztv/tracks-v1a1/mono.m3u8?token=_3X8xrfOrbW3B_
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r3ZXxVz/orbi-pride.jpg" group-title="Temporal 😜",Órbita by @guilmonzero
 https://pomf2.lain.la/f/572x442.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJLx4KZz/cinecanal.jpg" group-title="Temporal 😜",Cinecanal (LATAM)
-http://gruposatelitalhd2.com/cine15f.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/43PBNJwH/DHE.jpg" group-title="Temporal 😜",DHE (LATAM)
-http://gruposatelitalhd2.com/de15f.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzbC9n8b/ESPN1.jpg" group-title="Temporal 😜",ESPN | 1 (LATAM)
-http://gruposatelitalhd2.com/e15f.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6JX6J7Q/ESPN2.jpg" group-title="Temporal 😜",ESPN | 2 (LATAM)
-http://gruposatelitalhd2.com/e215f.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jjKbbp2S/fx2.jpg" group-title="Temporal 😜",FX (LATAM)
-http://gruposatelitalhd2.com/fx15f.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Rh5nNDJD/golden.jpg" group-title="Temporal 😜",Golden (LATAM)
-http://gruposatelitalhd2.com/golden15f.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxnqzfnP/hbo.jpg" group-title="Temporal 😜",HBO (LATAM)
-http://gruposatelitalhd2.com/h15f.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0PDnYRj/hbo2-v.jpg" group-title="Temporal 😜",HBO | 2 (LATAM)
-http://gruposatelitalhd2.com/h215f.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/prRkRR6N/hbo-xtreme.jpg" group-title="Temporal 😜",HBO | Xtreme (LATAM)
-http://gruposatelitalhd2.com/he15f.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ryHYVBwb/natgeopride.jpg" group-title="Temporal 😜",Natgeo (LATAM)
 http://187.249.112.44:9981/stream/channelid/1736818847?profile=pass
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W3yxZkjy/nick2.jpg" group-title="Temporal 😜",Nickelodeon (LATAM)
-http://gruposatelitalhd2.com/n15f.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jj18vRqY/space.jpg" group-title="Temporal 😜",Space (LATAM)
-http://gruposatelitalhd2.com/sp15f.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DyTkkpGP/star2.jpg" group-title="Temporal 😜",Star Channel (LATAM)
-http://gruposatelitalhd2.com/star15f.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXMd3BPN/tntn.jpg" group-title="Temporal 😜",TNT | Novelas (LATAM)
-http://gruposatelitalhd2.com/tno15f.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Prv41BkC/universal-comedy.jpg" group-title="Temporal 😜",Universal | Comedy (LATAM)
-http://gruposatelitalhd2.com/uc15f.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yd6H41dC/dyp.jpg" group-title="Temporal 😜",Disney | Pixar (LATAM)
 https://nxt.plus:8443/olmos/1234guz/214275
@@ -15353,15 +15326,15 @@ https://5ed7b8fd7bf40.streamlock.net:444/sharkys/sharkysbeachcam/chunklist_w5228
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4WQ85Jj/sh2.jpg" group-title="Camaras 📹",Sharkys Beach | Beach Cam | Panama City (US)
 https://5ed7b8fd7bf40.streamlock.net:444/sharkyssunset/sharkyssunsetcam/chunklist_w367109247.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d06Xc6G/du.jpg" group-title="Camaras 📹",Sloppy Joe | Duval Street | Key West | Cam 1 (US)
-https://use01-smr05-relay.ozolio.com/hls-live/_definst_/smil:relay01.vtcldi6.fd0.sm1.av2.mt1.at0.as1.dv0.sh2.rt10740.rc0.smil/chunklist_w373101683_b1596000.m3u8
+https://use01-smr05-relay.ozolio.com/hls-live/_definst_/smil:relay01.vtcldi6.fd0.sm1.av2.mt1.at0.as1.dv0.sh2.rt789.rc0.smil/chunklist_w373101683_b1596000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d06Xc6G/du.jpg" group-title="Camaras 📹",Sloppy Joe | Duval Street | Key West | Cam 2 (US)
-https://usw01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.eboldpj.fd0.sm1.av2.mt0.at0.as0.dv1.sh2.rt10740.rc0.edge.basic.stream/chunklist_w1969609476_DVR.m3u8
+https://usw01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.eboldpj.fd0.sm1.av2.mt0.at0.as0.dv1.sh2.rt789.rc0.edge.basic.stream/chunklist_w1969609476_DVR.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d06Xc6G/du.jpg" group-title="Camaras 📹",Sloppy Joe | Duval Street | Key West | Cam 3 | Stage (US)
-https://use01-smr04-relay.ozolio.com/hls-live/_definst_/smil:relay01.xnbwdi1.fd0.sm1.av2.mt1.at0.as1.dv1.sh2.rt10740.rc0.smil/chunklist_w672591909_b3096000_DVR.m3u8
+https://use01-smr04-relay.ozolio.com/hls-live/_definst_/smil:relay01.xnbwdi1.fd0.sm1.av2.mt1.at0.as1.dv1.sh2.rt789.rc0.smil/chunklist_w672591909_b3096000_DVR.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d06Xc6G/du.jpg" group-title="Camaras 📹",Sloppy Joe | Duval Street | Key West | Cam 4 | Inside (US)
-https://use01-smr05-relay.ozolio.com/hls-live/_definst_/smil:relay01.ehyzdpo.fd0.sm1.av2.mt1.at0.as1.dv1.sh2.rt10740.rc0.smil/chunklist_w63185398_b3096000_DVR.m3u8
+https://use01-smr05-relay.ozolio.com/hls-live/_definst_/smil:relay01.ehyzdpo.fd0.sm1.av2.mt1.at0.as1.dv1.sh2.rt789.rc0.smil/chunklist_w63185398_b3096000_DVR.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d06Xc6G/du.jpg" group-title="Camaras 📹",Sloppy Joe | Duval Street | Key West | Cam 5 | Eventos (US)
-https://use01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.hbeiet4.fd0.sm1.av2.mt0.at0.as0.dv1.sh2.rt10740.rc0.edge.basic.stream/chunklist_w691459356_DVR.m3u8
+https://use01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.hbeiet4.fd0.sm1.av2.mt0.at0.as0.dv1.sh2.rt789.rc0.edge.basic.stream/chunklist_w691459356_DVR.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/17cNHGM/c4.jpg" group-title="Camaras 📹",Stalder Kucher | Australia (DE)
 http://213.200.245.146:83/mjpg/video.mjpg
 #EXTINF:-1 tvg-logo="https://i.ibb.co/G74FrVm/c8.jpg" group-title="Camaras 📹",Tennessee | Elam Center (US)
