@@ -2,16 +2,8 @@
 #EXTINF:-1 GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 #EXTINF:-1 Para disfrutar de los canales y abrir correctamente, añade esta dirección a la aplicación IPTV PRO una vez instalada, disponible GRATIS en Google Play o bien descargala sin anuncios y completa acá: https//bit.ly/orbitaxpp  Compactible para todos tus dispositivos con Android y Google TV, TVBox, ect... 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/t4pDwvx/orbi1.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 17.02.25
+#EXTINF:-1 tvg-logo="https://i.ibb.co/t4pDwvx/orbi1.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 19.02.25
 https://pomf2.lain.la/f/572x442.mp4
-
-#EXTINF:-1 tvg-id="600ae79fa46e17000794e84c" tvg-logo="https://i.postimg.cc/gj9kH6YJ/pluto-m.jpg" tvg-chno="01" group-title="Animados | Variado",Pluto TV | MTV | Love Music (ES)
-https://jmp2.uk/plu-600ae79fa46e17000794e84c.m3u8
-#EXTINF:-1 tvg-id="600169ec77e6f70008fa9cf0" tvg-logo="https://i.postimg.cc/cJTrNcQ8/pluto-D.jpg" tvg-chno="02" group-title="Animados | Variado",Pluto TV | MTV | Dating (ES)
-https://jmp2.uk/plu-600169ec77e6f70008fa9cf0.m3u8
-
-#EXTINF:-1 tvg-id="675ff987f4333200087491f9" tvg-logo="https://i.postimg.cc/dV96M8Xb/pluto-r.jpg" tvg-chno="03" group-title="Animados | Variado",Pluto TV | Romances Clásicos (ES)
-https://jmp2.uk/plu-675ff987f4333200087491f9.m3u8
 
 #EXTINF:-1 tvg-id="66b0dfa1d512590008bfa7fd" tvg-logo="https://i.postimg.cc/pVgRH9CQ/pluto-g.jpg" tvg-chno="04" group-title="Animados | Variado",Pluto TV | Gore & Slasher (ES)
 https://jmp2.uk/plu-66b0dfa1d512590008bfa7fd.m3u8
@@ -847,7 +839,7 @@ http://45.176.193.222:2405/play/a061
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZYfjWdCT/unimas.jpg" group-title="Animados | Variado",Unimás (US)
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1RYB2ytx/univers2.jpg" group-title="Animados | Variado",Universo (US)
-https://nxt.plus:8443/olmos/1234guz/225186
+https://tvpass.org/live/UnivisionEast/hd/b3AyeHZSTVV3RTNJRDg2c2ZkamFqakZtTWRwc2lhOEQ0MHY4bk04eA==
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1zSFgjW5/univisio2.jpg" group-title="Animados | Variado",Univision (US)
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=hd&.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1zSFgjW5/univisio2.jpg" group-title="Animados | Variado",Univision | Opción 2 (US)
