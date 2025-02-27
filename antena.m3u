@@ -2,7 +2,7 @@
 #EXTINF:-1 GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 #EXTINF:-1 Para disfrutar de los canales y abrir correctamente, añade esta dirección a la aplicación IPTV PRO una vez instalada, disponible GRATIS en Google Play o bien descargala sin anuncios y completa acá: https//bit.ly/orbitaxpp  Compactible para todos tus dispositivos con Android y Google TV, TVBox, ect... 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/t4pDwvx/orbi1.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 26.02.25
+#EXTINF:-1 tvg-logo="https://i.ibb.co/t4pDwvx/orbi1.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 27.02.25
 https://pomf2.lain.la/f/572x442.mp4
 
 #EXTINF:-1 tvg-id="66b0dfa1d512590008bfa7fd" tvg-logo="https://i.postimg.cc/pVgRH9CQ/pluto-g.jpg" tvg-chno="04" group-title="Animados | Variado",Pluto TV | Gore & Slasher (ES)
@@ -2362,6 +2362,8 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-64ac687b4192b4e1bab96279.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Pf38Jk6w/pok.jpg" group-title="Deportes | Aventura",Poker Night in America (US)
 https://jmp2.uk/plex-643054b1fc3be59477853717-60afc726623f2f002c5bb49f.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W3gjn3fg/pow.jpg" group-title="Deportes | Aventura",Power Nation | en Español (LATAM)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01258-raycomsports-powernationspanish-canelatv/playlist.m3u8?device_id=e30ddb3ce3777703c0c8dd41578c3b71
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W3gjn3fg/pow.jpg" group-title="Deportes | Aventura",Power Nation (US)
 https://jmp2.uk/sam-USBD2500017XQ.m3u8
 
@@ -3443,6 +3445,9 @@ http://159.203.148.226/live/farra.m3u8
 http://rtmp.one.by:2300
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wxnrk5Hc/1musRu.jpg" group-title="Música 🎼",First Music | 1 Mus | 2 (RU)
 http://rtmp.one.by:1300
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4LPx9Zf/fla.jpg" group-title="Música 🎼",Flamenco Auditorio | Rakuten (ES)
+https://daiconnect.com/live/hls/tvup/rk-flamenco/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RFGmSkxj/fol.jpg" group-title="Música 🎼",Folk Klub | Bulgaria (BG)
 http://tv1.intv.mk:1935/live2/folkklub/index.m3u8
@@ -4599,10 +4604,12 @@ https://cdnhd.iblups.com/hls/SJWxXEWwUd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HkysDXmz/Euro-Channel.jpg" group-title="Películas | Series",Euro Channel (LATAM)
 http://181.78.105.146:6060/play/a00s
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HkysDXmz/Euro-Channel.jpg" group-title="Películas | Series",Euro Channel | Opción 2 (LATAM)
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zvN8rcJF/europa-europa.jpg" group-title="Películas | Series",Europa (LATAM)
 http://181.78.105.146:8800/play/a04v
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hPK5TGkq/filmco.jpg" group-title="Películas | Series",Film&Co | Runtime (ES)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5625
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PxkqJmg2/filmr-a2.jpg" group-title="Películas | Series",FilmRise | Action | Samsung TV Plus (CA)
 https://jmp2.uk/sam-CAAJ2700014EE.m3u8
@@ -5975,6 +5982,9 @@ https://jmp2.uk/sam-ESBD1300001EP.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kG2HkCLs/ben10.jpg" group-title="Mas Series 🧟",Ben 10 (LATAM)
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZYLdL0rT/be.jpg" group-title="Mas Series 🧟",Beyblade (ES)
+https://amg01796-amg01796c8-rakuten-es-5333.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-beybladees-rakutenes/playlist.m3u8?ads_amagi_channel=953&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=6421&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=e9e80696-b936-4af7-96bf-5c54759e9178&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kXMKS1Cw/blu.jpg" group-title="Mas Series 🧟",Bluey (LATAM)
 https://nxt.plus:8443/olmos/1234guz/177643
 
@@ -6754,6 +6764,17 @@ https://archive.org/serve/sl-n-la-tl-3-rr.-hd-asi-en-la-tierra-como-en-el-infier
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HLw5bC6M/bar.jpg" group-title="Mas Películas 🎃",Barbie | 2023 | Latino
 https://archive.org/download/cine-animado/Barbie%20%282023%29.ia.mp4
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y92P1gf5/bat1.jpg" group-title="Mas Películas 🎃",Batman | 1 | 1989 | Latino
+https://archive.org/download/004_20200426_202004/004.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhM1x2VS/bat2.jpg" group-title="Mas Películas 🎃",Batman | 2 | Regresa | 1992 | Latino
+https://archive.org/download/bartofinal/bartofinal.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0xYVwCP/bat3.jpg" group-title="Mas Películas 🎃",Batman | 3 | Inicia | 2005 | Latino
+https://dl.dropbox.com/scl/fi/4fwhxs6653pq879gihtpu/B4TM4N-1.mp4?rlkey=iosy7aiq42i6igi90gqpkop50
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x145j3YC/bat4.jpg" group-title="Mas Películas 🎃",Batman | 4 | El Caballero de la Noche | 2008 | Latino
+https://dl.dropbox.com/scl/fi/ks1rvgyvq0o0sfxjcu59p/B4TM4N2.mp4?rlkey=z8ojp6y3dmxnflh7dz3a8vp2k
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0jWHqRyW/bat5.jpg" group-title="Mas Películas 🎃",Batman | 5 | Asciende | 2012 | Latino
+https://archive.org/download/BMCDLNA/BMCDLNA.avi
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t4vdzWXC/be.jpg" group-title="Mas Películas 🎃",Beetlejuice | 1988 | Latino
 https://archive.org/serve/beetlejuice_202212/Beetlejuice.mp4
 
@@ -6802,6 +6823,9 @@ https://archive.org/download/videoplayback21_20200323/sub1d0_p4r4_5tr34ming_P5F1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L6qkDtBw/co3.jpg" group-title="Mas Películas 🎃",Cómo Entrenar a Tu Dragón | 3 | 2019 | Latino
 https://archive.org/download/videoplayback21_20200323/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback4.mp4
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTSW-YhCN/cont.jpg" group-title="Mas Películas 🎃",Contagio | 2011 | Latino
+https://archive.org/download/53843645/5384_3645.mp4
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ncr3059k/cr.jpg" group-title="Mas Películas 🎃",Cronica de Un Niño Solo | 1965 | Latino
 https://archive.org/serve/cronica-de-un-nino-solo-1965/Cronica%20de%20un%20ni%C3%B1o%20solo%281965%29.mp4
 
@@ -6812,6 +6836,11 @@ https://dl.dropbox.com/s/a19ebhbl3ard2li/Cuentos%20de%20la%20cripta%20Burdel%20d
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Gp8q6q25/dar.jpg" group-title="Mas Películas 🎃",Dark Skies | 2013 | Latino
 https://archive.org/serve/dark.-skies.-2013.latino-e-ingles-subt/Dark.Skies.2013.latino-e-ingles-subt.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXydY0PZ/dea1.jpg" group-title="Mas Películas 🎃",Deadpool | 1 | 2016 | Latino
+https://archive.org/download/42_20210331/42.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZRTb9Hf6/dea2.jpg" group-title="Mas Películas 🎃",Deadpool | 2 | 2018 | Latino
+https://archive.org/download/43_20210331/43.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d09R2x7f/d1.jpg" group-title="Mas Películas 🎃",Destino Final | 1 | 2000 | Latino
 https://archive.org/serve/destino-final-1-2002-en-latino/Destino%20final%201%20%282002%29%20EN%20LATINO.mp4
@@ -6928,12 +6957,20 @@ https://archive.org/serve/espejos-siniestro-1-lat-720p-id-13515/Espejos%20Sinies
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsKKZynF/es.jpg" group-title="Mas Películas 🎃",Este cuerpo no es mio | 2002 | Latino
 https://ia601600.us.archive.org/1/items/est-3-cuer-o-no-es-el-m-o-dvdrip-797213/Est3_cuer_o_no_es_el_m_o_DVDRip__797213.mp4
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2jLy62Gq/et.jpg" group-title="Mas Películas 🎃",ET: El Extraterrestre | 1982 | Latino
+https://archive.org/download/elex_20210814_202108/elex.mkv
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fRQ9nrh7/ev1.jpg" group-title="Mas Películas 🎃",Evil Dead | 1 | 1981 | Latino
 https://archive.org/download/thede1981/aaa/thede1981.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vTHcHJZk/ev3.jpg" group-title="Mas Películas 🎃",Evil Dead | 3 | 1992 | Latino
+https://archive.org/download/eldespertardeldiablo3elejercitodelastinieblas/El%20Despertar%20del%20Diablo%203%20-%20El%20ej%C3%A9rcito%20de%20las%20tinieblas.avi
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZRHGZggW/ev4.jpg" group-title="Mas Películas 🎃",Evil Dead | 4 | 2013 | Remake | Latino
 https://archive.org/serve/posesion-infernal-evil-dead/Posesi%C3%B3n%20infernal%20%28Evil%20Dead%29.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XJDFYDYW/ev5.jpg" group-title="Mas Películas 🎃",Evil Dead | 5 | 2023 | El Despertar | Latino | Dual
 https://dl.dropbox.com/s/a8nzs31svdlt9md/3v1ld3ad.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kGhpYzfW/ex.jpg" group-title="Mas Películas 🎃",Ex Máquina | 2014 | Latino
+https://ia601505.us.archive.org/21/items/face8d50-86b3-11ea-9ec8-2fed9c96a746/face8d50-86b3-11ea-9ec8-2fed9c96a746.MP4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6Qw6gb1P/f.jpg" group-title="Mas Películas 🎃",Feliz Navidad | 2022 | Latino
 https://archive.org/serve/christmas-bloody-christmas-feliz-navidad-2022/Christmas%20Bloody%20Christmas%20Feliz%20Navidad%202022.ia.mp4
@@ -7087,6 +7124,19 @@ https://archive.org/download/la-profecia/La%20Profec%C3%ADa%203.ia.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zvy1Xs0C/om4.jpg" group-title="Mas Películas 🎃",La Profecía | 4 | 1991 | Renacer | Latino
 https://archive.org/download/la-profecia/La%20Profec%C3%ADa%204.ia.mp4
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Ryn531L/lap.jpg" group-title="Mas Películas 🎃",La Propuesta | 2009 | Latino
+https://archive.org/download/124211/124211.avi
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fT72zPKv/late.jpg" group-title="Mas Películas 🎃",La Terminal | 2004 | Latino
+https://ia601401.us.archive.org/25/items/5014771701339128124/1_5014771701339128124.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VkdrRNLh/to1.jpg" group-title="Mas Películas 🎃",Las Tortugas Ninja | 1 | 1990 | Latino
+https://archive.org/download/las-tortugas-ninja_202106/Las%20Tortugas%20Ninja.avi
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/85V7NBB8/to2.jpg" group-title="Mas Películas 🎃",Las Tortugas Ninja | 2 | 1991 | El Secreto del Ooze | Latino
+https://archive.org/download/las-tortugas-ninja-2-the-secret-of-the-ooze_202106/Las%20Tortugas%20Ninja%202%20The%20Secret%20Of%20The%20Ooze.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFsLrszp/to3.jpg" group-title="Mas Películas 🎃",Las Tortugas Ninja | 3 | 1993 | Latino
+https://archive.org/download/las-tortugas-ninja-3-the-turtles-are-back-in-time_202106/Las%20Tortugas%20Ninja%203%20The%20Turtles%20Are%20Back%20In%20Time.avi
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsp3DJsy/lat.jpg" group-title="Mas Películas 🎃",La Torre Oscura | 2017 | Latino
 https://dl.dropbox.com/scl/fi/z3sozvh6iniy8xtup4y6k/T0rr30scur4.mp4?rlkey=1vqqbrm8c5hpfkqrg1ej8ihs3
 
@@ -7165,6 +7215,9 @@ https://archive.org/serve/may-2002-vose-anydownloader.com-1/may-2002-vose-anydow
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hn25d2WB/m3.jpg" group-title="Mas Películas 🎃",M3gan | 2023 | Latino
 https://dl.dropbox.com/s/4w81gjxtx8p9x4m/M3G4N.mp4
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdmBQP5S/men.jpg" group-title="Mas Películas 🎃",Mentiroso Mentiroso | 1997 | Latino
+https://archive.org/download/mentiroso-mentiroso/Mentiroso%20Mentiroso/MENTIROSO%20MENTIROSO.mkv
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gkNbcCTF/ro.jpg" group-title="Mas Películas 🎃",Mi Amigo Robot | 2023 | Latino
 https://dl.dropbox.com/scl/fi/j6zz8asik2juc8xq3oguq/RBD.mp4?rlkey=jjwls5sfsk8lwstiz38je7o60
 
@@ -7186,6 +7239,9 @@ https://archive.org/download/PELISTERR/Nadie%20podra%CC%81%20salvarte%20-%20No%2
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fyDpKkB1/nor.jpg" group-title="Mas Películas 🎃",Norbit | 2007 | Latino
 https://ia601608.us.archive.org/33/items/n-0rb-1-tt-hd-1080p-702145/N0rb1Tt_HD__1080p___702145.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0jzqXVVT/not.jpg" group-title="Mas Películas 🎃",No te metas con Zohan | 2008 | Latino
+https://archive.org/download/proyecto-u-2/ProyectoU2.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QCFzxbRY/ou1.jpg" group-title="Mas Películas 🎃",Ouija | 1 | 2014 | Latino
 https://archive.org/download/PELISTERR/Ouija%20%282014%29.ia.mp4
@@ -7275,9 +7331,6 @@ https://dl.dropbox.com/s/3j9008mrfc7tp6e/4.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/52RtVM1m/sca5.jpg" group-title="Mas Películas 🎃",Scary Movie | 5 | 2013 | Latino
 https://dl.dropbox.com/s/sw7s218nbxw064z/5.mp4
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjhKrm3D/si1.jpg" group-title="Mas Películas 🎃",Siniestro | 1 | 2012 | Latino
-https://archive.org/download/siniestro-2012-latino/Siniestro%202012%20Latino.mp4
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/P5v8fPmn/sco.jpg" group-title="Mas Películas 🎃",Scooby! | 2020 | Latino
 https://archive.org/download/videoplayback37_202011/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback17.mkv
 
@@ -7321,6 +7374,9 @@ https://archive.org/download/sh3_20200512/sh3.avi
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXJqs0Hy/sh4.jpg" group-title="Mas Películas 🎃",Shrek | 4 | 2010 | Latino
 https://archive.org/download/00400_20190920/00400.mkv
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjhKrm3D/si1.jpg" group-title="Mas Películas 🎃",Siniestro | 1 | 2012 | Latino
+https://archive.org/download/siniestro-2012-latino/Siniestro%202012%20Latino.mp4
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d11QnSW-p/sm.jpg" group-title="Mas Películas 🎃",Sonríe | 2022 | Latino
 https://dl.dropbox.com/s/nr8czlw9r2bw1m2/SMILL3.mp4
 
@@ -7329,6 +7385,19 @@ https://dl.dropbox.com/s/p1l2cs9njbqbawk/space%20jam.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nLrBtr1N/sp2.jpg" group-title="Mas Películas 🎃",Space Jam | 2 | Una Nueva Era | 2021 | Latino
 https://archive.org/download/manguera_20210716_1602/Nu3v4%203r4.mkv
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnwfSw-zc/spi1.jpg" group-title="Mas Películas 🎃",Spiderman | 1 | 2002 | Latino
+https://archive.org/download/sapito1/sapito/sapito%201.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJwRb2ZM/spi2.jpg" group-title="Mas Películas 🎃",Spiderman | 2 | 2004 | Latino
+https://archive.org/download/ana_20200213/ANA.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wMgSThJ1/spi3.jpg" group-title="Mas Películas 🎃",Spiderman | 3 | 2007 | Latino
+https://archive.org/download/valores_202103/valor/valores.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6qcF7yLY/spi5.jpg" group-title="Mas Películas 🎃",Spiderman | 5 | 2014 | 2 | La Amenaza de Electro | Latino
+https://archive.org/download/ara-2014/ARA2014.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nVGySPbB/spi6.jpg" group-title="Mas Películas 🎃",Spiderman | 6 | 2017 | 3 | De Regreso a Casa | Latino
+https://archive.org/download/baby721/22142.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JrPsFY6/spi7.jpg" group-title="Mas Películas 🎃",Spiderman | 7 | 2021 | Sin Camino a Casa | Latino
+https://dl.dropbox.com/s/feqz4gbncsnnvp4/5p1derm4n.mkv
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/B6HL32tz/star.jpg" group-title="Mas Películas 🎃",Star Kid | 1997 | Latino
 https://pomf2.lain.la/f/cl528oh9.webm
 
@@ -7336,6 +7405,9 @@ https://pomf2.lain.la/f/cl528oh9.webm
 https://ia601605.us.archive.org/33/items/strt-lie-hd-720p-1114547/Strt_Lie_HD__720p___1114547.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QNbvdxG0/st2.jpg" group-title="Mas Películas 🎃",Stuar Litle | 2 | La Aventura Continúa | 2002 | Latino
 https://ia904707.us.archive.org/20/items/stut-lie-2-hd-720p-1156879/Stut_Lie_2_HD__720p___1156879.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Z54GMRv4/supe.jpg" group-title="Mas Películas 🎃",Super 8 | 2011 | Latino
+https://archive.org/download/su8_20210814/su8.mkv
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L8Wp3VkS/sup.jpg" group-title="Mas Películas 🎃",Super Can | 2007 | Latino
 https://archive.org/download/cine-animado/Supercan%20%282007%29.ia.mp4
@@ -7376,6 +7448,9 @@ https://ia601402.us.archive.org/21/items/1e08_20191210/f163.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wBT3V9kr/tin.jpg" group-title="Mas Películas 🎃",Tiny Toon | Mis Mejores Vacaciones | 1992 | Latino
 https://archive.org/serve/3110-tiny-toon-mis-mejores-vacaciones-1992-dvdrip-d-s-spa-eng-v_202402/3110-Tiny%20Toon%20Mis%20Mejores%20Vacaciones%20%281992%29%20DVDRip%20D%20S%20spa%20eng%20v.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j5Nk6fdK/ti.jpg" group-title="Mas Películas 🎃",Titanic | 1997 | Latino
+https://archive.org/download/001_20200216/001.mkv
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXTNDkB1/tom1.jpg" group-title="Mas Películas 🎃",Tom y Jerry | El Anillo Mágico | 2001 | Latino
 https://archive.org/download/tom-and-jerry-the-magic-ring.-2002.2.0/Tom%20and%20Jerry%20The%20Magic%20Ring.2002.2.0.mkv
@@ -7868,6 +7943,8 @@ https://jmp2.uk/plu-5e6a4d875d7ccf0007cc2cf1.m3u8
 https://jmp2.uk/plu-645d1abbe1979c0008779d5a.m3u8
 #EXTINF:-1 channel-id="5efb8c19b2678b000780d032" tvg-id="5efb8c19b2678b000780d032" tvg-logo="https://images.pluto.tv/channels/5efb8c19b2678b000780d032/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Archivos Forenses
 https://jmp2.uk/plu-5efb8c19b2678b000780d032.m3u8
+#EXTINF:-1 channel-id="6759ee82bd523200083b4f0f" tvg-id="6759ee82bd523200083b4f0f" tvg-logo="https://images.pluto.tv/channels/6759ee82bd523200083b4f0f/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Avatar: La Leyenda de Aang
+https://jmp2.uk/plu-6759ee82bd523200083b4f0f.m3u8
 #EXTINF:-1 channel-id="5ddc266f80e3550009136843" tvg-id="5ddc266f80e3550009136843" tvg-logo="https://images.pluto.tv/channels/5ddc266f80e3550009136843/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Aventura
 https://jmp2.uk/plu-5ddc266f80e3550009136843.m3u8
 #EXTINF:-1 channel-id="65cf60d166eec80008724e6f" tvg-id="65cf60d166eec80008724e6f" tvg-logo="https://images.pluto.tv/channels/65cf60d166eec80008724e6f/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Azteca | Deportes Premium
@@ -7890,6 +7967,8 @@ https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
 https://jmp2.uk/plu-6099600015e88c0007ecda25.m3u8
 #EXTINF:-1 channel-id="656f37f257fe4a000884dfee" tvg-id="656f37f257fe4a000884dfee" tvg-logo="https://images.pluto.tv/channels/656f37f257fe4a000884dfee/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Boruto: Naruto Next Generations
 https://jmp2.uk/plu-656f37f257fe4a000884dfee.m3u8
+#EXTINF:-1 channel-id="678029c654f43dad4b5c1ec0" tvg-id="678029c654f43dad4b5c1ec0" tvg-logo="https://images.pluto.tv/channels/678029c654f43dad4b5c1ec0/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Bromas Gags
+https://jmp2.uk/plu-678029c654f43dad4b5c1ec0.m3u8
 #EXTINF:-1 channel-id="652e91fd6208700008dcaf7b" tvg-id="652e91fd6208700008dcaf7b" tvg-logo="https://images.pluto.tv/channels/652e91fd6208700008dcaf7b/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Canal 6 | CdMX
 https://jmp2.uk/plu-652e91fd6208700008dcaf7b.m3u8
 #EXTINF:-1 channel-id="64666345f3f5b1000882bfb4" tvg-id="64666345f3f5b1000882bfb4" tvg-logo="https://images.pluto.tv/channels/64666345f3f5b1000882bfb4/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Captain Tsubasa
@@ -8060,6 +8139,8 @@ https://jmp2.uk/plu-5dcde2f53449c50009b2b4dc.m3u8
 https://jmp2.uk/plu-5f230e416b68ff00075b0139.m3u8
 #EXTINF:-1 channel-id="5f610042272f68000867685b" tvg-id="5f610042272f68000867685b" tvg-logo="https://images.pluto.tv/channels/5f610042272f68000867685b/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Misterios sin Resolver
 https://jmp2.uk/plu-5f610042272f68000867685b.m3u8
+#EXTINF:-1 channel-id="673b4d992fb8a1000844292e" tvg-id="673b4d992fb8a1000844292e" tvg-logo="https://images.pluto.tv/channels/673b4d992fb8a1000844292e/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Modus Super Series Darts
+https://jmp2.uk/plu-673b4d992fb8a1000844292e.m3u8
 #EXTINF:-1 channel-id="60e5ea9a9bb4200008376f76" tvg-id="60e5ea9a9bb4200008376f76" tvg-logo="https://images.pluto.tv/channels/60e5ea9a9bb4200008376f76/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Motorvision TV
 https://jmp2.uk/plu-60e5ea9a9bb4200008376f76.m3u8
 #EXTINF:-1 channel-id="5fab088b3279760007d4e4fd" tvg-id="5fab088b3279760007d4e4fd" tvg-logo="https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG.png" group-title="Pluto TV | Latino" ,MTV
@@ -8130,6 +8211,8 @@ https://jmp2.uk/plu-6495c6ad115d060008bf6b52.m3u8
 https://jmp2.uk/plu-64f6163a30ab3300083d870e.m3u8
 #EXTINF:-1 channel-id="5e98b0447665f200078caded" tvg-id="5e98b0447665f200078caded" tvg-logo="https://images.pluto.tv/channels/5e98b0447665f200078caded/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Peleas
 https://jmp2.uk/plu-5e98b0447665f200078caded.m3u8
+#EXTINF:-1 channel-id="677d93afe650a700081e5f18" tvg-id="677d93afe650a700081e5f18" tvg-logo="https://images.pluto.tv/channels/677d93afe650a700081e5f18/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Popeye
+https://jmp2.uk/plu-677d93afe650a700081e5f18.m3u8
 #EXTINF:-1 channel-id="6643b8c42eafd40008daab8b" tvg-id="6643b8c42eafd40008daab8b" tvg-logo="https://images.pluto.tv/channels/6643b8c42eafd40008daab8b/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Pride TV
 https://jmp2.uk/plu-6643b8c42eafd40008daab8b.m3u8
 #EXTINF:-1 channel-id="5dcde197f6591d0009839e04" tvg-id="5dcde197f6591d0009839e04" tvg-logo="https://images.pluto.tv/channels/5dcde197f6591d0009839e04/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Reality
@@ -8206,6 +8289,10 @@ https://jmp2.uk/plu-5ea71d48af1d0b0007d837f4.m3u8
 https://jmp2.uk/plu-5ebacbcae43a6d000787b88e.m3u8
 #EXTINF:-1 channel-id="5ff608e60e2996000768c366" tvg-id="5ff608e60e2996000768c366" tvg-logo="https://images.pluto.tv/channels/5ff608e60e2996000768c366/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Tokusato
 https://jmp2.uk/plu-5ff608e60e2996000768c366.m3u8
+#EXTINF:-1 channel-id="67a52cd4ec91870008a62164" tvg-id="67a52cd4ec91870008a62164" tvg-logo="https://images.pluto.tv/channels/67a52cd4ec91870008a62164/colorLogoPNG.png" group-title="Pluto TV | Latino" ,UFC
+https://jmp2.uk/plu-67a52cd4ec91870008a62164.m3u8
+#EXTINF:-1 channel-id="678533155e0e6a000828cd48" tvg-id="678533155e0e6a000828cd48" tvg-logo="https://images.pluto.tv/channels/678533155e0e6a000828cd48/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Untold Stories Of The ER
+https://jmp2.uk/plu-678533155e0e6a000828cd48.m3u8
 #EXTINF:-1 channel-id="5dd6dc7480e3550009133d4a" tvg-id="5dd6dc7480e3550009133d4a" tvg-logo="https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Velocidad
 https://jmp2.uk/plu-5dd6dc7480e3550009133d4a.m3u8
 #EXTINF:-1 channel-id="5dcddfbdb7cf0e0009ae09ea" tvg-id="5dcddfbdb7cf0e0009ae09ea" tvg-logo="https://images.pluto.tv/channels/5dcddfbdb7cf0e0009ae09ea/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Viajes
