@@ -2,7 +2,7 @@
 #EXTINF:-1 GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 #EXTINF:-1 Para disfrutar de los canales y abrir correctamente, añade esta dirección a la aplicación IPTV PRO una vez instalada, disponible GRATIS en Google Play o bien descargala sin anuncios y completa acá: https//bit.ly/orbitaxpp  Compactible para todos tus dispositivos con Android y Google TV, TVBox, ect... 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/t4pDwvx/orbi1.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 28.02.25
+#EXTINF:-1 tvg-logo="https://i.ibb.co/t4pDwvx/orbi1.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 01.03.25
 https://pomf2.lain.la/f/572x442.mp4
 
 #EXTINF:-1 tvg-id="66b0dfa1d512590008bfa7fd" tvg-logo="https://i.postimg.cc/pVgRH9CQ/pluto-g.jpg" tvg-chno="04" group-title="Animados | Variado",Pluto TV | Gore & Slasher (ES)
@@ -857,7 +857,7 @@ http://45.176.193.222:2405/play/a061
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZYfjWdCT/unimas.jpg" group-title="Animados | Variado",Unimás (US)
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1RYB2ytx/univers2.jpg" group-title="Animados | Variado",Universo (US)
-https://tvpass.org/live/UnivisionEast/hd/b3AyeHZSTVV3RTNJRDg2c2ZkamFqakZtTWRwc2lhOEQ0MHY4bk04eA==
+http://supersonictv.live:8080/443870/997140/22173
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1zSFgjW5/univisio2.jpg" group-title="Animados | Variado",Univision (US)
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=hd&.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1zSFgjW5/univisio2.jpg" group-title="Animados | Variado",Univision | Opción 2 (US)
@@ -866,6 +866,8 @@ http://45.5.117.182:8000/play/a2jq/index.m3u8
 https://nxt.plus:8443/olmos/1234guz/24531
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1zSFgjW5/univisio2.jpg" group-title="Animados | Variado",Univision | Opción 4 (US)
 http://tvmate.icu:8080/6025505794/osmanmata@gmail.com/108248
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zSFgjW5/univisio2.jpg" group-title="Animados | Variado",Univision | Opción 5 (US)
+http://yesimes.oknirvana.club:8880/D12m3577/71335529/60204
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WpDFT1pk/Varied24.jpg" group-title="Animados | Variado",Varied TV (AR)
 https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
@@ -2090,8 +2092,23 @@ https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HxYVjHC6/foxsports-US2.jpg" group-title="Deportes | Aventura",FOX Sports | 1 (US)
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjz2nBYf/foxdeportes.jpg" group-title="Deportes | Aventura",FOX Sports | En Español (MX)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjz2nBYf/foxdeportes.jpg" group-title="Deportes | Aventura",FOX Sports | En Español | Tubi (MX)
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJDr6TH5/foxsports-1-AR.jpg" group-title="Deportes | Aventura",FOX Sports | 1 (AR)
+http://yesimes.oknirvana.club:8880/D12m3577/71335529/49712
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFt9sW-0P/foxs1mx.jpg" group-title="Deportes | Aventura",FOX Sports | 1 (MX)
+http://190.61.117.35:8000/play/a05n
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFt9sW-0P/foxs1mx.jpg" group-title="Deportes | Aventura",FOX Sports | Opción 2 (MX)
+http://yesimes.oknirvana.club:8880/D12m3577/71335529/51377
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4y1KmB74/foxs2mx.jpg" group-title="Deportes | Aventura",FOX Sports | 2 (MX)
+http://181.78.106.127:9000/play/ca032/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4y1KmB74/foxs2mx.jpg" group-title="Deportes | Aventura",FOX Sports | 2 | Opción 2 (MX)
+http://yesimes.oknirvana.club:8880/D12m3577/71335529/49713
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tfB9pb9/foxsports-3-AR.jpg" group-title="Deportes | Aventura",FOX Sports | 3 (AR)
+http://yesimes.oknirvana.club:8880/D12m3577/71335529/49712
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J4FLLj09/foxs2mxp.jpg" group-title="Deportes | Aventura",FOX Sports | Premium (MX)
+http://190.61.117.35:8000/play/a04a
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cTn1bXx/fubo.jpg" group-title="Deportes | Aventura",Fubo Sports Network | Tubi (US)
 https://live-manifest.production-public.tubi.io/live/7cb342e2-20b7-4209-90d8-36e6797b06ac/playlist.m3u8
@@ -4355,9 +4372,6 @@ https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qqsLZVmd/amc-story.jpg" group-title="Películas | Series",AMC | Stories (US)
 https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLM1HRD6/ante.jpg" group-title="Películas | Series",Antenna TV (US)
-http://fl3.moveonjoy.com/Antenna/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YS7LT1QL/asianc.jpg" group-title="Películas | Series",Asian Crush (US)
 https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
 
@@ -4498,9 +4512,6 @@ https://minerva-cinemasegreto-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tJWZYnMX/cinemax-la.jpg" group-title="Películas | Series",Cinemax (US)
 http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwLMBp5Y/cinemamo.jpg" group-title="Películas | Series",Cine Mo! | Filipinas (PH)
-https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W33sTc8n/cinerama.jpg" group-title="Películas | Series",Cinerama (BO)
 https://5d00db0e0fcd5.streamlock.net/7062/7062/.m3u8
 
@@ -4564,25 +4575,25 @@ https://jmp2.uk/str-6408.m3u8
 https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kg0ycf0H/douyu.jpg" group-title="Películas | Series",Douyu | 1 (CN)
-http://epg.112114.xyz/douyu/4332
+http://epg.112114.xyz/douyu/4246519
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kg0ycf0H/douyu.jpg" group-title="Películas | Series",Douyu | 2 (CN)
-http://epg.112114.xyz/douyu/6140589
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kg0ycf0H/douyu.jpg" group-title="Películas | Series",Douyu | 3 (CN)
-http://epg.112114.xyz/douyu/8770422
+http://epg.112114.xyz/douyu/122402
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kg0ycf0H/douyu.jpg" group-title="Películas | Series",Douyu | 4 (CN)
 http://epg.112114.xyz/douyu/747764
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kg0ycf0H/douyu.jpg" group-title="Películas | Series",Douyu | 5 (CN)
-http://epg.112114.xyz/douyu/52787
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kg0ycf0H/douyu.jpg" group-title="Películas | Series",Douyu | 6 (CN)
-http://epg.112114.xyz/douyu/36337
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kg0ycf0H/douyu.jpg" group-title="Películas | Series",Douyu | 7 (CN)
-http://epg.112114.xyz/douyu/8814650
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kg0ycf0H/douyu.jpg" group-title="Películas | Series",Douyu | 8 (CN)
-http://epg.112114.xyz/douyu/263824
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kg0ycf0H/douyu.jpg" group-title="Películas | Series",Douyu | 9 (CN)
-http://epg.112114.xyz/douyu/323876
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kg0ycf0H/douyu.jpg" group-title="Películas | Series",Douyu | 10 (CN)
-http://epg.112114.xyz/douyu/2516864
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KcHXq50V/drama.jpg" group-title="Películas | Series",Drama Life | Pluto TV (US)
 https://jmp2.uk/sam-USAJ26000015Y.m3u8
@@ -12754,7 +12765,7 @@ https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FKpN9Bt8/teletica1.jpg" group-title="Costa Rica 🇨🇷",Canal 7 | Teletica (CR)
-https://acceso.radiosportstv.online:3203/stream/play.m3u8
+http://supersonictv.live:8080/443870/997140/11480
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FKpN9Bt8/teletica1.jpg" group-title="Costa Rica 🇨🇷",Canal 7 | Teletica | Opción 2 (CR)
 https://nxt.plus:8443/olmos/1234guz/46875
 
