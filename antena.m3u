@@ -2,7 +2,7 @@
 #EXTINF:-1 GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 #EXTINF:-1 Para disfrutar de los canales y abrir correctamente, añade esta dirección a la aplicación IPTV PRO una vez instalada, disponible GRATIS en Google Play o bien descargala sin anuncios y completa acá: https//bit.ly/orbitaxpp  Compactible para todos tus dispositivos con Android y Google TV, TVBox, ect... 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/t4pDwvx/orbi1.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 02.03.25
+#EXTINF:-1 tvg-logo="https://i.ibb.co/t4pDwvx/orbi1.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 09.03.25
 https://pomf2.lain.la/f/572x442.mp4
 
 #EXTINF:-1 tvg-id="66b0dfa1d512590008bfa7fd" tvg-logo="https://i.postimg.cc/pVgRH9CQ/pluto-g.jpg" tvg-chno="04" group-title="Animados | Variado",Pluto TV | Gore & Slasher (ES)
@@ -290,7 +290,7 @@ https://jmp2.uk/sam-US22000020U.m3u8
 https://jmp2.uk/sam-US2200003ZN.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9Q8pXs2M/dark.jpg" group-title="Animados | Variado",Dark (ES)
-http://185.233.16.53:80/play/te815870/bcNnDrY75wW/636331.ts
+http://smvp6.maxmea.xyz:80/live/me819597/jDGcdW3Qway/636331.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6qQPRspm/5tvcl.jpg" group-title="Animados | Variado",Diario | TV 5 (CL)
 https://vdochile.com:3317/stream/play.m3u8
@@ -574,6 +574,7 @@ https://daiconnect.com/live/hls/tvup/tvfy-mundoseries/.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L50q5Ht1/neox.jpg" group-title="Animados | Variado",Neox (ES)
 http://185.189.225.150:85/neox/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L4cdLcxk/neox2.jpg" group-title="Animados | Variado",Neox | Opción 2 (ES)
+http://smvp6.maxmea.xyz:80/live/me819597/jDGcdW3Qway/321375.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vHf5pTQD/neoxtv.jpg" group-title="Animados | Variado",Neox TV (AR)
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
@@ -930,9 +931,6 @@ https://mitv.zplay.cl/Ztv/tracks-v1a1/mono.m3u8?token=_3X8xrfOrbW3B_
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r3ZXxVz/orbi-pride.jpg" group-title="Temporal 😜",Órbita by @guilmonzero
 https://pomf2.lain.la/f/572x442.mp4
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ryHYVBwb/natgeopride.jpg" group-title="Temporal 😜",Natgeo (LATAM)
-http://187.249.112.44:9981/stream/channelid/1736818847?profile=pass
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yd6H41dC/dyp.jpg" group-title="Temporal 😜",Disney | Pixar (LATAM)
 https://nxt.plus:8443/olmos/1234guz/214275
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T3Jxk7js/cla.jpg" group-title="Temporal 😜",Clásicos Disney (LATAM)
@@ -1232,8 +1230,6 @@ https://jmp2.uk/str-5297.m3u8
 http://45.5.117.182:8000/play/a0e1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BQPgNQrW/film-arts.jpg" group-title="Ciencia | Cultura 🪐",Film & Arts | Opción 2 (AR)
 http://216.122.181.10:8081/play/a0i6/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQPgNQrW/film-arts.jpg" group-title="Ciencia | Cultura 🪐",Film & Arts | Opción 3 (AR)
-http://187.249.112.44:9981/stream/channelid/174605396?profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jS9GKHFH/fli.jpg" group-title="Ciencia | Cultura 🪐",Flipping Nation | by A&E (US)
 https://jmp2.uk/sam-USBD4200008RS.m3u8
@@ -2126,9 +2122,13 @@ http://181.78.105.146:8800/play/a052
 http://45.170.225.212:48001/play/a0a8/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pTn8xr3B/futv.jpg" group-title="Deportes | Aventura",FUTV | Opción 3 (CR)
 http://216.122.181.10:8081/play/a0n9/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pTn8xr3B/futv.jpg" group-title="Deportes | Aventura",FUTV | Opción 4 (CR)
+45.5.116.178:8000/play/a04j/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pTn8xr3B/futv.jpg" group-title="Deportes | Aventura",FUTV | SD (CR)
 http://181.78.105.146:8800/play/a06e
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pTn8xr3B/futv.jpg" group-title="Deportes | Aventura",FUTV | SD | Opción 2 (CR)
+http://45.5.116.178:8000/play/a05k/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8zBBLcGd/garagetv.jpg" group-title="Deportes | Aventura",Garage TV (AR)
 https://stream1.sersat.com/hls/garagetv.m3u8
@@ -2486,12 +2486,12 @@ https://jmp2.uk/sam-USBC600001QL.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/25MnLnDW/tdmas.jpg" group-title="Deportes | Aventura",TD+ (CR)
 http://181.78.105.146:8800/play/a00p
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/25MnLnDW/tdmas.jpg" group-title="Deportes | Aventura",TD+ | Opción 2 (CR)
-http://204.157.251.250:8000/play/a06b/index.m3u8
+http://45.5.116.178:8000/play/a00h/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QtD1qhFN/tdmas2.jpg" group-title="Deportes | Aventura",TD+ | 2 (CR)
 http://181.78.105.146:6060/play/a01d
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QtD1qhFN/tdmas2.jpg" group-title="Deportes | Aventura",TD+ | 2 | Opción 2 (CR)
-http://204.157.251.250:8000/play/a06c/index.m3u8
+http://45.5.116.178:8000/play/a00i/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjmvNXBq/tdp.jpg" group-title="Deportes | Aventura",TDP | TeleDeporte (ES)
 https://jmp2.uk/sam-ESBC410000577.m3u8
@@ -2515,7 +2515,8 @@ https://jmp2.uk/str-5300.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jj8R9Nph/tigosports.jpg" group-title="Deportes | Aventura",Tigo Sports (CR)
 http://45.170.225.212:48001/play/a09f/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jj8R9Nph/tigosports.jpg" group-title="Deportes | Aventura",Tigo Sports (GT)
+http://181.78.105.146:2000/play/a08e/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jj8R9Nph/tigosports.jpg" group-title="Deportes | Aventura",Tigo Sports (SV)
 https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
 
@@ -4973,8 +4974,7 @@ https://tv.streaming-chile.com:19360/8140/8140.m3u8
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-608083444363b700366942df.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J7Qc4ss6/Tln.jpg" group-title="Películas | Series",TLN | Novelas (LATAM)
-http://187.249.112.44:9981/stream/channelid/1283072187?profile=pass
-
+http://181.78.105.146:2000/play/a08d/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4x7jGdXX/tln2.jpg" group-title="Películas | Series",TLN | Novelas | Televisa (IT)
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 
@@ -5892,9 +5892,6 @@ http://190.60.49.244:4000/play/a073
 https://pomf2.lain.la/f/572x442.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0NLnLzck/2perros.jpg" group-title="Mas Series 🧟",2 Perros Tontos (LATAM)
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/v84XZQwV/21j.jpg" group-title="Mas Series 🧟",21 Jump Street (US)
-https://jmp2.uk/sam-USBB320000397.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cLySxj0T/60.jpg" group-title="Mas Series 🧟",60 Days In | by A&E (US)
 https://jmp2.uk/sam-USBD42000073E.m3u8
 
@@ -5910,18 +5907,8 @@ https://nxt.plus:8443/olmos/1234guz/140882
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T3hm5KfP/alf4.jpg" group-title="Mas Series 🧟",ALF | Opción 3 (LATAM)
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ0Tb77P/alf3.jpg" group-title="Mas Series 🧟",ALF | Híbrido | Animated (US)
 
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9QXZLcqn/alien.jpg" group-title="Mas Series 🧟",Alien Nation | Dust (US)
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-dustintlnz-samsungnz/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/44zcJKC9/al.jpg" group-title="Mas Series 🧟",All-Out Reality (US)
-https://jmp2.uk/sam-USBB4400016F9.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L4Zkbfv7/we.jpg" group-title="Mas Series 🧟",All Reality | by WE TV (US)
-https://jmp2.uk/sam-USBD12000061R.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y2Jkzcyg/all.jpg" group-title="Mas Series 🧟",All Weddings | by WE TV (US)
-https://jmp2.uk/sam-USBD1200005XR.m3u8
+https://jmp2.uk/sam-USBC100000630.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/R0gQyK0p/alo.jpg" group-title="Mas Series 🧟",Alone | by History (US)
 https://jmp2.uk/sam-USBD27000156I.m3u8
@@ -5967,7 +5954,7 @@ https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425
 https://jmp2.uk/sam-USBD1700015J1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CMBCQtwS/ax.jpg" group-title="Mas Series 🧟",Ax Men | by History (US)
-https://jmp2.uk/sam-USBB5200020Z0.m3u8
+https://jmp2.uk/sam-CA900009VP.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g0qsn9jb/babys.jpg" group-title="Mas Series 🧟",Baby Shark TV (US)
 https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
@@ -5980,9 +5967,6 @@ https://jmp2.uk/sam-USBC10000129R.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wTQXspjb/bad.jpg" group-title="Mas Series 🧟",Bad Girls Club (US)
 https://xumo-xumoent-vc-118-jed5p.fast.nbcuni.com/live/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tJSR26Ys/bar.jpg" group-title="Mas Series 🧟",Barney (US)
-https://jmp2.uk/sam-US300001UO.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tJSR26Ys/bar.jpg" group-title="Mas Series 🧟",Barney (LATAM)
 https://nxt.plus:8443/olmos/1234guz/244476
@@ -6010,12 +5994,8 @@ https://jmp2.uk/sam-ESBA33000262Z.m3u8
 https://jmp2.uk/plex-643054b1fc3be59477853717-5efe1de6e0b3f5003f5d9f88.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Twd20HKj/bob.jpg" group-title="Mas Series 🧟",Bob The Builder | Samsung TV Plus (US)
-https://jmp2.uk/sam-USBC4400013R7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yYWg5wwg/boonie.jpg" group-title="Mas Series 🧟",Boonie Cubs TV (EU)
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJRG6STP/brid.jpg" group-title="Mas Series 🧟",Bridezillas | By Runtime (UK)
-https://jmp2.uk/sam-GBBD3700002J9.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bNxX0Znc/bri.jpg" group-title="Mas Series 🧟",Bring It! | by Lifetime (US)
 https://jmp2.uk/sam-USBD17000040J.m3u8
@@ -6025,50 +6005,42 @@ https://jmp2.uk/sam-US3700007E4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7L6L52S8/buffy.jpg" group-title="Mas Series 🧟",Buffy La Cazavampiros (LATAM)
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0jVMBmZd/c4.jpg" group-title="Mas Series 🧟",C4 en Alerta | Canela TV (LATAM)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=7420
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0jVMBmZd/c4.jpg" group-title="Mas Series 🧟",C4 en Alerta | Plex (LATAM)
 https://jmp2.uk/plex-643054b1fc3be59477853717-65b1568052aa31b8f64da064.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hvKYjsG8/cai.jpg" group-title="Mas Series 🧟",Caillou | Samsung TV Plus (ES)
-https://dhx-caillou-1-es.samsung.wurl.tv/playlist.m3u8
+https://jmp2.uk/sam-USBD50000048H.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hvKYjsG8/cai.jpg" group-title="Mas Series 🧟",Caillou | Samsung TV Plus (US)
 https://jmp2.uk/sam-USBD50000048H.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0PSGdb3/cap.jpg" group-title="Mas Series 🧟",Capitan Tsubasa | Canela TV (LATAM)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=11681
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j2dGtMND/catdog.jpg" group-title="Mas Series 🧟",CatDog (LATAM)
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MHmRxgvp/cha.jpg" group-title="Mas Series 🧟",Challenge (UK)
-https://jmp2.uk/sam-GBBD3100005RX.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MHmRxgvp/cha.jpg" group-title="Mas Series 🧟",Challenge (US)
+https://jmp2.uk/sam-USBB3500001O6.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9106tB/cau.jpg" group-title="Mas Series 🧟",Caught On Tape | by A&E (US)
 https://jmp2.uk/sam-US700007CV.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pLBky0gK/ch.jpg" group-title="Mas Series 🧟",Cheaters | Samsung TV Plus (US)
-https://jmp2.uk/sam-USBD3500031F3.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TwhxrtFG/che.jpg" group-title="Mas Series 🧟",Cheaters | Plex (ES)
 https://jmp2.uk/plex-643054b1fc3be59477853717-65623e0eb7d737841f30a4ff.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SNdPgMWf/chernobyl.jpg" group-title="Mas Series 🧟",Chernobyl (LATAM)
 
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/76M0jcMf/chi.jpg" group-title="Mas Series 🧟",Chicken Soup for The Soul | Samsung TV Plus (US)
-https://jmp2.uk/sam-USBC2100007I2.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bYbytshS/chip.jpg" group-title="Mas Series 🧟",Chip y Dale | Al Rescate (LATAM)
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4y5zYpV3/cold.jpg" group-title="Mas Series 🧟",Cold Case Files | by A&E (US)
 https://jmp2.uk/sam-USBC390002256.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dVvdHsNZ/com.jpg" group-title="Mas Series 🧟",Comedy Hub (UK)
-https://jmp2.uk/sam-GBBD25000038Y.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3fx8gfR/co.jpg" group-title="Mas Series 🧟",Como dice el dicho | Vix (US)
 https://jmp2.uk/sam-USBD2700004ME.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/t4G6hgT7/conan.jpg" group-title="Mas Series 🧟",Conan O'Brien TV (US)
-https://jmp2.uk/sam-USBD120001614.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qt8SnhCS/cops.jpg" group-title="Mas Series 🧟",Cops (LATAM)
 https://rightsboosterltd-cops-1-eu.plex.wurl.tv/2000.m3u8
@@ -6079,10 +6051,6 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-626c1753ffda6789d20a452e.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L4PqNcC3/cr.jpg" group-title="Mas Series 🧟",Crime | 24/7 (US)
 https://jmp2.uk/sam-USAK3508703A.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4JWkYTM/crim.jpg" group-title="Mas Series 🧟",Crimes Cults Killers | by A&E (US)
-https://jmp2.uk/sam-USBB5200022PY.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZgcjCXz/crime.jpg" group-title="Mas Series 🧟",Crime ThrillHer (US)
-https://jmp2.uk/sam-USBB52000236D.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cjh0cnQ/cuenta.jpg" group-title="Mas Series 🧟",Cuéntame como Paso | RTVE (ES)
 https://jmp2.uk/sam-ES400002P5.m3u8
@@ -6100,14 +6068,8 @@ https://jmp2.uk/sam-USBC3900021HS.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6wv3ndx/dealornodeal.jpg" group-title="Mas Series 🧟",Deal or No Deal | Tubi (US)
 https://live-manifest.production-public.tubi.io/live/262bfc2b-1485-4f58-8fa8-e73c01921023/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wj20ffx0/de.jpg" group-title="Mas Series 🧟",Deal Zone | by History (US)
-https://jmp2.uk/sam-USBB52000246M.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYZZq9g6/dea.jpg" group-title="Mas Series 🧟",Death Valley Days | Plex (US)
 https://jmp2.uk/plex-643054b1fc3be59477853717-6674b68af04cf4bb9233c916.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/65h6Ypjq/deg.jpg" group-title="Mas Series 🧟",Degrassi (US)
-https://jmp2.uk/sam-USBD700010XU.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J0QkbnP1/den.jpg" group-title="Mas Series 🧟",Dennis and Gnasher (UK)
 https://jmp2.uk/sam-GBBD1100011V3.m3u8
@@ -6116,8 +6078,6 @@ https://jmp2.uk/sam-GBBD1100011V3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MHYrcbTz/dino.jpg" group-title="Mas Series 🧟",Dinosaurios (LATAM)
 https://nxt.plus:8443/olmos/1234guz/140889
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yYCjM52g/div.jpg" group-title="Mas Series 🧟",Divorce Court (US)
-https://jmp2.uk/sam-USBD300006A6.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRVk9tCS/doc.jpg" group-title="Mas Series 🧟",Doctor Who | Tubi (US)
 https://live-manifest.production-public.tubi.io/live/ccfceec3-1323-43d4-8f0a-e7ca0ef0cd44/playlist.m3u8
@@ -6133,15 +6093,7 @@ https://jmp2.uk/sam-US900002IH.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HxZXx6Dw/dorae.jpg" group-title="Mas Series 🧟",Doraemon (LATAM)
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CvJVprw/dragr.jpg" group-title="Mas Series 🧟",Drag Race | Universe | Tubi (US)
-https://live-manifest.production-public.tubi.io/live/4292c4fb-9ce9-447b-a7b1-239443177e1c/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pdTzRdXD/drake.jpg" group-title="Mas Series 🧟",Drake y Josh (LATAM)
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGHNSW-wN/dreamw.jpg" group-title="Mas Series 🧟",Dreamworks | Pelis (LATAM)
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pds4F1bw/dr.jpg" group-title="Mas Series 🧟",Dr. G | Medical Examiner (US)
-https://jmp2.uk/sam-USBB3200004X3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Ss74SVhs/du.jpg" group-title="Mas Series 🧟",Duck Dynasty (US)
 https://jmp2.uk/sam-USBC4400002GF.m3u8
@@ -6172,8 +6124,6 @@ https://jmp2.uk/sam-ESBA3300033PL.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DZdS3Yx8/elrprincipe.jpg" group-title="Mas Series 🧟",El Principe del Rap (LATAM)
 https://nxt.plus:8443/olmos/1234guz/118617
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSDWC1rQ/enter.jpg" group-title="Mas Series 🧟",Entertainment Hub (UK)
-https://jmp2.uk/sam-GBBC2300003ZQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/m25g88GL/atre-eq.jpg" group-title="Mas Series 🧟",Equipo de Investigación | Atresplayer (ES)
 https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc/1.m3u8
@@ -6187,36 +6137,29 @@ https://nxt.plus:8443/olmos/1234guz/244471
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W30q1Yz6/familiapeluche.jpg" group-title="Mas Series 🧟",Familia Peluche (LATAM)
 https://nxt.plus:8443/olmos/1234guz/177640
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLPc1Z0X/familyties.jpg" group-title="Mas Series 🧟",Family Ties (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLPc1Z0X/familyties.jpg" group-title="Mas Series 🧟",Family Ties | Pluto TV (US)
 https://jmp2.uk/sam-USBB3500003D6.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8zJT3qD5/far.jpg" group-title="Mas Series 🧟",Farscape | Plex (US)
 https://jmp2.uk/plex-643054b1fc3be59477853717-635195e9ccee3e1547a8831a.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MGcYNYXh/fearf.jpg" group-title="Mas Series 🧟",Fear Factor (US)
-https://jmp2.uk/sam-USBB2300002Q6.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MGcYNYXh/fearf.jpg" group-title="Mas Series 🧟",Fear Factor | Tubi (US)
 https://live-manifest.production-public.tubi.io/live/add4b9f5-c278-4844-8885-9611a4cc9eeb/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrdczGSp/fire.jpg" group-title="Mas Series 🧟",Fireman Sam | Samsung TV Plus (US)
-https://jmp2.uk/sam-USBD42000124T.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QC6YpFwt/atre-fi.jpg" group-title="Mas Series 🧟",Física o química | Atresplayer (ES)
 https://fast-channels.atresmedia.com/648ef50a2bfab0e4607e0d61/648ef50a2bfab0e4607e0d61/5.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KjpBRNtd/fo.jpg" group-title="Mas Series 🧟",Forged In Fire | by History (US)
-https://jmp2.uk/sam-USBD2700014QW.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Mpbvqz0W/for.jpg" group-title="Mas Series 🧟",Forensic Files | FilmRise (US)
-https://jmp2.uk/sam-USBB3200017MY.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Mpbvqz0W/for.jpg" group-title="Mas Series 🧟",Forensic Files | FilmRise (CA)
+https://jmp2.uk/sam-CAAJ2700012PP.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T2KSC56n/frinds.jpg" group-title="Mas Series 🧟",Friends (LATAM)
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZR6b0KY/futurama.jpg" group-title="Mas Series 🧟",Futurama (ES)
+http://smvp6.maxmea.xyz:80/live/me819597/jDGcdW3Qway/986434.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZR6b0KY/futurama.jpg" group-title="Mas Series 🧟",Futurama (LATAM)
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0VCbGJn/game.jpg" group-title="Mas Series 🧟",Game Show Central | Tubi (US)
-https://live-manifest.production-public.tubi.io/live/1ecea564-8615-4438-a50c-0395c56d27f9/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0VCbGJn/game.jpg" group-title="Mas Series 🧟",Game Show Central | Samsung TV Plus (CA)
+https://jmp2.uk/sam-CAAJ2700027GW.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/m2jtRwDq/garfiel.jpg" group-title="Mas Series 🧟",Garfield y sus Amigos (LATAM)
 
@@ -6226,14 +6169,7 @@ https://live-manifest.production-public.tubi.io/live/1ecea564-8615-4438-a50c-039
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMr6vhXJ/hp.jpg" group-title="Mas Series 🧟",Harry Potter | Pelis (LATAM)
 
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/2yHVmxBd/hea.jpg" group-title="Mas Series 🧟",Heartland | Samsung TV Plus (US)
-https://jmp2.uk/sam-USBB2900003O3.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/25HZ66L2/hechi.jpg" group-title="Mas Series 🧟",Hechizada (LATAM)
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5sb4yVg/hell.jpg" group-title="Mas Series 🧟",Hell's Kitchen (US)
-https://jmp2.uk/sam-USBB2900002Z7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7Y5hqWNz/heman.jpg" group-title="Mas Series 🧟",He Man y los Masters del Universo (LATAM)
 
@@ -6265,9 +6201,6 @@ https://jmp2.uk/sam-ESBC3500002PW.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0jxdk60W/icep.jpg" group-title="Mas Series 🧟",Ice Pilots NWT | Plex (US)
 https://jmp2.uk/plex-643054b1fc3be59477853717-666e1820ce73ed6023b55a11.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4dh5Cjtm/ice.jpg" group-title="Mas Series 🧟",Ice Road Truckers | by History (US)
-https://jmp2.uk/sam-USBB520002173.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5t18HRVW/in.jpg" group-title="Mas Series 🧟",Intervention | by A&E (US)
 https://jmp2.uk/sam-USBD3500040WX.m3u8
 
@@ -6288,9 +6221,6 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-60d4edd6b2fdec002c141123.m3u8
 https://jmp2.uk/plex-643054b1fc3be59477853717-5f0ff262d71dcb00449ec018.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vT2QMM9Y/kenan.jpg" group-title="Mas Series 🧟",Kenan y Kel (LATAM)
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C12Z4vW1/ki.jpg" group-title="Mas Series 🧟",Kitchen Nightmares (US)
-https://jmp2.uk/sam-USBA3000042O6.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4YhcDPt/ks.jpg" group-title="Mas Series 🧟",K Stories | by CJ ENM (US)
 https://jmp2.uk/sam-USBB2900001P9.m3u8
@@ -6358,7 +6288,7 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26DXgmzH/anos.jpg" group-title="Mas Series 🧟",Los Años Maravillosos (LATAM)
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1tnFwjrx/ase.jpg" group-title="Mas Series 🧟",Los Asesinatos de Midsomer (ES)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1tnFwjrx/ase.jpg" group-title="Mas Series 🧟",Los Asesinatos de Midsomer | Pluto TV (ES)
 https://jmp2.uk/sam-ESBA3300025WZ.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0j1yFKx/dinop.jpg" group-title="Mas Series 🧟",Los Dinoplativolos (LATAM)
@@ -6375,8 +6305,8 @@ https://nxt.plus:8443/olmos/1234guz/214262
 https://nxt.plus:8443/olmos/1234guz/214265
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KYmPjwqv/simpsons-horror.jpg" group-title="Mas Series 🧟",Los Simpsons | Casita del Horror (LATAM)
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fWK0D1DX/24-7-thesimpsons.jpg" group-title="Mas Series 🧟",Los Simpsons | Classicos (LATAM)
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fWK0D1DX/24-7-thesimpsons.jpg" group-title="Mas Series 🧟",Los Simpsons | Classicos (ES)
+http://smvp6.maxmea.xyz:80/live/me819597/jDGcdW3Qway/1025040.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zvzckYnF/simpsons-3.jpg" group-title="Mas Series 🧟",Los Simpsons | 1 (ES)
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5y2sCqVP/simpsons-4.jpg" group-title="Mas Series 🧟",Los Simpsons | 2 (LATAM)
@@ -6410,9 +6340,9 @@ https://fast-channels.atresmedia.com/648ef3162bfab0e4587e0d61/648ef3162bfab0e458
 https://jmp2.uk/sam-USAJ22000130U.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Mp7Q2PvP/genie.jpg" group-title="Mas Series 🧟",Mi Bella Genio (LATAM)
-https://nxt.plus:8443/olmos/1234guz/140882
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bNrShZ3p/mid.jpg" group-title="Mas Series 🧟",Midsomer Murders (US)
-https://jmp2.uk/sam-USBC24000134A.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bNrShZ3p/mid.jpg" group-title="Mas Series 🧟",Midsomer Murders (CA)
+https://jmp2.uk/sam-CABC23000056U.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W1927STh/mini.jpg" group-title="Mas Series 🧟",Mini Me | Samsung TV Plus (ES)
 https://jmp2.uk/sam-ESBD3200002V5.m3u8
@@ -6420,7 +6350,6 @@ https://jmp2.uk/sam-ESBD3200002V5.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nLZqBvYv/misterios.jpg" group-title="Mas Series 🧟",Misterios Sin Resolver | Plex (LATAM)
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-64d79408e5f67b0fab47ff24.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0ySLhQsN/un.jpg" group-title="Mas Series 🧟",Unsolved Mysteries | FilmRise | Samsung TV Plus (US)
-https://jmp2.uk/sam-USBB3200018Q6.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kGPqKYLt/mod.jpg" group-title="Mas Series 🧟",Modern Family (LATAM)
 
@@ -6443,9 +6372,6 @@ https://jmp2.uk/sam-ESAJ380000226.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0j3r3MdY/mu.jpg" group-title="Mas Series 🧟",Mutant X | Plex (ES)
 https://jmp2.uk/plex-643054b1fc3be59477853717-656237c55dbccec83a87b649.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/12PQgyB/Mysteryst3000.jpg" group-title="Mas Series 🧟",Mystery Science Theater 3000 | Tubi (US)
-https://live-manifest.production-public.tubi.io/live/ed1bc6f9-705f-453f-9bf2-60e863518571/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cH1XV7DY/myt.jpg" group-title="Mas Series 🧟",Mythbusters (UK)
 https://jmp2.uk/sam-GB200005LI.m3u8
 
@@ -6453,19 +6379,12 @@ https://jmp2.uk/sam-GB200005LI.m3u8
 https://live-manifest.production-public.tubi.io/live/1d12c8f5-5c6b-48a8-933b-5f892cfa0407/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/909WghCF/edrian.jpg" group-title="Mas Series 🧟",Ned | Manual de Sobrevivencia (LATAM)
-http://nxt.plus:8080/olmos/1234guz/140887
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/25s93JbW/nosey.jpg" group-title="Mas Series 🧟",Nosey (US)
 https://jmp2.uk/sam-USAJ34000022E.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1RbQCng3/nose.jpg" group-title="Mas Series 🧟",Nosey | Escándalos (ES)
 https://jmp2.uk/plex-643054b1fc3be59477853717-6154a863e3e4d9577f96b31a.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5trtzF98/ne.jpg" group-title="Mas Series 🧟",NextUp | Live Comedy (UK)
-https://jmp2.uk/sam-GBBD1100012JB.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCyh7DCx/op.jpg" group-title="Mas Series 🧟",Operation Repo (US)
-https://jmp2.uk/sam-USBC6000219D.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G205Gpgs/outer.jpg" group-title="Mas Series 🧟",Outer Sphere | By Lionsgate (US)
 https://jmp2.uk/sam-USBD1200007FE.m3u8
@@ -6480,7 +6399,6 @@ http://tvmate.icu:8080/6025505794/osmanmata@gmail.com/66317
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VLJndSYk/paw.jpg" group-title="Mas Series 🧟",Patrulla Canina (LATAM)
 
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8PVgFHn8/pawn.jpg" group-title="Mas Series 🧟",Pawn Stars | by History (US)
 https://jmp2.uk/sam-US300003S3.m3u8
 
@@ -6488,9 +6406,6 @@ https://jmp2.uk/sam-US300003S3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kXJG58B2/peque.jpg" group-title="Mas Series 🧟",Pequeños Gigantes | Vix (LATAM)
 https://jmp2.uk/sam-USBD2700003F3.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jSCYh7tw/per.jpg" group-title="Mas Series 🧟",Perform | by Lifetime (US)
-https://jmp2.uk/sam-USBB520002604.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJQtcQRw/petc2.jpg" group-title="Mas Series 🧟",Pet Club TV (UK)
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
@@ -6509,7 +6424,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4368
 https://jmp2.uk/sam-GBBD1300001WA.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KjVxFrqK/poco.jpg" group-title="Mas Series 🧟",Pocoyó (LATAM)
-https://daiconnect.com/live/hls/tvup/tvfy-pocoyo/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/P5tyLQj7/poi.jpg" group-title="Mas Series 🧟",Pointless UK | Powered by Banijay (UK)
 https://jmp2.uk/sam-GBBD2500002QC.m3u8
@@ -6521,8 +6435,6 @@ https://jmp2.uk/sam-USBD12000038K.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pdvLHzhQ/pow.jpg" group-title="Mas Series 🧟",Power Rangers (LATAM)
 https://nxt.plus:8443/olmos/1234guz/225110
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pLYJBFRj/pr.jpg" group-title="Mas Series 🧟",Project Runway (US)
-https://jmp2.uk/sam-USBB3500004RC.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K8B1fFR0/fa.jpg" group-title="Mas Series 🧟",¿Qué Culpa Tiene Fatmagül? | Samsung TV Plus (US)
 https://jmp2.uk/sam-US270000298.m3u8
@@ -6533,17 +6445,9 @@ https://jmp2.uk/sam-ESBD2300003S5.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rpJ2kMJK/ram.jpg" group-title="Mas Series 🧟",Ranma 1/2 (LATAM)
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jnjjs0gm/ran.jpg" group-title="Mas Series 🧟",Rantaró | Ninja Boy | Rakuten TV (ES)
-https://a40df8a071d2497a8d9fa848e5ae01e9.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_PacificBlue/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=5446&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=0cb5f494-b9f0-413b-8dce-bb2564bbb30e&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1596
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/B6f78hjT/rain.jpg" group-title="Mas Series 🧟",Rainbow Ruby | Samsung TV Plus (US)
-https://jmp2.uk/sam-USBD3300015BY.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4NxS80hB/rev.jpg" group-title="Mas Series 🧟",Rev & Roll | Samsung TV Plus (US)
-https://jmp2.uk/sam-USBD3300016AK.m3u8
+https://rantaro-ninja-boy-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6432/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vHrxBwC0/rickandmorty.jpg" group-title="Mas Series 🧟",Rick and Morty (LATAM)
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vHrxBwC0/rickandmorty.jpg" group-title="Mas Series 🧟",Rick and Morty (US)
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2yC8gk4w/ro.jpg" group-title="Mas Series 🧟",Road Renegades | by A&E (US)
 https://jmp2.uk/sam-US700002ZB.m3u8
@@ -6586,26 +6490,15 @@ https://jmp2.uk/sam-US2200006FS.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S6wm5z0/sile.jpg" group-title="Mas Series 🧟",Silent Witness and New Tricks | Tubi (US)
 https://live-manifest.production-public.tubi.io/live/ecdd361e-2f86-4a12-afe7-ab11df141568/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJdrMDxH/slug.jpg" group-title="Mas Series 🧟",Slugterra | Samsung TV Plus (US)
-https://jmp2.uk/sam-USBD33000180S.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FztBk5hL/sma.jpg" group-title="Mas Series 🧟",Smallville (LATAM)
 
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/JhZ1CLbN/sonic.jpg" group-title="Mas Series 🧟",Sonic (LATAM)
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/JhZ1CLbN/sonic.jpg" group-title="Mas Series 🧟",Sonic (US)
-https://jmp2.uk/sam-USBD3300020PM.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JhZ1CLbN/sonic.jpg" group-title="Mas Series 🧟",Sonic | Plex (US)
 https://jmp2.uk/plex-643054b1fc3be59477853717-62ba4aaff663580a7238f327.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9fVfG9X0/sto.jpg" group-title="Mas Series 🧟",Storage Wars: LA | by A&E (US)
 https://jmp2.uk/sam-USBD1700006T2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/63SbMLnQ/straw.jpg" group-title="Mas Series 🧟",Strawberry Shortcake | Samsung TV Plus (US)
-https://jmp2.uk/sam-USBC4400012QS.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mZ8BrJVr/superb.jpg" group-title="Mas Series 🧟",Super Boomi (LATAM)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mZ8BrJVr/superb.jpg" group-title="Mas Series 🧟",Super Boomi | Canela Kids (LATAM)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4343
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qxg18FTz/su.jpg" group-title="Mas Series 🧟",Supermarket Sweep (US)
@@ -6617,16 +6510,17 @@ https://jmp2.uk/sam-GBBB3800007BN.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/02v60HQt/sw-.jpg" group-title="Mas Series 🧟",Swamp People | by History (US)
 https://jmp2.uk/sam-USBD2700013UK.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0tSNxsh/teenv.jpg" group-title="Mas Series 🧟",Teen Vee | Samsung TV Plus (ES)
-https://jmp2.uk/sam-ESBC4700003RJ.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLYRytk9/sw-a.jpg" group-title="Mas Series 🧟",Swat Kats | El Escuadrón Radical (LATAM)
+http://nxt.plus:8080/olmos/1234guz/140887
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZNBS47t/Teletubbies.jpg" group-title="Mas Series 🧟",Teletubbies (AT)
+https://jmp2.uk/sam-AT5000002QB.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZNBS47t/Teletubbies.jpg" group-title="Mas Series 🧟",Teletubbies (CH)
+https://jmp2.uk/sam-CH500000481.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZNBS47t/Teletubbies.jpg" group-title="Mas Series 🧟",Teletubbies (DE)
+https://jmp2.uk/sam-DE4800001Y8.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RZNBS47t/Teletubbies.jpg" group-title="Mas Series 🧟",Teletubbies (IT)
-https://dhx-teletubbies-2-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZNBS47t/Teletubbies.jpg" group-title="Mas Series 🧟",Teletubbies (US)
-https://jmp2.uk/sam-USBD3500015R5.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tTrx1RXL/th.jpg" group-title="Mas Series 🧟",The Asylum (US)
-https://jmp2.uk/sam-USAJ17000014C.m3u8
+https://jmp2.uk/sam-IT480000143.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zDPqGpbS/theb.jpg" group-title="Mas Series 🧟",The Big Bam Theory (LATAM)
 
@@ -6653,9 +6547,6 @@ https://jmp2.uk/sam-US3300011V9.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/StbJ9fV/theja.jpg" group-title="Mas Series 🧟",The Jack Hanna Channel | Tubi (US)
 https://live-manifest.production-public.tubi.io/live/cabb8bd1-b459-450f-a3ed-ca8ae772e61e/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cNgtMVH/thej.jpg" group-title="Mas Series 🧟",The Johnny Carson Show | Tubi (US)
-https://live-manifest.production-public.tubi.io/live/cc1412f3-ca39-4cc7-847a-6972bb72377f/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mkj2SVqC/thel.jpg" group-title="Mas Series 🧟",The Lone Ranger (US)
 https://xumo-xumoent-ch829-wojlf.fast.nbcuni.com/live/master.m3u8
@@ -6726,15 +6617,13 @@ https://jmp2.uk/sam-USBB4400018LR.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zvBqTPkf/wi.jpg" group-title="Mas Series 🧟",WITZ | Comedy TV (US)
 https://jmp2.uk/plex-643054b1fc3be59477853717-6490d0a03b3ce9e1aaad95c0.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fzy27F9Z/evil.jpg" group-title="Mas Series 🧟",World's Most Evil Killers (US)
-https://jmp2.uk/sam-USBC1000002NP.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Fzy27F9Z/evil.jpg" group-title="Mas Series 🧟",World's Most Evil Killers | Tubi (US)
 https://live-manifest.production-public.tubi.io/live/b81250ad-f476-4a4b-a824-731dbd24b993/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tR1bkv8f/ww.jpg" group-title="Mas Series 🧟", WWE | Superstar Central | by A&E (US)
 https://jmp2.uk/sam-US700005ID.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9F6M36Mq/yugi.jpg" group-title="Mas Series 🧟",Yu-Gi-Oh! (ES)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9F6M36Mq/yugi.jpg" group-title="Mas Series 🧟",Yu-Gi-Oh! | Rakuten (ES)
 https://8a74d8959ca84c4b856049412367e7e9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_YuGiOh/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=7&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=5205&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=84babecd-87fd-45fe-b40e-c3dfa18f4714&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1531
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9F6M36Mq/yugi.jpg" group-title="Mas Series 🧟",Yu-Gi-Oh! | Samsung TV Plus (ES)
@@ -14087,8 +13976,6 @@ https://59e88b197fb16.streamlock.net:4443/live/canal4/chunklist_w8224100.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kv5hpW9s/canal5mx.jpg" group-title="México",Canal 5 (MX)
 http://181.78.105.146:2000/play/a038/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kv5hpW9s/canal5mx.jpg" group-title="México",Canal 5 | Opción 2 (MX)
-http://187.249.112.44:9981/stream/channelid/1812213255?profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jd0gGXZM/ch6t.jpg" group-title="México",Canal 6 | Tecpán (MX)
 https://stream.oursnetworktv.com/latin/encoder6tecpan/playlist.m3u8
@@ -14193,10 +14080,6 @@ https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/chunklist_w48
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gkMW5v6P/Lasestrellas.jpg" group-title="México",Las Estrellas (MX)
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gkMW5v6P/Lasestrellas.jpg" group-title="México",Las Estrellas | Opción 2 (MX)
-http://187.249.112.44:9981/stream/channelid/1919712826?profile=pass
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gkMW5v6P/Lasestrellas.jpg" group-title="México",Las Estrellas | Opción 3 | -2 Horas (MX)
-http://187.249.112.44:9981/stream/channelid/1354356530?profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X73NGwKW/lms.jpg" group-title="México",LMS (MX)
 https://ssh101.bozztv.com/ssh101/canallms/playlist.m3u8
