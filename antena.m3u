@@ -2,7 +2,7 @@
 #EXTINF:-1 GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 #EXTINF:-1 Para disfrutar de los canales y abrir correctamente, añade esta dirección a la aplicación IPTV PRO una vez instalada, disponible GRATIS en Google Play o bien descargala sin anuncios y completa acá: https//bit.ly/orbitaxpp  Compactible para todos tus dispositivos con Android y Google TV, TVBox, ect... 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/t4pDwvx/orbi1.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 09.03.25
+#EXTINF:-1 tvg-logo="https://i.ibb.co/t4pDwvx/orbi1.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 12.03.25
 https://pomf2.lain.la/f/572x442.mp4
 
 #EXTINF:-1 tvg-id="66b0dfa1d512590008bfa7fd" tvg-logo="https://i.postimg.cc/pVgRH9CQ/pluto-g.jpg" tvg-chno="04" group-title="Animados | Variado",Pluto TV | Gore & Slasher (ES)
@@ -17,6 +17,8 @@ https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-64e6e2f04a5e9b4cedc6d52b.m3u8
 #EXTINF:-1 tvg-id="ESBC40000248" tvg-logo="https://i.postimg.cc/PrFRtYz3/horrorvision.jpg" tvg-chno="07" group-title="Animados | Variado",Samsung TV Plus | Horror Visión (ES)
 https://jmp2.uk/sam-ESBC40000248.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy2cNqf8/spectrum2.jpg" group-title="Animados | Variado",Spectrum Channel (LATAM)
+https://panel.miplay.cl:8082/spectrumchannel/index.m3u8
 #EXTINF:-1 tvg-id="6643b8c42eafd40008daab8b" tvg-logo="https://i.postimg.cc/66r1FfYK/pridetv2.jpg" group-title="Animados | Variado" ,Pluto TV | Pride TV | Latino (LATAM)
 https://jmp2.uk/plu-6643b8c42eafd40008daab8b.m3u8
 #EXTINF:-1 tvg-id="65eeffc50d4561000836f191" tvg-logo="https://i.postimg.cc/66r1FfYK/pridetv2.jpg" group-title="Animados | Variado" ,Pluto TV | Pride TV | España (ES)
@@ -17660,7 +17662,7 @@ https://archive.org/download/oscuridad90/07x12.mp4
 https://archive.org/download/oscuridad90/07x13.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvpYbtzd/h6.jpg" group-title="Cuentos de la Cripta",Cuentos de la Cripta | S01E01 | Latino [1964]
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhdwWP62/c1.jpg" group-title="Coraje",Coraje | S01E01 | Latino [1999]
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvpYbtzd/h6.jpg" group-title="Cuentos de la Cripta",Cuentos de la Cripta | S01E02 | Latino [1964]
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvpYbtzd/h6.jpg" group-title="Cuentos de la Cripta",Cuentos de la Cripta | S01E03 | Latino [1964]
@@ -17945,6 +17947,109 @@ https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-tempra
 https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/03X29%20The%20Twilight%20Zone%20-%203X29%20-%20Crazy%20As%20A%20Soup%20Sandwich.ia.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzrtw4jj/t3.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S03E30 | Latino [1989]
 https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/03X30%20Dimensi%C3%B3n%20Desconocida%201985.%20El%20Juego%20De%20Padre%20E%20Hijo%20%28Father%20And%20Son%20Game%29.ia.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwQ7bFrx/c1.jpg" group-title="Coraje",Coraje | S01E01 | Una Noche en el Motel Katz | Latino [1999]
+http://archive.org/download/26_20190827_20190827/1.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwQ7bFrx/c1.jpg" group-title="Coraje",Coraje | S01E02 | La Sombra de Coraje | Latino [1999]
+http://archive.org/download/26_20190827_20190827/2.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwQ7bFrx/c1.jpg" group-title="Coraje",Coraje | S01E03 | Coraje Conoce a Pie Grande | Latino [1999]
+http://archive.org/download/26_20190827_20190827/3.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwQ7bFrx/c1.jpg" group-title="Coraje",Coraje | S01E04 | El Demonio en el Colchón | Latino [1999]
+http://archive.org/download/26_20190827_20190827/4.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwQ7bFrx/c1.jpg" group-title="Coraje",Coraje | S01E05 | Los Hermanos Pato | Latino [1999]
+http://archive.org/download/26_20190827_20190827/5.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwQ7bFrx/c1.jpg" group-title="Coraje",Coraje | S01E06 | La Noche del Hombre Topo | Latino [1999]
+http://archive.org/download/26_20190827_20190827/6.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwQ7bFrx/c1.jpg" group-title="Coraje",Coraje | S01E07 | La Maldición del Rey Ramsés | Latino [1999]
+http://archive.org/download/26_20190827_20190827/7.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwQ7bFrx/c1.jpg" group-title="Coraje",Coraje | S01E08 | El Jorobado de Ningún Lugar | Latino [1999]
+http://archive.org/download/26_20190827_20190827/8.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwQ7bFrx/c1.jpg" group-title="Coraje",Coraje | S01E09 | La Reina del Charco Negro | Latino [1999]
+http://archive.org/download/26_20190827_20190827/9.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwQ7bFrx/c1.jpg" group-title="Coraje",Coraje | S01E10 | El Último Hombre de Nieve | Latino [1999]
+http://archive.org/download/26_20190827_20190827/10.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwQ7bFrx/c1.jpg" group-title="Coraje",Coraje | S01E11 | Cabezas de Carne | Latino [1999]
+http://archive.org/download/26_20190827_20190827/11.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwQ7bFrx/c1.jpg" group-title="Coraje",Coraje | S01E12 | La Venganza del Pollo Extratrerrestre | Latino [1999]
+http://archive.org/download/26_20190827_20190827/12.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwQ7bFrx/c1.jpg" group-title="Coraje",Coraje | S01E13 | La Pequeña Muriel | Latino [1999]
+http://archive.org/download/26_20190827_20190827/13.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0YySsG0/c2.jpg" group-title="Coraje",Coraje | S02E01 | El Árbol Mágico de Ningún Lugar | Latino [2000]
+http://archive.org/download/26_20190827_20190827/14.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0YySsG0/c2.jpg" group-title="Coraje",Coraje | S02E02 | La Maldición de Shirley | Latino [2000]
+http://archive.org/download/26_20190827_20190827/15.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0YySsG0/c2.jpg" group-title="Coraje",Coraje | S02E03 | Hasta en las Peores Familias | Latino [2000]
+http://archive.org/download/26_20190827_20190827/16.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0YySsG0/c2.jpg" group-title="Coraje",Coraje | S02E04 | Coraje y La Momia | Latino [2000]
+http://archive.org/download/26_20190827_20190827/17.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0YySsG0/c2.jpg" group-title="Coraje",Coraje | S02E05 | La Aspiradora | Latino [2000]
+http://archive.org/download/26_20190827_20190827/18.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0YySsG0/c2.jpg" group-title="Coraje",Coraje | S02E06 | La Mosca Coraje | Latino [2000]
+http://archive.org/download/26_20190827_20190827/19.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0YySsG0/c2.jpg" group-title="Coraje",Coraje | S02E07 | Televisión de Ningún Lugar | Latino [2000]
+http://archive.org/download/26_20190827_20190827/20.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0YySsG0/c2.jpg" group-title="Coraje",Coraje | S02E08 | Un Día de Pelos | Latino [2000]
+http://archive.org/download/26_20190827_20190827/21.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0YySsG0/c2.jpg" group-title="Coraje",Coraje | S02E09 | La Serpiente del Río del Mal | Latino [2000]
+http://archive.org/download/26_20190827_20190827/22.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0YySsG0/c2.jpg" group-title="Coraje",Coraje | S02E10 | El Extraterrestre | Latino [2000]
+http://archive.org/download/26_20190827_20190827/23.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0YySsG0/c2.jpg" group-title="Coraje",Coraje | S02E11 | La Mosca | Latino [2000]
+http://archive.org/download/26_20190827_20190827/24.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0YySsG0/c2.jpg" group-title="Coraje",Coraje | S02E12 | La Maldición | Latino [2000]
+http://archive.org/download/26_20190827_20190827/25.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0YySsG0/c2.jpg" group-title="Coraje",Coraje | S02E13 | La Torre del Dr. Zalost | Latino [2000]
+http://archive.org/download/26_20190827_20190827/26.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7h8R75F8/c3.jpg" group-title="Coraje",Coraje | S03E01 | La Doble de Muriel | Latino [2001]
+http://archive.org/download/26_20190827_20190827/27.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7h8R75F8/c3.jpg" group-title="Coraje",Coraje | S03E02 | El Campamento del Terror | Latino [2001]
+http://archive.org/download/26_20190827_20190827/28.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7h8R75F8/c3.jpg" group-title="Coraje",Coraje | S03E03 | La Tormenta | Latino [2001]
+http://archive.org/download/26_20190827_20190827/29.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7h8R75F8/c3.jpg" group-title="Coraje",Coraje | S03E04 | Coraje en el Disco Duro | Latino [2001]
+http://archive.org/download/26_20190827_20190827/30.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7h8R75F8/c3.jpg" group-title="Coraje",Coraje | S03E05 | Buceo Increíble | Latino [2001]
+http://archive.org/download/26_20190827_20190827/31.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7h8R75F8/c3.jpg" group-title="Coraje",Coraje | S03E06 | Viaje al Fondo del Mar | Latino [2001]
+http://archive.org/download/26_20190827_20190827/32.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7h8R75F8/c3.jpg" group-title="Coraje",Coraje | S03E07 | El Nuevo Estanque | Latino [2001]
+http://archive.org/download/26_20190827_20190827/33.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7h8R75F8/c3.jpg" group-title="Coraje",Coraje | S03E08 | Magia | Latino [2001]
+http://archive.org/download/26_20190827_20190827/34.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7h8R75F8/c3.jpg" group-title="Coraje",Coraje | S03E09 | Juicio Submarino | Latino [2001] 
+http://archive.org/download/26_20190827_20190827/35.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7h8R75F8/c3.jpg" group-title="Coraje",Coraje | S03E10 | El Domo | Latino [2001]
+http://archive.org/download/26_20190827_20190827/36.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7h8R75F8/c3.jpg" group-title="Coraje",Coraje | S03E11 | Club de Acolchados | Latino [2001]
+http://archive.org/download/26_20190827_20190827/37.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7h8R75F8/c3.jpg" group-title="Coraje",Coraje | S03E12 | El Rey del Flan | Latino [2001]
+http://archive.org/download/26_20190827_20190827/38.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7h8R75F8/c3.jpg" group-title="Coraje",Coraje | S03E13 | La Historia de un Castor | Latino [2001]
+http://archive.org/download/26_20190827_20190827/39.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/D0rMc2hW/c4.jpg" group-title="Coraje",Coraje | S04E01 | Viaje a Escocia | Latino [2002]
+http://archive.org/download/26_20190827_20190827/40.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/D0rMc2hW/c4.jpg" group-title="Coraje",Coraje | S04E02 | Robo en un Globo | Latino [2002]
+http://archive.org/download/26_20190827_20190827/41.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/D0rMc2hW/c4.jpg" group-title="Coraje",Coraje | S04E03 | Un Resfriado Poco Común | Latino [2002]
+http://archive.org/download/26_20190827_20190827/42.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/D0rMc2hW/c4.jpg" group-title="Coraje",Coraje | S04E04 | La Novia del Monstruo del Pantano | Latino [2002]
+http://archive.org/download/26_20190827_20190827/44.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/D0rMc2hW/c4.jpg" group-title="Coraje",Coraje | S04E05 | Ensalada de Zanahoria | Latino [2002]
+http://archive.org/download/26_20190827_20190827/45.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/D0rMc2hW/c4.jpg" group-title="Coraje",Coraje | S04E06 | La Máscara | Latino [2002]
+http://archive.org/download/26_20190827_20190827/46.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/D0rMc2hW/c4.jpg" group-title="Coraje",Coraje | S04E07 | Viaje a China | Latino [2002]
+http://archive.org/download/26_20190827_20190827/47.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/D0rMc2hW/c4.jpg" group-title="Coraje",Coraje | S04E08 | El Granjero Acuático | Latino [2002]
+http://archive.org/download/26_20190827_20190827/48.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/D0rMc2hW/c4.jpg" group-title="Coraje",Coraje | S04E09 | Los Últimos Creadores de Estrellas | Latino [2002]
+http://archive.org/download/26_20190827_20190827/49.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/D0rMc2hW/c4.jpg" group-title="Coraje",Coraje | S04E10 | La Cura | Latino [2002]
+http://archive.org/download/26_20190827_20190827/50.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/D0rMc2hW/c4.jpg" group-title="Coraje",Coraje | S04E11 | El Cabarete de Coraje | Latino [2002]
+http://archive.org/download/26_20190827_20190827/52.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/D0rMc2hW/c4.jpg" group-title="Coraje",Coraje | S04E12 | La Historia de Coraje | Latino [2002]
+http://archive.org/download/26_20190827_20190827/53.mp4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZLMfVr1/cal.jpg" group-title="Juego del Calamar",Juego del Calamar | S01E01 | Latino [2021]
 https://archive.org/download/94-1_20210929/1x01%20-%20Luz%20roja%2C%20luz%20verde.mp4
