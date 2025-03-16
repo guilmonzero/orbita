@@ -2,7 +2,7 @@
 #EXTINF:-1 GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 #EXTINF:-1 Para disfrutar de los canales y abrir correctamente, añade esta dirección a la aplicación IPTV PRO una vez instalada, disponible GRATIS en Google Play o bien descargala sin anuncios y completa acá: https//bit.ly/orbitaxpp  Compactible para todos tus dispositivos con Android y Google TV, TVBox, ect... 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/t4pDwvx/orbi1.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 14.03.25
+#EXTINF:-1 tvg-logo="https://i.ibb.co/t4pDwvx/orbi1.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 16.03.25
 https://pomf2.lain.la/f/572x442.mp4
 
 #EXTINF:-1 tvg-id="66b0dfa1d512590008bfa7fd" tvg-logo="https://i.postimg.cc/pVgRH9CQ/pluto-g.jpg" tvg-chno="04" group-title="Animados | Variado",Pluto TV | Gore & Slasher (ES)
@@ -62,6 +62,8 @@ https://linear-73.frequency.stream/dist/localnow/73/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJdCQxGk/revry-news.jpg" group-title="Animados | Variado",Revry | News | LGBTQ+ (US)
 https://linear-44.frequency.stream/dist/plex/44/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/K8fFrYhb/123go.jpg" group-title="Animados | Variado",123 GO! | Xiaomi (ES)
+https://amg02051-soulpublishing-amg02051c18-xiaomi-international-372.playouts.now.amagi.tv/playlist/amg02051-admecyltd-123gospanish-xiaomiinternational/playlist.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-63eecb32ac23d1ee072087cb" tvg-logo="https://i.postimg.cc/K8fFrYhb/123go.jpg" group-title="Animados | Variado",123 GO! | Plex (US)
 https://jmp2.uk/plex-643054b1fc3be59477853717-63eecb32ac23d1ee072087cb.m3u8
 
@@ -78,9 +80,6 @@ https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0Njz4Jns/afv-family.jpg" group-title="Animados | Variado",AFV | Family | Irlanda (IE)
 https://futuretoday-afv-family-2-ie.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="USBD3300019OU" tvg-logo="https://i.postimg.cc/x8WjrDxr/allb.jpg" group-title="Animados | Variado",All Babies Channel (US)
-https://jmp2.uk/sam-USBD3300019OU.m3u8
-
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-5ef11486d33ab9004048a1cd" tvg-logo="https://i.postimg.cc/wMP2FMQ5/alway.jpg" group-title="Animados | Variado",Always Funny | Plex (US)
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-5ef11486d33ab9004048a1cd.m3u8
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-5ef4e1b10d9ad000423c4421" tvg-logo="https://i.postimg.cc/YC4PYKMB/alwaye.jpg" group-title="Animados | Variado",Always Funny | Español | Plex (LATAM)
@@ -91,10 +90,8 @@ https://jmp2.uk/str-6207.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Zqg7JbRd/ama.jpg" group-title="Animados | Variado",A más + | Azteca Noreste (MX)
 https://live.info7.mx/info7/stream/_hi1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncsmtW5L/amce.jpg" group-title="Animados | Variado",AMC | En Español (US)
+#EXTINF:-1 tvg-id="USBD7000017L" tvg-logo="https://i.postimg.cc/ncsmtW5L/amce.jpg" group-title="Animados | Variado",AMC | En Español (US)
 https://amc-amcespanol-1-us.vizio.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="USBD7000017L" tvg-logo="https://i.postimg.cc/ncsmtW5L/amce.jpg" group-title="Animados | Variado",AMC | En Español | Samsung TV Plus (US)
-https://jmp2.uk/sam-USBD7000017L.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HW6ppdft/anc.jpg" group-title="Animados | Variado",ANC Televisión (CO)
 https://canal.mediaserver.com.co/live/ANCTELEVISION.m3u8
@@ -138,8 +135,6 @@ http://vthanh.utako.moe/AT-X/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pTdYv0dS/azteca7.jpg" group-title="Animados | Variado",Azteca 7 (MX)
 http://181.78.105.146:2000/play/a08z/index.m3u
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pTdYv0dS/azteca7.jpg" group-title="Animados | Variado",Azteca 7 | Opción 2 (MX)
-http://187.249.112.44:9981/stream/channelid/1717270385?profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KYW1ST0z/a-w.jpg" group-title="Animados | Variado",A&W (CR)
 https://ssh101.bozztv.com/ssh101/88channel/chunks.m3u8
@@ -151,7 +146,7 @@ https://jmp2.uk/sam-USBD350002338.m3u8
 https://jmp2.uk/sam-USBD490000209.m3u8
 
 #EXTINF:-1 tvg-id="USBD3300012VX" tvg-logo="https://i.postimg.cc/HLDcNv2Y/bat.jpg" group-title="Animados | Variado",Battery Pop (US)
-https://jmp2.uk/sam-USBD3300012VX.m3u8
+https://battery-pop-1-us.vizio.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="US800003JM" tvg-logo="https://i.postimg.cc/pdmFcVH6/bbc-k.jpg" group-title="Animados | Variado",BBC | Kids (UK)
 https://jmp2.uk/sam-US800003JM.m3u8
@@ -727,6 +722,12 @@ https://jmp2.uk/sam-USBD3300013KV.m3u8
 #EXTINF:-1 tvg-id="USBD3300017XB" tvg-logo="https://i.postimg.cc/pd7zTLH7/sen-m.jpg" group-title="Animados | Variado",Sensical | Makers (US)
 https://jmp2.uk/sam-USBD3300017XB.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/s20jhzSm/solar.jpg" group-title="Animados | Variado",Solar TV | Cusco (PE)
+https://stmv1.voxhdnet.com/solartv/solartv/chunklist_w175376856.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MHXm3PBY/sony-hal.jpg" group-title="Animados | Variado",Sony | Kal | Hindi (IN)
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QN6mz0bd/spacet.jpg" group-title="Animados | Variado",Space Toon (AE)
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 
@@ -776,8 +777,10 @@ https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gkvVYH5f/telem.jpg" group-title="Animados | Variado",Telemas (CR)
 https://mist01.homestream.fun/hls/telemas/index.m3u8
 
-#EXTINF:-1 tvg-id="USBB3200016HO" tvg-logo="https://i.postimg.cc/qRHv3bMp/telem-aldia.jpg" group-title="Animados | Variado",Telemundo | Al Día | Samsung TV Plus (US)
-https://jmp2.uk/sam-USBB3200016HO.m3u8
+#EXTINF:-1 tvg-id="USBB3200016HO" tvg-logo="https://i.postimg.cc/qRHv3bMp/telem-aldia.jpg" group-title="Animados | Variado",Telemundo | Al Día | Local Now (US)
+https://s8host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config10/channel-hls/v2/876a4335dadf489b/88889750/master.m3u8?ads.cdnhost=s8host3.localnow.api.cms.amdvids.com&ads.playbackid=446FABE6-D80D-406D-9254-99DCBF06DE3D&ads.n1=rule_id&ads.v1=F0F2D67E-43F6-4794-9B68-414843159DD7-1714063134&ads.n3=qp_content_id&ads.v3=446FABE6-D80D-406D-9254-99DCBF06DE3D&ads.n4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsL3Sb7D/telemundo1.jpg" group-title="Animados | Variado",Telemundo | California (US)
+https://s8host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config10/ingress/linear/amg00884-nbcuniversal-nbctelemundowest-xumo/playlist.m3u8?ads.cdnhost=s8host4.localnow.api.cms.amdvids.com&ads.playbackid=1C5A65F4-B701-4A75-A353-80CA1004D222&ads.n1=rule_id&ads.v1=F0F2D67E-43F6-4794-9B68-414843159DD7-1714063134&ads.n3=qp_content_id&ads.v3=1C5A65F4-B701-4A75-A353-80CA1004D222&ads.n4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsL3Sb7D/telemundo1.jpg" group-title="Animados | Variado",Telemundo | Florida (US)
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J01BFggB/telemundo1.jpg" group-title="Animados | Variado",Telemundo (US)
@@ -5453,12 +5456,16 @@ http://45.5.117.182:8000/play/a0fr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QNT1f85g/sony-movies.jpg" group-title="Premium | Latino",Sony | Movies | Opción 3 (LATAM)
 http://200.52.148.194:8000/play/a0d4/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jSy3y7s7/sony-come.jpg" group-title="Premium | Latino",Sony | One | Comedias (LATAM)
+https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K8hg3Kqw/sony-compe.jpg" group-title="Premium | Latino",Sony | One | Competencias (LATAM)
 https://spt-competencias-1-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jqWXz7cS/sony-nove.jpg" group-title="Premium | Latino",Sony | One | Novelas (LATAM)
 https://spt-novelas-1-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jqWXz7cS/sony-nove.jpg" group-title="Premium | Latino",Sony | One | Novelas | Opción 2 (LATAM)
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn4QCkRz/sony-shark.jpg" group-title="Premium | Latino",Sony | One | Shark Tank (LATAM)
+https://spt-sonyonesharktank-1-mx.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Rh5nNDJD/golden.jpg" group-title="Premium | Latino",Golden (LATAM)
 http://168.181.122.234:8000/play/a01a/index.m3u8
@@ -5903,12 +5910,15 @@ https://jmp2.uk/sam-USBD42000073E.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DZFtvhjd/alfe.jpg" group-title="Mas Series 🧟",Alfred Hitchcock Presents (US)
 https://xumo-xumoent-ch825-ku23q.fast.nbcuni.com/live/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pV6ZdG84/24-7-ALF.jpg" group-title="Mas Series 🧟",ALF (LATAM)
+https://nxt.plus:8443/olmos/1234guz/140882
 #EXTINF:-1 tvg-id="US4100023FK" tvg-logo="https://i.postimg.cc/wM51zwFy/alf-2.jpg" group-title="Mas Series 🧟",ALF | Samsung TV Plus (US)
 https://jmp2.uk/sam-US4100023FK.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pV6ZdG84/24-7-ALF.jpg" group-title="Mas Series 🧟",ALF | Opción 2 (LATAM)
-https://nxt.plus:8443/olmos/1234guz/140882
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3hm5KfP/alf4.jpg" group-title="Mas Series 🧟",ALF | Opción 3 (LATAM)
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ0Tb77P/alf3.jpg" group-title="Mas Series 🧟",ALF | Híbrido | Animated (US)
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3hm5KfP/alf4.jpg" group-title="Mas Series 🧟",ALF | Opción (US)
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ0Tb77P/alf3.jpg" group-title="Mas Series 🧟",ALF | Híbrido | Animated | Local Now (US)
+https://s9host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config11/dist/localnow/729/hls/master/playlist.m3u8?ads.cdnhost=s9host3.localnow.api.cms.amdvids.com&ads.playbackid=38D9E180-1A43-439F-800D-74268C5EC966&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1714063241&ads.n3=qp_content_id&ads.v3=38D9E180-1A43-439F-800D-74268C5EC966
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9QXZLcqn/alien.jpg" group-title="Mas Series 🧟",Alien Nation | Dust (US)
 https://jmp2.uk/sam-USBC100000630.m3u8
@@ -6045,8 +6055,16 @@ https://jmp2.uk/sam-USBC390002256.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3fx8gfR/co.jpg" group-title="Mas Series 🧟",Como dice el dicho | Vix (US)
 https://jmp2.uk/sam-USBD2700004ME.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qt8SnhCS/cops.jpg" group-title="Mas Series 🧟",Cops (LATAM)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qt8SnhCS/cops.jpg" group-title="Mas Series 🧟",Cops | Plex (LATAM)
 https://rightsboosterltd-cops-1-eu.plex.wurl.tv/2000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qt8SnhCS/cops.jpg" group-title="Mas Series 🧟",Cops | LG (CO)
+https://rightsboosterltd-cops-1-co.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qt8SnhCS/cops.jpg" group-title="Mas Series 🧟",Cops | LG (CL)
+https://rightsboosterltd-cops-1-cl.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qt8SnhCS/cops.jpg" group-title="Mas Series 🧟",Cops | LG (PE)
+https://rightsboosterltd-cops-1-pe.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d1KsK2xK/cop.jpg" group-title="Mas Series 🧟",Cops | Plex (US)
 https://jmp2.uk/plex-643054b1fc3be59477853717-626c1753ffda6789d20a452e.m3u8
 
