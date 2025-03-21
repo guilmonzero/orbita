@@ -2,7 +2,7 @@
 #EXTINF:-1 GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 #EXTINF:-1 Para disfrutar de los canales y abrir correctamente, añade esta dirección a la aplicación IPTV PRO una vez instalada, disponible GRATIS en Google Play o bien descargala sin anuncios y completa acá: https//bit.ly/orbitaxpp  Compactible para todos tus dispositivos con Android y Google TV, TVBox, ect... 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/t4pDwvx/orbi1.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 18.03.25
+#EXTINF:-1 tvg-logo="https://i.ibb.co/t4pDwvx/orbi1.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 21.03.25
 https://pomf2.lain.la/f/572x442.mp4
 
 #EXTINF:-1 tvg-id="66b0dfa1d512590008bfa7fd" tvg-logo="https://i.postimg.cc/pVgRH9CQ/pluto-g.jpg" tvg-chno="04" group-title="Animados | Variado",Pluto TV | Gore & Slasher (ES)
@@ -88,7 +88,7 @@ https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-5ef4e1b10d9ad000423c4421.m3u8
 https://jmp2.uk/str-6207.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Zqg7JbRd/ama.jpg" group-title="Animados | Variado",A más + | Azteca Noreste (MX)
-https://live.info7.mx/info7/stream/_hi1/index.m3u8
+https://live.info7.mx/info7/stream.m3u8
 
 #EXTINF:-1 tvg-id="USBD7000017L" tvg-logo="https://i.postimg.cc/ncsmtW5L/amce.jpg" group-title="Animados | Variado",AMC | En Español (US)
 https://amc-amcespanol-1-us.vizio.wurl.tv/playlist.m3u8
@@ -420,7 +420,7 @@ https://stream.gia.tv/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/playlist.m3u8
 https://jmp2.uk/sam-USBC44000072I.m3u8
 
 #EXTINF:-1 tvg-id="631fb6be21b7440007b9f606" tvg-name="Hechizada" tvg-logo="https://i.postimg.cc/25HZ66L2/hechi.jpg" group-title="Animados | Variado",Hechizada
-https://jmp2.uk/plu-631fb6be21b7440007b9f606.m3u8
+https://stitcher.pluto.tv/stitch/hls/channel/631fb6be21b7440007b9f606/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=3a9c2c47-0637-11f0-acbe-96c67c4318d0
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mgKqrcpw/historia.jpg" group-title="Animados | Variado",Historia (ES)
 
@@ -698,9 +698,6 @@ https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dVCnC5K1/retroplus.jpg" group-title="Animados | Variado",Retro Plus | Señal 3 (CL)
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ryJ4DPyw/retrotoons.jpg" group-title="Animados | Variado",Retro Toons [Inestable] (LATAM)
-https://ssh101-fl.bozztv.com/ssh101/retrotoons/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j5Hd1Ypj/retrocr.jpg" group-title="Animados | Variado",Retro TV Online (CR)
 https://ssh101.bozztv.com/ssh101/retrotvcr/playlist.m3u8
@@ -2431,9 +2428,9 @@ https://hls.rtasport.live/hls/stream.m3u8
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hPCknzVR/seodeportes.jpg" group-title="Deportes | Aventura",Seo TV | Deportes | 1 (BO)
-https://seo.tv.bo/tv/IPSEO-TV-5.1.m3u8
+https://seo.tv.bo/tv/IpSEO-TV-5.1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hPCknzVR/seodeportes.jpg" group-title="Deportes | Aventura",Seo TV | Deportes | 2 (BO)
-https://seo.tv.bo/tv/IPSEO-TV-5.2.m3u8
+https://seo.tv.bo/tv/IpSEO-TV-5.2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0QMJt39Q/sar.jpg" group-title="Deportes | Aventura",Sharjah Sport TV (AE)
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
@@ -2528,11 +2525,13 @@ https://30a-tv.com/feeds/720p/53.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G2mp4JfB/grab.jpg" group-title="Deportes | Aventura",The Grappling Network | Stirr (US)
 https://jmp2.uk/str-5300.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jj8R9Nph/tigosports.jpg" group-title="Deportes | Aventura",Tigo Sports (CR)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZY5KtM6/tigo.jpg" group-title="Deportes | Aventura",Tigo Sports (CR)
 http://45.170.225.212:48001/play/a09f/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jj8R9Nph/tigosports.jpg" group-title="Deportes | Aventura",Tigo Sports (GT)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZY5KtM6/tigo.jpg" group-title="Deportes | Aventura",Tigo Sports | Opción 2 (CR)
+http://45.228.233.254:18000/play/a03x/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZY5KtM6/tigo.jpg" group-title="Deportes | Aventura",Tigo Sports (GT)
 http://181.78.105.146:2000/play/a08e/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jj8R9Nph/tigosports.jpg" group-title="Deportes | Aventura",Tigo Sports (SV)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZY5KtM6/tigo.jpg" group-title="Deportes | Aventura",Tigo Sports (SV)
 https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y90HhXtj/Tna.jpg" group-title="Deportes | Aventura",TNA | Wrestling (US)
@@ -3519,6 +3518,9 @@ https://streamer1.connectto.com/HIGHVISION_WEB_1205/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Fzq2GXrt/hit.jpg" group-title="Música 🎼",Hit TV (ES)
 http://185.189.225.149/HitTV/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8P3QYLc/hitr.jpg" group-title="Música 🎼",Hitradio Ö3 (AU)
+https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j2JSVN3v/hits360.jpg" group-title="Música 🎼",Hits 360 (RD)
 https://cdn.essastream.com:3023/live/hits360tvlive.m3u8
 
@@ -3591,7 +3593,7 @@ https://jmp2.uk/sam-ES3900001QG.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7PJCytSt/kral.jpg" group-title="Música 🎼",Kral Pop | Radio | Turquía (TR)
 https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/768m9sCD/kronehit.jpg" group-title="Música 🎼",Kronehit (AT)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/768m9sCD/kronehit.jpg" group-title="Música 🎼",Kronehit (AU)
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jd0y1qqG/lachilena.jpg" group-title="Música 🎼",La Chilena TV (CL)
@@ -11448,7 +11450,7 @@ https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
 https://vivo.solumedia.com:19360/vivetv/vivetv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5Nw1Nw2t/abya.jpg" group-title="Bolivia",Abya Yala TV (BO)
-https://seo.tv.bo/tv/IPSEO-TV-8.m3u8
+https://seo.tv.bo/tv/IpSEO-TV-8.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cLY2L3t4/atb.jpg" group-title="Bolivia",ATB (BO)
 http://186.121.206.197/live/daniel/index.m3u8
@@ -11482,7 +11484,7 @@ https://video2.getstreamhosting.com:19360/8038/8038.m3u8
 https://eu1.servers10.com:8081/ceacom/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8cK2YypD/coral.jpg" group-title="Bolivia",Coral TV (BO)
-https://tv.mediacp.eu:8081/coraltv/index.m3u8
+https://tv.mediacp.eu:8081/coraltv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYmCW3HB/cristalbo.jpg" group-title="Bolivia",Cristal (BO)
 https://srv5.elittehosting.com:3369/live/cristaltvlive.m3u8
@@ -11526,13 +11528,13 @@ https://videostream.shockmedia.com.ar:19360/redamericatv/redamericatv.m3u8
 https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fRKwz3Yq/seotv.jpg" group-title="Bolivia",Seo TV (BO)
-https://seo.tv.bo/tv/ISEO-TV-1.m3u8
+https://seo.tv.bo/tv/IpSEO-TV-1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dVNv1TFY/seopelis.jpg" group-title="Bolivia",Seo TV | Películas (BO)
-https://seo.tv.bo/tv/ISEO-TV-4.m3u8
+https://seo.tv.bo/tv/IpSEO-TV-4.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tRcQ6nmR/seonovelas1.jpg" group-title="Bolivia",Seo TV | Novelas (BO)
-https://seo.tv.bo/tv/ISEO-TV-3.m3u8
+https://seo.tv.bo/tv/IpSEO-TV-3.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j2R3rZL4/seoyungas.jpg" group-title="Bolivia",Seo TV | Yungas (BO)
-https://seo.tv.bo/tv/ISEO-TV-7.m3u8
+https://seo.tv.bo/tv/IpSEO-TV-7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Ghkmm5Pt/tdt.jpg" group-title="Bolivia",TDT | Multimedia (BO)
 https://video01.kshost.com.br:4443/juan6318/juan6318/playlist.m3u8
@@ -11543,7 +11545,7 @@ https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GhyPXdF2/tvsh.jpg" group-title="Bolivia",TV Show | Oruro (BO)
 http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qBPQVjxj/tvub.jpg" group-title="Bolivia",TVU | Televisión Universitaria de La Paz Bolivia (BO)
-https://video.live.com.bo:3003/live/tvuumsalive.m3u8
+https://s1.tvdatta.com:3557/live/tvulive.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BbLZGqs7/univalle.jpg" group-title="Bolivia",UNV | Univalle (BO)
 https://master.tucableip.com/univalletv/playlist.m3u8
 
@@ -12676,6 +12678,8 @@ https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 http://supersonictv.live:8080/443870/997140/11480
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FKpN9Bt8/teletica1.jpg" group-title="Costa Rica 🇨🇷",Canal 7 | Teletica | Opción 2 (CR)
 https://nxt.plus:8443/olmos/1234guz/46875
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FKpN9Bt8/teletica1.jpg" group-title="Costa Rica 🇨🇷",Canal 7 | Teletica | Opción 3 (CR)
+http://45.228.233.254:18000/play/a01r/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqhQ97RX/8cr.jpg" group-title="Costa Rica 🇨🇷",Canal 8 | Multimedios (CR)
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
@@ -15183,8 +15187,8 @@ https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k5H73hzJ/3tamil.jpg" group-title="Mas Señales",3 Tamil TV | Australia | India (IN)
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8jvCYrv/tv5f.jpg" group-title="Mas Señales",5 | Filipinas (PH)
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/908CYJgP/a2z.jpg" group-title="Mas Señales",A2Z | Filipinas (PH)
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SjFqYq0q/acs2.jpg" group-title="Mas Señales",ACS Network TV (PR)
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w1677884939.m3u8
@@ -15378,16 +15382,7 @@ https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJXb67ZS/qvcjapan.jpg" group-title="Mas Señales",QVC | Japón (JP)
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VkVZvbgg/rtp-p.jpg" group-title="Mas Señales",RTR | Planeta | Europa (RU)
-https://player.smotrim.ru/iframe/stream/live_id/4941
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BnryFc3p/sanjosetvputos.jpg" group-title="Mas Señales",San José TV | Señal Temporal (CR)
-https://rtmp.info/sanjosetv/envivo/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8c97LYvt/nueva.jpg" group-title="Mas Señales",Shangyu | Nueva Cuidad Comercial (CN)
-http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cHz8RHVX/r9.jpg" group-title="Mas Señales",R9 | Austria (AT)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cHz8RHVX/r9.jpg" group-title="Mas Señales",R9 | Austria (AU)
 https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J79nTX04/rai-3.jpg" group-title="Mas Señales",Rai | 3 (IT)
@@ -15398,8 +15393,29 @@ https://rakuten-family-16-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Rh6ZYW1V/ratukenromande.jpg" group-title="Mas Señales",Rakuten TV | Romance | Holanda (NL)
 https://rakuten-romance-8-nl.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/t4p6YTQh/rk33.jpg" group-title="Mas Señales",RTHK TV | 33 | Hong Kong (HK)
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0SZHj7B/rk34.jpg" group-title="Mas Señales",RTHK TV | 34 | Hong Kong (HK)
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/LXYYrgLM/rk35.jpg" group-title="Mas Señales",RTHK TV | 35 | Hong Kong (HK)
+https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VkVZvbgg/rtp-p.jpg" group-title="Mas Señales",RTR | Planeta | Europa (RU)
+https://player.smotrim.ru/iframe/stream/live_id/4941
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BnryFc3p/sanjosetvputos.jpg" group-title="Mas Señales",San José TV | Señal Temporal (CR)
+https://rtmp.info/sanjosetv/envivo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8c97LYvt/nueva.jpg" group-title="Mas Señales",Shangyu | Nueva Cuidad Comercial (CN)
+http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCxDCHxh/shin.jpg" group-title="Mas Señales",Shinsegae | Shopping TV | Corea del Sur (KR)
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YSxHc4Zb/shopchannel.jpg" group-title="Mas Señales",Shop Channel (JP)
 https://stream3.shopch.jp/HLS/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2yrJjSB9/shop.jpg" group-title="Mas Señales",Shopping NT | Corea del Sur (KR)
+https://live.shoppingntmall.com/live/10011.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QNn2qY02/sic.jpg" group-title="Mas Señales",Sic | Portugal (PT)
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
@@ -15412,6 +15428,9 @@ http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hPxbMZzp/tbsjp.jpg" group-title="Mas Señales",TBS (JP)
 Http://vthanh.utako.moe/TBS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/52F4vXDX/tbsk.jpg" group-title="Mas Señales",TBS | Seúl | Corea del Sur (KR)
+https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4ytdPQM5/telefides-PUTOS.jpg" group-title="Mas Señales",Telefides | Señal Temporal (CR)
 https://s2.cwebtv.net:4433/telefides/telefides/playlist.m3u8
@@ -15442,6 +15461,9 @@ https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VvYDNPJS/wa.jpg" group-title="Mas Señales",Wapa TV | Puerto Rico [NO 24/7] (PR)
 https://live.field59.com/wapa/wapa1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rFY8H15n/ws.jpg" group-title="Mas Señales",W Shopping | Corea del Sur (KR)
+https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x1DKfC69/z3.jpg" group-title="Mas Señales",Zhejiang | Economic Lifestyle (CN)
 http://ali-vl.cztv.com/channels/lantian/channel003/360p.m3u8
@@ -15680,8 +15702,17 @@ https://deliverys5.quanteec.com/contents/encodings/live/47fcda1a-38f6-4fb2-3938-
 http://69.70.89.58:8001/mjpg/video.mjpg
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SVJZH0q/pensa.jpg" group-title="Camaras 📹",Pensacola | Beach (US)
 https://cdn3.wowza.com/5/MmNRcC9LMmNmM2Mw/sunba/pensacola/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JjSvnRq/cam10.jpg" group-title="Camaras 📹",Playa Hermosa | Guanacaste (CR)
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCgkqqwM/do.jpg" group-title="Camaras 📹",Playa Dominical | Puntarenas | Costa Rica (CR)
+https://hls.cdn-surfline.com/ohio/cr-dominical/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JjSvnRq/cam10.jpg" group-title="Camaras 📹",Playa Hermosa | Guanacaste | Costa Rica (CR)
 https://cams.cdn-surfline.com/cdn-ec/cr-playahermosa/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sxm2VBbX/ja.jpg" group-title="Camaras 📹",Playa Jacó | Puntarenas | Costa Rica (CR)
+https://s107.ipcamlive.com/streams/6bu4y8cqs2tjgww76/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/V609rg4T/ta1.jpg" group-title="Camaras 📹",Playa Tamarindo | 1 | Guanacaste | Costa Rica (CR)
+https://e1-na7.angelcam.com/cameras/103922/streams/hls/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9%2EeyJpYXQiOjE3NDI1NDM3MTYsIm5iZiI6MTc0MjU0MzU5NiwiZXhwIjoxNzQyNTUwOTE2LCJkaWQiOiIxMDM5MjIifQ%2E8EQWR9OpxSnuBSoSRxEjQpg3mJjaLEoqKVNsNeuIKhI
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6qsrdZmQ/ta2.jpg" group-title="Camaras 📹",Playa Tamarindo | 2 | Guanacaste | Costa Rica (CR)
+https://e1-na3.angelcam.com/cameras/1623/streams/hls/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9%2EeyJpYXQiOjE3NDI1NDM3MTYsIm5iZiI6MTc0MjU0MzU5NiwiZXhwIjoxNzQyNTUwOTE2LCJkaWQiOiIxNjIzIn0%2EVAK9l7H4nzsM3pq3Y0vVyjrt8X4a%2D%5FyysjLC7YvH8YE
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3pbsSXs/cam13.jpg" group-title="Camaras 📹",Puente de la Amistad | Río Paraná (BR-PR)
 https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Wpyfsw-fZ/radiopua.jpg" group-title="Camaras 📹",Radio Puangue | Curacaví | Chile (CL)
@@ -15712,6 +15743,14 @@ http://213.200.245.146:83/mjpg/video.mjpg
 http://208.87.72.176:80/mjpg/video.mjpg
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GJvRxnQ/c11.jpg" group-title="Camaras 📹",Virginia | Midway Home Service (US)
 http://71.41.73.146:80/mjpg/video.mjpg
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/htVMrTz6/vo.jpg" group-title="Camaras 📹",Volcán Poás | 1 | Se actualiza cada minuto | Costa Rica (CR)
+http://www.ovsicori.una.ac.cr/images/stories/camaras/livecraterpoas/camara.jpg?1742545167247
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/htVMrTz6/vo.jpg" group-title="Camaras 📹",Volcán Poás | 2 | Se actualiza cada minuto | Costa Rica (CR)
+http://www.ovsicori.una.ac.cr/images/stories/camaras/livepoas/camara.jpg?1742545929620
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsW-ctx8w/vo2.jpg" group-title="Camaras 📹",Volcán Turrialba | 2 | Imagen se actualiza cada 10 segundos | Costa Rica (CR)
+http://www.ovsicori.una.ac.cr/images/stories/camaras/liveturrialba/camara.jpg
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/50N8zkC9/vo1.jpg" group-title="Camaras 📹",Volcán Irazú | 2 | Se actualiza cada 10 segundos | Costa Rica (CR)
+http://www.ovsicori.una.ac.cr/images/stories/camaras/liveirazu/camara.jpg?1742546597495
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LvYCLSq/c2.jpg" group-title="Camaras 📹",Vysocina | Kraj | República Checa (CZ)
 http://78.156.144.221:80/mjpg/video.mjpg
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B2y3b7y/c1.jpg" group-title="Camaras 📹",Zelenchukskaya | Observatorio | Rusia (RU)
