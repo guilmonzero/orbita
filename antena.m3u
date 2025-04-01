@@ -16156,11 +16156,11 @@ http://46.160.254.214:80/mjpg/video.mjpg
 https://deliverys5.quanteec.com/contents/encodings/live/47fcda1a-38f6-4fb2-3938-3330-6d61-63-bb4b-5df88851d8b7d/media_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Tw58vpGs/oc.jpg" group-title="Camaras 📹",Mallory Square | Ocean Key Resort | Key West | Cam 1 (US)
-https://usw01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.jflbdqs.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt20177.rc0.edge.basic.stream/chunklist_w433597967.m3u8
+https://usw01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.jflbdqs.fd0.sm1.av2.mt0.at0.as0.dv0sh2.rt25259.rc0.edge.basic.stream/chunklist_w433597967.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Tw58vpGs/oc.jpg" group-title="Camaras 📹",Mallory Square | Ocean Key Resort | Key West | Cam 2 (US)
-https://usw01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.kfzxdyu.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt20177.rc0.edge.basic.stream/chunklist_w2041527018.m3u8
+https://usw01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.kfzxdyu.fd0.sm1.av2.mt0.at0.as0.dv0sh2.rt25259.rc0.edge.basic.stream/chunklist_w2041527018.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Tw58vpGs/oc.jpg" group-title="Camaras 📹",Mallory Square | Ocean Key Resort | Key West | Cam 3 (US)
-https://usw01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.odjvdrc.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt20177.rc0.edge.basic.stream/chunklist_w49980800.m3u8
+https://usw01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.odjvdrc.fd0.sm1.av2.mt0.at0.as0.dv0sh2.rt25259.rc0.edge.basic.stream/chunklist_w49980800.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xMvcxKf/c9.jpg" group-title="Camaras 📹",Montreal | Quebec | Pista de Hockey (CA)
 http://69.70.89.58:8001/mjpg/video.mjpg
@@ -16188,29 +16188,29 @@ https://cdn-orange.quanteec.com/contents/encodings/live/c51d6b18-94cf-4476-3838-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wRzTrjr/scho.jpg" group-title="Camaras 📹",Schooners Hill Bar | Florida (US)
 https://5ed7b8fd7bf40.streamlock.net:444/schoonersbarHDCam/schbar/chunklist_w1790966468.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cJf6x5F0/sh3.jpg" group-title="Camaras 📹",Schooners Wharf | Key West | Florida (US)
-https://usw01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.cnbodpt.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt20177.rc0.edge.basic.stream/chunklist_w1604523263.m3u8
+https://usw01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.cnbodpt.fd0.sm1.av2.mt0.at0.as0.dv0sh2.rt25259.rc0.edge.basic.stream/chunklist_w1604523263.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHK4Nhp/sh1.jpg" group-title="Camaras 📹",Sharkys Beach | Deck Cam | Panama City (US)
 https://5ed7b8fd7bf40.streamlock.net:444/sharkys/sharkysbeachcam/chunklist_w522883625.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4WQ85Jj/sh2.jpg" group-title="Camaras 📹",Sharkys Beach | Beach Cam | Panama City (US)
 https://5ed7b8fd7bf40.streamlock.net:444/sharkyssunset/sharkyssunsetcam/chunklist_w367109247.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d06Xc6G/du.jpg" group-title="Camaras 📹",Sloppy Joe | Duval Street | Key West | Cam 1 (US)
-https://use01-smr05-relay.ozolio.com/hls-live/_definst_/smil:relay01.vtcldi6.fd0.sm1.av2.mt1.at0.as1.dv0.sh2.rt20177.rc0.smil/chunklist_w292003913_b3096000.m3u8
+https://use01-smr03-relay.ozolio.com/hls-live/_definst_/smil:relay01.vtcldi6.fd0.sm1.av2.mt1.at0.as1.dv0.sh2.rt25259.rc0.smil/chunklist_w823156168_b3096000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d06Xc6G/du.jpg" group-title="Camaras 📹",Sloppy Joe | Duval Street | Key West | Cam 2 (US)
-https://usw01-smr03-relay.ozolio.com/hls-live/_definst_/relay01.eboldpj.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt20177.rc0.edge.basic.stream/chunklist_w2078828826.m3u8
+https://usw01-smr03-relay.ozolio.com/hls-live/_definst_/relay01.eboldpj.fd0.sm1.av2.mt0.at0.as0.dv0sh2.rt25259.rc0.edge.basic.stream/chunklist_w2078828826.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d06Xc6G/du.jpg" group-title="Camaras 📹",Sloppy Joe | Duval Street | Key West | Cam 3 | Stage (US)
-https://use01-smr04-relay.ozolio.com/hls-live/_definst_/smil:relay01.xnbwdi1.fd0.sm1.av2.mt1.at0.as1.dv0.sh2.rt20177.rc0.smil/chunklist_w92044448_b3096000.m3u8
+https://use01-smr04-relay.ozolio.com/hls-live/_definst_/smil:relay01.xnbwdi1.fd0.sm1.av2.mt1.at0.as1.dv0sh2.rt25259.rc0.smil/chunklist_w92044448_b3096000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d06Xc6G/du.jpg" group-title="Camaras 📹",Sloppy Joe | Duval Street | Key West | Cam 4 | Inside (US)
-https://use01-smr05-relay.ozolio.com/hls-live/_definst_/smil:relay01.ehyzdpo.fd0.sm1.av2.mt1.at0.as1.dv0.sh2.rt20177.rc0.smil/chunklist_w1681955776_b3096000.m3u8
+https://use01-smr05-relay.ozolio.com/hls-live/_definst_/smil:relay01.ehyzdpo.fd0.sm1.av2.mt1.at0.as1.dv0sh2.rt25259.rc0.smil/chunklist_w1681955776_b3096000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d06Xc6G/du.jpg" group-title="Camaras 📹",Sloppy Joe | Duval Street | Key West | Cam 5 | Eventos (US)
-https://use01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.hbeiet4.fd0.sm1.av2.mt0.at0.as0.dv1.sh2.rt20177.rc0.edge.basic.stream/chunklist_w691459356_DVR.m3u8
+https://use01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.hbeiet4.fd0.sm1.av2.mt0.at0.as0.dv1sh2.rt25259.rc0.edge.basic.stream/chunklist_w691459356_DVR.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/17cNHGM/c4.jpg" group-title="Camaras 📹",Stalder Kucher | Australia (DE)
 http://213.200.245.146:83/mjpg/video.mjpg
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t4DcVX7g/sou.jpg" group-title="Camaras 📹",Southernmost Beach Resort: Pineapple Bar Cam | Cam 1 | Key West (US)
-https://use01-smr05-relay.ozolio.com/hls-live/_definst_/smil:relay01.vtcldi6.fd0.sm1.av2.mt1.at0.as1.dv0.sh2.rt20177.rc0.smil/chunklist_w44464855_b3096000.m3u8
+https://use01-smr05-relay.ozolio.com/hls-live/_definst_/smil:relay01.vtcldi6.fd0.sm1.av2.mt1.at0.as1.dv0sh2.rt25259.rc0.smil/chunklist_w44464855_b3096000.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t4DcVX7g/sou.jpg" group-title="Camaras 📹",Southernmost Beach Resort: Pineapple Bar Cam | Cam 2 | Key West (US)
-https://usw01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.ytzidtu.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt20177.rc0.edge.basic.stream/chunklist_w278116089.m3u8
+https://usw01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.ytzidtu.fd0.sm1.av2.mt0.at0.as0.dv0sh2.rt25259.rc0.edge.basic.stream/chunklist_w278116089.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t4DcVX7g/sou.jpg" group-title="Camaras 📹",Southernmost Beach Resort: Pineapple Bar Cam | Cam 3 | Key West (US)
-https://usw01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.thmldue.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt20177.rc0.edge.basic.stream/chunklist_w2062968488.m3u8
+https://usw01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.thmldue.fd0.sm1.av2.mt0.at0.as0.dv0sh2.rt25259.rc0.edge.basic.stream/chunklist_w2062968488.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/G74FrVm/c8.jpg" group-title="Camaras 📹",Tennessee | Elam Center (US)
 http://208.87.72.176:80/mjpg/video.mjpg
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GJvRxnQ/c11.jpg" group-title="Camaras 📹",Virginia | Midway Home Service (US)
