@@ -370,9 +370,6 @@ https://eyeonesports.com/ES2RA-628g.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DwVrhXmS/estacionretro.jpg" group-title="Animados | Variado",Estación Retro (CO)
 https://ssh101.bozztv.com/ssh101/canalonline/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MpZgbVJD/etb3.jpg" group-title="Animados | Variado",ETB 3 | Vasco (ES)
-https://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:98_HD.smil/manifest.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T3YrRxQ3/Etc.jpg" group-title="Animados | Variado",ETC (CL)
 http://45.181.122.46:8090/play/a00t
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T3YrRxQ3/Etc.jpg" group-title="Animados | Variado",ETC | Opción 2 (CL)
@@ -628,7 +625,6 @@ http://185.189.225.150:85/nickelodeon/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W3yxZkjy/nick2.jpg" group-title="Animados | Variado",Nickelodeon (US)
 http://143.244.60.30/NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0yCmCSdB/nickjunior.jpg" group-title="Animados | Variado",Nick | Junior (US)
-http://fl2.moveonjoy.com/NICK_JR/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRgWtW1S/nicktoons3.jpg" group-title="Animados | Variado",Nick | Toons (US)
 http://143.244.60.30/NICKTOONS/index.m3u8
 
@@ -718,9 +714,6 @@ https://amg01201-cinedigmenterta-retrocrush-cineverse-nrfll.amagi.tv/playlist/am
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G2RBXG8F/retromagico.jpg" group-title="Animados | Variado",Retro Mágico (AR)
 https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dVCnC5K1/retroplus.jpg" group-title="Animados | Variado",Retro Plus | Señal 3 (CL)
-https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j5Hd1Ypj/retrocr.jpg" group-title="Animados | Variado",Retro TV Online (CR)
 https://ssh101.bozztv.com/ssh101/retrotvcr/playlist.m3u8
 
@@ -759,11 +752,6 @@ https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QN6mz0bd/spacet.jpg" group-title="Animados | Variado",Space Toon (AE)
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Ssbh3BXX/sq.jpg" group-title="Animados | Variado",Squirrel (ES)
-https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DyTkkpGP/star2.jpg" group-title="Animados | Variado",Star Channel (ES)
-http://181.78.23.162:8000/play/a06n/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DyTkkpGP/star2.jpg" group-title="Animados | Variado",Star Channel (ES)
 http://ufvajrn.mexamo.xyz:900/live/637802461/2906339587/189442.m3u8
 
@@ -13228,9 +13216,6 @@ https://lstv.duckdns.org:449/hls/rtchirripo.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3yWFNtL/sanvito1.jpg" group-title="Costa Rica 🇨🇷",STV | San Vito (CR)
 https://acceso.radiosportstv.online:3150/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6p3s2fw8/stvsarapiqui.jpg" group-title="Costa Rica 🇨🇷",STV | Sarapiqui (CR)
-http://tiquiciatv.com:1935/stv/web/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LX8PbcJQ/sarapiqui.jpg" group-title="Costa Rica 🇨🇷",SSTV | Sarapiqui Streming Television (CR)
 https://fl1002.bozztv.com/ssh101/sarapiquistreaming.cr/tracks-v1a1/mono.m3u8
 
@@ -13247,6 +13232,9 @@ https://k20.usastreams.com:8081/telesistema/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sgw3TCmQ/telesurx.jpg" group-title="Costa Rica 🇨🇷",TeleSur (CR)
 https://s1.tvdatta.com:3582/live/telesurlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2SfZ19G/teleticara.jpg" group-title="Costa Rica 🇨🇷",Teletica Radio | 91.5FM (CR)
+https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStreamTRadio/bbcfd43fb9ad3b22af53808371ce9a16.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bbv5vLnR/teleunocr.jpg" group-title="Costa Rica 🇨🇷",TeleUno (CR)
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
@@ -13517,16 +13505,10 @@ https://multimedia.eitb.eus/live-content/etb1hd-hls/bitrate_4.m3u8
 https://multimedia.eitb.eus/live-content/etb2hd-hls/bitrate_4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MpZgbVJD/etb3.jpg" group-title="España",ETB 3 | Vasco (ES)
-https://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:98_HD.smil/manifest.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wjWZWM6d/etb4.jpg" group-title="España",ETB 4 | Vasco (ES)
-https://nodep002.service.openstream.es/SVoriginOperatorEdge/smil:273_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMWC2XKf/etbasque.jpg" group-title="España",ETB Basque | Vasco (ES)
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kgGMXqZC/etv.jpg" group-title="España",ETV | Terramar (ES)
-https://liveingesta318.cdnmedia.tv/tvetvlive/smil:rtmp01.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CKJZsPSY/fib.jpg" group-title="España",Fibwi (ES)
 https://hostcdn3.fibwi.com/fibwi_diario/index.fmp4.m3u8
