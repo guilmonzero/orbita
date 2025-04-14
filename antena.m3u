@@ -401,9 +401,11 @@ http://iptv.prosto.tv:7000/ch256/video.m3u8
 https://stream.ichibantv.com:3764/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vTStdkrS/gloob.jpg" group-title="Animados | Variado",Gloob (BR)
-http://78.159.119.122:2082/Tourobox2-iCaocHjXO9/gW2ZecXp03/358
+http://globalstreamz.xyz:3050/akagianagem@gmail.com/fvG43eXi9b/659735
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vTStdkrS/gloob.jpg" group-title="Animados | Variado",Gloob | Opción 2 (BR)
+http://filex.tv:8080/aftab123/004090/304167
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HWwhc9HJ/gloobinho.jpg" group-title="Animados | Variado",Gloobinho (BR)
-http://78.159.119.122:2082/Tourobox2-iCaocHjXO9/gW2ZecXp03/360
+http://globalstreamz.xyz:3050/akagianagem@gmail.com/fvG43eXi9b/659736
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/76LKGMLn/gogoplay.jpg" group-title="Animados | Variado",GogoPlay TV (LATAM)
 https://ssh101-fl.bozztv.com/ssh101/gogoplay/playlist.m3u8
@@ -553,8 +555,6 @@ https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J73wk43m/mnetkids.jpg" group-title="Animados | Variado",M Net Kids | Macedonia (MK)
 http://ares.mnet.mk/hls/mnet-kids.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MHRFFP7G/moonbug.jpg" group-title="Animados | Variado",Moonbug (ES)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3365
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MHRFFP7G/moonbug.jpg" group-title="Animados | Variado",Moonbug (UK)
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
@@ -4482,23 +4482,14 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3134
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4417
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3rXQ9n6T/canela-clasicos.jpg" group-title="Películas | Series",Canela TV | Clásicos (LATAM)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wB1r5rkX/canela-d.jpg" group-title="Películas | Series",Canela TV | Desastres (LATAM)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=7364
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vTgRkVX6/canela-h.jpg" group-title="Películas | Series",Canela TV | Horror (LATAM)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=6029
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WtLCQzPZ/canela-nar.jpg" group-title="Películas | Series",Canela TV | Narco-Drama (LATAM)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11099
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rmQs8KBR/canelnv1.jpg" group-title="Películas | Series",Canela TV | Novelas (LATAM)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CMz7qk3r/canela-nov.jpg" group-title="Películas | Series",Canela TV | Novelas Inolvidables (LATAM)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5550
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sxYW9VqV/canelnv.jpg" group-title="Películas | Series",Canela TV | Novelas Turcas (LATAM)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T1GHGGZq/canela-t.jpg" group-title="Películas | Series",Canela TV | Novelas Turcas | Samsung TV Plus (US)
 https://jmp2.uk/sam-US27000033D.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZh51ZwM/canelcr.jpg" group-title="Películas | Series",Canela TV | True Crimen (LATAM)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3985
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HxtC20T4/cine34.jpg" group-title="Películas | Series",Cine 34 | Mediaset (IT)
 http://84.22.55.2:8000/play/s11
@@ -4584,15 +4575,6 @@ https://jmp2.uk/str-5745.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bb5kW5sN/crackle.jpg" group-title="Películas | Series",Crackle (US)
 http://crackle-xumo.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hvwfPv42/crave.jpg" group-title="Películas | Series",Crave | 1 (US)
-http://fl3.moveonjoy.com/CRAVE_1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hvwfPv42/crave.jpg" group-title="Películas | Series",Crave | 2 (US)
-http://fl2.moveonjoy.com/CRAVE_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hvwfPv42/crave.jpg" group-title="Películas | Series",Crave | 3 (US)
-http://fl3.moveonjoy.com/CRAVE_3/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hvwfPv42/crave.jpg" group-title="Películas | Series",Crave | 4 (US)
-http://fl2.moveonjoy.com/CRAVE_4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1391CmQp/crimef.jpg" group-title="Películas | Series",Crime Flix | Stirr (US)
 https://jmp2.uk/str-5273.m3u8
@@ -6875,6 +6857,9 @@ https://archive.org/download/6_20200518_20200518/6.mkv
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tR5xpxCG/ethan.jpg" group-title="Mas Películas 🎃",El Libro de la Vida | 2014 | Latino
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g2FTK6zH/thb.jpg" group-title="Mas Películas 🎃",El Niño | 2016 | Latino
+https://pomf2.lain.la/f/kpzxqbjl.mkv
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VvZRhWjd/pu0.jpg" group-title="Mas Películas 🎃",El Pueblo de Los Malditos | 1960 | Latino
 https://archive.org/serve/ElPuebloDeLosMalditos/El%20Pueblo%20De%20Los%20Malditos.mp4
 
@@ -7519,6 +7504,9 @@ https://archive.org/download/volveralfuturo/Volver%20al%20Futuro.mp4
 https://archive.org/serve/volver-al-futuro-ii/Volver%20al%20Futuro%20II.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g2nbqkqY/vol3.jpg" group-title="Mas Películas 🎃",Volver al Futuro | 3 | 1990 | Latino
 https://archive.org/download/volveralfuturo/Volver%20al%20Futuro%20III.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqZS6WnB/wa.jpg" group-title="Mas Películas 🎃",WALL·E | 2008 | Latino
+https://pomf2.lain.la/f/itnwtup.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qRxPC2qZ/wal.jpg" group-title="Mas Películas 🎃",Wallace y Gromit | La Batalla de Los Vegetales | 2003 | Latino
 https://ia601606.us.archive.org/17/items/w-4llac-3y-gr-0m-1t-la-mald-1ci-n-d-l-4s-verdur-4s-hd-720p-1142500/W4llac3y_Gr0m1t__La_mald1ci_n_d_l4s_verdur4s_HD__720p___1142500.mp4
