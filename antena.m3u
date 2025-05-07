@@ -16193,7 +16193,7 @@ https://hls.cdn-surfline.com/ohio/cr-playahermosa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JjSvnRq/cam10.jpg" group-title="Camaras 📹",Playa Hermosa | Guanacaste | CAM 2 | Costa Rica (CR)
 https://s40.ipcamlive.com/streams/51waz8tlo9bwduyfs/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sxm2VBbX/ja.jpg" group-title="Camaras 📹",Playa Jacó | Puntarenas | Costa Rica (CR)
-https://s81.ipcamlive.com/streams/516kij3c2uwkhrdro/stream.m3u8
+https://s81.ipcamlive.com/streams/51x6aueasgog0t1vv/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3pbsSXs/cam13.jpg" group-title="Camaras 📹",Puente de la Amistad | Río Paraná (BR-PR)
 https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Wpyfsw-fZ/radiopua.jpg" group-title="Camaras 📹",Radio Puangue | Curacaví | Chile (CL)
@@ -18913,10 +18913,6 @@ https://pomf2.lain.la/f/x2aaguc3.mp4
 https://pomf2.lain.la/f/526uxlcn.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b6cjgkX/11.jpg" group-title="Youtube Recomendados 👾",@Titanspeaker2099_9
 https://pomf2.lain.la/f/gl8wq5j2.mp4
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PrcK25J7/colosal2.jpg" group-title="ColosalFM",Colosal | 88.3FM | Temporal (CR)
-https://5d16127744872.streamlock.net/canal3/canal3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r3ZXxVz/orbi-pride.jpg" group-title="GUILMONZERO 😉",Órbita by GUILMONZERO | Feedback
 https://pomf2.lain.la/f/o0ucqxo.mp4
