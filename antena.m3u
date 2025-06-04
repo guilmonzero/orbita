@@ -2,7 +2,7 @@
 #EXTINF:-1 GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 #EXTINF:-1 Para disfrutar de los canales y abrir correctamente, añade esta dirección a la aplicación IPTV PRO una vez instalada, disponible GRATIS en Google Play o bien descargala sin anuncios y completa acá: https//bit.ly/orbitaxpp  Compactible para todos tus dispositivos con Android y Google TV, TVBox, ect... 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r3ZXxVz/orbi-pride.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 02.06.25
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r3ZXxVz/orbi-pride.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 04.06.25
 https://pomf2.lain.la/f/572x442.mp4
 
 #EXTINF:-1 tvg-id="66b0dfa1d512590008bfa7fd" tvg-logo="https://i.postimg.cc/pVgRH9CQ/pluto-g.jpg" tvg-chno="04" group-title="Animados | Variado",Pluto TV | Gore & Slasher (ES)
@@ -692,6 +692,9 @@ https://jmp2.uk/sam-ES260001081.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dtzbNmqk/RCNma2.jpg" group-title="Animados | Variado",RCN | Más (CO)
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zZPgPNB/retroclub.jpg" group-title="Animados | Variado",Retro Club (LATAM)
+https://live20.bozztv.com/akamaissh101/ssh101/retroclub/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/q7SfVkz8/re.jpg" group-title="Animados | Variado",Retro Crush (US)
 https://amg01201-cinedigmenterta-retrocrush-cineverse-nrfll.amagi.tv/playlist/amg01201-cinedigmenterta-retrocrush-cineverse/playlist.m3u8
@@ -5089,7 +5092,7 @@ https://jmp2.uk/sam-ESBC2700012RP.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L8YCLvbB/cineverdi.jpg" group-title="Películas | Series",Verdi TV | Cines [GeoBloqueo] (ES)
 https://jmp2.uk/sam-ESBC2700011AZ.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yNM54d98/videoclub.jpg" group-title="Películas | Series",Video Club (AR)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QNHf9zZK/videoclub.jpg" group-title="Películas | Series",Video Club (AR)
 https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8zx3ck0w/vix-cineo.jpg" group-title="Películas | Series",Vix | Cine Oro (MX)
@@ -6719,19 +6722,19 @@ https://archive.org/download/ch-1c-0s-bu-3n-0s-2019-1080p-3-07-gb/Ch1c0s%20bu3n0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MT1txD0x/chu8.jpg" group-title="Mas Películas 🎃",Child's Play | 2019 | Latino
 https://dl.dropbox.com/s/g15q5wvmcd3w58w/R3M4K32019.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c1Q5NsTY/chu1.jpg" group-title="Mas Películas 🎃",Chucky | 1 | El Muñeco Diabólico | 1988 | Latino
-https://dl.dropbox.com/s/sxbf6jp9pjr55x7/1.mp4
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VLmZf3Hh/chu2.jpg" group-title="Mas Películas 🎃",Chucky | 2 | El Muñeco Diabólico | 1990 | Latino
-https://dl.dropbox.com/s/hp92l7rmge8d538/2.mp4
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7Y9sfmFZ/chu3.jpg" group-title="Mas Películas 🎃",Chucky | 3 | El Muñeco Diabólico | 1991 | Latino
-https://dl.dropbox.com/s/xloul9v9vlcgx0o/3.mp4
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zGfdWTNS/chu4.jpg" group-title="Mas Películas 🎃",Chucky | 4 | La Novia | 1998 | Latino
-https://dl.dropbox.com/s/zzxjafjshxecqer/4.mp4
+https://archive.org/serve/la-novia-de-chucky_202409/La%20Novia%20de%20Chucky.ia.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4xFW1nNC/chu5.jpg" group-title="Mas Películas 🎃",Chucky | 5 | El Hijo | 2004 | Latino
-https://dl.dropbox.com/s/pbn71fab7r03ydp/5.mp4
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3w4nf7dk/chu6.jpg" group-title="Mas Películas 🎃",Chucky | 5 | La Maldición | 2013 | Latino
-https://dl.dropbox.com/s/xr1t3tpl01qve23/6.mp4
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0NTZL3wc/chu7.jpg" group-title="Mas Películas 🎃",Chucky | 6 | El Culto | 2017 | Latino
-https://dl.dropbox.com/s/69h9lixdws23u0r/7.mp4
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FHZTZzMf/cl.jpg" group-title="Mas Películas 🎃",Click | 2006 | Latino
 https://ia803209.us.archive.org/22/items/la-pas-1i-0on-d-3-cr-1i-5to-2004-1080p-4-33-gb/Cl1ckE4%202006%20-%20Adam%20Sandler%20HD%201%2C65%20GB.mp4
@@ -18308,7 +18311,7 @@ https://archive.org/download/oscuridad90/07x12.mp4
 https://archive.org/download/oscuridad90/07x13.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvpYbtzd/h6.jpg" group-title="Cuentos de la Cripta",Cuentos de la Cripta | S01E01 | Latino [1964]
-
+Pendiente - Proximamente
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvpYbtzd/h6.jpg" group-title="Cuentos de la Cripta",Cuentos de la Cripta | S01E02 | Latino [1964]
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvpYbtzd/h6.jpg" group-title="Cuentos de la Cripta",Cuentos de la Cripta | S01E03 | Latino [1964]
