@@ -172,9 +172,9 @@ https://beanostudios-beanotv-1-gb.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nz5rtnqS/bemad.jpg" group-title="Animados | Variado",Be Mad (ES)
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsW-zsf5m/bigretro.jpg" group-title="Animados | Variado",Big Retro TV (CO)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRRT64Cz/bigretro.jpg" group-title="Animados | Variado",Big Retro TV (CO)
 https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsW-zsf5m/bigretro.jpg" group-title="Animados | Variado",Big Retro TV | Opción 2 (CO)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRRT64Cz/bigretro.jpg" group-title="Animados | Variado",Big Retro TV | Opción 2 (CO)
 https://live20.bozztv.com/akamaissh101/ssh101/bigchannel/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VLgJ0XnN/bitm.jpg" group-title="Animados | Variado",BitMe (MX)
