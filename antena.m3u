@@ -2,7 +2,7 @@
 #EXTINF:-1 GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 #EXTINF:-1 Para disfrutar de los canales y abrir correctamente, añade esta dirección a la aplicación IPTV PRO una vez instalada, disponible GRATIS en Google Play o bien descargala sin anuncios y completa acá: https//bit.ly/orbitaxpp  Compactible para todos tus dispositivos con Android y Google TV, TVBox, ect... 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r3ZXxVz/orbi-pride.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 23.06.25
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r3ZXxVz/orbi-pride.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 03.07.25
 https://pomf2.lain.la/f/572x442.mp4
 
 #EXTINF:-1 tvg-id="66b0dfa1d512590008bfa7fd" tvg-name="Pluto TV Gore & Slasher" tvg-logo="https://i.postimg.cc/pVgRH9CQ/pluto-g.jpg" tvg-chno="04" group-title="Animados | Variado",Pluto TV | Gore & Slasher (ES)
@@ -21,7 +21,7 @@ https://jmp2.uk/sam-ESBC40000248.m3u8
 https://jmp2.uk/plu-63fe0111dff38e00083510f9.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvmTYXJB/pride2.jpg" group-title="Animados | Variado",Pride TV | Feed Chile (LATAM)
-https://xui-backend.energeek.cl/live/dem0pRideTVweb/x7Yu50WeVn/16.m3u8
+https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=dem0pRideTVweb
 #EXTINF:-1 tvg-id="6643b8c42eafd40008daab8b" tvg-logo="https://i.postimg.cc/cLskdBh6/pride1.jpg" group-title="Animados | Variado" ,Pluto TV | Pride TV | Latino (LATAM)
 https://jmp2.uk/plu-6643b8c42eafd40008daab8b.m3u8
 #EXTINF:-1 tvg-id="65eeffc50d4561000836f191" tvg-logo="https://i.postimg.cc/cLskdBh6/pride1.jpg" group-title="Animados | Variado" ,Pluto TV | Pride TV | España (ES)
@@ -44,14 +44,8 @@ https://jmp2.uk/plu-64510d3ad3fdde00080951f2.m3u8
 #EXTINF:-1 tvg-id="5ce5a8954311f992edbe1da2" tvg-logo="https://i.postimg.cc/Gpdz9gRN/logo.jpg" group-title="Animados | Variado" ,Pluto TV | Logo (US)
 https://jmp2.uk/plu-5ce5a8954311f992edbe1da2.m3u8
 
-#EXTINF:-1 tvg-id="663cdc85f78a8500090bae4b" tvg-name="MTV Pride" tvg-logo="https://i.postimg.cc/BQwnTMQS/plu-mt.jpg" group-title="Animados | Variado" ,MTV | Pride (LATAM)
-https://jmp2.uk/plu-663cdc85f78a8500090bae4b.m3u8
-
 #EXTINF:-1 tvg-id="642afefb9189ce00088f592c" tvg-name="MTV Pride" tvg-logo="https://i.postimg.cc/BQwnTMQS/plu-mt.jpg" group-title="Animados | Variado" ,MTV | Pride (ES)
 https://jmp2.uk/plu-642afefb9189ce00088f592c.m3u8
-
-#EXTINF:-1 tvg-id="663cdd930120f400089bf1b5" tvg-name="MTV Pride" tvg-logo="https://i.postimg.cc/BQwnTMQS/plu-mt.jpg" group-title="Animados | Variado" ,MTV | Pride (BR)
-https://jmp2.uk/plu-663cdd930120f400089bf1b5.m3u8
 
 #EXTINF:-1 tvg-id="6470abe84cfc2c000884c867" tvg-name="MTV Pride" tvg-logo="https://i.postimg.cc/BQwnTMQS/plu-mt.jpg" group-title="Animados | Variado" ,MTV | Pride (DE)
 https://jmp2.uk/plu-6470abe84cfc2c000884c867.m3u8
@@ -302,8 +296,6 @@ https://jmp2.uk/sam-US22000020U.m3u8
 https://jmp2.uk/sam-US2200003ZN.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9Q8pXs2M/dark.jpg" group-title="Animados | Variado",Dark (ES)
-http://atrupo4k.com:7070/Pack88/1ZIIuVMypyAHawr/180022
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9Q8pXs2M/dark.jpg" group-title="Animados | Variado",Dark | Opción 2 (ES)
 http://norwgws.top:8080/5081742333443698/9914efe333c7/25930
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6qQPRspm/5tvcl.jpg" group-title="Animados | Variado",Diario | TV 5 (CL)
@@ -715,7 +707,7 @@ https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/retromagicochnl/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dVCnC5K1/retroplus.jpg" group-title="Animados | Variado",Retro Plus | Películas | Señal 3 (CL)
-https://live20.bozztv.com/akamaissh101/ssh101/retroplustv03/playlist.m3u8
+https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ryJ4DPyw/retrotoons.jpg" group-title="Animados | Variado",Retro Toons (LATAM)
 https://live20.bozztv.com/giatv/giatv-Retrotoonstv/Retrotoonstv/playlist.m3u8
@@ -1535,9 +1527,6 @@ http://vthanh.utako.moe/NHK_G/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1zpwkK15/odisea.jpg" group-title="Ciencia | Cultura 🪐",Odisea (ES)
 http://185.189.225.150:85/odisea/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJ4t9wpY/ofi.jpg" group-title="Ciencia | Cultura 🪐",Oficios Perdidos (ES)
-https://daiconnect.com/live/hls/tvup/rk-oficiosperdidos/.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_opt_out_flag=1&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_rtv_content_id=6179&ads_rtv_content_language=spa&ads_streaming_id=c4cba1e5-d23b-47b7-b039-52388b98b38b&ads_tcs_channel_id=927&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZFvX5pB/oms.jpg" group-title="Ciencia | Cultura 🪐",Omstars | Stirr (US)
 https://jmp2.uk/str-3353.m3u8
@@ -4049,11 +4038,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/retroclub/playlist.m3u8
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dVCnC5K1/retroplus.jpg" group-title="Música 🎼",Retro Plus | Música (CL)
-https://tls-cl.cdnz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dVCnC5K1/retroplus.jpg" group-title="Música 🎼",Retro Plus | Música | Opción 2 (CL)
-https://live20.bozztv.com/akamaissh101/ssh101/retroplustv/playlist.m3u8
+https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dVCnC5K1/retroplus.jpg" group-title="Música 🎼",Retro Plus | Música | Señal 2 (CL)
-https://live20.bozztv.com/akamaissh101/ssh101/retroplustv2/playlist.m3u8
+https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RZHT8081/revol.jpg" group-title="Música 🎼",Revolt (US)
 http://fl5.moveonjoy.com/REVOLT/index.m3u8
@@ -5174,7 +5161,7 @@ https://jmp2.uk/sam-GBBD1100013BJ.m3u8
 https://pomf2.lain.la/f/572x442.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/66r1FfYK/pridetv2.jpg" group-title="Premium | Latino",Pride TV | Feed Chile (LATAM)
-https://xui-backend.energeek.cl/live/dem0pRideTVweb/x7Yu50WeVn/16.m3u8
+https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=dem0pRideTVweb
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqWgQFMC/cnpride.jpg" group-title="Premium | Latino",Cartoon Network (LATAM)
 http://181.78.105.146:8800/play/a03s
@@ -8248,8 +8235,6 @@ https://jmp2.uk/plu-64f6163a30ab3300083d870e.m3u8
 https://jmp2.uk/plu-5e98b0447665f200078caded.m3u8
 #EXTINF:-1 channel-id="677d93afe650a700081e5f18" tvg-id="677d93afe650a700081e5f18" tvg-logo="https://images.pluto.tv/channels/677d93afe650a700081e5f18/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Popeye
 https://jmp2.uk/plu-677d93afe650a700081e5f18.m3u8
-#EXTINF:-1 channel-id="6643b8c42eafd40008daab8b" tvg-id="6643b8c42eafd40008daab8b" tvg-logo="https://images.pluto.tv/channels/6643b8c42eafd40008daab8b/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Pride TV
-https://jmp2.uk/plu-6643b8c42eafd40008daab8b.m3u8
 #EXTINF:-1 tvg-id="67d9b0ebc290c9499046e88f" tvg-name="RCN Noticias" tvg-logo="https://images.pluto.tv/channels/67d9b0ebc290c9499046e88f/colorLogoPNG_1747143716006.png" group-title="Pluto TV | Latino",RCN | Noticias
 https://jmp2.uk/plu-67d9b0ebc290c9499046e88f.m3u8
 #EXTINF:-1 channel-id="5dcde197f6591d0009839e04" tvg-id="5dcde197f6591d0009839e04" tvg-logo="https://images.pluto.tv/channels/5dcde197f6591d0009839e04/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Reality
