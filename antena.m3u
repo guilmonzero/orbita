@@ -62,22 +62,22 @@ https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-62167144ab2095ca85353ad6.m3u8
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-62167144ab2095ca85353ad6" tvg-logo="https://i.postimg.cc/HsrBnqwG/cinepride.jpg" group-title="Animados | Variado",Cine Pride | Opción 2 (US)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2223
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4XprjPZ/revry-la.jpg" group-title="Animados | Variado",Revry | LGBTQ+ | Latin X (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MpyXTDJk/revry2-la.jpg" group-title="Animados | Variado",Revry | LGBTQ+ | Latin X (US)
 https://f731ead539e447dfa2866e8f589da1ed.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-142-REVRYLATINX-24i/7c631d06-1ed9-4d39-b45b-b6b433dea643/0.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/D0yKNKRj/revry-br.jpg" group-title="Animados | Variado",Revry | LGBTQ+ | Brasil (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FzM3tH30/revry2-br.jpg" group-title="Animados | Variado",Revry | LGBTQ+ | Brasil (US)
 https://b245f0f0181c44fbb580e464d0e167ee.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-181-REVRYBRASIL-24i/mt/24i/181/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nc2hb5nW/revry2.jpg" group-title="Animados | Variado",Revry | LGBTQ+ | Queer (US)
 https://4aafa23ec0a6477ca31466bd83a115a4.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-43-REVRY2-GALXY/mt/galxy/43/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nc2hb5nW/revry2.jpg" group-title="Animados | Variado",Revry | LGBTQ+ | Queer | Opción 2 (US)
 https://linear-43.frequency.stream/mt/galxy/43/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nc2hb5nW/revry2.jpg" group-title="Animados | Variado",Revry | LGBTQ+ | Queer | 2 (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hjpBv2rG/revry2-2.jpg" group-title="Animados | Variado",Revry | LGBTQ+ | Queer | 2 (US)
 https://03e7e5beea1d42fea576037d67f531eb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Revry/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=1318&ads.rtv_content_language=eng&ads.rtvid=271859&ads.streaming_id=ebccddce-ca7e-4e04-81b3-e3dd29130f79&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=706
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d1LxzrzF/revry-her.jpg" group-title="Animados | Variado",Revry | Her | LGBTQ+ (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QNyqkX98/revry2-her.jpg" group-title="Animados | Variado",Revry | Her | LGBTQ+ (US)
 https://linear-73.frequency.stream/dist/localnow/73/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJdCQxGk/revry-news.jpg" group-title="Animados | Variado",Revry | News | LGBTQ+ (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cmr7QY6/revry2-n.jpg" group-title="Animados | Variado",Revry | News | LGBTQ+ (US)
 https://linear-44.frequency.stream/dist/plex/44/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K8fFrYhb/123go.jpg" group-title="Animados | Variado",123 GO! | Xiaomi (ES)
@@ -418,7 +418,6 @@ http://iptv.prosto.tv:7000/ch256/video.m3u8
 https://stream.ichibantv.com:3764/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vTStdkrS/gloob.jpg" group-title="Animados | Variado",Gloob (BR)
-http://magicoffe.com:80/681946435/d969T1024C/377229
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vTStdkrS/gloob.jpg" group-title="Animados | Variado",Gloob | Opción 2 (BR)
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HWwhc9HJ/gloobinho.jpg" group-title="Animados | Variado",Gloobinho (BR)
@@ -442,9 +441,6 @@ https://jmp2.uk/sam-USBC100001175.m3u8
 
 #EXTINF:-1 tvg-id="US2900013AY" tvg-logo="https://i.postimg.cc/tgMN0dhp/hotw.jpg" group-title="Animados | Variado",Hot Wheels Action (US)
 https://jmp2.uk/sam-US2900013AY.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/z3Z3nPyS/ide.jpg" group-title="Animados | Variado",Ideal TV (RD)
-https://cloud5.idealtv.net/hls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4xV9mr52/iu.jpg" group-title="Animados | Variado",Imagen Universal TV (RD)
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
@@ -7954,10 +7950,12 @@ https://jmp2.uk/plu-5e793a7cfbdf780007f7eb75.m3u8
 https://jmp2.uk/plu-646ccd3681844c000974d6f4.m3u8
 #EXTINF:-1 channel-id="61b793ccf571b80007b7a610" tvg-id="61b793ccf571b80007b7a610" tvg-logo="https://images.pluto.tv/channels/61b793ccf571b80007b7a610/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Adrenalina Freezone
 https://jmp2.uk/plu-61b793ccf571b80007b7a610.m3u8
-#EXTINF:-1 channel-id="5dfcde52d28b09000a42d7a2" tvg-id="5dfcde52d28b09000a42d7a2" tvg-logo="https://images.pluto.tv/channels/5dfcde52d28b09000a42d7a2/colorLogoPNG.png" group-title="Pluto TV | Latino" ,A La Mexicana
-https://jmp2.uk/plu-5dfcde52d28b09000a42d7a2.m3u8
 #EXTINF:-1 channel-id="66aa6e03fe11e500086038ed" tvg-id="66aa6e03fe11e500086038ed" tvg-logo="https://images.pluto.tv/channels/66aa6e03fe11e500086038ed/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Al Fondo Hay Sitio
 https://jmp2.uk/plu-66aa6e03fe11e500086038ed.m3u8
+#EXTINF:-1 channel-id="5dfcde52d28b09000a42d7a2" tvg-id="5dfcde52d28b09000a42d7a2" tvg-logo="https://images.pluto.tv/channels/5dfcde52d28b09000a42d7a2/colorLogoPNG.png" group-title="Pluto TV | Latino" ,A La Mexicana
+https://jmp2.uk/plu-5dfcde52d28b09000a42d7a2.m3u8
+#EXTINF:-1 channel-id="67e598e28b99330f75b4c629" tvg-id="67e598e28b99330f75b4c629" tvg-logo="https://images.pluto.tv/channels/67e598e28b99330f75b4c629/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Andromeda
+https://jmp2.uk/plu-67e598e28b99330f75b4c629.m3u8
 #EXTINF:-1 channel-id="5dd834c66fe2ca0009303b8d" tvg-id="5dd834c66fe2ca0009303b8d" tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Animales
 https://jmp2.uk/plu-5dd834c66fe2ca0009303b8d.m3u8
 #EXTINF:-1 channel-id="5dcde17bf6591d0009839e02" tvg-id="5dcde17bf6591d0009839e02" tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Anime
@@ -8110,8 +8108,6 @@ https://jmp2.uk/plu-64e35aff6b1fdb0008ea8441.m3u8
 https://jmp2.uk/plu-64ff26233efb5100082eeb2e.m3u8
 #EXTINF:-1 channel-id="66b26665d512590008c507b7" tvg-id="66b26665d512590008c507b7" tvg-logo="https://images.pluto.tv/channels/66b26665d512590008c507b7/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Inuyasha
 https://jmp2.uk/plu-66b26665d512590008c507b7.m3u8
-#EXTINF:-1 channel-id="615b9855c6b58b000724477f" tvg-id="615b9855c6b58b000724477f" tvg-logo="https://images.pluto.tv/channels/615b9855c6b58b000724477f/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Iron Chef
-https://jmp2.uk/plu-615b9855c6b58b000724477f.m3u8
 #EXTINF:-1 channel-id="63f7e3f9dff38e00082a57af" tvg-id="63f7e3f9dff38e00082a57af" tvg-logo="https://images.pluto.tv/channels/63f7e3f9dff38e00082a57af/colorLogoPNG.png" group-title="Pluto TV | Latino" ,ITV | Deportes
 https://jmp2.uk/plu-63f7e3f9dff38e00082a57af.m3u8
 #EXTINF:-1 channel-id="66c790f780a0af0008583aa4" tvg-id="66c790f780a0af0008583aa4" tvg-logo="https://images.pluto.tv/channels/66c790f780a0af0008583aa4/colorLogoPNG.png" group-title="Pluto TV | Latino" ,JoJo’s Bizarre Adventure
@@ -8128,8 +8124,6 @@ https://jmp2.uk/plu-5dd6dae8ce788b0009eaf77b.m3u8
 https://jmp2.uk/plu-62d08af527ce19000731eaa0.m3u8
 #EXTINF:-1 channel-id="63211ba9cad976000794f988" tvg-id="63211ba9cad976000794f988" tvg-logo="https://images.pluto.tv/channels/63211ba9cad976000794f988/colorLogoPNG.png" group-title="Pluto TV | Latino" ,La Selección
 https://jmp2.uk/plu-63211ba9cad976000794f988.m3u8
-#EXTINF:-1 channel-id="5f9996533c9de3000759ccb5" tvg-id="5f9996533c9de3000759ccb5" tvg-logo="https://images.pluto.tv/channels/5f9996533c9de3000759ccb5/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Las Pistas de Blue
-https://jmp2.uk/plu-5f9996533c9de3000759ccb5.m3u8
 #EXTINF:-1 channel-id="63dd5d7a4e83e700088fbca8" tvg-id="63dd5d7a4e83e700088fbca8" tvg-logo="https://images.pluto.tv/channels/63dd5d7a4e83e700088fbca8/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Las Tortugas Ninja
 https://jmp2.uk/plu-63dd5d7a4e83e700088fbca8.m3u8
 #EXTINF:-1 channel-id="5e67d41b93312100076f3fca" tvg-id="5e67d41b93312100076f3fca" tvg-logo="https://images.pluto.tv/channels/5e67d41b93312100076f3fca/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Los Archivos del FBI
@@ -8196,12 +8190,12 @@ https://jmp2.uk/plu-6047fd723b5bd00007de7092.m3u8
 https://jmp2.uk/plu-620fd9f4afb9a80007a9c6d5.m3u8
 #EXTINF:-1 channel-id="66a01adf46762a00081ee3dc" tvg-id="66a01adf46762a00081ee3dc" tvg-logo="https://images.pluto.tv/channels/66a01adf46762a00081ee3dc/colorLogoPNG.png" group-title="Pluto TV | Latino" ,MTV | Yo!
 https://jmp2.uk/plu-66a01adf46762a00081ee3dc.m3u8
-#EXTINF:-1 channel-id="5dd85eac039bba0009e86d1d" tvg-id="5dd85eac039bba0009e86d1d" tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Naturaleza
-https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8
 #EXTINF:-1 channel-id="5ee92e72fb286e0007285fec" tvg-id="5ee92e72fb286e0007285fec" tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Naruto
 https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8
 #EXTINF:-1 channel-id="64c92fea3c3344000869e8a9" tvg-id="64c92fea3c3344000869e8a9" tvg-logo="https://images.pluto.tv/channels/64c92fea3c3344000869e8a9/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Naruto Shippuden
 https://jmp2.uk/plu-64c92fea3c3344000869e8a9.m3u8
+#EXTINF:-1 channel-id="5dd85eac039bba0009e86d1d" tvg-id="5dd85eac039bba0009e86d1d" tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Naturaleza
+https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8
 #EXTINF:-1 channel-id="63eb947c4e83e70008ab877b" tvg-id="63eb947c4e83e70008ab877b" tvg-logo="https://images.pluto.tv/channels/63eb947c4e83e70008ab877b/colorLogoPNG.png" group-title="Pluto TV | Latino" ,NCIS
 https://jmp2.uk/plu-63eb947c4e83e70008ab877b.m3u8
 #EXTINF:-1 channel-id="645952687cb4b100084ed52e" tvg-id="645952687cb4b100084ed52e" tvg-logo="https://images.pluto.tv/channels/645952687cb4b100084ed52e/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Nickelodeon | Toons
@@ -8222,6 +8216,8 @@ https://jmp2.uk/plu-6474a7958e3c0a0008b97cae.m3u8
 https://jmp2.uk/plu-6474a86917f5e100089a0c1c.m3u8
 #EXTINF:-1 channel-id="5defde6d6c07b50009cf0757" tvg-id="5defde6d6c07b50009cf0757" tvg-logo="https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Nuestro Cine
 https://jmp2.uk/plu-5defde6d6c07b50009cf0757.m3u8
+#EXTINF:-1 channel-id="67f960680072d6b187a0682e" tvg-id="67f960680072d6b187a0682e" tvg-logo="https://images.pluto.tv/channels/67f960680072d6b187a0682e/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Números
+https://jmp2.uk/plu-67f960680072d6b187a0682e.m3u8
 #EXTINF:-1 channel-id="64025592953da40008bf9238" tvg-id="64025592953da40008bf9238" tvg-logo="https://images.pluto.tv/channels/64025592953da40008bf9238/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Obsesión por los Autos
 https://jmp2.uk/plu-64025592953da40008bf9238.m3u8
 #EXTINF:-1 channel-id="5ff4b9ccf938f8000779eb99" tvg-id="5ff4b9ccf938f8000779eb99" tvg-logo="https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/colorLogoPNG-1663941540755.png" group-title="Pluto TV | Latino" ,One Piece
@@ -8264,6 +8260,8 @@ https://jmp2.uk/plu-655f626d57fe4a00085c7c3e.m3u8
 https://jmp2.uk/plu-655f62ff954b020008c91ec6.m3u8
 #EXTINF:-1 channel-id="655f636d954b020008c93299" tvg-id="655f636d954b020008c93299" tvg-logo="https://images.pluto.tv/channels/655f636d954b020008c93299/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Series de Drama
 https://jmp2.uk/plu-655f636d954b020008c93299.m3u8
+#EXTINF:-1 channel-id="6806d570c178637410ae4962" tvg-id="6806d570c178637410ae4962" tvg-logo="https://images.pluto.tv/channels/6806d570c178637410ae4962/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Series de Otros Continentes
+https://jmp2.uk/plu-6806d570c178637410ae4962.m3u8
 #EXTINF:-1 channel-id="65662f8a2c46f300088a84cc" tvg-id="65662f8a2c46f300088a84cc" tvg-logo="https://images.pluto.tv/channels/65662f8a2c46f300088a84cc/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Series de Sci-Fi
 https://jmp2.uk/plu-65662f8a2c46f300088a84cc.m3u8
 #EXTINF:-1 channel-id="5dd837642c6e9300098ad484" tvg-id="5dd837642c6e9300098ad484" tvg-logo="https://images.pluto.tv/channels/5dd837642c6e9300098ad484/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Series Latinas
@@ -8320,8 +8318,6 @@ https://jmp2.uk/plu-5df265697ec3510009df1ef0.m3u8
 https://jmp2.uk/plu-639751f81a36b400072b8f5a.m3u8
 #EXTINF:-1 channel-id="5ed6828192e8b3000743ef61" tvg-id="5ed6828192e8b3000743ef61" tvg-logo="https://images.pluto.tv/channels/5ed6828192e8b3000743ef61/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Wipe Out
 https://jmp2.uk/plu-5ed6828192e8b3000743ef61.m3u8
-#EXTINF:-1 channel-id="619d56d9fa3070000709e3f7" tvg-id="619d56d9fa3070000709e3f7" tvg-logo="https://images.pluto.tv/channels/619d56d9fa3070000709e3f7/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Younger
-https://jmp2.uk/plu-619d56d9fa3070000709e3f7.m3u8
 #EXTINF:-1 channel-id="5fceaab478f2af00080ff51f" tvg-id="5fceaab478f2af00080ff51f" tvg-logo="https://images.pluto.tv/channels/5fceaab478f2af00080ff51f/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Yu-Gi-Oh
 https://jmp2.uk/plu-5fceaab478f2af00080ff51f.m3u8
 #EXTINF:-1 channel-id="66b3af1c3a4ad200081c7d03" tvg-id="66b3af1c3a4ad200081c7d03" tvg-logo="https://images.pluto.tv/channels/66b3af1c3a4ad200081c7d03/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Z Nation
