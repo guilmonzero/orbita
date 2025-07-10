@@ -2,13 +2,13 @@
 #EXTINF:-1 GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 #EXTINF:-1 Para disfrutar de los canales y abrir correctamente, añade esta dirección a la aplicación IPTV PRO una vez instalada, disponible GRATIS en Google Play o bien descargala sin anuncios y completa acá: https//bit.ly/orbitaxpp  Compactible para todos tus dispositivos con Android y Google TV, TVBox, ect... 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r3ZXxVz/orbi-pride.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 05.07.25
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r3ZXxVz/orbi-pride.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 10.07.25
 https://pomf2.lain.la/f/572x442.mp4
 
 #EXTINF:-1 tvg-id="66b0dfa1d512590008bfa7fd" tvg-name="Pluto TV Gore & Slasher" tvg-logo="https://i.postimg.cc/pVgRH9CQ/pluto-g.jpg" tvg-chno="01" group-title="Animados | Variado",Pluto TV | Gore & Slasher (ES)
 https://jmp2.uk/plu-66b0dfa1d512590008bfa7fd.m3u8
 
-#EXTINF:-1 tvg-id="68345650e8377f86acdeda83" tvg-name="Pluto TV Gore & Slasher" tvg-logo="https://i.postimg.cc/L6wTXDgC/pluto-set.jpg" tvg-chno="02" group-title="Animados | Variado",Pluto TV | Series de Terror (ES)
+#EXTINF:-1 tvg-id="68345650e8377f86acdeda83" tvg-name="Pluto TV Series de Terror" tvg-logo="https://i.postimg.cc/L6wTXDgC/pluto-set.jpg" tvg-chno="02" group-title="Animados | Variado",Pluto TV | Series de Terror (ES)
 https://jmp2.uk/plu-68345650e8377f86acdeda83.m3u8
 
 #EXTINF:-1 tvg-id="5d8d180092e97a5e107638d3" tvg-logo="https://i.postimg.cc/Wb2PmVKb/cint.jpg" tvg-chno="03" group-title="Animados | Variado" ,Pluto TV | Cine Terror (US)
@@ -59,17 +59,19 @@ https://jmp2.uk/plu-6470abe84cfc2c000884c867.m3u8
 
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-62167144ab2095ca85353ad6" tvg-logo="https://i.postimg.cc/HsrBnqwG/cinepride.jpg" group-title="Animados | Variado",Cine Pride | Plex (US)
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-62167144ab2095ca85353ad6.m3u8
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-62167144ab2095ca85353ad6" tvg-logo="https://i.postimg.cc/HsrBnqwG/cinepride.jpg" group-title="Animados | Variado",Cine Pride | Opción 2 (US)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2223
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4XprjPZ/revry-la.jpg" group-title="Animados | Variado",Revry | LGBTQ+ | Latin X (US)
-https://bcb8278f10bc4ab698cba66524d46b6f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-142-REVRY-BRIGHTCOVE/mt/brightcove/142/hls/master/playlist.m3u8
+https://f731ead539e447dfa2866e8f589da1ed.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-142-REVRYLATINX-24i/7c631d06-1ed9-4d39-b45b-b6b433dea643/0.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/D0yKNKRj/revry-br.jpg" group-title="Animados | Variado",Revry | LGBTQ+ | Brasil (US)
-https://2f28484b7a024fdf836f0f4a78ffb214.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-181-REVRYBRAZIL-BRIGHTCOVE/mt/brightcove/181/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VvvjkFzG/revry.jpg" group-title="Animados | Variado",Revry | LGBTQ+ | Queer (US)
+https://b245f0f0181c44fbb580e464d0e167ee.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-181-REVRYBRASIL-24i/mt/24i/181/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nc2hb5nW/revry2.jpg" group-title="Animados | Variado",Revry | LGBTQ+ | Queer (US)
 https://4aafa23ec0a6477ca31466bd83a115a4.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-43-REVRY2-GALXY/mt/galxy/43/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VvvjkFzG/revry.jpg" group-title="Animados | Variado",Revry | LGBTQ+ | Queer | Opción 2 (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nc2hb5nW/revry2.jpg" group-title="Animados | Variado",Revry | LGBTQ+ | Queer | Opción 2 (US)
 https://linear-43.frequency.stream/mt/galxy/43/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VvvjkFzG/revry.jpg" group-title="Animados | Variado",Revry | LGBTQ+ | Queer | 2 (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nc2hb5nW/revry2.jpg" group-title="Animados | Variado",Revry | LGBTQ+ | Queer | 2 (US)
 https://03e7e5beea1d42fea576037d67f531eb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Revry/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=1318&ads.rtv_content_language=eng&ads.rtvid=271859&ads.streaming_id=ebccddce-ca7e-4e04-81b3-e3dd29130f79&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=706
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d1LxzrzF/revry-her.jpg" group-title="Animados | Variado",Revry | Her | LGBTQ+ (US)
@@ -98,6 +100,8 @@ https://futuretoday-afv-family-2-ie.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-5ef11486d33ab9004048a1cd" tvg-logo="https://i.postimg.cc/wMP2FMQ5/alway.jpg" group-title="Animados | Variado",Always Funny | Plex (US)
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-5ef11486d33ab9004048a1cd.m3u8
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-5ef4e1b10d9ad000423c4421" tvg-logo="https://i.postimg.cc/YC4PYKMB/alwaye.jpg" group-title="Animados | Variado",Always Funny | Español | Canela TV (LATAM)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=12147
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-5ef4e1b10d9ad000423c4421" tvg-logo="https://i.postimg.cc/YC4PYKMB/alwaye.jpg" group-title="Animados | Variado",Always Funny | Español | Plex (LATAM)
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-5ef4e1b10d9ad000423c4421.m3u8
 
@@ -325,6 +329,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/dititv/playlist.m3u8
 https://cdn-live.dltv.ac.th/dltv10.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3RM2y8qL/dmax2.jpg" group-title="Animados | Variado",DMAX (ES)
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/25rKhHs4/domi.jpg" group-title="Animados | Variado",Domi Kids (LATAM)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wjPQKLd2/dreamw.jpg" group-title="Animados | Variado",DreamWorks (LATAM)
 http://181.78.106.127:9000/play/ca054/index.m3u8
@@ -591,6 +598,9 @@ https://fl5.moveonjoy.com/MTV_2/index.m3u8
 https://fl5.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1 tvg-logo=https://i.postimg.cc/0jf2TPwN/mtvu.jpg" group-title="Animados | Variado",MTV | U (US)
 https://fl5.moveonjoy.com/MTV_U/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYjw3FQG/mubeat.jpg" group-title="Animados | Variado",Mubeat (KR)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=711
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7KQcYFY/multivision.jpg" group-title="Animados | Variado",Multivisión (AR)
 https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3u8
@@ -2024,7 +2034,7 @@ https://linear-235.frequency.stream/dist/glewedtv/235/hls/master/playlist.m3u8
 https://digicom.hls.iptvdc.com/motorstv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FFkjYFpP/canela-sports.jpg" group-title="Deportes | Aventura",Canela TV | Sports (LATAM)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2013
+https://amg00658-amg00658c10-canelatv-international-7279.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-deporteslt-canelatvinternational/cb7c3e167b726f869cca3561d1a542aadc5036d45d3587366ba050c321c01550d7edf6c9ee4ced607eff62812b53310d0c78ce07de6c19a08724fc0e733f070afe88b37bc7991919d581512c2eb86a5657fa0505926359238db95458cc7d927c0618e7463c0663dded58ad7742b3d948de2976c3b2dc6539635a4d8b5d5fb0a158f1f9b040408b39f2ac1d49c32f58ef8b17cec94dbd83d00fc8128474f4179b98cbb1e04cdfc2b3579365cc15532f48129d856f9aca5889d69b673e89702f436c318cc196ed1445ec2d424ce8c0c9aa6bfb1fcbfb4eeb0934ba0e9d43857e9e7df067cd8347a3dfd3b5246818869516367dd58fcd8beb250cae72f4b0ece2666e9584701225e74c8248415b94f3df66e7a974c6ec5cefde7c0e07d0834c8d9cb19a9dc1e7259230c6cbcb8d2e7d5e710d14875ebbc001b14cde77b8de12533f2725fdc018aee5dd57341009ecc40e861649eed8dfd7920c68cf63560ebd328a165c6f9d662179bc2fa0ca6f34d97652d234678b325d8944fd8738ecb7de976251d7f0e670c0059add962a4b63d30f1f6b40d9d1234c514d3de2e7650c4201a927caf2ba2cf39462969ae3f1d2473047181a571e82e1e60afbc4a07b557ec5225c51ce6b0bf740f610bf6029604ea92b73e67b5588033324e5a6707e557f82c98eb38ed5cb7e451eb9ffd0363532556fbc7c50683e93feba50f33c4469691dae3b2412ed490a19aaa2c0ebcfd4358e8432fe632206759fa1431147023a232d9e9363d811b0c34ce9cb9b0c9dafab1b57803aac195fcf848c22a89ff4ad253899a453167084937695014ae923947ad89c20a2f53f6131335a41ce8255852e9fd688c22d9534ed024349e376bf93f4a0940172e28241273c195f742e0327cc6d3d690fc7669714dd9d309ddd33ff4bb80171be1d99/111/1920x1080_6423560/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zf5KXjmg/sportint.jpg" group-title="Deportes | Aventura",Canal do Internacional (BR)
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
@@ -2448,7 +2458,7 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-64ac687b4192b4e1bab96279.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Pf38Jk6w/pok.jpg" group-title="Deportes | Aventura",Poker Night in America (US)
 https://jmp2.uk/plex-643054b1fc3be59477853717-60afc726623f2f002c5bb49f.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W3gjn3fg/pow.jpg" group-title="Deportes | Aventura",Power Nation | en Español (LATAM)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W3gjn3fg/pow.jpg" group-title="Deportes | Aventura",Power Nation | en Español | Canela TV (LATAM)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01258-raycomsports-powernationspanish-canelatv/playlist.m3u8?device_id=e30ddb3ce3777703c0c8dd41578c3b71
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W3gjn3fg/pow.jpg" group-title="Deportes | Aventura",Power Nation (US)
 https://jmp2.uk/sam-USBD2500017XQ.m3u8
@@ -4545,6 +4555,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T1GHGGZq/canela-t.jpg" group-title="Películas | Series",Canela TV | Novelas Turcas | Samsung TV Plus (US)
 https://jmp2.uk/sam-US27000033D.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pTsQS2FS/todoc.jpg" group-title="Películas | Series",Canela TV | Todo Cine (LATAM)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HxtC20T4/cine34.jpg" group-title="Películas | Series",Cine 34 | Mediaset (IT)
 http://84.22.55.2:8000/play/s11
@@ -6117,6 +6129,8 @@ http://nxt.plus:8080/olmos/1234guz/91926
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dQZzML5d/elconflicto.jpg" group-title="Mas Series 🧟",El Conflicto | Plex (LATAM)
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-621674f168c966be92737ce6.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dQZzML5d/elconflicto.jpg" group-title="Mas Series 🧟",El Conflicto | Opción 2 (LATAM)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2227
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CKKcGt0d/dog.jpg" group-title="Mas Series 🧟",El Encantador de Perros | Samsung TV Plus (ES)
 https://jmp2.uk/sam-ESBA3300033PL.m3u8
