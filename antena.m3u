@@ -2,7 +2,7 @@
 #EXTINF:-1 GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 #EXTINF:-1 Para disfrutar de los canales y abrir correctamente, añade esta dirección a la aplicación IPTV PRO una vez instalada, disponible GRATIS en Google Play o bien descargala sin anuncios y completa acá: https//bit.ly/orbitaxpp  Compactible para todos tus dispositivos con Android y Google TV, TVBox, ect... 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r3ZXxVz/orbi-pride.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 11.07.25
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r3ZXxVz/orbi-pride.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 12.07.25
 https://pomf2.lain.la/f/572x442.mp4
 
 #EXTINF:-1 tvg-id="66b0dfa1d512590008bfa7fd" tvg-name="Pluto TV Gore & Slasher" tvg-logo="https://i.postimg.cc/pVgRH9CQ/pluto-g.jpg" tvg-chno="01" group-title="Animados | Variado",Pluto TV | Gore & Slasher (ES)
@@ -761,8 +761,6 @@ https://stmv1.voxhdnet.com/solartv/solartv/chunklist_w175376856.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MHXm3PBY/sony-hal.jpg" group-title="Animados | Variado",Sony | Kal | Hindi (IN)
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Animados | Variado",Sony | One | Cinema (LATAM)
-https://55a8e146e2a14a0288735149357b44c0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneCinema/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QN6mz0bd/spacet.jpg" group-title="Animados | Variado",Space Toon (AE)
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
@@ -893,12 +891,14 @@ https://marine2.miplay.cl/tateti/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2yDBWMpX/tvok.jpg" group-title="Animados | Variado",Tvo Kids (US)
 https://bcovlive-a.akamaihd.net/rf86f817779524249abf842af6d16f55f/us-east-1/15364602001/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SKH4zjQ0/tvs-ca.jpg" group-title="Animados | Variado",TVS | Cartoons (US)
+https://rpn.bozztv.com/gusa/gusa-TVSCartoonNetwork/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7Ys0hYBH/tvs-cam.jpg" group-title="Animados | Variado",TVS | Camera Smile (US)
-https://fl1004.bozztv.com/ushba34/index.m3u8
+https://rpn.bozztv.com/gusa/gusa-camerasmile/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W38R062x/tvs-fa.jpg" group-title="Animados | Variado",TVS | Family (US)
-https://bozztv.com/gusa/gusa-TVSFamilyChannel/index.m3u8
+https://rpn.bozztv.com/gusa/gusa-TVSFamilyChannel/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FHJJLkNm/tvs-hit.jpg" group-title="Animados | Variado",TVS | Hit Tops (US)
-https://bozztv.com/gusa/gusa-hitops/index.m3u8
+https://rpn.bozztv.com/gusa/gusa-hitops/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KY1zK0Pk/tvr2.jpg" group-title="Animados | Variado",TVR (CL)
 https://redirector.dps.live/hls/tvr/playlist.m3u8
@@ -1100,7 +1100,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00450-herringnetwork-aweencore-vida
 https://ed05.top-ix.org/avtvlive/azzurra/streaming/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HWVBgQr6/ban.jpg" group-title="Ciencia | Cultura 🪐",Bang Showbiz (US)
-https://bozztv.com/gusa/gusa-celebrityscene/index.m3u8
+https://rpn.bozztv.com/gusa/gusa-celebrityscene/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCpX3P3y/bbc-di.jpg" group-title="Ciencia | Cultura 🪐",BBC | Dinos TV 24-7 (US)
 https://jmp2.uk/sam-US3700006XE.m3u8
@@ -1169,9 +1169,9 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8?ads_amagi_channel=852&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=7&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5004&ads_rtv_content_language=eng&ads_rtvid=271859&ads_streaming_id=e7780fbc-b58d-49f2-a2ca-bab9979950c7&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WbjfjRjn/chefc.jpg" group-title="Ciencia | Cultura 🪐",Chef Champion (US)
-https://bozztv.com/gusa/gusa-chefchampion/index.m3u8
+https://rpn.bozztv.com/gusa/gusa-chefchampion/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nrkv1PXK/chefr.jpg" group-title="Ciencia | Cultura 🪐",Chef Roc Show (US)
-https://bozztv.com/gusa/gusa-chefrock/index.m3u8
+https://rpn.bozztv.com/gusa/gusa-chefrock/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CMfx4z56/chilech.jpg" group-title="Ciencia | Cultura 🪐",Chile Channel TV (CL)
 https://v2.tustreaming.cl/chilechannel/tracks-v1a1/mono.m3u8
@@ -1190,6 +1190,23 @@ http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4yKm1rBQ/coo.jpg" group-title="Ciencia | Cultura 🪐",Cooking Panda | Plex (US)
 https://jmp2.uk/plex-643054b1fc3be59477853717-5f07e9fdf313eb0041bbecda.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZkkyHXg/cor.jpg" group-title="Ciencia | Cultura 🪐",Coreografía | 1 | Niños (RU)
+https://fl1001.bozztv.com/ushba7/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZkkyHXg/cor.jpg" group-title="Ciencia | Cultura 🪐",Coreografía | 2 | Niños (RU)
+https://fl1001.bozztv.com/ushba13/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZkkyHXg/cor.jpg" group-title="Ciencia | Cultura 🪐",Coreografía | 3 | Niños (RU)
+https://fl1001.bozztv.com/ushba15/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZkkyHXg/cor.jpg" group-title="Ciencia | Cultura 🪐",Coreografía | 4 | Niños (RU)
+https://fl1001.bozztv.com/ushba17/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tRsLqkwB/cor2.jpg" group-title="Ciencia | Cultura 🪐",Coreografía | 5 | Adolescente (RU)
+https://fl1001.bozztv.com/ushba59/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPyrLyxv/cor3.jpg" group-title="Ciencia | Cultura 🪐",Coreografía | 6 | Ballet (RU)
+https://fl1001.bozztv.com/ushba14/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPyrLyxv/cor3.jpg" group-title="Ciencia | Cultura 🪐",Coreografía | 7 | Chicas Animenks (RU)
+https://fl1001.bozztv.com/ushba55/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPyrLyxv/cor3.jpg" group-title="Ciencia | Cultura 🪐",Coreografía | 8 | Artistica (RU)
+https://fl1001.bozztv.com/ushba73/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RC3xbBk/cos.jpg" group-title="Ciencia | Cultura 🪐",Cosmos | Tubi (US)
 https://live-manifest.production-public.tubi.io/live/30e8a85a-ac29-4835-b913-cee0bb207a6b/playlist.m3u8
@@ -1455,7 +1472,7 @@ https://jmp2.uk/sam-GBBD1100003I0.m3u8
 https://30a-tv.com/feeds/mwaretv/luxelife.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTYNjrr8/mad.jpg" group-title="Ciencia | Cultura 🪐",Mad Dog and Merrill | Midwest Grill'n (US)
-https://bozztv.com/gusa/gusa-mwg/index.m3u8
+https://rpn.bozztv.com/gusa/gusa-mwg/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nLd38XvM/made.jpg" group-title="Ciencia | Cultura 🪐",Made It Myself TV | Plex (US)
 https://jmp2.uk/plex-643054b1fc3be59477853717-65b80306e5cf85050598aba4.m3u8
@@ -1790,9 +1807,9 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KzHQ28SH/tvs-con.jpg" group-title="Ciencia | Cultura 🪐",TVS | Consumer (US)
 https://rpn.bozztv.com/gusa/gusa-ConsumerDirect/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Dzt8k9pc/tvs-tal.jpg" group-title="Ciencia | Cultura 🪐",TVS | Talk (US)
-https://bozztv.com/gusa/gusa-TVStalk/index.m3u8
+https://rpn.bozztv.com/gusa/gusa-TVStalk/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L8gJC4Ns/tvs-travel.jpg" group-title="Ciencia | Cultura 🪐",TVS | Travel (US)
-https://bozztv.com/gusa/gusa-tvstravel/index.m3u8
+https://rpn.bozztv.com/gusa/gusa-tvstravel/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FFxjn9hL/tvse.jpg" group-title="Ciencia | Cultura 🪐",TV Senado (CL)
 https://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-lq&id=1c53a7cf-ceda-48bb-864c-c2b35fb5fa74
@@ -2678,19 +2695,19 @@ https://livetr.teleromagna.it/mia/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kMfCjxdY/Tudn.jpg" group-title="Deportes | Aventura",TUDN (MX)
 http://cord-cutter.net:8080/Rme2Fg/183926/11885
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W4XLvTHR/tvs-bo.jpg" group-title="Deportes | Aventura",TVS | Bowling (US)
-https://bozztv.com/gusa/gusa-tvsbowling/index.m3u8
+https://rpn.bozztv.com/gusa/gusa-tvsbowling/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YqWhLV32/tvs-b.jpg" group-title="Deportes | Aventura",TVS | Boxing (US)
-https://bozztv.com/gusa/gusa-tvsboxing/index.m3u8
+https://rpn.bozztv.com/gusa/gusa-tvsboxing/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85ZtWsTv/tvscs.jpg" group-title="Deportes | Aventura",TVS | Classic Sports (US)
-https://bozztv.com/gusa/gusa-tvs/index.m3u8
+https://rpn.bozztv.com/gusa/gusa-tvs/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y8ZjzHvf/tvs-sp.jpg" group-title="Deportes | Aventura",TVS | Sports (US)
-https://bozztv.com/gusa/gusa-tvssports/index.m3u8
+https://rpn.bozztv.com/gusa/gusa-tvssports/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/90v0NtWj/tvsb.jpg" group-title="Deportes | Aventura",TVS | Sports Bureau (US)
-https://bozztv.com/gusa/gusa-tvssportsbureau/index.m3u8
+https://rpn.bozztv.com/gusa/gusa-tvssportsbureau/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KjK4NshN/tvst.jpg" group-title="Deportes | Aventura",TVS | Turbo (US)
-https://bozztv.com/gusa/gusa-tvsturbo/index.m3u8
+https://rpn.bozztv.com/gusa/gusa-tvsturbo/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1t7fD12X/tvsw-.jpg" group-title="Deportes | Aventura",TVS | Women Sports (US)
-https://bozztv.com/gusa/gusa-tvswsn/index.m3u8
+https://rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mkcwBwYH/TVSTURF.jpg" group-title="Deportes | Aventura",TV Turf (CL)
 https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=lufv0n9d&t=1711909093&q=2&s=sd
@@ -3301,6 +3318,9 @@ https://streamtv.mediasector.es/hls/activatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hv0pGmhG/alfa.jpg" group-title="Música 🎼",Alfa TV (CL)
 https://v2.tustreaming.cl/alfatv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T1QcfVRn/afn.jpg" group-title="Música 🎼",AFN | Tin TV (IR)
+https://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3JWM2QxB/Afrobeats.jpg" group-title="Música 🎼",Afro Beats (CO.MZ)
 https://stream.ecable.tv/afrobeats/index.m3u8
 
@@ -3487,7 +3507,7 @@ https://srv2.tropicalmoonmedia.com/dreamforcebtltv/dreamforcebtltv/playlist.m3u8
 http://46.249.95.140:8081/hls/data.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZvQsVk2/ebs-m.jpg" group-title="Música 🎼",EBS | Musika | Etiopía (ET)
-https://rpn.bozztv.com/ebstv/ebsmusika/tracks-v1a1/mono.m3u8
+https://rpn.bozztv.com/ebstv/ebsmusika/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SN6HfHVk/ecli.jpg" group-title="Música 🎼",Eclipse TV (MX)
 https://5caf24a595d94.streamlock.net:1937/djkuxtvfah/djkuxtvfah/playlist.m3u8
@@ -4289,7 +4309,7 @@ https://streamtv.onliv3.online:1936/karibtv/karibtv_720p/playlist.m3u8
 http://media.velcom.it:1935/sl48/sl48/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tX108Vq/tvs-mu.jpg" group-title="Música 🎼",TVS | Music (US)
-https://bozztv.com/gusa/gusa-tvsmusic/index.m3u8
+https://rpn.bozztv.com/gusa/gusa-tvsmusic/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pd26JVQ8/Camocim.jpg" group-title="Música 🎼",TV Web Camocim (BR)
 https://5c483b9d1019c.streamlock.net/8172/8172/chunklist_w341983832.m3u8
@@ -4602,6 +4622,19 @@ https://jmp2.uk/sam-ITBA33000238E.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/P5DkKBk2/cinems.jpg" group-title="Películas | Series",Cinema Segreto (IT)
 https://minerva-cinemasegreto-1-it.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xq16XD38/cinema.jpg" group-title="Películas | Series",Cinema | 1 (US)
+https://fl1001.bozztv.com/ushba34/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xq16XD38/cinema.jpg" group-title="Películas | Series",Cinema | 2 (US)
+https://fl1001.bozztv.com/ushba35/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xq16XD38/cinema.jpg" group-title="Películas | Series",Cinema | 3 (US)
+https://fl1001.bozztv.com/ushba36/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xq16XD38/cinema.jpg" group-title="Películas | Series",Cinema | 4 (US)
+https://fl1001.bozztv.com/ushba39/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xq16XD38/cinema.jpg" group-title="Películas | Series",Cinema | 5 (US)
+https://fl1001.bozztv.com/ushba40/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xq16XD38/cinema.jpg" group-title="Películas | Series",Cinema | 6 (US)
+https://fl1001.bozztv.com/ushba-t7/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tJWZYnMX/cinemax-la.jpg" group-title="Películas | Series",Cinemax (US)
 http://fl5.moveonjoy.com/CINEMAX_EAST/index.m3u8
 
@@ -4622,7 +4655,7 @@ https://live-manifest.production-public.tubi.io/live/bdbbe7df-4bd0-4bad-8140-cc7
 https://circle-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XJZ4KWd0/classici.jpg" group-title="Películas | Series",Classic Cinema (US)
-https://bozztv.com/gusa/gusa-classiccinema/index.m3u8
+https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pVBT2dRK/clarocinema.jpg" group-title="Películas | Series",Claro Cinema (LATAM)
 http://38.41.8.1:8000/play/a066
@@ -4630,7 +4663,7 @@ http://38.41.8.1:8000/play/a066
 http://181.78.105.146:6060/play/a039
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RF099PfC/cc.jpg" group-title="Películas | Series",Classic Cinema (US)
-https://bozztv.com/gusa/gusa-classiccinema/mono.m3u8
+https://rpn.bozztv.com/gusa/gusa-classiccinema/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hGmwPJVt/cleo2.jpg" group-title="Películas | Series",Cleo TV (US)
 http://fl3.moveonjoy.com/Cleo_TV/index.m3u8
@@ -5013,6 +5046,8 @@ http://185.189.225.150:85/somos/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QNT1f85g/sony-movies.jpg" group-title="Películas | Series",Sony | Movies (US)
 http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cJxf3Gq/sony-cine.jpg" group-title="Películas | Series",Sony | One | Cine (LATAM)
+https://55a8e146e2a14a0288735149357b44c0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneCinema/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mrjYWjwB/spar.jpg" group-title="Películas | Series",Sparkle Movies (UK)
 https://jmp2.uk/sam-GBAJ400042T1.m3u8
@@ -5074,49 +5109,49 @@ https://jmp2.uk/sam-USBA300019WF.m3u8
 https://premium.tvcontrolcp.com:19360/8062/8062.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/156NKcBd/tvs-ne.jpg" group-title="Películas | Series",TVS Network (US)
-https://bozztv.com/gusa/gusa-tvstn/index.m3u8
+https://rpn.bozztv.com/gusa/gusa-tvstn/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RZ2B8qkP/tvs-cla.jpg" group-title="Películas | Series",TVS | Classic Movies (US)
-https://bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8
+https://rpn.bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HskVbkbK/tvs.jpg" group-title="Películas | Series",TVS | Comedy (US)
-https://bozztv.com/gusa/gusa-tvscomedy/index.m3u8
+https://rpn.bozztv.com/gusa/gusa-tvscomedy/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NF9dV8WF/tvs-co.jpg" group-title="Películas | Series",TVS | Comedy Classic (US)
-https://bozztv.com/gusa/gusa-comedyclassics/index.m3u8
+https://rpn.bozztv.com/gusa/gusa-comedyclassics/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bNFmP5zJ/tvs-dr.jpg" group-title="Películas | Series",TVS | Drive In Movie (US)
-https://bozztv.com/gusa/gusa-tvsdriveinmovie/index.m3u8
+https://rpn.bozztv.com/gusa/gusa-tvsdriveinmovie/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L6vr1vmK/tvs-fi.jpg" group-title="Películas | Series",TVS | Film Noir (US)
-https://bozztv.com/gusa/gusa-TVSFilmNoir/index.m3u8
+https://rpn.bozztv.com/gusa/gusa-TVSFilmNoir/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pT8n1WCv/tvs-fla.jpg" group-title="Películas | Series",TVS | Flashback (US)
-https://bozztv.com/gusa/gusa-TVSFlashback/index.m3u8
+https://rpn.bozztv.com/gusa/gusa-TVSFlashback/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1z3c2cFS/tvs-de.jpg" group-title="Películas | Series",TVS | Front Page Detective (US)
-https://bozztv.com/gusa/gusa-tvsfrontpagedetective/index.m3u8
+https://rpn.bozztv.com/gusa/gusa-tvsfrontpagedetective/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLDSBZ1S/tvs-fro.jpg" group-title="Películas | Series",TVS | Frontier (US)
-https://bozztv.com/gusa/gusa-tvsfrontier/index.m3u8
+https://rpn.bozztv.com/gusa/gusa-tvsfrontier/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8cYK5fB9/tvs-ga.jpg" group-title="Películas | Series",TVS | Game Show (US)
-https://bozztv.com/gusa/gusa-tvsgameshow/index.m3u8
+https://rpn.bozztv.com/gusa/gusa-tvsgameshow/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Z0z0PVTS/tvs.jpg" group-title="Películas | Series",TVS | Hollywood History (US)
-https://bozztv.com/gusa/gusa-tvshollywoohistory/mono.m3u8
+https://rpn.bozztv.com/gusa/gusa-tvshollywoohistory/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/htLsF5wH/tvs-ho.jpg" group-title="Películas | Series",TVS | Horror (US)
-https://bozztv.com/gusa/gusa-tvshorror/index.m3u8
+https://rpn.bozztv.com/gusa/gusa-tvshorror/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fy3LX1my/tvs-ma.jpg" group-title="Películas | Series",TVS | Mainstreet (US)
-https://bozztv.com/gusa/gusa-tvsmainst/index.m3u8
+https://rpn.bozztv.com/gusa/gusa-tvsmainst/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WbL8zVMd/tvs-mi.jpg" group-title="Películas | Series",TVS | Mistery (US)
-https://bozztv.com/gusa/gusa-tvsmystery/index.m3u8
+https://rpn.bozztv.com/gusa/gusa-tvsmystery/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3RGpQyfn/tvs-no.jpg" group-title="Películas | Series",TVS | Nostalgia (US)
-https://bozztv.com/gusa/gusa-nostalgia/index.m3u8
+https://rpn.bozztv.com/gusa/gusa-nostalgia/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VNmnPLP8/tvs-nm.jpg" group-title="Películas | Series",TVS | Nostalgia Movies (US)
-https://bozztv.com/gusa/gusa-tvsNostalgiaMovies/index.m3u8
+https://rpn.bozztv.com/gusa/gusa-tvsNostalgiaMovies/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5yxtKjhH/tvs-pe.jpg" group-title="Películas | Series",TVS | Pet Parade (US)
-https://bozztv.com/gusa/gusa-petparadenetwork/index.m3u8
+https://rpn.bozztv.com/gusa/gusa-petparadenetwork/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W3kTGtnG/tvs-se.jpg" group-title="Películas | Series",TVS | Select (US)
-https://bozztv.com/gusa/gusa-tvsselect/index.m3u8
+https://rpn.bozztv.com/gusa/gusa-tvsselect/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jjKB7NPJ/tvs-ta.jpg" group-title="Películas | Series",TVS | Tally Ho (US)
-https://bozztv.com/gusa/gusa-tvstallyho/index.m3u8
+https://rpn.bozztv.com/gusa/gusa-tvstallyho/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HxJGYmbS/tvs-tav.jpg" group-title="Películas | Series",TVS | Tavern (US)
-https://bozztv.com/gusa/gusa-tavern/index.m3u8
+https://rpn.bozztv.com/gusa/gusa-tavern/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xT9srCZt/tvs-vintage.jpg" group-title="Películas | Series",TVS | Vintage (US)
-https://bozztv.com/gusa/gusa-tvsvintage/index.m3u8
+https://rpn.bozztv.com/gusa/gusa-tvsvintage/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nLCS7kMr/tvs-we.jpg" group-title="Películas | Series",TVS | Wester Movies (US)
-https://bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8
+https://rpn.bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BZyJ43x9/uranio.jpg" group-title="Películas | Series",Uranio TV (PE)
 https://live.obslivestream.com/uraniotv/index.m3u8
