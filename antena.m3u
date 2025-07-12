@@ -20,9 +20,6 @@ https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-64e6e2f04a5e9b4cedc6d52b.m3u8
 #EXTINF:-1 tvg-id="ESBC40000248" tvg-logo="https://i.postimg.cc/PrFRtYz3/horrorvision.jpg" tvg-chno="05" group-title="Animados | Variado",Samsung TV Plus | Horror Visión (ES)
 https://jmp2.uk/sam-ESBC40000248.m3u8
 
-#EXTINF:-1 tvg-id="63fe0111dff38e00083510f9" tvg-name="Pluto TV Orgullo" tvg-logo="https://i.postimg.cc/4NphxvNW/pluto-o.jpg" group-title="Animados | Variado" ,Pluto TV | Orgullo (ES)
-https://jmp2.uk/plu-63fe0111dff38e00083510f9.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvmTYXJB/pride2.jpg" group-title="Animados | Variado",Pride TV | Feed Chile (LATAM)
 https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=dem0pRideTVweb
 #EXTINF:-1 tvg-id="6643b8c42eafd40008daab8b" tvg-logo="https://i.postimg.cc/cLskdBh6/pride1.jpg" group-title="Animados | Variado" ,Pluto TV | Pride TV | Latino (LATAM)
@@ -46,9 +43,6 @@ https://jmp2.uk/plu-6368e15a51e9560007c592ed.m3u8
 https://jmp2.uk/plu-64510d3ad3fdde00080951f2.m3u8
 #EXTINF:-1 tvg-id="5ce5a8954311f992edbe1da2" tvg-logo="https://i.postimg.cc/Gpdz9gRN/logo.jpg" group-title="Animados | Variado" ,Pluto TV | Logo (US)
 https://jmp2.uk/plu-5ce5a8954311f992edbe1da2.m3u8
-
-#EXTINF:-1 tvg-id="642afefb9189ce00088f592c" tvg-name="MTV Pride" tvg-logo="https://i.postimg.cc/BQwnTMQS/plu-mt.jpg" group-title="Animados | Variado" ,MTV | Pride (ES)
-https://jmp2.uk/plu-642afefb9189ce00088f592c.m3u8
 
 #EXTINF:-1 tvg-id="6470abe84cfc2c000884c867" tvg-name="MTV Pride" tvg-logo="https://i.postimg.cc/BQwnTMQS/plu-mt.jpg" group-title="Animados | Variado" ,MTV | Pride (DE)
 https://jmp2.uk/plu-6470abe84cfc2c000884c867.m3u8
