@@ -2,7 +2,7 @@
 #EXTINF:-1 GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 #EXTINF:-1 Para disfrutar de los canales y abrir correctamente, añade esta dirección a la aplicación IPTV PRO una vez instalada, disponible GRATIS en Google Play o bien descargala sin anuncios y completa acá: https//bit.ly/orbitaxpp  Compactible para todos tus dispositivos con Android y Google TV, TVBox, ect... 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r3ZXxVz/orbi-pride.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 12.07.25
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r3ZXxVz/orbi-pride.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 13.07.25
 https://pomf2.lain.la/f/572x442.mp4
 
 #EXTINF:-1 tvg-id="66b0dfa1d512590008bfa7fd" tvg-name="Pluto TV Gore & Slasher" tvg-logo="https://i.postimg.cc/pVgRH9CQ/pluto-g.jpg" tvg-chno="01" group-title="Animados | Variado",Pluto TV | Gore & Slasher (ES)
@@ -7563,14 +7563,13 @@ https://archive.org/download/patata/patata.mkv
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tRsMmtfV/zo2.jpg" group-title="Mas Películas 🎃",Zoombieland | 2 | 2019 | Latino
 https://archive.org/download/00200_20200117_0628/00200.mkv
 
+#EXTINF:-1 tvg-id="6834570d00b60028d2dfd5f8" tvg-name="Pluto TV Series Policiacas" tvg-logo="https://images.pluto.tv/channels/6834570d00b60028d2dfd5f8/colorLogoPNG_1748955630923.png" group-title="Pluto TV | España",Series Policiacas
+https://jmp2.uk/plu-6834570d00b60028d2dfd5f8.m3u8
+#EXTINF:-1 tvg-id="68345769bbc703dfd45a8564" tvg-name="Pluto TV Tuning & Tattoos" tvg-logo="https://images.pluto.tv/channels/68345769bbc703dfd45a8564/colorLogoPNG_1748955630923.png" group-title="Pluto TV | España",Tuning & Tattoos
+https://jmp2.uk/plu-68345769bbc703dfd45a8564.m3u8
+
 #EXTINF:-1 tvg-id="680ba8992472a7200a183eb5" tvg-name="One Piece" tvg-logo="https://images.pluto.tv/channels/680ba8992472a7200a183eb5/colorLogoPNG_1748955630923.png" group-title="Pluto TV | España",One Piece
 https://jmp2.uk/plu-680ba8992472a7200a183eb5.m3u8
-
-#EXTINF:-1 tvg-id="63fe0111dff38e00083510f9" tvg-name="Pluto TV Orgullo" tvg-logo="https://images.pluto.tv/channels/63fe0111dff38e00083510f9/colorLogoPNG_1748269327014.png" group-title="Pluto TV | España" ,Pluto TV | Orgullo
-https://jmp2.uk/plu-63fe0111dff38e00083510f9.m3u8
-
-#EXTINF:-1 tvg-id="642afefb9189ce00088f592c" tvg-name="MTV Pride" tvg-logo="https://images.pluto.tv/channels/642afefb9189ce00088f592c/colorLogoPNG.png" group-title="Pluto TV | España" ,MTV | Pride
-https://jmp2.uk/plu-642afefb9189ce00088f592c.m3u8
 
 #EXTINF:-1 tvg-id="65eeffc50d4561000836f191" tvg-name="PRIDEtv" tvg-logo="https://images.pluto.tv/channels/65eeffc50d4561000836f191/colorLogoPNG.png" group-title="Pluto TV | España" ,Pride TV
 https://jmp2.uk/plu-65eeffc50d4561000836f191.m3u8
@@ -7583,9 +7582,6 @@ https://jmp2.uk/plu-61b87bc867b03a0007864e0d.m3u8
 
 #EXTINF:-1 tvg-id="683456acf59cc6a13212f1c1" tvg-name="Descubre" tvg-logo="https://images.pluto.tv/channels/683456acf59cc6a13212f1c1/colorLogoPNG.png" group-title="Pluto TV | España" ,Descubre
 https://jmp2.uk/plu-683456acf59cc6a13212f1c1.m3u8
-
-#EXTINF:-1 tvg-id="680ba9878e4b08935e31462b" tvg-name="Top Gear: Racing Icons" tvg-logo="https://images.pluto.tv/channels/680ba9878e4b08935e31462b/colorLogoPNG.png" group-title="Pluto TV | España" ,Top Gear: Racing Icons
-https://jmp2.uk/plu-680ba9878e4b08935e31462b.m3u8
 
 #EXTINF:-1 tvg-id="657868a7a620e30008fdbfeb" tvg-name="Embrujadas" tvg-logo="https://images.pluto.tv/channels/657868a7a620e30008fdbfeb/colorLogoPNG.png" group-title="Pluto TV | España" ,Embrujadas
 https://jmp2.uk/plu-657868a7a620e30008fdbfeb.m3u8
@@ -7649,9 +7645,6 @@ https://jmp2.uk/plu-65786b94cbd0d60008f7e4d9.m3u8
 
 #EXTINF:-1 tvg-id="65787f2eb228b7000843fa5c" tvg-name="Star Trek: Voyager" tvg-logo="https://images.pluto.tv/channels/65787f2eb228b7000843fa5c/colorLogoPNG.png" group-title="Pluto TV | España" ,Star Trek: Voyager
 https://jmp2.uk/plu-65787f2eb228b7000843fa5c.m3u8
-
-#EXTINF:-1 tvg-id="65787ed36e4f6a000873ff40" tvg-name="Star Trek: Deep Space Nine" tvg-logo="https://images.pluto.tv/channels/65787ed36e4f6a000873ff40/colorLogoPNG.png" group-title="Pluto TV | España" ,Star Trek: Deep Space Nine
-https://jmp2.uk/plu-65787ed36e4f6a000873ff40.m3u8
 
 #EXTINF:-1 tvg-id="65dded9a0d456100081417ae" tvg-name="Primeval" tvg-logo="https://images.pluto.tv/channels/65dded9a0d456100081417ae/colorLogoPNG.png" group-title="Pluto TV | España" ,Primeval
 https://jmp2.uk/plu-65dded9a0d456100081417ae.m3u8
@@ -7968,9 +7961,6 @@ https://jmp2.uk/plu-5f98537a5a4341000733aefe.m3u8
 #EXTINF:-1 tvg-id="604f81a49ef73300070e554f" tvg-name="MTV Teen Mom" tvg-logo="https://images.pluto.tv/channels/604f81a49ef73300070e554f/colorLogoPNG.png" group-title="Pluto TV | España" ,MTV | Teen Mom
 https://jmp2.uk/plu-604f81a49ef73300070e554f.m3u8
 
-#EXTINF:-1 tvg-id="6076c74daa05ac0007d0eb07" tvg-name="Tuning" tvg-logo="https://images.pluto.tv/channels/6076c74daa05ac0007d0eb07/colorLogoPNG.png" group-title="Pluto TV | España" ,Tuning
-https://jmp2.uk/plu-6076c74daa05ac0007d0eb07.m3u8
-
 #EXTINF:-1 tvg-id="5f1ab3c7778230000735cf41" tvg-name="MTV Catfish TV Show" tvg-logo="https://images.pluto.tv/channels/5f1ab3c7778230000735cf41/colorLogoPNG.png" group-title="Pluto TV | España" ,MTV | Catfish TV Show
 https://jmp2.uk/plu-5f1ab3c7778230000735cf41.m3u8
 
@@ -8264,6 +8254,8 @@ https://jmp2.uk/plu-64f6163a30ab3300083d870e.m3u8
 https://jmp2.uk/plu-5e98b0447665f200078caded.m3u8
 #EXTINF:-1 channel-id="677d93afe650a700081e5f18" tvg-id="677d93afe650a700081e5f18" tvg-logo="https://images.pluto.tv/channels/677d93afe650a700081e5f18/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Popeye
 https://jmp2.uk/plu-677d93afe650a700081e5f18.m3u8
+#EXTINF:-1 channel-id="5dd6ed41526c77000941411c" tvg-id="5dd6ed41526c77000941411c" tvg-logo="https://images.pluto.tv/channels/5dd6ed41526c77000941411c/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Pre-Navidad
+https://jmp2.uk/plu-5dd6ed41526c77000941411c.m3u8
 #EXTINF:-1 tvg-id="67d9b0ebc290c9499046e88f" tvg-name="RCN Noticias" tvg-logo="https://images.pluto.tv/channels/67d9b0ebc290c9499046e88f/colorLogoPNG_1747143716006.png" group-title="Pluto TV | Latino",RCN | Noticias
 https://jmp2.uk/plu-67d9b0ebc290c9499046e88f.m3u8
 #EXTINF:-1 channel-id="5dcde197f6591d0009839e04" tvg-id="5dcde197f6591d0009839e04" tvg-logo="https://images.pluto.tv/channels/5dcde197f6591d0009839e04/colorLogoPNG.png" group-title="Pluto TV | Latino" ,Reality
@@ -13344,6 +13336,9 @@ https://streaming004.gestec-video.com/hls/MIJAS.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsfzwhWs/mirame.jpg" group-title="España",Mírame TV (ES)
 https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vHb25r3s/nav.jpg" group-title="España",Navarra Televisión (ES)
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(2CWjkZdzohUTZVTwsEMw14xQJmnIwZFpveJZJaJrYcYaoKAxycCzUV3N7WOuuyIPo8Ca-YcoF8gywqUXQit5edxaphuxy_inOJKLdHUXKUJzZFDmPZV5Qd-qDjeD2oCj)/cloud/3/x8dhap9/s/live-720.m3u8#cell=lcf2-eu-north-1b
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sXbXvXrR/norO.jpg" group-title="España",Noroeste TV (ES)
 https://cloudvideo.servers10.com:8081/8032/index.m3u8
 
@@ -13509,9 +13504,23 @@ https://liveingesta318.cdnmedia.tv/costabravatvlive/smil:live.smil/playlist.m3u8
 https://jmp2.uk/sam-ESBC4100001NZ.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/44jXSrX8/la1.jpg" group-title="España",TVE | La 1 | Opción 2 (ES)
 https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/44jXSrX8/la1.jpg" group-title="España",TVE | La 1 | Opción 3 (ES)
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/44jXSrX8/la1.jpg" group-title="España",TVE | La 1 | Canarias (ES)
+https://ztnr.rtve.es/ztnr/5190066.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/44jXSrX8/la1.jpg" group-title="España",TVE | La 1 | Catalunya (ES)
+https://ztnr.rtve.es/ztnr/3293681.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMnpVjRp/la2.jpg" group-title="España",TVE | La 2 (ES)
 https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMnpVjRp/la2.jpg" group-title="España",TVE | La 2 | Opción 2 (ES)
+http://185.189.225.150:85/TV2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMnpVjRp/la2.jpg" group-title="España",TVE | La 2 | Canarias (ES)
+https://ztnr.rtve.es/ztnr/5468585.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMnpVjRp/la2.jpg" group-title="España",TVE | La 2 | Catalunya (ES)
+https://ztnr.rtve.es/ztnr/3987218.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c41hDz3X/tve-internacional.jpg" group-title="España",TVE | Internacional (ES)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8
