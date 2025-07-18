@@ -2,7 +2,7 @@
 #EXTINF:-1 GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 #EXTINF:-1 Para disfrutar de los canales y abrir correctamente, añade esta dirección a la aplicación IPTV PRO una vez instalada, disponible GRATIS en Google Play o bien descargala sin anuncios y completa acá: https//bit.ly/orbitaxpp  Compactible para todos tus dispositivos con Android y Google TV, TVBox, ect... 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r3ZXxVz/orbi-pride.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 17.07.25
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r3ZXxVz/orbi-pride.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 18.07.25
 https://pomf2.lain.la/f/572x442.mp4
 
 #EXTINF:-1 tvg-id="66b0dfa1d512590008bfa7fd" tvg-name="Pluto TV Gore & Slasher" tvg-logo="https://i.postimg.cc/pVgRH9CQ/pluto-g.jpg" tvg-chno="01" group-title="Animados | Variado",Pluto TV | Gore & Slasher (ES)
@@ -201,10 +201,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11061
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2yMBdP9k/canal-infantil.jpg" group-title="Animados | Variado",Canal Infantil (LATAM)
 
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NfKp4G8f/ipe2.jpg" group-title="Animados | Variado",Canal Ipe (PE)
-https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/02Qgg6GY/reg.jpg" group-title="Animados | Variado",Canal Regional | Valparaíso (CL)
 https://panel.tvstream.cl:1936/8038/8038/chunklist_w1110360145.m3u8
 
@@ -270,13 +266,6 @@ https://cnn.essastream.com:3333/live/cromtvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sxvLDJ73/cula4.jpg" group-title="Animados | Variado",Cúla 4 | Irlanda (IE)
 https://d3eq0jseza7fm5.cloudfront.net/tg4_vod_3.m3u8
 
-#EXTINF:-1 tvg-id="US2200001IY" tvg-logo="https://i.postimg.cc/TY0wLZ6L/curi-a.jpg" group-title="Animados | Variado",Curiosity | Animales (US)
-https://jmp2.uk/sam-US2200001IY.m3u8
-#EXTINF:-1 tvg-id="US22000020U" tvg-logo="https://i.postimg.cc/5tYNryFL/curi-e.jpg" group-title="Animados | Variado",Curiosity | Español (US)
-https://jmp2.uk/sam-US22000020U.m3u8
-#EXTINF:-1 tvg-id="US2200003ZN" tvg-logo="https://i.postimg.cc/vmJHwyWj/curi-m.jpg" group-title="Animados | Variado",Curiosity | Motores (US)
-https://jmp2.uk/sam-US2200003ZN.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9Q8pXs2M/dark.jpg" group-title="Animados | Variado",Dark (ES)
 http://espronewtt.top:8080/Juangomezroda/54uzajv2rb/16782
 
@@ -298,12 +287,11 @@ https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5LgW92w/diti2.jpg" group-title="Animados | Variado",Diti TV [NO 24/7] (AR)
 https://live20.bozztv.com/akamaissh101/ssh101/dititv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HkLzmNwx/dkiss.jpg" group-title="Animados | Variado",DKISS (ES)
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnTvVq4z/dl-10.jpg" group-title="Animados | Variado",DLTV | 10 (TH)
 https://cdn-live.dltv.ac.th/dltv10.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3RM2y8qL/dmax2.jpg" group-title="Animados | Variado",DMAX (ES)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJpVJJm1/dm.jpg" group-title="Animados | Variado",DM Kids (LATAM)
+https://stream-us-east-1.getpublica.com/cl/250718d1su40pum08tldqs0l80/1920x1080_2554546_0_f.m3u8?i=1187_12967
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/25rKhHs4/domi.jpg" group-title="Animados | Variado",Domi Kids (LATAM)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
@@ -319,9 +307,6 @@ https://jmp2.uk/sam-ESBC4700001GR.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Zq0jQWgr/ebskids.jpg" group-title="Animados | Variado",EBS | Kids (KR)
 http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/43mhWxpH/educa.jpg" group-title="Animados | Variado",Educa (EC)
-https://vid2.ecuamedia.net/educatv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fyd6vs5q/ener-retro.jpg" group-title="Animados | Variado",EnerGeek | Retro (CL)
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=D3m0M3UCLWeb
@@ -345,9 +330,6 @@ https://streamyes.alsolnet.com/esportsmax/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T3YrRxQ3/Etc.jpg" group-title="Animados | Variado",ETC (CL)
 http://45.181.122.46:8090/play/a00t
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nVkvMTxQ/eureka1.jpg" group-title="Animados | Variado",Eureka (CO)
-https://cdns.livewave.co:19360/eurekatv/eurekatv.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Pr8cGZMJ/failarmy.jpg" group-title="Animados | Variado",FailArmy | 3 (US)
 https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Pr8cGZMJ/failarmy.jpg" group-title="Animados | Variado",FailArmy | 4 (US)
@@ -364,9 +346,6 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnTw5tfk/fmh-family.jpg" group-title="Animados | Variado",Fmh | Family (LATAM)
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Dz4tWV7h/fmh-kids.jpg" group-title="Animados | Variado",Fmh | Kids (LATAM)
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vZ9ZbpCH/fmh-m.jpg" group-title="Animados | Variado",Fmh | Movies (LATAM)
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yNDGxwQZ/focus.jpg" group-title="Animados | Variado",Focus | Mediaset (IT)
-http://84.22.55.2:8000/play/s14
 
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-621674502c2627c068e73ada" tvg-logo="https://i.postimg.cc/hjSNbWbz/fri.jpg" group-title="Animados | Variado",FrightFlix | Plex (US)
 https://jmp2.uk/plex-643054b1fc3be59477853717-621674502c2627c068e73ada.m3u8
@@ -558,9 +537,6 @@ https://fl5.moveonjoy.com/MTV_U/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYjw3FQG/mubeat.jpg" group-title="Animados | Variado",Mubeat (KR)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=711
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7KQcYFY/multivision.jpg" group-title="Animados | Variado",Multivisión (AR)
-https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdJCLD8z/mundose.jpg" group-title="Animados | Variado",Mundo Series | Tivify (ES)
 https://daiconnect.com/live/hls/tvup/tvfy-mundoseries/.m3u8
 
@@ -603,14 +579,10 @@ https://jmp2.uk/sam-US2200007QG.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/02pxp9s6/nova3.jpg" group-title="Animados | Variado",Nova (ES)
 http://185.189.225.150:85/nova/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Mp1jLBKf/ntv2.jpg" group-title="Animados | Variado",NTV (CL)
-https://marine2.miplay.cl/ntv/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0yGkKYhs/omid.jpg" group-title="Animados | Variado",Omid TV | Irán (IR)
 https://lenz.splus.ir/PLTV/88888888/224/3221226159/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gkRYbK7M/onceninasyninos.jpg" group-title="Animados | Variado",Once | Niñas y Niños (MX)
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SK8vD8XZ/opi3.jpg" group-title="Animados | Variado",Opinion Sur | Cine (CL)
 https://live20.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/playlist.m3u8
@@ -684,6 +656,9 @@ https://server.streamtech.com.co:5443/retroTv/streams/sJlaR9zuk3cJ8jqN4467369974
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hjvzL50N/retrox5.jpg" group-title="Animados | Variado",RetroX TV (CR)
 https://acceso.radiosportstv.online:3259/hybrid/play.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgs3YqGS/a30-r.jpg" group-title="Animados | Variado",Ridiculous X TV | A30 TV (US)
+https://30a-tv.com/feeds/vidaa/funnyvideos.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j5zxhCKm/rocket2.jpg" group-title="Animados | Variado",Rocket TV (CL)
 https://live20.bozztv.com/giatv/giatv-rocket/rocket/playlist.m3u8
 
@@ -739,16 +714,10 @@ https://lbs-us1.suprememastertv.com/origin/720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/25Dxm2X1/syfy.jpg" group-title="Animados | Variado",Syfy (ES)
 http://185.189.225.150:85/syfy/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yd9hv9WK/taltal2.jpg" group-title="Animados | Variado",Taltal TV | 1 | Canal Anime (CL)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yd9hv9WK/taltal2.jpg" group-title="Animados | Variado",Taltal TV | Canal Anime (CL)
 https://live20.bozztv.com/akamaissh101/ssh101/taltal/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRYr0XNp/tal3.jpg" group-title="Animados | Variado",Taltal TV | 2 | Series (CL)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRYr0XNp/tal3.jpg" group-title="Animados | Variado",Taltal TV | Series (CL)
 https://giatv.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRYr0XNp/tal3.jpg" group-title="Animados | Variado",Taltal TV | 3 | Mix (CL)
-https://live20.bozztv.com/akamaissh101/ssh101/animacion/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRYr0XNp/tal3.jpg" group-title="Animados | Variado",Taltal TV | 4 | Educa (CL)
-https://live20.bozztv.com/akamaissh101/ssh101/daem/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1tYRN2KH/tal.jpg" group-title="Animados | Variado",Taltal TV | 5 | Documentales (CL)
-https://live20.bozztv.com/giatvplayout7/giatv-208260/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bNdnqK4z/tam.jpg" group-title="Animados | Variado",Tamyr (RU)
 https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
@@ -805,8 +774,6 @@ https://live20.bozztv.com/giatv/giatv-ToonamiTV/ToonamiTV/playlist.m3u8
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0N6pZXGf/toonamia.jpg" group-title="Animados | Variado",Toonami Aftermath | Movies (US)
 http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0N6pZXGf/toonamia.jpg" group-title="Animados | Variado",Toonami Aftermath | Radio (US)
-http://api.toonamiaftermath.com:3000/radio/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9M4kfBSn/toong2.jpg" group-title="Animados | Variado",Toon Googles (ES)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4424
@@ -831,19 +798,10 @@ https://i.mjh.nz/.r/discovery-fast4.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CMvtKM6V/tdtv.jpg" group-title="Animados | Variado",Turrialba Digital TV (CR)
 https://cloudvideo.servers10.com:8081/8230/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/HzuH1MF.jpg" group-title="Animados | Variado",TV Costa (CL)
-https://tvcosta.webredirect.org:9443/hls/live.m3u8
-
 #EXTINF:-1 tvg-id="ESBC4100001NZ" tvg-logo="https://i.postimg.cc/44jXSrX8/la1.jpg" group-title="Animados | Variado",TVE | La 1 (ES)
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr_720.m3u8
 #EXTINF:-1 tvg-id="ESBC4100002AG" tvg-logo="https://i.postimg.cc/qMnpVjRp/la2.jpg" group-title="Animados | Variado",TVE | La 2 (ES)
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr_720.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zBj6gcGC/tvmas2.jpg" group-title="Animados | Variado",TV Más 2 (CL)
-https://marine2.miplay.cl/tateti/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/2yDBWMpX/tvok.jpg" group-title="Animados | Variado",Tvo Kids (US)
-https://bcovlive-a.akamaihd.net/rf86f817779524249abf842af6d16f55f/us-east-1/15364602001/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7Ys0hYBH/tvs-cam.jpg" group-title="Animados | Variado",TVS | Camera Smile (US)
 https://rpn.bozztv.com/gusa/gusa-camerasmile/index.m3u8
@@ -890,9 +848,6 @@ http://fl5.moveonjoy.com/VH1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XJTwBrH2/kanaldramavive.jpg" group-title="Animados | Variado",Vive | Kanal D | Drama (LATAM)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qqrd9KpV/vo1.jpg" group-title="Animados | Variado",Voice Over Radio TV (CR)
-https://cloudvideo.servers10.com:8081/8198/rewind-3600.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bJq4p8VH/vos.jpg" group-title="Animados | Variado",Vos & TV (EC)
 https://cloud37.ecuatel.com/vostv/live/playlist.m3u8
@@ -965,930 +920,976 @@ https://pomf2.lain.la/f/celhlauf.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6mYL8R6/guilp0.jpg" group-title="Pride Videos 🏳️‍🌈",[Pride Costa Rica 2017 ] Marcha del Orgullo LGBTIQ+
 https://pomf2.lain.la/f/pw5cmj0d.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r3ZXxVz/orbi-pride.jpg" group-title="Ciencia | Cultura 🪐",Órbita by @guilmonzero
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r3ZXxVz/orbi-pride.jpg" group-title="Cultura | Educativo 🪐",Órbita by @guilmonzero
 https://pomf2.lain.la/f/572x442.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MpRPRpMc/5c.jpg" group-title="Ciencia | Cultura 🪐",5 Cops (UK)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MpRPRpMc/5c.jpg" group-title="Cultura | Educativo 🪐",5 Cops (UK)
 https://jmp2.uk/sam-GBAK3504500A.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/B66f78Rb/5ex.jpg" group-title="Ciencia | Cultura 🪐",5 Exploring Britain (UK)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/B66f78Rb/5ex.jpg" group-title="Cultura | Educativo 🪐",5 Exploring Britain (UK)
 https://jmp2.uk/sam-GBAK3504501A.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLcRKPcQ/13cultura1.jpg" group-title="Ciencia | Cultura 🪐",13 | Cultura (CL)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLcRKPcQ/13cultura1.jpg" group-title="Cultura | Educativo 🪐",13 | Cultura (CL)
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/g2cj9WZ9/abclocal.jpg" group-title="Ciencia | Cultura 🪐",ABC | Localish (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g2cj9WZ9/abclocal.jpg" group-title="Cultura | Educativo 🪐",ABC | Localish (US)
 https://jmp2.uk/sam-USBC4400005HY.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvLCTYSX/afro-l.jpg" group-title="Ciencia | Cultura 🪐",Afroland TV (MA)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvLCTYSX/afro-l.jpg" group-title="Cultura | Educativo 🪐",Afroland TV (MA)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=844
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6pWMbZT5/beac.jpg" group-title="Ciencia | Cultura 🪐",Ambiente | Beach Bonfire Vibes (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6pWMbZT5/beac.jpg" group-title="Cultura | Educativo 🪐",Ambiente | Beach Bonfire Vibes (US)
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pd7WB7Kf/camp.jpg" group-title="Ciencia | Cultura 🪐",Ambiente | Campfire Vibes (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pd7WB7Kf/camp.jpg" group-title="Cultura | Educativo 🪐",Ambiente | Campfire Vibes (US)
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrpGgjyR/chimenea.jpg" group-title="Ciencia | Cultura 🪐",Ambiente | Chimenea (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrpGgjyR/chimenea.jpg" group-title="Cultura | Educativo 🪐",Ambiente | Chimenea (US)
 https://jmp2.uk/sam-ESBD1500001SD.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rpW3YbLS/cozy.jpg" group-title="Ciencia | Cultura 🪐",Ambiente | Cozy Vibes (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rpW3YbLS/cozy.jpg" group-title="Cultura | Educativo 🪐",Ambiente | Cozy Vibes (US)
 https://jmp2.uk/sam-US2900005NW.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YS01VrdH/cvib.jpg" group-title="Ciencia | Cultura 🪐",Ambiente | Christmas Vibes (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YS01VrdH/cvib.jpg" group-title="Cultura | Educativo 🪐",Ambiente | Christmas Vibes (US)
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwgLN7Mz/fall.jpg" group-title="Ciencia | Cultura 🪐",Ambiente | Fall Vibes (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwgLN7Mz/fall.jpg" group-title="Cultura | Educativo 🪐",Ambiente | Fall Vibes (US)
 https://jmp2.uk/sam-US1400010S0.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0dQQscQ/fir.jpg" group-title="Ciencia | Cultura 🪐",Ambiente | Fireplace Vibes (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0dQQscQ/fir.jpg" group-title="Cultura | Educativo 🪐",Ambiente | Fireplace Vibes (US)
 https://jmp2.uk/sam-GBBD1500003SD.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7Z0Qf6qN/holv.jpg" group-title="Ciencia | Cultura 🪐",Ambiente | Holiday | Fireplace Vibes (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7Z0Qf6qN/holv.jpg" group-title="Cultura | Educativo 🪐",Ambiente | Holiday | Fireplace Vibes (US)
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JPrVsvR/isl.jpg" group-title="Ciencia | Cultura 🪐",Ambiente | Island Vibes (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JPrVsvR/isl.jpg" group-title="Cultura | Educativo 🪐",Ambiente | Island Vibes (US)
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9Mfq0PMn/lakes.jpg" group-title="Ciencia | Cultura 🪐",Ambiente | Lakeside Bonfire Vibes (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9Mfq0PMn/lakes.jpg" group-title="Cultura | Educativo 🪐",Ambiente | Lakeside Bonfire Vibes (US)
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SsnGXb18/luxe.jpg" group-title="Ciencia | Cultura 🪐",Ambiente | Luxe Fireplace Vibes (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SsnGXb18/luxe.jpg" group-title="Cultura | Educativo 🪐",Ambiente | Luxe Fireplace Vibes (US)
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jjvQ5SsZ/oce.jpg" group-title="Ciencia | Cultura 🪐",Ambiente | Ocean Vibes (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jjvQ5SsZ/oce.jpg" group-title="Cultura | Educativo 🪐",Ambiente | Ocean Vibes (US)
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/90dpttdY/rain.jpg" group-title="Ciencia | Cultura 🪐",Ambiente | Rainy Day Vibes (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90dpttdY/rain.jpg" group-title="Cultura | Educativo 🪐",Ambiente | Rainy Day Vibes (US)
 https://jmp2.uk/sam-US14000030Y.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3BfQBZx/soo.jpg" group-title="Ciencia | Cultura 🪐",Ambiente | Soothing Vibes (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3BfQBZx/soo.jpg" group-title="Cultura | Educativo 🪐",Ambiente | Soothing Vibes (US)
 https://jmp2.uk/sam-US2900009D4.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjSpJdfR/storm.jpg" group-title="Ciencia | Cultura 🪐",Ambiente | Storm Vibes (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjSpJdfR/storm.jpg" group-title="Cultura | Educativo 🪐",Ambiente | Storm Vibes (US)
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/50c98xKM/waterf.jpg" group-title="Ciencia | Cultura 🪐",Ambiente | Waterfall Vibes (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/50c98xKM/waterf.jpg" group-title="Cultura | Educativo 🪐",Ambiente | Waterfall Vibes (US)
 https://jmp2.uk/sam-US14000155Y.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vHtrDwzW/americanh.jpg" group-title="Ciencia | Cultura 🪐",American Heroes Channel (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vHtrDwzW/americanh.jpg" group-title="Cultura | Educativo 🪐",American Heroes Channel (US)
 http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/LXN584ZF/amer.jpg" group-title="Ciencia | Cultura 🪐",America's Test Kitchen (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/LXN584ZF/amer.jpg" group-title="Cultura | Educativo 🪐",America's Test Kitchen (US)
 https://jmp2.uk/sam-USBA3800002KI.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C56PjYG/antiq.jpg" group-title="Ciencia | Cultura 🪐",Antiques Roadshow Trip | Tubi (US)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C56PjYG/antiq.jpg" group-title="Cultura | Educativo 🪐",Antiques Roadshow Trip | Tubi (US)
 https://live-manifest.production-public.tubi.io/live/e0577c33-15de-4834-8d20-e2ef0cc9f5f6/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zB3bW1jZ/bbc-an.jpg" group-title="Ciencia | Cultura 🪐",Antiques Roadshow | BBC (UK)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zB3bW1jZ/bbc-an.jpg" group-title="Cultura | Educativo 🪐",Antiques Roadshow | BBC (UK)
 https://jmp2.uk/sam-USBC600018CF.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhkP6BjX/anti.jpg" group-title="Ciencia | Cultura 🪐",Antiques Roadshow | PBS (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhkP6BjX/anti.jpg" group-title="Cultura | Educativo 🪐",Antiques Roadshow | PBS (US)
 https://jmp2.uk/sam-USBD4200017GS.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xdN8HVgB/artf.jpg" group-title="Ciencia | Cultura 🪐",ArtFlix | Plex (ES)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xdN8HVgB/artf.jpg" group-title="Cultura | Educativo 🪐",ArtFlix | Plex (ES)
 https://jmp2.uk/plex-643054b1fc3be59477853717-6348a34c1159f6a5ce819b81.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/76Xv7Kc4/arte.jpg" group-title="Ciencia | Cultura 🪐",Arte (FR)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/76Xv7Kc4/arte.jpg" group-title="Cultura | Educativo 🪐",Arte (FR)
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/v80xdqjK/arts.jpg" group-title="Ciencia | Cultura 🪐",ARTS | Classic Arts Showcase (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v80xdqjK/arts.jpg" group-title="Cultura | Educativo 🪐",ARTS | Classic Arts Showcase (US)
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qqVpDY01/astrone.jpg" group-title="Ciencia | Cultura 🪐",Astro Net (LATAM)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qqVpDY01/astrone.jpg" group-title="Cultura | Educativo 🪐",Astro Net (LATAM)
 https://stmv6.voxtvhd.com.br/astronet/astronet/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wv3HFqZ2/home.jpg" group-title="Ciencia | Cultura 🪐",At Home With Family Handyman (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wv3HFqZ2/home.jpg" group-title="Cultura | Educativo 🪐",At Home With Family Handyman (US)
 https://jmp2.uk/sam-USBD25000138Y.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7LhmHyhP/aur.jpg" group-title="Ciencia | Cultura 🪐",Aurora Arte (IT)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7LhmHyhP/aur.jpg" group-title="Cultura | Educativo 🪐",Aurora Arte (IT)
 https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8zGpnrpk/awe.jpg" group-title="Ciencia | Cultura 🪐",AWE Encore (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8zGpnrpk/awe.jpg" group-title="Cultura | Educativo 🪐",AWE Encore (US)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00450-herringnetwork-aweencore-vidaa/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W35hnQjK/azu.jpg" group-title="Ciencia | Cultura 🪐",Azzurra TV (IT)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W35hnQjK/azu.jpg" group-title="Cultura | Educativo 🪐",Azzurra TV (IT)
 https://ed05.top-ix.org/avtvlive/azzurra/streaming/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HWVBgQr6/ban.jpg" group-title="Ciencia | Cultura 🪐",Bang Showbiz (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HWVBgQr6/ban.jpg" group-title="Cultura | Educativo 🪐",Bang Showbiz (US)
 https://rpn.bozztv.com/gusa/gusa-celebrityscene/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCpX3P3y/bbc-di.jpg" group-title="Ciencia | Cultura 🪐",BBC | Dinos TV 24-7 (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCpX3P3y/bbc-di.jpg" group-title="Cultura | Educativo 🪐",BBC | Dinos TV 24-7 (US)
 https://jmp2.uk/sam-US3700006XE.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ThMdGXTW/bbc-ea.jpg" group-title="Ciencia | Cultura 🪐",BBC | Earth | Tubi (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ThMdGXTW/bbc-ea.jpg" group-title="Cultura | Educativo 🪐",BBC | Earth | Tubi (US)
 https://live-manifest.production-public.tubi.io/live/01404def-10a0-46f6-9e01-4919814910c0/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NGV5rVSm/bbc-f.jpg" group-title="Ciencia | Cultura 🪐",BBC | Food (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NGV5rVSm/bbc-f.jpg" group-title="Cultura | Educativo 🪐",BBC | Food (US)
 https://jmp2.uk/sam-USBC6000108Z.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjzJ7ZRF/bbc-h.jpg" group-title="Ciencia | Cultura 🪐",BBC | Home & Garden (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjzJ7ZRF/bbc-h.jpg" group-title="Cultura | Educativo 🪐",BBC | Home & Garden (US)
 https://jmp2.uk/sam-USBC600017FG.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QddKFrqM/belair.jpg" group-title="Ciencia | Cultura 🪐",BelAir TV (US)
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kvv3m2Fw/beach.jpg" group-title="Cultura | Educativo 🪐",Beach Real Estate | 30A TV (US)
+https://30a-tv.com/beachy.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QddKFrqM/belair.jpg" group-title="Cultura | Educativo 🪐",BelAir TV (US)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-en-plex/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kXcfNyq3/bi.jpg" group-title="Ciencia | Cultura 🪐",Bienestar | Salud y Tegnología (CR)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kXcfNyq3/bi.jpg" group-title="Cultura | Educativo 🪐",Bienestar | Salud y Tegnología (CR)
 https://video20.klm99.com:3391/live/meganettvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FRNb15cF/biog.jpg" group-title="Ciencia | Cultura 🪐",Biography | The Icons (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FRNb15cF/biog.jpg" group-title="Cultura | Educativo 🪐",Biography | The Icons (US)
 https://jmp2.uk/sam-US26000201N.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rmLZwM2j/bon.jpg" group-title="Ciencia | Cultura 🪐",Bon Appétit (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rmLZwM2j/bon.jpg" group-title="Cultura | Educativo 🪐",Bon Appétit (US)
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rFFF985X/bondi.jpg" group-title="Ciencia | Cultura 🪐",Bondi Rescue (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rFFF985X/bondi.jpg" group-title="Cultura | Educativo 🪐",Bondi Rescue (US)
 https://jmp2.uk/sam-US2900010UT.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xqzg6SmY/camara.jpg" group-title="Ciencia | Cultura 🪐",Camara de Diputados (CL)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xqzg6SmY/camara.jpg" group-title="Cultura | Educativo 🪐",Camara de Diputados (CL)
 https://wowlive.grupoz.cl/camara/live/chunklist_w25430589.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zGqyprcS/campuscl.jpg" group-title="Ciencia | Cultura 🪐",Campus TV (CL)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zGqyprcS/campuscl.jpg" group-title="Cultura | Educativo 🪐",Campus TV (CL)
 https://unlimited1-cl-isp.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9Xtt5Tyy/canalanda1.jpg" group-title="Ciencia | Cultura 🪐",Canal Andalucía | Cocina (ES)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9Xtt5Tyy/canalanda1.jpg" group-title="Cultura | Educativo 🪐",Canal Andalucía | Cocina (ES)
 https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTz7wLvp/canalanda2.jpg" group-title="Ciencia | Cultura 🪐",Canal Andalucía | Turismo (ES)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTz7wLvp/canalanda2.jpg" group-title="Cultura | Educativo 🪐",Canal Andalucía | Turismo (ES)
 https://cloud.streamingconnect.tv/hls/aturismo/aturismo.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMNB0tTb/canalinstitu.jpg" group-title="Ciencia | Cultura 🪐",Canal Institucional TV (CO)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NfKp4G8f/ipe2.jpg" group-title="Cultura | Educativo 🪐",Canal Ipe (PE)
+https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMNB0tTb/canalinstitu.jpg" group-title="Cultura | Educativo 🪐",Canal Institucional TV (CO)
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklist_b1500000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HnpcTrck/cancionero.jpg" group-title="Ciencia | Cultura 🪐",Cancionero TV (ES)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HnpcTrck/cancionero.jpg" group-title="Cultura | Educativo 🪐",Cancionero TV (ES)
 http://89.140.229.5/hls1/cancionero.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/k5XM4nq0/canelfi.jpg" group-title="Ciencia | Cultura 🪐",Canela TV | Fish Tank (LATAM)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k5XM4nq0/canelfi.jpg" group-title="Cultura | Educativo 🪐",Canela TV | Fish Tank (LATAM)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4324
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RCKcwzk3/canelsc.jpg" group-title="Ciencia | Cultura 🪐",Canela TV | SoniCentric (LATAM)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RCKcwzk3/canelsc.jpg" group-title="Cultura | Educativo 🪐",Canela TV | SoniCentric (LATAM)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4325
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcMf88fk/carib2.jpg" group-title="Ciencia | Cultura 🪐",Caribe TV (CR)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcMf88fk/carib2.jpg" group-title="Cultura | Educativo 🪐",Caribe TV (CR)
 https://live20.bozztv.com/akamaissh101/ssh101/caribetv/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZtjpx3D/catve.jpg" group-title="Ciencia | Cultura 🪐",Catve | Cultura (BR)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZtjpx3D/catve.jpg" group-title="Cultura | Educativo 🪐",Catve | Cultura (BR)
 http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bn1msbq9/ceactv.jpg" group-title="Ciencia | Cultura 🪐",CEAC TV (CL)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bn1msbq9/ceactv.jpg" group-title="Cultura | Educativo 🪐",CEAC TV (CL)
 https://videostream.chileservidores.com:8081/ceactv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cHRQbqvg/cero.jpg" group-title="Ciencia | Cultura 🪐",Cero Anestesia TV (CL)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cHRQbqvg/cero.jpg" group-title="Cultura | Educativo 🪐",Cero Anestesia TV (CL)
 https://mist.autoplayout.com/hls/ceroanestesiatv/0_1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KYqv0BtV/CGTNDOCUMENTARY.jpg" group-title="Ciencia | Cultura 🪐",CGTN | Documentary (CN)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KYqv0BtV/CGTNDOCUMENTARY.jpg" group-title="Cultura | Educativo 🪐",CGTN | Documentary (CN)
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8?ads_amagi_channel=853&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=7&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5002&ads_rtv_content_language=eng&ads_rtvid=271859&ads_streaming_id=7b92839f-a758-4dff-85e2-f7d166b495c7&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKjSJkh1/cgnt.jpg" group-title="Ciencia | Cultura 🪐",CGTN | Español (CN)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKjSJkh1/cgnt.jpg" group-title="Cultura | Educativo 🪐",CGTN | Español (CN)
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKjSJkh1/cgnt.jpg" group-title="Ciencia | Cultura 🪐",CGTN | Ingles (CN)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKjSJkh1/cgnt.jpg" group-title="Cultura | Educativo 🪐",CGTN | Ingles (CN)
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8?ads_amagi_channel=852&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=7&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5004&ads_rtv_content_language=eng&ads_rtvid=271859&ads_streaming_id=e7780fbc-b58d-49f2-a2ca-bab9979950c7&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/WbjfjRjn/chefc.jpg" group-title="Ciencia | Cultura 🪐",Chef Champion (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/50zxgHfD/champ.jpg" group-title="Cultura | Educativo 🪐",Champion TV (FR)
+https://stream.berosat.live:19360/champion-tv/champion-tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WbjfjRjn/chefc.jpg" group-title="Cultura | Educativo 🪐",Chef Champion (US)
 https://rpn.bozztv.com/gusa/gusa-chefchampion/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrkv1PXK/chefr.jpg" group-title="Ciencia | Cultura 🪐",Chef Roc Show (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrkv1PXK/chefr.jpg" group-title="Cultura | Educativo 🪐",Chef Roc Show (US)
 https://rpn.bozztv.com/gusa/gusa-chefrock/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CMfx4z56/chilech.jpg" group-title="Ciencia | Cultura 🪐",Chile Channel TV (CL)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CMfx4z56/chilech.jpg" group-title="Cultura | Educativo 🪐",Chile Channel TV (CL)
 https://v2.tustreaming.cl/chilechannel/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZ6CyMK5/clarity4k.jpg" group-title="Ciencia | Cultura 🪐",Clarity | 4K (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZ6CyMK5/clarity4k.jpg" group-title="Cultura | Educativo 🪐",Clarity | 4K (US)
 https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLdgJ6Jy/coci.jpg" group-title="Ciencia | Cultura 🪐",Cocinando TV (LATAM)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLdgJ6Jy/coci.jpg" group-title="Cultura | Educativo 🪐",Cocinando TV (LATAM)
 https://stmv3.tropicalmoonmedia.com/cocinandotv/cocinandotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kjy0Yr26/comun.jpg" group-title="Ciencia | Cultura 🪐",Comunitaria TV (CL)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kjy0Yr26/comun.jpg" group-title="Cultura | Educativo 🪐",Comunitaria TV (CL)
 https://panel.tvstream.cl:1936/8050/8050/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SxsgTgd9/cook.jpg" group-title="Ciencia | Cultura 🪐",Cooking Channel (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SxsgTgd9/cook.jpg" group-title="Cultura | Educativo 🪐",Cooking Channel (US)
 http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4yKm1rBQ/coo.jpg" group-title="Ciencia | Cultura 🪐",Cooking Panda | Plex (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4yKm1rBQ/coo.jpg" group-title="Cultura | Educativo 🪐",Cooking Panda | Plex (US)
 https://jmp2.uk/plex-643054b1fc3be59477853717-5f07e9fdf313eb0041bbecda.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZkkyHXg/cor.jpg" group-title="Ciencia | Cultura 🪐",Coreografía | 1 | Niños (RU)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZkkyHXg/cor.jpg" group-title="Cultura | Educativo 🪐",Coreografía | 1 | Niños (RU)
 https://fl1001.bozztv.com/ushba7/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZkkyHXg/cor.jpg" group-title="Ciencia | Cultura 🪐",Coreografía | 2 | Niños (RU)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZkkyHXg/cor.jpg" group-title="Cultura | Educativo 🪐",Coreografía | 2 | Niños (RU)
 https://fl1001.bozztv.com/ushba13/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZkkyHXg/cor.jpg" group-title="Ciencia | Cultura 🪐",Coreografía | 3 | Niños (RU)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZkkyHXg/cor.jpg" group-title="Cultura | Educativo 🪐",Coreografía | 3 | Niños (RU)
 https://fl1001.bozztv.com/ushba15/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZkkyHXg/cor.jpg" group-title="Ciencia | Cultura 🪐",Coreografía | 4 | Niños (RU)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZkkyHXg/cor.jpg" group-title="Cultura | Educativo 🪐",Coreografía | 4 | Niños (RU)
 https://fl1001.bozztv.com/ushba17/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tRsLqkwB/cor2.jpg" group-title="Ciencia | Cultura 🪐",Coreografía | 5 | Adolescente (RU)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tRsLqkwB/cor2.jpg" group-title="Cultura | Educativo 🪐",Coreografía | 5 | Adolescente (RU)
 https://fl1001.bozztv.com/ushba59/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPyrLyxv/cor3.jpg" group-title="Ciencia | Cultura 🪐",Coreografía | 6 | Ballet (RU)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPyrLyxv/cor3.jpg" group-title="Cultura | Educativo 🪐",Coreografía | 6 | Ballet (RU)
 https://fl1001.bozztv.com/ushba14/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPyrLyxv/cor3.jpg" group-title="Ciencia | Cultura 🪐",Coreografía | 7 | Chicas Animenks (RU)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPyrLyxv/cor3.jpg" group-title="Cultura | Educativo 🪐",Coreografía | 7 | Chicas Animenks (RU)
 https://fl1001.bozztv.com/ushba55/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPyrLyxv/cor3.jpg" group-title="Ciencia | Cultura 🪐",Coreografía | 8 | Artistica (RU)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPyrLyxv/cor3.jpg" group-title="Cultura | Educativo 🪐",Coreografía | 8 | Artistica (RU)
 https://fl1001.bozztv.com/ushba73/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RC3xbBk/cos.jpg" group-title="Ciencia | Cultura 🪐",Cosmos | Tubi (US)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RC3xbBk/cos.jpg" group-title="Cultura | Educativo 🪐",Cosmos | Tubi (US)
 https://live-manifest.production-public.tubi.io/live/30e8a85a-ac29-4835-b913-cee0bb207a6b/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YcwWmHV/courtb.jpg" group-title="Ciencia | Cultura 🪐",Court TV | Tubi (US)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YcwWmHV/courtb.jpg" group-title="Cultura | Educativo 🪐",Court TV | Tubi (US)
 https://live-manifest.production-public.tubi.io/live/2e06aee5-62c7-47c3-8a38-a2ac5e32fc63/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/WbLNK3YY/cow.jpg" group-title="Ciencia | Cultura 🪐",Cowboy Way (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WbLNK3YY/cow.jpg" group-title="Cultura | Educativo 🪐",Cowboy Way (US)
 https://jmp2.uk/sam-USBC3200020QF.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8MyzVpC/craf.jpg" group-title="Ciencia | Cultura 🪐",Crafty Panda | Stirr (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8MyzVpC/craf.jpg" group-title="Cultura | Educativo 🪐",Crafty Panda | Stirr (US)
 https://jmp2.uk/str-6412.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Twp6Ns4k/cra.jpg" group-title="Ciencia | Cultura 🪐",Craftsy TV | Plex (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Twp6Ns4k/cra.jpg" group-title="Cultura | Educativo 🪐",Craftsy TV | Plex (US)
 https://jmp2.uk/plex-643054b1fc3be59477853717-6365779dde08f8eec6c3f21f.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSrSgmzb/crimer.jpg" group-title="Ciencia | Cultura 🪐",Crime + Investigation (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSrSgmzb/crimer.jpg" group-title="Cultura | Educativo 🪐",Crime + Investigation (US)
 http://fl3.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kgzVr7fy/crimej.jpg" group-title="Ciencia | Cultura 🪐",Crime & Justice (UK)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kgzVr7fy/crimej.jpg" group-title="Cultura | Educativo 🪐",Crime & Justice (UK)
 https://jmp2.uk/sam-GBBD260000189.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgSTL12y/crime.jpg" group-title="Ciencia | Cultura 🪐",Crime Network (UK)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgSTL12y/crime.jpg" group-title="Cultura | Educativo 🪐",Crime Network (UK)
 https://jmp2.uk/sam-GBBD4100010H1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ryGDG2kV/ctv-na.jpg" group-title="Ciencia | Cultura 🪐",CTV | Nature (CA)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ryGDG2kV/ctv-na.jpg" group-title="Cultura | Educativo 🪐",CTV | Nature (CA)
 http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/15CjzT97/ctv-w.jpg" group-title="Ciencia | Cultura 🪐",CTV | Wild (CA)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/15CjzT97/ctv-w.jpg" group-title="Cultura | Educativo 🪐",CTV | Wild (CA)
 http://fl5.moveonjoy.com/Animal_Planet/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Hk0QLd40/cultura24hpe.jpg" group-title="Ciencia | Cultura 🪐",Cultura 24 TV (PE)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Hk0QLd40/cultura24hpe.jpg" group-title="Cultura | Educativo 🪐",Cultura 24 TV (PE)
 https://www.opencaster.com/resources/hls_stream/cultura24.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0yZ2jFs7/culturaonline.jpg" group-title="Ciencia | Cultura 🪐",Cultura Online (CL)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0yZ2jFs7/culturaonline.jpg" group-title="Cultura | Educativo 🪐",Cultura Online (CL)
 https://paneltv.online:1936/8064/8064/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9FZm181h/cumo.jpg" group-title="Ciencia | Cultura 🪐",Cumo TV (PE)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9FZm181h/cumo.jpg" group-title="Cultura | Educativo 🪐",Cumo TV (PE)
 https://live.obslivestream.com/cumo/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FKK4R3jv/curio.jpg" group-title="Ciencia | Cultura 🪐",Curiosity (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FKK4R3jv/curio.jpg" group-title="Cultura | Educativo 🪐",Curiosity (US)
 http://fl3.moveonjoy.com/Curiosity_Stream/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZFpT0h1/danger.jpg" group-title="Ciencia | Cultura 🪐",Danger TV (US)
+#EXTINF:-1 tvg-id="US2200001IY" tvg-logo="https://i.postimg.cc/TY0wLZ6L/curi-a.jpg" group-title="Cultura | Educativo 🪐",Curiosity | Animales (US)
+https://jmp2.uk/sam-US2200001IY.m3u8
+#EXTINF:-1 tvg-id="US22000020U" tvg-logo="https://i.postimg.cc/5tYNryFL/curi-e.jpg" group-title="Cultura | Educativo 🪐",Curiosity | Español (US)
+https://jmp2.uk/sam-US22000020U.m3u8
+#EXTINF:-1 tvg-id="US2200003ZN" tvg-logo="https://i.postimg.cc/vmJHwyWj/curi-m.jpg" group-title="Cultura | Educativo 🪐",Curiosity | Motores (US)
+https://jmp2.uk/sam-US2200003ZN.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZFpT0h1/danger.jpg" group-title="Cultura | Educativo 🪐",Danger TV (US)
 https://jmp2.uk/sam-USAJ3504708A.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KmXwD2J/date.jpg" group-title="Ciencia | Cultura 🪐",Dateline 24/7 | Tubi (US)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KmXwD2J/date.jpg" group-title="Cultura | Educativo 🪐",Dateline 24/7 | Tubi (US)
 https://live-manifest.production-public.tubi.io/live/37e25cb0-d392-4ddb-bb7c-d1629a30d25e/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKBRVkg3/des.jpg" group-title="Ciencia | Cultura 🪐",Destination America (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKBRVkg3/des.jpg" group-title="Cultura | Educativo 🪐",Destination America (US)
 http://fl3.moveonjoy.com/Destination_America/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DmVvmx6B/dw.jpg" group-title="Ciencia | Cultura 🪐",Deutsche Welle | Aleman (DE)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DmVvmx6B/dw.jpg" group-title="Cultura | Educativo 🪐",Deutsche Welle | Aleman (DE)
 https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/stream03/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DmVvmx6B/dw.jpg" group-title="Ciencia | Cultura 🪐",Deutsche Welle+ | Aleman (DE)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DmVvmx6B/dw.jpg" group-title="Cultura | Educativo 🪐",Deutsche Welle+ | Aleman (DE)
 https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/stream03/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DmVvmx6B/dw.jpg" group-title="Ciencia | Cultura 🪐",Deutsche Welle | Español (DE)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DmVvmx6B/dw.jpg" group-title="Cultura | Educativo 🪐",Deutsche Welle | Español (DE)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DmVvmx6B/dw.jpg" group-title="Ciencia | Cultura 🪐",Deutsche Welle+ | Ingles (DE)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DmVvmx6B/dw.jpg" group-title="Cultura | Educativo 🪐",Deutsche Welle+ | Ingles (DE)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTJXPB63/dipu.jpg" group-title="Ciencia | Cultura 🪐",Diputados TV (AR)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTJXPB63/dipu.jpg" group-title="Cultura | Educativo 🪐",Diputados TV (AR)
 https://ythls.armelin.one/channel/UC1h8_HKc5wScqeRw1HV6a6w.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qRpKCV42/discovery-channel.jpg" group-title="Ciencia | Cultura 🪐",Discovery Channel (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qRpKCV42/discovery-channel.jpg" group-title="Cultura | Educativo 🪐",Discovery Channel (US)
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0C0VR40/discovery-id.jpg" group-title="Ciencia | Cultura 🪐",Discovery | ID (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0C0VR40/discovery-id.jpg" group-title="Cultura | Educativo 🪐",Discovery | ID (US)
 http://fl5.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kXPn7VG1/discovery-life.jpg" group-title="Ciencia | Cultura 🪐",Discovery | Life (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kXPn7VG1/discovery-life.jpg" group-title="Cultura | Educativo 🪐",Discovery | Life (US)
 http://fl5.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnD9Pn6b/divinity.jpg" group-title="Ciencia | Cultura 🪐",Divinity (ES)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnD9Pn6b/divinity.jpg" group-title="Cultura | Educativo 🪐",Divinity (ES)
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ydb3HHwc/doc.jpg" group-title="Ciencia | Cultura 🪐",Documentary + (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ydb3HHwc/doc.jpg" group-title="Cultura | Educativo 🪐",Documentary + (US)
 https://jmp2.uk/sam-USAJ3504701A.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pT5JvD5Y/docu.jpg" group-title="Ciencia | Cultura 🪐",Docu Vision | Stirr (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pT5JvD5Y/docu.jpg" group-title="Cultura | Educativo 🪐",Docu Vision | Stirr (US)
 https://jmp2.uk/str-5739.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/sf6K9975/dvc.jpg" group-title="Ciencia | Cultura 🪐",DVC Television (CL)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sf6K9975/dvc.jpg" group-title="Cultura | Educativo 🪐",DVC Television (CL)
 https://us.streaminghd.cl/dvctelevision/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/52KRpCS0/ebv.jpg" group-title="Ciencia | Cultura 🪐",EBV | El Buen Vivir (LATAM)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/52KRpCS0/ebv.jpg" group-title="Cultura | Educativo 🪐",EBV | El Buen Vivir (LATAM)
 https://stmv4.voxtvhd.com.br/elbuenvivir/elbuenvivir/chunklist_w82361753.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqgC9hrS/educ.jpg" group-title="Ciencia | Cultura 🪐",Educanal (PY)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VkWQY3Rr/edu.jpg" group-title="Cultura | Educativo 🪐",EDU+ | Educativo y Cultural (RD)
+https://vdopanel.jlahozconsulting.com:3720/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/43mhWxpH/educa.jpg" group-title="Cultura | Educativo 🪐",Educa (EC)
+https://vid2.ecuamedia.net/educatv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqgC9hrS/educ.jpg" group-title="Cultura | Educativo 🪐",Educanal (PY)
 https://cloudtv.streaming.com.py/educanalpy/educanalpy/chunklist_w659251107.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HWyyhfhs/elcentro.jpg" group-title="Ciencia | Cultura 🪐",El Centro TV (CL)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HWyyhfhs/elcentro.jpg" group-title="Cultura | Educativo 🪐",El Centro TV (CL)
 https://v1.tustreaming.cl/diarioelcentrotv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tTr4J7Nx/elhistorionaut2.jpg" group-title="Ciencia | Cultura 🪐",El Historionauta (LATAM)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tTr4J7Nx/elhistorionaut2.jpg" group-title="Cultura | Educativo 🪐",El Historionauta (LATAM)
 https://stmv6.voxtvhd.com.br/elhistonautatv/elhistonautatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrMdQk2R/ene-f.jpg" group-title="Ciencia | Cultura 🪐",Energy TV | Fashion (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrMdQk2R/ene-f.jpg" group-title="Cultura | Educativo 🪐",Energy TV | Fashion (US)
 https://59ec5453559f0.streamlock.net/energytvfashion/smil:WEB/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJcSbwFt/ene-g.jpg" group-title="Ciencia | Cultura 🪐",Energy TV | Gold (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJcSbwFt/ene-g.jpg" group-title="Cultura | Educativo 🪐",Energy TV | Gold (US)
 https://59ec5453559f0.streamlock.net/energytvgold/smil:WEB/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tRmvGKRL/ene-h.jpg" group-title="Ciencia | Cultura 🪐",Energy TV | Health (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tRmvGKRL/ene-h.jpg" group-title="Cultura | Educativo 🪐",Energy TV | Health (US)
 https://59ec5453559f0.streamlock.net/energytvhealth/smil:WEB/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GhWMHvyK/ene-li.jpg" group-title="Ciencia | Cultura 🪐",Energy TV | Life (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GhWMHvyK/ene-li.jpg" group-title="Cultura | Educativo 🪐",Energy TV | Life (US)
 https://59ec5453559f0.streamlock.net/energytvlife/smil:WEB/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8zLZWsdS/ene-m.jpg" group-title="Ciencia | Cultura 🪐",Energy TV | Mistery (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8zLZWsdS/ene-m.jpg" group-title="Cultura | Educativo 🪐",Energy TV | Mistery (US)
 https://59ec5453559f0.streamlock.net/energytvmystery/smil:WEB/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3RB1r7bJ/entella.jpg" group-title="Ciencia | Cultura 🪐",Entella TV (IT)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3RB1r7bJ/entella.jpg" group-title="Cultura | Educativo 🪐",Entella TV (IT)
 https://5f22d76e220e1.streamlock.net/EntellaTV/EntellaTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hPQmSQ01/EXC.jpg" group-title="Ciencia | Cultura 🪐",EXC TV | Management (VE)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nVkvMTxQ/eureka1.jpg" group-title="Cultura | Educativo 🪐",Eureka (CO)
+https://cdns.livewave.co:19360/eurekatv/eurekatv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hPQmSQ01/EXC.jpg" group-title="Cultura | Educativo 🪐",EXC TV | Management (VE)
 https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Nfwz61DY/fashionu.jpg" group-title="Ciencia | Cultura 🪐",Fashion TV | 4K | UHD (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Nfwz61DY/fashionu.jpg" group-title="Cultura | Educativo 🪐",Fashion TV | 4K | UHD (US)
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GhJpcxt5/fashionx.jpg" group-title="Ciencia | Cultura 🪐",Fashion TV (UK)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GhJpcxt5/fashionx.jpg" group-title="Cultura | Educativo 🪐",Fashion TV (UK)
 https://jmp2.uk/sam-GBAJ4900002DE.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1R69Rr4Z/fashionm.jpg" group-title="Ciencia | Cultura 🪐",Fashion TV | Midnight Secrets (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1R69Rr4Z/fashionm.jpg" group-title="Cultura | Educativo 🪐",Fashion TV | Midnight Secrets (US)
 https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yh7D0k0/fbifiles.jpg" group-title="Ciencia | Cultura 🪐",FBI Files | FilmRise (US)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yh7D0k0/fbifiles.jpg" group-title="Cultura | Educativo 🪐",FBI Files | FilmRise (US)
 https://live-manifest.production-public.tubi.io/live/0b06922b-ea68-4b0a-8df1-2f9a2d63edb1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5ttcDDMn/fear.jpg" group-title="Ciencia | Cultura 🪐",Fear Zone (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5ttcDDMn/fear.jpg" group-title="Cultura | Educativo 🪐",Fear Zone (US)
 https://jmp2.uk/sam-USBC1300012VK.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MHxhDRNy/fev2.jpg" group-title="Ciencia | Cultura 🪐",Feva TV | Stirr (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MHxhDRNy/fev2.jpg" group-title="Cultura | Educativo 🪐",Feva TV | Stirr (US)
 https://jmp2.uk/str-5297.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQPgNQrW/film-arts.jpg" group-title="Ciencia | Cultura 🪐",Film & Arts (AR)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQPgNQrW/film-arts.jpg" group-title="Cultura | Educativo 🪐",Film & Arts (AR)
 http://216.122.181.10:8081/play/a0i6/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQPgNQrW/film-arts.jpg" group-title="Ciencia | Cultura 🪐",Film & Arts | Opción 2 (AR)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQPgNQrW/film-arts.jpg" group-title="Cultura | Educativo 🪐",Film & Arts | Opción 2 (AR)
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jS9GKHFH/fli.jpg" group-title="Ciencia | Cultura 🪐",Flipping Nation | by A&E (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jS9GKHFH/fli.jpg" group-title="Cultura | Educativo 🪐",Flipping Nation | by A&E (US)
 https://jmp2.uk/sam-USBD4200008RS.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/R76Fcbp/four.jpg" group-title="Ciencia | Cultura 🪐",Four in a Bed | Tubi (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yNDGxwQZ/focus.jpg" group-title="Cultura | Educativo 🪐",Focus | Mediaset (IT)
+http://84.22.55.2:8000/play/s14
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R76Fcbp/four.jpg" group-title="Cultura | Educativo 🪐",Four in a Bed | Tubi (US)
 https://live-manifest.production-public.tubi.io/live/5a673b42-6c09-4dc3-88f1-1d51bcb452bb/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/q79ZgsGh/foxb.jpg" group-title="Ciencia | Cultura 🪐",Fox | Business Network (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/q79ZgsGh/foxb.jpg" group-title="Cultura | Educativo 🪐",Fox | Business Network (US)
 http://fl5.moveonjoy.com/FOX_Business_Network/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Rh8201mv/foxsoul.jpg" group-title="Ciencia | Cultura 🪐",Fox | Soul (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Rh8201mv/foxsoul.jpg" group-title="Cultura | Educativo 🪐",Fox | Soul (US)
 https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zB6q2WXB/free-sa.jpg" group-title="Ciencia | Cultura 🪐",Free TV | Saber Mas (LATAM)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zB6q2WXB/free-sa.jpg" group-title="Cultura | Educativo 🪐",Free TV | Saber Mas (LATAM)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8zsX1TSv/futu.jpg" group-title="Ciencia | Cultura 🪐",Futura (BR)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8zsX1TSv/futu.jpg" group-title="Cultura | Educativo 🪐",Futura (BR)
 https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13Pk3bz3/galicia1.jpg" group-title="Ciencia | Cultura 🪐",Galicia | Cultura (ES)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13Pk3bz3/galicia1.jpg" group-title="Cultura | Educativo 🪐",Galicia | Cultura (ES)
 http://cultural-crtvg.flumotion.com/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VQLNFZm/garde.jpg" group-title="Ciencia | Cultura 🪐",Gardening with Monty Don | Tubi (US)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VQLNFZm/garde.jpg" group-title="Cultura | Educativo 🪐",Gardening with Monty Don | Tubi (US)
 https://live-manifest.production-public.tubi.io/live/f24ba252-3efa-4322-b1df-7315070e6293/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cHwQWkTN/genb.jpg" group-title="Ciencia | Cultura 🪐",GenB | Stirr (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cHwQWkTN/genb.jpg" group-title="Cultura | Educativo 🪐",GenB | Stirr (US)
 https://jmp2.uk/str-6430.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xjw3YP1c/grado.jpg" group-title="Ciencia | Cultura 🪐",Gravitas | Documentaries | Plex (EU)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xjw3YP1c/grado.jpg" group-title="Cultura | Educativo 🪐",Gravitas | Documentaries | Plex (EU)
 https://jmp2.uk/plex-643054b1fc3be59477853717-6291409aa0ed9c2b6ae63bae.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QGPn9Ty/grea.jpg" group-title="Ciencia | Cultura 🪐",Great British Menu (UK)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QGPn9Ty/grea.jpg" group-title="Cultura | Educativo 🪐",Great British Menu (UK)
 https://jmp2.uk/sam-GBBC900014LW.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/prjdYf6R/gusto.jpg" group-title="Ciencia | Cultura 🪐",Gusto TV (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/prjdYf6R/gusto.jpg" group-title="Cultura | Educativo 🪐",Gusto TV (US)
 https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=7&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=4114&ads.rtv_content_language=eng&ads.rtvid=271859&ads.streaming_id=24e268e0-27d5-4f3a-be97-69a043008659&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=858
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gyBkhwQ/gvtv.jpg" group-title="Ciencia | Cultura 🪐",GV TV | Tubi (US)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gyBkhwQ/gvtv.jpg" group-title="Cultura | Educativo 🪐",GV TV | Tubi (US)
 https://live-manifest.production-public.tubi.io/live/6447f090-c8b6-45d2-a086-5abdaddb6490/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/k5CS28xz/haunt.jpg" group-title="Ciencia | Cultura 🪐",Haunt TV (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k5CS28xz/haunt.jpg" group-title="Cultura | Educativo 🪐",Haunt TV (US)
 https://jmp2.uk/sam-USBC4400006BR.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mrpF14nB/hel.jpg" group-title="Ciencia | Cultura 🪐",Hello Inspo | Plex (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mrpF14nB/hel.jpg" group-title="Cultura | Educativo 🪐",Hello Inspo | Plex (US)
 https://jmp2.uk/plex-643054b1fc3be59477853717-664296050e0ec7b4ce5eb290.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTpQrqGJ/Hgtv.jpg" group-title="Ciencia | Cultura 🪐",HGTV | Home & Garden (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTpQrqGJ/Hgtv.jpg" group-title="Cultura | Educativo 🪐",HGTV | Home & Garden (US)
 http://fl5.moveonjoy.com/HGTV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqmZLpZT/hipertv.jpg" group-title="Ciencia | Cultura 🪐",Hiper TV (CL)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqmZLpZT/hipertv.jpg" group-title="Cultura | Educativo 🪐",Hiper TV (CL)
 https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/26p4ZXSK/hispania.jpg" group-title="Ciencia | Cultura 🪐",Hispania TV (PA)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/26p4ZXSK/hispania.jpg" group-title="Cultura | Educativo 🪐",Hispania TV (PA)
 https://vcp8.myplaytv.com:1936/hispaniatv/hispaniatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SN7srrSn/historia2.jpg" group-title="Ciencia | Cultura 🪐",Historia (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SN7srrSn/historia2.jpg" group-title="Cultura | Educativo 🪐",Historia (US)
 https://jmp2.uk/sam-US2600019IC.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMdtjQbZ/history365.jpg" group-title="Ciencia | Cultura 🪐",History 365 (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMdtjQbZ/history365.jpg" group-title="Cultura | Educativo 🪐",History 365 (US)
 https://jmp2.uk/sam-USBD35000428O.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGJx1hvb/his.jpg" group-title="Ciencia | Cultura 🪐",History Hit (UK)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGJx1hvb/his.jpg" group-title="Cultura | Educativo 🪐",History Hit (UK)
 https://jmp2.uk/sam-GBBA2200005ZA.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/V6J4QxGw/his.jpg" group-title="Ciencia | Cultura 🪐",History & Warfare (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/V6J4QxGw/his.jpg" group-title="Cultura | Educativo 🪐",History & Warfare (US)
 https://jmp2.uk/sam-USBD1200009JI.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6qfXp8v9/homef.jpg" group-title="Ciencia | Cultura 🪐",Homeful (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6qfXp8v9/homef.jpg" group-title="Cultura | Educativo 🪐",Homeful (US)
 https://jmp2.uk/sam-USBD700022M5.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdW0DqJQ/homen.jpg" group-title="Ciencia | Cultura 🪐",Home Made Nation (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdW0DqJQ/homen.jpg" group-title="Cultura | Educativo 🪐",Home Made Nation (US)
 https://jmp2.uk/sam-USAJ3000006X5.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vT0Yb0kY/ho.jpg" group-title="Ciencia | Cultura 🪐",Home Refresh (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vT0Yb0kY/ho.jpg" group-title="Cultura | Educativo 🪐",Home Refresh (US)
 https://jmp2.uk/sam-USBC21000142T.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CMBQY7hH/homes.jpg" group-title="Ciencia | Cultura 🪐",Homes Under the Hammer (UK)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CMBQY7hH/homes.jpg" group-title="Cultura | Educativo 🪐",Homes Under the Hammer (UK)
 https://jmp2.uk/sam-GBBC900013K9.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/WzXRgQbr/hun.jpg" group-title="Ciencia | Cultura 🪐",Hungry (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WzXRgQbr/hun.jpg" group-title="Cultura | Educativo 🪐",Hungry (US)
 https://jmp2.uk/sam-USAJ2200009C2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCRpWhGW/indo.jpg" group-title="Ciencia | Cultura 🪐",Indonesiana TV (ID)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCRpWhGW/indo.jpg" group-title="Cultura | Educativo 🪐",Indonesiana TV (ID)
 https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3wzzBHgj/inf.jpg" group-title="Ciencia | Cultura 🪐",Infamous TV | Plex (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3wzzBHgj/inf.jpg" group-title="Cultura | Educativo 🪐",Infamous TV | Plex (US)
 https://jmp2.uk/plex-643054b1fc3be59477853717-61fb10e8fe90430654c57530.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PxSvtJ7v/infas.jpg" group-title="Ciencia | Cultura 🪐",InFast (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PxSvtJ7v/infas.jpg" group-title="Cultura | Educativo 🪐",InFast (US)
 https://jmp2.uk/sam-USBA300022JX.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gk0rnx7D/insidec.jpg" group-title="Ciencia | Cultura 🪐",Inside Crime (UK)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gk0rnx7D/insidec.jpg" group-title="Cultura | Educativo 🪐",Inside Crime (UK)
 https://jmp2.uk/sam-GBBD500002R4.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3RkzCjQr/inwi.jpg" group-title="Ciencia | Cultura 🪐",InWild (UK)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3RkzCjQr/inwi.jpg" group-title="Cultura | Educativo 🪐",InWild (UK)
 https://jmp2.uk/sam-GBBA220000751.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTPzMmRh/inw.jpg" group-title="Ciencia | Cultura 🪐",InWonder (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTPzMmRh/inw.jpg" group-title="Cultura | Educativo 🪐",InWonder (US)
 https://jmp2.uk/sam-USBA300023G8.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JRVzfxS/jou.jpg" group-title="Ciencia | Cultura 🪐",Journy (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JRVzfxS/jou.jpg" group-title="Cultura | Educativo 🪐",Journy (US)
 https://jmp2.uk/sam-USBB1000003HL.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/JzbVKh41/just.jpg" group-title="Ciencia | Cultura 🪐",Just Classical (EU)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JzbVKh41/just.jpg" group-title="Cultura | Educativo 🪐",Just Classical (EU)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3351
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdDjm7Dx/justiciatv.jpg" group-title="Ciencia | Cultura 🪐",Justicia TV (MX)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdDjm7Dx/justiciatv.jpg" group-title="Cultura | Educativo 🪐",Justicia TV (MX)
 https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tTGd4TTW/lou.jpg" group-title="Ciencia | Cultura 🪐",Loupe (DE)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tTGd4TTW/lou.jpg" group-title="Cultura | Educativo 🪐",Loupe (DE)
 http://d2dw21aq0j0l5c.cloudfront.net/playlist_1920x1080.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tTGd4TTW/lou.jpg" group-title="Ciencia | Cultura 🪐",Loupe | 4K (DE)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tTGd4TTW/lou.jpg" group-title="Cultura | Educativo 🪐",Loupe | 4K (DE)
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yN9fDGPF/love.jpg" group-title="Ciencia | Cultura 🪐",Love Stories TV | Plex (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yN9fDGPF/love.jpg" group-title="Cultura | Educativo 🪐",Love Stories TV | Plex (US)
 https://jmp2.uk/plex-643054b1fc3be59477853717-64e4351f200cd2f67473e0d2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6Q3v60Mn/lovethep.jpg" group-title="Ciencia | Cultura 🪐",Love The Planet (ES)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6Q3v60Mn/lovethep.jpg" group-title="Cultura | Educativo 🪐",Love The Planet (ES)
 https://jmp2.uk/sam-ESBC4700002TD.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3rcc7f0t/lovep.jpg" group-title="Ciencia | Cultura 🪐",Love The Planet (UK)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3rcc7f0t/lovep.jpg" group-title="Cultura | Educativo 🪐",Love The Planet (UK)
 https://jmp2.uk/sam-GBBD500001F5.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KGJBv5r/lovenature.jpg" group-title="Ciencia | Cultura 🪐",Love Nature (US)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KGJBv5r/lovenature.jpg" group-title="Cultura | Educativo 🪐",Love Nature (US)
 https://live-manifest.production-public.tubi.io/live/8aae460c-df77-4540-bcd3-748a261e283e/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MHT3HfRc/Lovenature4k.jpg" group-title="Ciencia | Cultura 🪐",Love Nature | 4K (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MHT3HfRc/Lovenature4k.jpg" group-title="Cultura | Educativo 🪐",Love Nature | 4K (US)
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/26wFd8JM/lovenature.jpg" group-title="Ciencia | Cultura 🪐",Love Nature | Español (LATAM)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/26wFd8JM/lovenature.jpg" group-title="Cultura | Educativo 🪐",Love Nature | Español (LATAM)
 http://live1.cl.cdn.lla.vtrplay.com/lovenaturehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0ZN5YVp/lovepet.jpg" group-title="Ciencia | Cultura 🪐",Love Pets (UK)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0ZN5YVp/lovepet.jpg" group-title="Cultura | Educativo 🪐",Love Pets (UK)
 https://jmp2.uk/sam-GBBD1100003I0.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fLwSz7hJ/luxl.jpg" group-title="Ciencia | Cultura 🪐",LUX Life Discovered (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fLwSz7hJ/luxl.jpg" group-title="Cultura | Educativo 🪐",LUX Life Discovered | 30A TV (US)
 https://30a-tv.com/feeds/mwaretv/luxelife.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTYNjrr8/mad.jpg" group-title="Ciencia | Cultura 🪐",Mad Dog and Merrill | Midwest Grill'n (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTYNjrr8/mad.jpg" group-title="Cultura | Educativo 🪐",Mad Dog and Merrill | Midwest Grill'n (US)
 https://rpn.bozztv.com/gusa/gusa-mwg/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLd38XvM/made.jpg" group-title="Ciencia | Cultura 🪐",Made It Myself TV | Plex (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLd38XvM/made.jpg" group-title="Cultura | Educativo 🪐",Made It Myself TV | Plex (US)
 https://jmp2.uk/plex-643054b1fc3be59477853717-65b80306e5cf85050598aba4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cLV4s0C4/mage.jpg" group-title="Ciencia | Cultura 🪐",Magellan TV | Now (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cLV4s0C4/mage.jpg" group-title="Cultura | Educativo 🪐",Magellan TV | Now (US)
 https://jmp2.uk/sam-USAJ340000677.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cLV4s0C4/mage.jpg" group-title="Ciencia | Cultura 🪐",Magellan TV | Now | Plex (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cLV4s0C4/mage.jpg" group-title="Cultura | Educativo 🪐",Magellan TV | Now | Plex (US)
 https://jmp2.uk/plex-643054b1fc3be59477853717-636abc6d4cbc0319a0bd49c0.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QN1stpBL/magno.jpg" group-title="Ciencia | Cultura 🪐",Magnolia Network (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QN1stpBL/magno.jpg" group-title="Cultura | Educativo 🪐",Magnolia Network (US)
 http://fl5.moveonjoy.com/DIY/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0HS791k/mani.jpg" group-title="Ciencia | Cultura 🪐",Manifest TV (EU)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0HS791k/mani.jpg" group-title="Cultura | Educativo 🪐",Manifest TV (EU)
 https://kdmg-manifesttv-1-eu.vidaa.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fT8W1TJ3/masuk.jpg" group-title="Ciencia | Cultura 🪐",Masterchef UK | Powered by Banijay (UK)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fT8W1TJ3/masuk.jpg" group-title="Cultura | Educativo 🪐",Masterchef UK | Powered by Banijay (UK)
 https://jmp2.uk/sam-GBBD25000019N.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2KP80MM/mil.jpg" group-title="Ciencia | Cultura 🪐",Military Heroes | by History (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2KP80MM/mil.jpg" group-title="Cultura | Educativo 🪐",Military Heroes | by History (US)
 https://jmp2.uk/sam-USBC39000204J.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/sxrQvHT5/mi.jpg" group-title="Ciencia | Cultura 🪐",Million Dollar Listing (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sxrQvHT5/mi.jpg" group-title="Cultura | Educativo 🪐",Million Dollar Listing (US)
 https://jmp2.uk/sam-USBB3200024V5.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NrFDZBM/perueduca.jpg" group-title="Ciencia | Cultura 🪐",MINEDU TV (PE)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NrFDZBM/perueduca.jpg" group-title="Cultura | Educativo 🪐",MINEDU TV (PE)
 http://iptv.perueduca.pe:1935/canal2/canal22/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy4BkwcC/mist.jpg" group-title="Ciencia | Cultura 🪐",Mistery TV (UK)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy4BkwcC/mist.jpg" group-title="Cultura | Educativo 🪐",Mistery TV (UK)
 https://jmp2.uk/sam-GBBD50000320.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZN57c0m/mocon.jpg" group-title="Ciencia | Cultura 🪐",Moconomy | Economía y Finanzas | Plex (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZN57c0m/mocon.jpg" group-title="Cultura | Educativo 🪐",Moconomy | Economía y Finanzas | Plex (US)
 https://jmp2.uk/plex-643054b1fc3be59477853717-63489e1390b96ef5e0eb3280.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLQtR48m/mod.jpg" group-title="Ciencia | Cultura 🪐",Modern Marvels Presented | by History (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLQtR48m/mod.jpg" group-title="Cultura | Educativo 🪐",Modern Marvels Presented | by History (US)
 https://jmp2.uk/sam-USBB5200025DO.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HkpyWCfF/museum.jpg" group-title="Ciencia | Cultura 🪐",Museum TV (FR)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HkpyWCfF/museum.jpg" group-title="Cultura | Educativo 🪐",Museum TV (FR)
 https://live2.creacast.com/museum/museum.smil/.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/LXB8zhpG/mym.jpg" group-title="Ciencia | Cultura 🪐",My Money | Stirr (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/LXB8zhpG/mym.jpg" group-title="Cultura | Educativo 🪐",My Money | Stirr (US)
 https://jmp2.uk/str-6441.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxVXZ7f2/my.jpg" group-title="Ciencia | Cultura 🪐",Mythical 24/7 (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxVXZ7f2/my.jpg" group-title="Cultura | Educativo 🪐",Mythical 24/7 (US)
 https://jmp2.uk/plex-643054b1fc3be59477853717-650b5bb3f4b2d9579946a500.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/s24d9FbK/mistery.jpg" group-title="Ciencia | Cultura 🪐",Mysteries Xplored (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/s24d9FbK/mistery.jpg" group-title="Cultura | Educativo 🪐",Mysteries Xplored (US)
 https://jmp2.uk/sam-USBB5200028MM.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dVwm94Jd/natu.jpg" group-title="Ciencia | Cultura 🪐",Naturaleza (ES)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dVwm94Jd/natu.jpg" group-title="Cultura | Educativo 🪐",Naturaleza (ES)
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IndigeniusNaturalezaSpanish&ads.csid=zeus_es_indigeniusnaturalezaspanish_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3688&ads.rakuten_streaming_id=9b4e5c83-d1bf-4ccb-8a79-ced8ae590500&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883049&ads.xumo_contentId=2161&ads.xumo_contentName=IndigeniusNaturalezaSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2161&ads.xumo_providerName=IndigeniusNaturalezaSpanish&ads.xumo_streamId=88883049
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KYB9qfrt/nasa4-2.jpg" group-title="Ciencia | Cultura 🪐",NASA | 4K | Tasa Bits baja (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KYB9qfrt/nasa4-2.jpg" group-title="Cultura | Educativo 🪐",NASA | 4K | Tasa Bits baja (US)
 http://endpnt.com:8000/nasa-uhd-30p.ts
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJnm5TxQ/nasa4k.jpg" group-title="Ciencia | Cultura 🪐",NASA | 4K | Test (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJnm5TxQ/nasa4k.jpg" group-title="Cultura | Educativo 🪐",NASA | 4K | Test (US)
 https://endpnt.com/hls/nasa4k/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsrCp9b7/natgeon.jpg" group-title="Ciencia | Cultura 🪐",Natgeo (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsrCp9b7/natgeon.jpg" group-title="Cultura | Educativo 🪐",Natgeo (US)
 http://fl5.moveonjoy.com/National_Geographic/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJFCNNLW/natgeowild.jpg" group-title="Ciencia | Cultura 🪐",Natgeo | Wild (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJFCNNLW/natgeowild.jpg" group-title="Cultura | Educativo 🪐",Natgeo | Wild (US)
 http://fl5.moveonjoy.com/Nat_Geo_Wild/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsrCp9b7/natgeon.jpg" group-title="Ciencia | Cultura 🪐",National Geographic (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsrCp9b7/natgeon.jpg" group-title="Cultura | Educativo 🪐",National Geographic (US)
 http://185.189.225.150:85/NationalGeographic/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gctNCbZS/nativa4.jpg" group-title="Ciencia | Cultura 🪐",Nativa (CL)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gctNCbZS/nativa4.jpg" group-title="Cultura | Educativo 🪐",Nativa (CL)
 https://stmv5.voxtvhd.com.br/nativatv/nativatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Pf1SzL1g/natur.jpg" group-title="Ciencia | Cultura 🪐",Nature Time (ES)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Pf1SzL1g/natur.jpg" group-title="Cultura | Educativo 🪐",Nature Time (ES)
 https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-bamus-naturetimeemeaspa/CDN/master.m3u8?ads_amagi_channel=809&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=4330&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=9815f6d5-d7b9-43b9-b0bc-adf73900732f&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tCJt67F5/nbclx.jpg" group-title="Ciencia | Cultura 🪐",NBC | LX Home (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdXhsJS4/nau.jpg" group-title="Cultura | Educativo 🪐",Nauti Styles TV | 30A TV (US)
+https://30a-tv.com/feeds/mwaretv/nautistyles.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tCJt67F5/nbclx.jpg" group-title="Cultura | Educativo 🪐",NBC | LX Home (US)
 https://jmp2.uk/sam-USBB40000028E.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DwxwKpxS/NCM.jpg" group-title="Ciencia | Cultura 🪐",NCM | Educational Channel (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DwxwKpxS/NCM.jpg" group-title="Cultura | Educativo 🪐",NCM | Educational Channel (US)
 https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/nevco/G0644_005/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdMYZySs/nhkbs.jpg" group-title="Ciencia | Cultura 🪐",NHK | BS (JP)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdMYZySs/nhkbs.jpg" group-title="Cultura | Educativo 🪐",NHK | BS (JP)
 http://vthanh.utako.moe/NHK_BS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Rhjvk4SN/nhk4.jpg" group-title="Ciencia | Cultura 🪐",NHK | BSP4 (JP)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Rhjvk4SN/nhk4.jpg" group-title="Cultura | Educativo 🪐",NHK | BSP4 (JP)
 http://luong.utako.moe/bsp4k_testsignal/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5KtsGJH/nhke.jpg" group-title="Ciencia | Cultura 🪐",NHK | E (JP)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5KtsGJH/nhke.jpg" group-title="Cultura | Educativo 🪐",NHK | E (JP)
 http://vthanh.utako.moe/NHK_E/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SspFpYdc/nhkg.jpg" group-title="Ciencia | Cultura 🪐",NHK | G (JP)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SspFpYdc/nhkg.jpg" group-title="Cultura | Educativo 🪐",NHK | G (JP)
 http://vthanh.utako.moe/NHK_G/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zpwkK15/odisea.jpg" group-title="Ciencia | Cultura 🪐",Odisea (ES)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zpwkK15/odisea.jpg" group-title="Cultura | Educativo 🪐",Odisea (ES)
 http://185.189.225.150:85/odisea/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZFvX5pB/oms.jpg" group-title="Ciencia | Cultura 🪐",Omstars | Stirr (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZFvX5pB/oms.jpg" group-title="Cultura | Educativo 🪐",Omstars | Stirr (US)
 https://jmp2.uk/str-3353.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLH2q2sM/outdoor-america.jpg" group-title="Ciencia | Cultura 🪐",Outdoor America (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLH2q2sM/outdoor-america.jpg" group-title="Cultura | Educativo 🪐",Outdoor America (US)
 https://jmp2.uk/sam-USBD1200020Y4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5FL6Znq/ova.jpg" group-title="Ciencia | Cultura 🪐",Ovation (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5FL6Znq/ova.jpg" group-title="Cultura | Educativo 🪐",Ovation (US)
 http://fl3.moveonjoy.com/Ovation/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mrmG33vd/own.jpg" group-title="Ciencia | Cultura 🪐",OWN (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mrmG33vd/own.jpg" group-title="Cultura | Educativo 🪐",OWN (US)
 http://fl5.moveonjoy.com/OWN/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KzhZyyQ0/oxi.jpg" group-title="Ciencia | Cultura 🪐",Oxigeno Network (LATAM)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KzhZyyQ0/oxi.jpg" group-title="Cultura | Educativo 🪐",Oxigeno Network (LATAM)
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/chunklist_w561164806.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KcLw1Tf2/pbs-d.jpg" group-title="Ciencia | Cultura 🪐",PBS | Digital Studios (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KcLw1Tf2/pbs-d.jpg" group-title="Cultura | Educativo 🪐",PBS | Digital Studios (US)
 https://jmp2.uk/sam-USBB800001O7.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8c6YVtYw/p-s.jpg" group-title="Ciencia | Cultura 🪐",Persiana | Science (IR)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8c6YVtYw/p-s.jpg" group-title="Cultura | Educativo 🪐",Persiana | Science (IR)
 https://scihls.persiana.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PqZmc9Rs/platzy.jpg" group-title="Ciencia | Cultura 🪐",Platzi (LATAM)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PqZmc9Rs/platzy.jpg" group-title="Cultura | Educativo 🪐",Platzi (LATAM)
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZDjv6qf/plous.jpg" group-title="Ciencia | Cultura 🪐",Plous TV | Fashion (LATAM)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZDjv6qf/plous.jpg" group-title="Cultura | Educativo 🪐",Plous TV | Fashion (LATAM)
 https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
 
-#EXTINF:-1 channel-id="pluto-5dd8364ea1d6780009929902" tvg-id="5dd8364ea1d6780009929902" tvg-logo="https://i.postimg.cc/kgbWFDwD/plusci.jpg" group-title="Ciencia | Cultura 🪐" ,Pluto TV | Ciencia (LATAM)
+#EXTINF:-1 channel-id="pluto-5dd8364ea1d6780009929902" tvg-id="5dd8364ea1d6780009929902" tvg-logo="https://i.postimg.cc/kgbWFDwD/plusci.jpg" group-title="Cultura | Educativo 🪐" ,Pluto TV | Ciencia (LATAM)
 https://jmp2.uk/plu-5dd8364ea1d6780009929902.m3u8
 
-#EXTINF:-1 channel-id="pluto-563a970aa1a1f7fe7c9daad7" tvg-id="563a970aa1a1f7fe7c9daad7" tvg-logo="https://i.postimg.cc/k4f6T6bq/plusc.jpg" group-title="Ciencia | Cultura 🪐" ,Pluto TV | Science (US)
+#EXTINF:-1 channel-id="pluto-563a970aa1a1f7fe7c9daad7" tvg-id="563a970aa1a1f7fe7c9daad7" tvg-logo="https://i.postimg.cc/k4f6T6bq/plusc.jpg" group-title="Cultura | Educativo 🪐" ,Pluto TV | Science (US)
 https://jmp2.uk/plu-563a970aa1a1f7fe7c9daad7.m3u8
 
-#EXTINF:-1 channel-id="pluto-5d9492c77ea6f99188738ff1" tvg-id="5d9492c77ea6f99188738ff1" tvg-logo="https://i.postimg.cc/k4f6T6bq/plusc.jpg" group-title="Ciencia | Cultura 🪐" ,Pluto TV | Science (UK)
+#EXTINF:-1 channel-id="pluto-5d9492c77ea6f99188738ff1" tvg-id="5d9492c77ea6f99188738ff1" tvg-logo="https://i.postimg.cc/k4f6T6bq/plusc.jpg" group-title="Cultura | Educativo 🪐" ,Pluto TV | Science (UK)
 https://jmp2.uk/plu-5d9492c77ea6f99188738ff1.m3u8
 
-#EXTINF:-1 channel-id="pluto-5dbc2f98777f2e0009934ae7" tvg-id="5dbc2f98777f2e0009934ae7" tvg-logo="https://i.postimg.cc/KzqKyyQd/plusp.jpg" group-title="Ciencia | Cultura 🪐" ,Pluto TV | Space (UK)
+#EXTINF:-1 channel-id="pluto-5dbc2f98777f2e0009934ae7" tvg-id="5dbc2f98777f2e0009934ae7" tvg-logo="https://i.postimg.cc/KzqKyyQd/plusp.jpg" group-title="Cultura | Educativo 🪐" ,Pluto TV | Space (UK)
 https://jmp2.uk/plu-5dbc2f98777f2e0009934ae7.m3u8
 
-#EXTINF:-1 channel-id="pluto-5f1ef1a8cec6be00072a7ac9" tvg-id="5f1ef1a8cec6be00072a7ac9" tvg-logo="https://i.postimg.cc/3Jn3SZSc/plud.jpg" group-title="Ciencia | Cultura 🪐" ,Pluto TV | Documentários (BR)
+#EXTINF:-1 channel-id="pluto-5f1ef1a8cec6be00072a7ac9" tvg-id="5f1ef1a8cec6be00072a7ac9" tvg-logo="https://i.postimg.cc/3Jn3SZSc/plud.jpg" group-title="Cultura | Educativo 🪐" ,Pluto TV | Documentários (BR)
 https://jmp2.uk/plu-5f1ef1a8cec6be00072a7ac9.m3u8
 
-#EXTINF:-1 channel-id="pluto-5de5758e1a30dc00094fcd6c" tvg-id="5de5758e1a30dc00094fcd6c" tvg-logo="https://i.postimg.cc/Tw87qZrv/pluh.jpg" group-title="Ciencia | Cultura 🪐" ,Pluto TV | Historia (LATAM)
+#EXTINF:-1 channel-id="pluto-5de5758e1a30dc00094fcd6c" tvg-id="5de5758e1a30dc00094fcd6c" tvg-logo="https://i.postimg.cc/Tw87qZrv/pluh.jpg" group-title="Cultura | Educativo 🪐" ,Pluto TV | Historia (LATAM)
 https://jmp2.uk/plu-5de5758e1a30dc00094fcd6c.m3u8
 
-#EXTINF:-1 channel-id="pluto-5a4d35dfa5c02e717a234f86" tvg-id="5a4d35dfa5c02e717a234f86" tvg-logo="https://i.postimg.cc/BZPZvDv8/plu.jpg" group-title="Ciencia | Cultura 🪐" ,Pluto TV | History (US)
+#EXTINF:-1 channel-id="pluto-5a4d35dfa5c02e717a234f86" tvg-id="5a4d35dfa5c02e717a234f86" tvg-logo="https://i.postimg.cc/BZPZvDv8/plu.jpg" group-title="Cultura | Educativo 🪐" ,Pluto TV | History (US)
 https://jmp2.uk/plu-5a4d35dfa5c02e717a234f86.m3u8
-#EXTINF:-1 channel-id="pluto-5d4af1803e7983b391d73b13" tvg-id="5d4af1803e7983b391d73b13" tvg-logo="https://i.postimg.cc/BZPZvDv8/plu.jpg" group-title="Ciencia | Cultura 🪐" ,Pluto TV | History (UK)
+#EXTINF:-1 channel-id="pluto-5d4af1803e7983b391d73b13" tvg-id="5d4af1803e7983b391d73b13" tvg-logo="https://i.postimg.cc/BZPZvDv8/plu.jpg" group-title="Cultura | Educativo 🪐" ,Pluto TV | History (UK)
 https://jmp2.uk/plu-5d4af1803e7983b391d73b13.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqBHBdgm/POPstartv.jpg" group-title="Ciencia | Cultura 🪐",Popstar! TV (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqBHBdgm/POPstartv.jpg" group-title="Cultura | Educativo 🪐",Popstar! TV (US)
 https://jmp2.uk/plex-643054b1fc3be59477853717-5ef11487d33ab9004048a1d6.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MK9hqzN8/presu.jpg" group-title="Ciencia | Cultura 🪐",Presumiendo México (MX)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MK9hqzN8/presu.jpg" group-title="Cultura | Educativo 🪐",Presumiendo México (MX)
 http://streamingcws10.com:1935/telemetrika/videotelemetrika/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YVmRsCh/raices.jpg" group-title="Ciencia | Cultura 🪐",Raices Arabes TV (CL)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YVmRsCh/raices.jpg" group-title="Cultura | Educativo 🪐",Raices Arabes TV (CL)
 https://tv.streaming-chile.com:1936/raicesarabestv/raicesarabestv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4ycJxk8g/ra-d.jpg" group-title="Ciencia | Cultura 🪐",Rakuten TV | Documentaries (FR)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4ycJxk8g/ra-d.jpg" group-title="Cultura | Educativo 🪐",Rakuten TV | Documentaries (FR)
 https://jmp2.uk/sam-FR26000089E.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13Pd8hWK/ra-re.jpg" group-title="Ciencia | Cultura 🪐",Rakuten TV | Reality (UK)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13Pd8hWK/ra-re.jpg" group-title="Cultura | Educativo 🪐",Rakuten TV | Reality (UK)
 https://jmp2.uk/sam-GB2600021LP.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JNXS3Nq/reel.jpg" group-title="Ciencia | Cultura 🪐",REELZ | Famous & Infamous (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JNXS3Nq/reel.jpg" group-title="Cultura | Educativo 🪐",REELZ | Famous & Infamous (US)
 https://jmp2.uk/sam-USBB3200001MG.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Z8kw47c/revolt.jpg" group-title="Ciencia | Cultura 🪐",Revolt | Mixtape | Tubi (US)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z8kw47c/revolt.jpg" group-title="Cultura | Educativo 🪐",Revolt | Mixtape | Tubi (US)
 https://live-manifest.production-public.tubi.io/live/09b06d62-96fa-4e6b-8b98-9b2175ccf167/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FzFC5MvP/roi.jpg" group-title="Ciencia | Cultura 🪐",ROI TV (EU)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FzFC5MvP/roi.jpg" group-title="Cultura | Educativo 🪐",ROI TV (EU)
 https://rise-financial-roi-tv-1-eu.vidaa.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fz9RJ4M5/rov.jpg" group-title="Ciencia | Cultura 🪐",Rovr Pets (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fz9RJ4M5/rov.jpg" group-title="Cultura | Educativo 🪐",Rovr Pets (US)
 https://jmp2.uk/sam-USBC2400024FN.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cL4k9Kfs/royal.jpg" group-title="Ciencia | Cultura 🪐",Royalworld | Nobleza y Dinastias (ES)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cL4k9Kfs/royal.jpg" group-title="Cultura | Educativo 🪐",Royalworld | Nobleza y Dinastias (ES)
 https://jmp2.uk/sam-ESBD1400003QN.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhJnvrH3/rt-docu.jpg" group-title="Ciencia | Cultura 🪐",RT | Documentary (RU)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhJnvrH3/rt-docu.jpg" group-title="Cultura | Educativo 🪐",RT | Documentary (RU)
 https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kXCySqcj/sab.jpg" group-title="Ciencia | Cultura 🪐",Saborear TV (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kXCySqcj/sab.jpg" group-title="Cultura | Educativo 🪐",Saborear TV (US)
 https://jmp2.uk/plex-643054b1fc3be59477853717-64f0d9a7c2bc9b9001d46ea6.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/LXFkwJ1t/sa.jpg" group-title="Ciencia | Cultura 🪐",Samsung | Wild Life (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/LXFkwJ1t/sa.jpg" group-title="Cultura | Educativo 🪐",Samsung | Wild Life (US)
 https://jmp2.uk/sam-USBA3000043LH.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kg0HLkCL/sang.jpg" group-title="Ciencia | Cultura 🪐",Sangre Fría | Plex (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kg0HLkCL/sang.jpg" group-title="Cultura | Educativo 🪐",Sangre Fría | Plex (US)
 https://jmp2.uk/plex-643054b1fc3be59477853717-66842aa2cd6f1d3940941159.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FKL8vzhB/science.jpg" group-title="Ciencia | Cultura 🪐",Scientology Network (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FKL8vzhB/science.jpg" group-title="Cultura | Educativo 🪐",Scientology Network (US)
 https://stream6.scientology.org/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZK3bNTyh/sello.jpg" group-title="Ciencia | Cultura 🪐",Sello de Raza TV (CL)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZK3bNTyh/sello.jpg" group-title="Cultura | Educativo 🪐",Sello de Raza TV (CL)
 https://stmv5.voxtvhd.com.br/selloderazatv/selloderazatv/chunklist_w1698149253.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/02cv3VhD/senales.jpg" group-title="Ciencia | Cultura 🪐",Señal España | XHUNES-TDT | Durango (MX)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/02cv3VhD/senales.jpg" group-title="Cultura | Educativo 🪐",Señal España | XHUNES-TDT | Durango (MX)
 https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/LX5b7SMz/smith.jpg" group-title="Ciencia | Cultura 🪐",Smithsonian Channel (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TwDhHdV5/side.jpg" group-title="Cultura | Educativo 🪐",SideWalks | 30A TV (US)
+https://30a-tv.com/sidewalks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/LX5b7SMz/smith.jpg" group-title="Cultura | Educativo 🪐",Smithsonian Channel (US)
 http://fl5.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VvbfVJ1x/tropicalc.jpg" group-title="Ciencia | Cultura 🪐",Somos Cultura | Tropical Moon TV (PA)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VvbfVJ1x/tropicalc.jpg" group-title="Cultura | Educativo 🪐",Somos Cultura | Tropical Moon TV (PA)
 https://sistemastr.tropicalmoonmedia.com/live/748C7FAABE933B124F1EE76413C7797C/5.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fyThCrR2/som.jpg" group-title="Ciencia | Cultura 🪐",Somos TV (CL)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fyThCrR2/som.jpg" group-title="Cultura | Educativo 🪐",Somos TV (CL)
 https://v1.tustreaming.cl/somostv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/R07m5fWn/stirr-so.jpg" group-title="Ciencia | Cultura 🪐",So… Real (UK)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R07m5fWn/stirr-so.jpg" group-title="Cultura | Educativo 🪐",So… Real (UK)
 https://jmp2.uk/sam-GBBD1100009M9.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdZQMX69/star.jpg" group-title="Ciencia | Cultura 🪐",Startalk TV (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdZQMX69/star.jpg" group-title="Cultura | Educativo 🪐",Startalk TV (US)
 https://jmp2.uk/plex-643054b1fc3be59477853717-664292a80e0ec7b4ce5eb28c.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TwHJ3HD0/stv.jpg" group-title="Ciencia | Cultura 🪐",Stgo TV (CL)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TwHJ3HD0/stv.jpg" group-title="Cultura | Educativo 🪐",Stgo TV (CL)
 https://stv4.janus.cl/playlist/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwqT9jsc/sur.jpg" group-title="Ciencia | Cultura 🪐",Surf Now TV (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwqT9jsc/sur.jpg" group-title="Cultura | Educativo 🪐",Surf Now TV (US)
 https://jmp2.uk/sam-USBB10000058A.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbNRDfKw/suya2.jpg" group-title="Ciencia | Cultura 🪐",Suyai TV (CL)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbNRDfKw/suya2.jpg" group-title="Cultura | Educativo 🪐",Suyai TV (CL)
 https://5ff3d9babae13.streamlock.net/ewdnnusyjt/ewdnnusyjt/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bvgckxsH/suyai2.jpg" group-title="Ciencia | Cultura 🪐",Suyai TV | 2 (CL)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bvgckxsH/suyai2.jpg" group-title="Cultura | Educativo 🪐",Suyai TV | 2 (CL)
 https://signal.suyaitv.cl/live/28/playlist.m3u8?username=demo&password=001
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXRctGXb/tastes.jpg" group-title="Ciencia | Cultura 🪐",Tastemade | Español (ES)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRYr0XNp/tal3.jpg" group-title="Cultura | Educativo 🪐",Taltal TV | Educa (CL)
+https://live20.bozztv.com/akamaissh101/ssh101/daem/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1tYRN2KH/tal.jpg" group-title="Cultura | Educativo 🪐",Taltal TV | Documentales (CL)
+https://live20.bozztv.com/giatvplayout7/giatv-208260/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXRctGXb/tastes.jpg" group-title="Cultura | Educativo 🪐",Tastemade | Español (ES)
 https://tastemade-es8tm-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-tm-es8intl-rakuten-es/CDN/master.m3u8?ads_amagi_channel=746&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=7&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=3483&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=a6be4dc1-1b8c-4dfd-a2de-ac9170132b17&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JNr9B57/taste.jpg" group-title="Ciencia | Cultura 🪐",Tastemade  | Food & More (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JNr9B57/taste.jpg" group-title="Cultura | Educativo 🪐",Tastemade  | Food & More (US)
 https://jmp2.uk/sam-USBD7000189R.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4371CxC/tash.jpg" group-title="Ciencia | Cultura 🪐",Tastemade | Home (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4371CxC/tash.jpg" group-title="Cultura | Educativo 🪐",Tastemade | Home (US)
 https://jmp2.uk/sam-USBC3200022W6.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jq94dMhk/tastra.jpg" group-title="Ciencia | Cultura 🪐",Tastemade | Travel (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jq94dMhk/tastra.jpg" group-title="Cultura | Educativo 🪐",Tastemade | Travel (US)
 https://jmp2.uk/sam-USBD700017WC.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRYb4GQJ/tech.jpg" group-title="Ciencia | Cultura 🪐",TechScience 365 (LATAM)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRYb4GQJ/tech.jpg" group-title="Cultura | Educativo 🪐",TechScience 365 (LATAM)
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/76Rs5HGb/ted.jpg" group-title="Ciencia | Cultura 🪐",TED (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/76Rs5HGb/ted.jpg" group-title="Cultura | Educativo 🪐",TED (US)
 https://jmp2.uk/sam-USBC2100013WI.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvks2w1Y/tvambiente.jpg" group-title="Ciencia | Cultura 🪐",Tele Ambiente (IT)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvks2w1Y/tvambiente.jpg" group-title="Cultura | Educativo 🪐",Tele Ambiente (IT)
 https://5f22d76e220e1.streamlock.net/teleambiente/teleambiente/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3L7ntvg/teletur.jpg" group-title="Ciencia | Cultura 🪐",TeleTur (RD)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3L7ntvg/teletur.jpg" group-title="Cultura | Educativo 🪐",TeleTur (RD)
 https://cloudflare.streamgato.us:3227/live/teleturtvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNHL2c3T/conciente.jpg" group-title="Ciencia | Cultura 🪐",Televisión Consciente (LATAM)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNHL2c3T/conciente.jpg" group-title="Cultura | Educativo 🪐",Televisión Consciente (LATAM)
 https://jmp2.uk/sam-ESBC1700002IM.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DfrHXyns/tevex.jpg" group-title="Ciencia | Cultura 🪐",Tevex (CL)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DfrHXyns/tevex.jpg" group-title="Cultura | Educativo 🪐",Tevex (CL)
 https://v4.tustreaming.cl/tevexinter/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3J6dSLg0/theb.jpg" group-title="Ciencia | Cultura 🪐",The Boat Show (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3J6dSLg0/theb.jpg" group-title="Cultura | Educativo 🪐",The Boat Show (US)
 https://jmp2.uk/plex-643054b1fc3be59477853717-5efe1de6e0b3f5003f5d9f82.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qR2YscBT/desi.jpg" group-title="Ciencia | Cultura 🪐",The Design Network (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qR2YscBT/desi.jpg" group-title="Cultura | Educativo 🪐",The Design Network (US)
 https://jmp2.uk/sam-USBD1200022S1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C1CBt6fj/theex.jpg" group-title="Ciencia | Cultura 🪐",The UnXplained | With William Shatner (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C1CBt6fj/theex.jpg" group-title="Cultura | Educativo 🪐",The UnXplained | With William Shatner (US)
 https://jmp2.uk/sam-US700011JL.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNdXdjjB/thew.jpg" group-title="Ciencia | Cultura 🪐",The Jack Hanna Channel (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNdXdjjB/thew.jpg" group-title="Cultura | Educativo 🪐",The Jack Hanna Channel (US)
 https://jmp2.uk/sam-USBC2100009GT.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pX6k0zYp/theja.jpg" group-title="Ciencia | Cultura 🪐",The Jamie Oliver Channel (UK)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pX6k0zYp/theja.jpg" group-title="Cultura | Educativo 🪐",The Jamie Oliver Channel (UK)
 https://jmp2.uk/sam-GBBC4000002H3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/43pxrVKJ/thew.jpg" group-title="Ciencia | Cultura 🪐",The Wicked Tuna Channel (UK)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/43pxrVKJ/thew.jpg" group-title="Cultura | Educativo 🪐",The Wicked Tuna Channel (UK)
 https://jmp2.uk/sam-GBBC900004G9.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8P74G2QY/oldh.jpg" group-title="Ciencia | Cultura 🪐",This Old House (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8P74G2QY/oldh.jpg" group-title="Cultura | Educativo 🪐",This Old House (US)
 https://jmp2.uk/sam-USBC13000065U.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KzbpvJrM/old.jpg" group-title="Ciencia | Cultura 🪐",This Old House | Makers (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KzbpvJrM/old.jpg" group-title="Cultura | Educativo 🪐",This Old House | Makers (US)
 https://jmp2.uk/sam-USBC1300005T6.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mD8wBLkV/timeline.jpg" group-title="Ciencia | Cultura 🪐",Time Line (UK)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mD8wBLkV/timeline.jpg" group-title="Cultura | Educativo 🪐",Time Line (UK)
 https://timeline-samsung-uk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1z074G9V/today.jpg" group-title="Ciencia | Cultura 🪐",Todays Homeowner (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1z074G9V/today.jpg" group-title="Cultura | Educativo 🪐",Todays Homeowner (US)
 https://janson-todayshomeowner-1-eu.vidaa.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J7bDk0S1/topc.jpg" group-title="Ciencia | Cultura 🪐",Top Crime | Mediaset (IT)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J7bDk0S1/topc.jpg" group-title="Cultura | Educativo 🪐",Top Crime | Mediaset (IT)
 http://84.22.55.2:8000/play/s7
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wMWrzZL/total.jpg" group-title="Ciencia | Cultura 🪐",Total Crime | Tubi (US)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wMWrzZL/total.jpg" group-title="Cultura | Educativo 🪐",Total Crime | Tubi (US)
 https://live-manifest.production-public.tubi.io/live/b6dcdce4-fe00-4d30-ae78-73a82bf47e97/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/D0jNYPVr/4ktra.jpg" group-title="Ciencia | Cultura 🪐",Travel 4K | Stirr (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/D0jNYPVr/4ktra.jpg" group-title="Cultura | Educativo 🪐",Travel 4K | Stirr (US)
 https://jmp2.uk/str-5734.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/283161ct/travbul.jpg" group-title="Ciencia | Cultura 🪐",Travel TV | Bulgaria (BG)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/283161ct/travbul.jpg" group-title="Cultura | Educativo 🪐",Travel TV | Bulgaria (BG)
 https://streamer103.neterra.tv/travel/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0vpV6f0/travelxp.jpg" group-title="Ciencia | Cultura 🪐",Travelxp | Inglés (IN)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0vpV6f0/travelxp.jpg" group-title="Cultura | Educativo 🪐",Travelxp | Inglés (IN)
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0vpV6f0/travelxp.jpg" group-title="Ciencia | Cultura 🪐",Travelxp | Español (IN)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0vpV6f0/travelxp.jpg" group-title="Cultura | Educativo 🪐",Travelxp | Español (IN)
 https://jmp2.uk/sam-ESBD1400001L4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DyRp8XZk/truc.jpg" group-title="Ciencia | Cultura 🪐",True Crime (UK)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DyRp8XZk/truc.jpg" group-title="Cultura | Educativo 🪐",True Crime (UK)
 https://jmp2.uk/sam-GBBD1100007AC.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bnd7Km6F/Turismotraveltv.jpg" group-title="Ciencia | Cultura 🪐",Turismo Travel TV (CL)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bnd7Km6F/Turismotraveltv.jpg" group-title="Cultura | Educativo 🪐",Turismo Travel TV (CL)
 https://stmv6.voxtvhd.com.br/turismotravel/turismotravel/chunklist_w1465026605.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SsYFyzQ8/turitik.jpg" group-title="Ciencia | Cultura 🪐",Turistik (MX)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SsYFyzQ8/turitik.jpg" group-title="Cultura | Educativo 🪐",Turistik (MX)
 https://5fa5de1a545ae.streamlock.net/8030/8030/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8Wp0pY4/tuuniverso.jpg" group-title="Ciencia | Cultura 🪐",Tu Universo TV Channel (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8Wp0pY4/tuuniverso.jpg" group-title="Cultura | Educativo 🪐",Tu Universo TV Channel (US)
 https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bv0wkNsv/tvandes.jpg" group-title="Ciencia | Cultura 🪐",TV Andes (VE)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bv0wkNsv/tvandes.jpg" group-title="Cultura | Educativo 🪐",TV Andes (VE)
 https://vcp3.myplaytv.com/tvandes/tvandes/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qqQwJN7w/tvart.jpg" group-title="Ciencia | Cultura 🪐",TV Art (BG)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qqQwJN7w/tvart.jpg" group-title="Cultura | Educativo 🪐",TV Art (BG)
 https://stream.osc.bg/tvart/Stream3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Rk5kBjL/tvarteq.jpg" group-title="Ciencia | Cultura 🪐",TV Artequatre (ES)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Rk5kBjL/tvarteq.jpg" group-title="Cultura | Educativo 🪐",TV Artequatre (ES)
 https://streaming007.gestec-video.com/hls/artequatreTVA.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/j2nQyMqW/tvbr.jpg" group-title="Ciencia | Cultura 🪐",TV Brasil (BR)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j2nQyMqW/tvbr.jpg" group-title="Cultura | Educativo 🪐",TV Brasil (BR)
 http://200.189.113.201/hls/tve.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PrRfYxX2/tv-brics.jpg" group-title="Ciencia | Cultura 🪐",TV BRICS | Ruso (RU)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PrRfYxX2/tv-brics.jpg" group-title="Cultura | Educativo 🪐",TV BRICS | Ruso (RU)
 https://brics.bonus-tv.ru/cdn/brics/russian/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PrRfYxX2/tv-brics.jpg" group-title="Ciencia | Cultura 🪐",TV BRICS | Opción 2 (RU)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PrRfYxX2/tv-brics.jpg" group-title="Cultura | Educativo 🪐",TV BRICS | Opción 2 (RU)
 https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vBgXJztV/TVbuap.jpg" group-title="Ciencia | Cultura 🪐",TV Buap (MX)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vBgXJztV/TVbuap.jpg" group-title="Cultura | Educativo 🪐",TV Buap (MX)
 https://tvenvivo.buap.mx/livestream/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cH0VTGgY/elqui.jpg" group-title="Ciencia | Cultura 🪐",TV Elqui (CL)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cH0VTGgY/elqui.jpg" group-title="Cultura | Educativo 🪐",TV Elqui (CL)
 https://v4.tustreaming.cl/tvelqui/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKftqrcV/mayg.jpg" group-title="Ciencia | Cultura 🪐",TV Maya | Canal 5 (GT)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L4J2LtLy/tvhi.jpg" group-title="Cultura | Educativo 🪐",TV História (BR)
+https://srv1.zcast.com.br/tvhistoria/tvhistoria/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKftqrcV/mayg.jpg" group-title="Cultura | Educativo 🪐",TV Maya | Canal 5 (GT)
 https://5ca9af4645e15.streamlock.net/mayas/videomayas/chunklist_w1207035480.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSTkrpNX/tvparatu.jpg" group-title="Ciencia | Cultura 🪐",TV Paraná | Turismo (BR)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSTkrpNX/tvparatu.jpg" group-title="Cultura | Educativo 🪐",TV Paraná | Turismo (BR)
 http://200.189.113.201/hls/tve.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bNRSJd4G/tvriw.jpg" group-title="Ciencia | Cultura 🪐",TVRI | World (ID)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bNRSJd4G/tvriw.jpg" group-title="Cultura | Educativo 🪐",TVRI | World (ID)
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KzHQ28SH/tvs-con.jpg" group-title="Ciencia | Cultura 🪐",TVS | Consumer (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KzHQ28SH/tvs-con.jpg" group-title="Cultura | Educativo 🪐",TVS | Consumer (US)
 https://rpn.bozztv.com/gusa/gusa-ConsumerDirect/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dzt8k9pc/tvs-tal.jpg" group-title="Ciencia | Cultura 🪐",TVS | Talk (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dzt8k9pc/tvs-tal.jpg" group-title="Cultura | Educativo 🪐",TVS | Talk (US)
 https://rpn.bozztv.com/gusa/gusa-TVStalk/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8gJC4Ns/tvs-travel.jpg" group-title="Ciencia | Cultura 🪐",TVS | Travel (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8gJC4Ns/tvs-travel.jpg" group-title="Cultura | Educativo 🪐",TVS | Travel (US)
 https://rpn.bozztv.com/gusa/gusa-tvstravel/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFxjn9hL/tvse.jpg" group-title="Ciencia | Cultura 🪐",TV Senado (CL)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFxjn9hL/tvse.jpg" group-title="Cultura | Educativo 🪐",TV Senado (CL)
 https://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-lq&id=1c53a7cf-ceda-48bb-864c-c2b35fb5fa74
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FHchbJhw/TVU.jpg" group-title="Ciencia | Cultura 🪐",TVU (CL)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FHchbJhw/TVU.jpg" group-title="Cultura | Educativo 🪐",TVU (CL)
 https://unlimited1-us.dps.live/tvu/tvu.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCp0JH3D/tvunam.jpg" group-title="Ciencia | Cultura 🪐",TV UNAM (CL)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCp0JH3D/tvunam.jpg" group-title="Cultura | Educativo 🪐",TV UNAM (CL)
 https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/chunklist_w1017769669_DVR.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mD2TvZsB/uchile.jpg" group-title="Ciencia | Cultura 🪐",U Chile TV (CL)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mD2TvZsB/uchile.jpg" group-title="Cultura | Educativo 🪐",U Chile TV (CL)
 https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/uchiletv/livestream1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pTyK4Y6F/uct.jpg" group-title="Ciencia | Cultura 🪐",UCT (CL)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pTyK4Y6F/uct.jpg" group-title="Cultura | Educativo 🪐",UCT (CL)
 https://unlimited2-cl-isp.dps.live/uct/uct.smil/uct/livestream2/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqwmPWpv/ucv1.jpg" group-title="Ciencia | Cultura 🪐",UCV (CL)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqwmPWpv/ucv1.jpg" group-title="Cultura | Educativo 🪐",UCV (CL)
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream2/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqwmPWpv/ucv1.jpg" group-title="Ciencia | Cultura 🪐",UCV | 2 (CL)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqwmPWpv/ucv1.jpg" group-title="Cultura | Educativo 🪐",UCV | 2 (CL)
 https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5N2pz50C/u.jpg" group-title="Ciencia | Cultura 🪐",UesTV (CL)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5N2pz50C/u.jpg" group-title="Cultura | Educativo 🪐",UesTV (CL)
 https://tls-cl.cdnz.cl/uestv/live/chunklist_w485521634.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/g2cYqkNB/tvufg.jpg" group-title="Ciencia | Cultura 🪐",TV UFG (BR)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g2cYqkNB/tvufg.jpg" group-title="Cultura | Educativo 🪐",TV UFG (BR)
 http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/G3Fs6B23/ula.jpg" group-title="Ciencia | Cultura 🪐",U Lagos TV (CL)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G3Fs6B23/ula.jpg" group-title="Cultura | Educativo 🪐",U Lagos TV (CL)
 https://tv.ulagos.cl/web/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/JzJr5kY1/umag.jpg" group-title="Ciencia | Cultura 🪐",UMAG TV (CL)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JzJr5kY1/umag.jpg" group-title="Cultura | Educativo 🪐",UMAG TV (CL)
 https://tls-cl.cdnz.cl/umag1/ngrp:live_all/chunklist_w443067695_b6275072.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/JzJr5kY1/umag.jpg" group-title="Ciencia | Cultura 🪐",UMAG TV 2 (CL)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JzJr5kY1/umag.jpg" group-title="Cultura | Educativo 🪐",UMAG TV 2 (CL)
 https://tls-cl.cdnz.cl/umag2/live/chunklist_w1001373182.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8Ps93FmB/unamtransmedia.jpg" group-title="Ciencia | Cultura 🪐",UNaM Transmedia (AR)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8Ps93FmB/unamtransmedia.jpg" group-title="Cultura | Educativo 🪐",UNaM Transmedia (AR)
 http://192.100.186.53:8090/hls/live.stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/prys3g4M/unitelpe.jpg" group-title="Ciencia | Cultura 🪐",Unitel TV (PE)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/prys3g4M/unitelpe.jpg" group-title="Cultura | Educativo 🪐",Unitel TV (PE)
 https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/q70SB62m/unlp.jpg" group-title="Ciencia | Cultura 🪐",UNLP.TV |  Universidad Nacional de La Plata (AR)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/q70SB62m/unlp.jpg" group-title="Cultura | Educativo 🪐",UNLP.TV |  Universidad Nacional de La Plata (AR)
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FRb06CPK/unide.jpg" group-title="Ciencia | Cultura 🪐",Unidentified (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FRb06CPK/unide.jpg" group-title="Cultura | Educativo 🪐",Unidentified (US)
 https://jmp2.uk/sam-USBB10000047W.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4N1kfQ0H/uatv.jpg" group-title="Ciencia | Cultura 🪐",Universidad Autonoma TV (CL)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4N1kfQ0H/uatv.jpg" group-title="Cultura | Educativo 🪐",Universidad Autonoma TV (CL)
 https://unlimited1-cl-isp.dps.live/uatv/uatv.smil/uatv/livestream1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hY9Qjrq/unex.jpg" group-title="Ciencia | Cultura 🪐",Unexplained (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hY9Qjrq/unex.jpg" group-title="Cultura | Educativo 🪐",Unexplained (US)
 https://jmp2.uk/plex-643054b1fc3be59477853717-62913be9a0ed9c2b6ae63bac.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qqPWwGbZ/urbna.jpg" group-title="Ciencia | Cultura 🪐",Urbana Tevé (AR)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qqPWwGbZ/urbna.jpg" group-title="Cultura | Educativo 🪐",Urbana Tevé (AR)
 https://cdnhd.iblups.com/hls/DD3nXkAkWk.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RVbS3GYs/utal.jpg" group-title="Ciencia | Cultura 🪐",UTalca TV (CL)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RVbS3GYs/utal.jpg" group-title="Cultura | Educativo 🪐",UTalca TV (CL)
 https://unlimited1-cl-isp.dps.live/campustv/campustv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvDJJKmm/usat.jpg" group-title="Ciencia | Cultura 🪐",USA Today (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvDJJKmm/usat.jpg" group-title="Cultura | Educativo 🪐",USA Today (US)
 https://jmp2.uk/plex-643054b1fc3be59477853717-60df3e18541143002f3b8607.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MT0cqHky/usil.jpg" group-title="Ciencia | Cultura 🪐",Usil TV (PE)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MT0cqHky/usil.jpg" group-title="Cultura | Educativo 🪐",Usil TV (PE)
 https://per01-lim01.servidor.stream/usiltv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fRXD6FQd/usm.jpg" group-title="Ciencia | Cultura 🪐",USMPTV (PE)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fRXD6FQd/usm.jpg" group-title="Cultura | Educativo 🪐",USMPTV (PE)
 https://streamusmptv.ddns.net/live/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hWSf2wC/utvh.jpg" group-title="Ciencia | Cultura 🪐",UTV (HN)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hWSf2wC/utvh.jpg" group-title="Cultura | Educativo 🪐",UTV (HN)
 https://live-utv.unah.edu.hn/web/salida.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjyc8tp3/utv3.jpg" group-title="Ciencia | Cultura 🪐",UTV | San Clemente (CL)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjyc8tp3/utv3.jpg" group-title="Cultura | Educativo 🪐",UTV | San Clemente (CL)
 https://v2.tustreaming.cl/utv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FHXd0rg5/valetv.jpg" group-title="Ciencia | Cultura 🪐",Vale TV (VE)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FHXd0rg5/valetv.jpg" group-title="Cultura | Educativo 🪐",Vale TV (VE)
 https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/k4WSNRQ5/vivaldi.jpg" group-title="Ciencia | Cultura 🪐",Vivaldi (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxGbLynL/visit.jpg" group-title="Cultura | Educativo 🪐",Visit Florida | 30A TV (US)
+https://30a-tv.com/feeds/mwaretv/visitflorida.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k4WSNRQ5/vivaldi.jpg" group-title="Cultura | Educativo 🪐",Vivaldi (US)
 https://jmp2.uk/sam-ESBC3500001LY.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bn31Lw0s/vive.jpg" group-title="Ciencia | Cultura 🪐",Vive TV (VE)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bn31Lw0s/vive.jpg" group-title="Cultura | Educativo 🪐",Vive TV (VE)
 https://cloud.odysee.live/content/fed20cff907550b0c7d83991fb3630e2a9f90454/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tgtv3n32/vogue.jpg" group-title="Ciencia | Cultura 🪐",Vogue | Modas (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tgtv3n32/vogue.jpg" group-title="Cultura | Educativo 🪐",Vogue | Modas (US)
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB18-3&ads._fw_content_genre=fashion&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=CondeNastVogue&ads.csid=zeus_eu_condenastvogue_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3033&ads.rakuten_streaming_id=e567834c-86e1-4d7b-99be-705b0d81ffe9&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883060&ads.xumo_contentId=37&ads.xumo_contentName=CondeNastVogue&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=37&ads.xumo_providerName=CondeNastVogue&ads.xumo_streamId=88883060
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5S5rvVw/water.jpg" group-title="Ciencia | Cultura 🪐",Waterbear (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5S5rvVw/water.jpg" group-title="Cultura | Educativo 🪐",Waterbear (US)
 https://jmp2.uk/sam-ESBC170000388.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdZGdb11/waypoint.jpg" group-title="Ciencia | Cultura 🪐",Waypoint (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdZGdb11/waypoint.jpg" group-title="Cultura | Educativo 🪐",Waypoint (US)
 https://jmp2.uk/sam-USBB440002055.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/t4B1prHf/Wl.jpg" group-title="Ciencia | Cultura 🪐",Wellbeing TV (AU)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/t4B1prHf/Wl.jpg" group-title="Cultura | Educativo 🪐",Wellbeing TV (AU)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCQ7JwS1/wilde.jpg" group-title="Ciencia | Cultura 🪐",Wild Earth (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCQ7JwS1/wilde.jpg" group-title="Cultura | Educativo 🪐",Wild Earth (US)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMzsQy7y/won.jpg" group-title="Ciencia | Cultura 🪐",Wonder (UK)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMzsQy7y/won.jpg" group-title="Cultura | Educativo 🪐",Wonder (UK)
 https://lds-wonder-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Wz4XjTS9/war.jpg" group-title="Ciencia | Cultura 🪐",World War TV (UK)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Wz4XjTS9/war.jpg" group-title="Cultura | Educativo 🪐",World War TV (UK)
 https://jmp2.uk/sam-GBBD1100001UI.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CMkcLNKG/xplor.jpg" group-title="Ciencia | Cultura 🪐",Xplore (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CMkcLNKG/xplor.jpg" group-title="Cultura | Educativo 🪐",Xplore (US)
 https://jmp2.uk/sam-USBC2100008DP.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6QcvVWh9/xtrema-animal.jpg" group-title="Ciencia | Cultura 🪐",Xtrema | Animal (LATAM)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6QcvVWh9/xtrema-animal.jpg" group-title="Cultura | Educativo 🪐",Xtrema | Animal (LATAM)
 https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNGzvtYw/xtr.jpg" group-title="Ciencia | Cultura 🪐",Xtreme Outdoor Presented | by History (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNGzvtYw/xtr.jpg" group-title="Cultura | Educativo 🪐",Xtreme Outdoor Presented | by History (US)
 https://jmp2.uk/sam-USAK3508706A.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CMkcLNKG/xplor.jpg" group-title="Ciencia | Cultura 🪐",Xplore (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CMkcLNKG/xplor.jpg" group-title="Cultura | Educativo 🪐",Xplore (US)
 https://xlpore-samsungus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNGzvtYw/xtr.jpg" group-title="Ciencia | Cultura 🪐",Xtreme Outdoor Presented | by History (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNGzvtYw/xtr.jpg" group-title="Cultura | Educativo 🪐",Xtreme Outdoor Presented | by History (US)
 https://jmp2.uk/sam-USAK3508706A.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HkDFV8t8/yungai.jpg" group-title="Ciencia | Cultura 🪐",Yungai Online (CL)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HkDFV8t8/yungai.jpg" group-title="Cultura | Educativo 🪐",Yungai Online (CL)
 https://stmv5.voxtvhd.com.br/yungayonline/yungayonline/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfkFPMyy/zoome.jpg" group-title="Ciencia | Cultura 🪐",Zoomer Television | Stirr (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfkFPMyy/zoome.jpg" group-title="Cultura | Educativo 🪐",Zoomer Television | Stirr (US)
 https://jmp2.uk/str-5308.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bb5PmDj3/zoomt.jpg" group-title="Ciencia | Cultura 🪐",Zoom Tecnológico Plus (CL)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bb5PmDj3/zoomt.jpg" group-title="Cultura | Educativo 🪐",Zoom Tecnológico Plus (CL)
 https://5f700d5b2c46f.streamlock.net/zoomtec/zoomtec/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r3ZXxVz/orbi-pride.jpg" group-title="Deportes | Aventura",Órbita by @guilmonzero
@@ -2009,6 +2010,9 @@ https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4NPYRL4q/cars.jpg" group-title="Deportes | Aventura",Cars | Pluto TV (US)
 https://jmp2.uk/sam-USAJ3504545A.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QtmfRmN7/tvcars.jpg" group-title="Deportes | Aventura",Cars TV | 30A TV (US)
+https://30a-tv.com/feeds/mwaretv/cars.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WbXbnZ6v/cbs-s.jpg" group-title="Deportes | Aventura",CBS | Sports Network (US)
 https://fl5.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 
@@ -2043,6 +2047,9 @@ https://cyclingtv.playout.vju.tv/cyclingtv/main.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4x9VSw-SY/d13.jpg" group-title="Deportes | Aventura",D13 (CL)
 https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3xFqmmzd/dar.jpg" group-title="Deportes | Aventura",Darcizzle Offshore | Fishing Outdoor TV | 30A TV (US)
+https://30a-tv.com/darcizzle.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qvmmCwg1/dazn-1.jpg" group-title="Deportes | Aventura",DAZN | 1 (US)
 https://fl4.moveonjoy.com/DAZN_1/index.m3u8
@@ -2557,7 +2564,7 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W39ZhyYJ/tet.jpg" group-title="Deportes | Aventura",Teton Gravity Research | Stirr (US)
 https://jmp2.uk/str-6409.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1XNr7D0d/golf.jpg" group-title="Deportes | Aventura",The Golf Kingdom (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1XNr7D0d/golf.jpg" group-title="Deportes | Aventura",The Golf Kingdom | 30A TV (US)
 https://30a-tv.com/feeds/720p/53.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G2mp4JfB/grab.jpg" group-title="Deportes | Aventura",The Grappling Network | Stirr (US)
@@ -2640,7 +2647,8 @@ https://d1xm2jznwi5xzj.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/in
 https://livetr.teleromagna.it/mia/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kMfCjxdY/Tudn.jpg" group-title="Deportes | Aventura",TUDN (MX)
-http://cord-cutter.net:8080/Rme2Fg/183926/11885
+http://cord-cutter.net:8080/Rme2Fg/183926/1188
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W4XLvTHR/tvs-bo.jpg" group-title="Deportes | Aventura",TVS | Bowling (US)
 https://rpn.bozztv.com/gusa/gusa-tvsbowling/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YqWhLV32/tvs-b.jpg" group-title="Deportes | Aventura",TVS | Boxing (US)
@@ -2883,7 +2891,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 http://fl5.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qBQGNkKC/com.jpg" group-title="Informativo",Comercio (US)
-https://d1plnmgh5zr5od.cloudfront.net/out/v1/394dbbf6e2454b5a969bc8a81ea9611c/index.m3u8
+https://amg00082-amg00082c1-vivalivetv-worldwide-7555.playouts.now.amagi.tv/playlist/amg00082-tarima-comercio-vivalivetvworldwide/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mgrTr80H/congres.jpg" group-title="Informativo",Congreso de los Diputados | 1 (ES)
 https://congresodirecto.akamaized.net/hls/live/2038274/canal1/master.m3u8
@@ -2960,6 +2968,9 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fkQnB8xj/gbn.jpg" group-title="Informativo",GB News (UK)
 https://jmp2.uk/sam-GBBB1600008R3.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PxWTwPby/geo.jpg" group-title="Informativo",Georgia Hollywood Review TV | 30A TV (US)
+https://30a-tv.com/gh.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3RbYrcHq/Globalnews.jpg" group-title="Informativo",Global News | Canadá (CA)
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 
@@ -2983,6 +2994,9 @@ https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_700.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6QT85JKM/india.jpg" group-title="Informativo",India Today (IN)
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_404p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j5FmCTmc/inve.jpg" group-title="Informativo",Investment Pitch News Television | 30A TV (US)
+https://30a-tv.com/feeds/mwaretv/investmentpitch.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jSMkx1dr/it2.jpg" group-title="Informativo",Italia 2 TV | News (IT)
 http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8
@@ -3142,6 +3156,9 @@ https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/v81btxgs/tbsnd.jpg" group-title="Informativo",TBS | News (JP)
 https://ythls.onrender.com/channel/UC6AG81pAkf6Lbi_1VC5NmPA.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BbV55wNq/telecom.jpg" group-title="Informativo",Telecomercio (RD)
+https://vdo2.streamgato.us:3566/live/telecomerciotvlive.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsbdNWnQ/telediario.jpg" group-title="Informativo",Telediario | Now (MX)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014
 
@@ -3236,8 +3253,6 @@ https://stmv5.voxtvhd.com.br/zonadeprensa/zonadeprensa/chunklist_w1663121805.m3u
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r3ZXxVz/orbi-pride.jpg" group-title="Música 🎼",Órbita by @guilmonzero
 https://pomf2.lain.la/f/572x442.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0YfT6b7/30A.jpg" group-title="Música 🎼",30.A TV (US)
-https://30a-tv.com/music.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pVBCKxQV/4fun.jpg" group-title="Música 🎼",4Fun | Polonia (PL)
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
@@ -3256,6 +3271,8 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kgmw6b3q/activa-Espana.jpg" group-title="Música 🎼",Activa TV (ES)
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kgmw6b3q/activa-Espana.jpg" group-title="Música 🎼",Activa TV | Opción 2 (ES)
+https://cloudflare.streamgato.us:3735/live/tumusicahdlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hv0pGmhG/alfa.jpg" group-title="Música 🎼",Alfa TV (CL)
 https://v2.tustreaming.cl/alfatv/tracks-v1a1/mono.m3u8
@@ -3283,6 +3300,9 @@ https://us.streaminghd.cl/apocalipsistvd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/63QjqQtk/arabicatv.jpg" group-title="Música 🎼",Arabica TV (SA)
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J03Cdnpn/aso.jpg" group-title="Música 🎼",A Son de Salsa TV (PA)
+https://sistemastr.tropicalmoonmedia.com:443/live/56BE17DB16EB76C9F2DDB8346F4DFA4E/6.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GmSZrkPz/ato.jpg" group-title="Música 🎼",A Todo Ritmo (LATAM)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13252
@@ -3327,6 +3347,9 @@ https://video01.logicahost.com.br/blast/blast/chunklist_w2035167070.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Z58XwGVG/blu.jpg" group-title="Música 🎼",Blues TV (US)
 https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wj5j8RJz/btn.jpg" group-title="Música 🎼",BNT Choise (US)
+https://5790d294af2dc.streamlock.net/bntchoice1/bntchoice1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K4SmCCwd/boo.jpg" group-title="Música 🎼",Boogle Bollywood | India (IN)
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
@@ -3400,7 +3423,6 @@ http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PrcK25J7/colosal2.jpg" group-title="Música 🎼",Colosal | 88.3FM (CR)
 https://5d16127744872.streamlock.net/canal3/canal3/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zBFY9NKK/com-1.jpg" group-title="Música 🎼",COM | Music (CL)
 https://mitv.zplay.cl/MuchmusicCL/video.m3u8?token=D4lm1R0m-tFJES
 
@@ -3418,6 +3440,9 @@ https://live2.tensila.com/cool-v-1.arubara/hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/v839tWY8/cools.jpg" group-title="Música 🎼",Cool Summer Channel (LATAM)
 https://jmp2.uk/sam-ES2500001F9.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3N33hm4p/coraz.jpg" group-title="Música 🎼",Corazón TV (PA)
+https://sistemastr.tropicalmoonmedia.com:443/live/56BE17DB16EB76C9F2DDB8346F4DFA4E/12.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dVKdq0vn/crad.jpg" group-title="Música 🎼",CRadio TV (CL)
 https://tls-cl.cdnz.cl/cradio/live/playlist.m3u8
 
@@ -3425,7 +3450,7 @@ https://tls-cl.cdnz.cl/cradio/live/playlist.m3u8
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pLpn4XYn/dance.jpg" group-title="Música 🎼",Dance TV (CL)
-https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/chunklist_w862426238.m3u8
+https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CKwqKCgf/dee.jpg" group-title="Música 🎼",DeeJay TV (IT)
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
@@ -3634,7 +3659,7 @@ https://streamyes.alsolnet.com/quebuenaatlanta/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t4TNyrMp/lasuperdisco.jpg" group-title="Música 🎼",La Super Discoteca TV (RD)
 https://panel2.streamingtv-mediacp.online:1936/8028/8028/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BbxGKSnn/latinatv2.jpg" group-title="Música 🎼",Latina TV (CL)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bdmzvrcJ/latina.jpg" group-title="Música 🎼",Latina Network TV (CL)
 https://paneltv.online:1936/8044/8044/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vZ1t5rtR/LATIN.jpg" group-title="Música 🎼",Latin Zone TV (US)
@@ -3710,6 +3735,9 @@ https://vdo2.streamgato.us:3144/live/mund2tvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wjTtfntj/mundodelamusica.jpg" group-title="Música 🎼",Mundo de la Musica (CL)
 https://tv.streaming-chile.com:1936/mundodelamusicatv/mundodelamusicatv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0YfT6b7/30A.jpg" group-title="Música 🎼",Music | 30A TV (US)
+https://30a-tv.com/music.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Sx4S6xnc/mbox.jpg" group-title="Música 🎼",Music Box | Georgia (GE)
 https://tbs01-edge11.itdc.ge/musicbox/index.m3u8
 
@@ -3769,8 +3797,8 @@ https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pV7MTMvk/nasatv-rock.jpg" group-title="Música 🎼",Nasa | Rock TV (MK)
 https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbwcMWRS/nashville.jpg" group-title="Música 🎼",Nashville Country Music TV (US)
-https://hls.showfer.com/stream/resolution/1200/720x404/63e7ca2d6e33cf5f07659f36/airy.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbwcMWRS/nashville.jpg" group-title="Música 🎼",Nashville Country Music TV | A30 TV (US)
+https://hls.showfer.com/stream/resolution/5000/1920x1080/63e7ca2d6e33cf5f07659f36/airy.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c1YSBCHG/Navahang.jpg" group-title="Música 🎼",Navahang (FI)
 https://hls.navahang.live/hls/stream.m3u8
@@ -3842,6 +3870,9 @@ https://noshls.persiana.live/hls/stream.m3u8
 https://raphls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hs9XnbbL/p-so.jpg" group-title="Música 🎼",Persiana | Sonati (IR)
 https://sonhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9b1NfHq/pid.jpg" group-title="Música 🎼",Pindin TV (PA)
+https://sistemastr.tropicalmoonmedia.com/live/2C7CA6CECC9B8F8C3A07315FDA110936/7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xdbZJFLP/playm.jpg" group-title="Música 🎼",Play Music | Conectados (CL)
 https://premium.tvcontrolcp.com:19360/8052/8052.m3u8
@@ -4404,6 +4435,11 @@ https://cloudvideo.servers10.com:8081/8234/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r3ZXxVz/orbi-pride.jpg" group-title="Películas | Series",Órbita by @guilmonzero
 https://pomf2.lain.la/f/572x442.mp4
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xv1vvSv7/a30-sci.jpg" group-title="Películas | Series",30A TV | Sci Fi & Spooky (US)
+https://30a-tv.com/feeds/vidaa/scifi.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcVPSbPX/a30-c.jpg" group-title="Películas | Series",30A TV | Classic Movies (US)
+https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pVwY9MsH/masc.jpg" group-title="Películas | Series",+ Cine (CL)
 https://tv.streaming-chile.com:19360/8142/8142.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k5NsP8sg/mascin.jpg" group-title="Películas | Series",+ Cine | Classic (CL)
@@ -4768,6 +4804,9 @@ http://fl5.moveonjoy.com/HBO_ZONE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Zn57FgDp/hiyah.jpg" group-title="Películas | Series",Hi-Yah! (CN)
 https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPDsKndL/jima.jpg" group-title="Películas | Series",Jimani TV (RD)
+https://cloud2.streaminglivehd.com:1936/8246/8246/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kMH8hbCm/jl.jpg" group-title="Películas | Series",JLTV | Stirr (US)
 https://jmp2.uk/str-5428.m3u8
 
@@ -4794,7 +4833,7 @@ https://live-manifest.production-public.tubi.io/live/3d904b0d-f65e-4160-969a-586
 https://mbcplusdrama-prod-dub-enc.edgenextcdn.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2Sv4h0Xd/megacine.jpg" group-title="Películas | Series",Mega Cine TV (RD)
-https://cloudflare.streamgato.us:3735/live/tumusicahdlive.m3u8
+https://cnn.hostlagarto.com/megacinetv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hvFPmTn7/mgm.jpg" group-title="Películas | Series",MGM+ (US)
 http://fl5.moveonjoy.com/EPIX/index.m3u8
@@ -4884,6 +4923,9 @@ https://cinehls.persiana.live/hls/stream.m3u8
 https://comedyhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jSbVQwgm/p-f.jpg" group-title="Películas | Series",Persiana | Family (IR)
 https://familyhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GhCPnNSs/perue.jpg" group-title="Películas | Series",Perú Entertainment Play (PE)
+https://stream-us-east-1.getpublica.com/cl/250718d1su84l44glumhekqum0/1920x1080_2406168_0_f.m3u8?i=1187_12966
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJvx8qM1/popf.jpg" group-title="Películas | Series",Popflix (UK)
 https://jmp2.uk/sam-GBAJ400045P5.m3u8
@@ -11449,6 +11491,9 @@ https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9tgcxP8/misiones.jpg" group-title="Argentina",Misiones Cuatro (AR)
 https://streamlov.alsolnet.com/misionescuatro/live/chunklist_w1950809131.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZFZqTRN/multivis.jpg" group-title="Argentina",Multivisión Federal (AR)
+https://panel.host-live.com:19360/8250/8250.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MHyZqPhS/neotv.jpg" group-title="Argentina",NEO TV (AR)
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
@@ -12947,6 +12992,9 @@ https://k20.usastreams.com:8081/tvsur/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nVsVj8xd/ultr.jpg" group-title="Costa Rica 🇨🇷",Ultra Zona TV (CR)
 https://acceso.radiosportstv.online:3089/stream/play.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qqrd9KpV/vo1.jpg" group-title="Costa Rica 🇨🇷",Voice Over Radio TV (CR)
+https://cloudvideo.servers10.com:8081/8198/rewind-3600.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rFMFWZhS/zurq.jpg" group-title="Costa Rica 🇨🇷",Zurquí TV (CR)
 https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
 
@@ -13214,6 +13262,9 @@ http://crtvg-events2.flumotion.cloud/crtvg/events2_high/chunks_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tgP85Mfw/galiciar.jpg" group-title="España",Galicia | Radio (ES)
 https://crtvg-mirarg-schlive.flumotion.cloud/crtvglive/smil:channel1PRG.smil/chunklist_b2200000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Wpn6mVnb/gcm.jpg" group-title="España",GCM | Grupo Cadena Media (ES)
+https://stream-us-east-1.getpublica.com/cl/250718d1svb1n9ubipp63dcing/1280x720_1500000_0_f.m3u8?i=1187_12688
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LsTGNfJj/goi.jpg" group-title="España",Goiena Eus (ES)
 https://zuzenean.goienamedia.eus/goiena-telebista.m3u8
@@ -13777,6 +13828,37 @@ https://lol-lolnetwork-2-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KYyL0J74/merit.jpg" group-title="Estados Unidos",Merit Street | Samsung TV Plus (US)
 https://jmp2.uk/sam-US70001475.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgcqHH49/miami.jpg" group-title="Estados Unidos",Miami TV (US)
+https://59ec5453559f0.streamlock.net/miamitv/smil:WEB4141/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7PFb8Vpj/miami-d.jpg" group-title="Estados Unidos",Miami TV | DJ (US)
+https://59ec5453559f0.streamlock.net/miamitvDJ/smil:56925/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwcmzpyJ/miami-fo.jpg" group-title=Estados Unidos",Miami TV | Food (US)
+https://59ec5453559f0.streamlock.net/miamitvfoods/smil:34658/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8TsPMnM/miami-g.jpg" group-title="Estados Unidos",Miami TV | Gold (US)
+https://59ec5453559f0.streamlock.net/miamitvgold/smil:19869/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kgb9W4P2/jennylive.jpg" group-title="Estados Unidos",Miami TV | Jenny For You (US)
+https://59ec5453559f0.streamlock.net/JennyLiveMembers/smil:WEB3131/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HsbnpMmn/miami-f.jpg" group-title="Estados Unidos",Miami TV | Fashion (US)
+https://59ec5453559f0.streamlock.net/miamitvfashion/_definst_/smil:34256/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mZ5CcCKS/miami-h.jpg" group-title="Estados Unidos",Miami TV | Health (US)
+https://59ec5453559f0.streamlock.net/miamitvhealth/smil:25896/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QtxSD7yW/miami-la2.jpg" group-title="Estados Unidos",Miami TV | Latino (US)
+https://59ec5453559f0.streamlock.net/Latino/smil:WEB4141/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDr1kgwq/miami-l.jpg" group-title="Estados Unidos",Miami TV | Life (US)
+https://59ec5453559f0.streamlock.net/miamitvlife/smil:76945/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SxTXnzTh/miami-li.jpg" group-title="Estados Unidos",Miami TV | Live Only | Streaming (US)
+https://59ec5453559f0.streamlock.net/WEB/definst/mp4:TV_Shows_ON_DEMAND720/welcome.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDcZKzVb/miami-mo.jpg" group-title="Estados Unidos",Miami TV | Models (US)
+https://59ec5453559f0.streamlock.net/miamitvmodels/smil:529634/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MG3Ksb7P/miami-m.jpg" group-title="Estados Unidos",Miami TV | Music (US)
+https://59ec5453559f0.streamlock.net/miamitvmusic/smil:22596/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YS7WKws4/miami-my.jpg" group-title="Estados Unidos",Miami TV | Mystery (US)
+https://stream-us-east-1.getpublica.com/cl/250718d1srp70s80r6le18ndkg/1280x720_1896000_0_f.m3u8?i=1187_12998
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9VfYsdt/miami-si.jpg" group-title="Estados Unidos",Miami TV | Silja Live (US)
+https://59ec5453559f0.streamlock.net/seljalive/smil:57963/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HL6jqCgt/miami-s.jpg" group-title="Estados Unidos",Miami TV | Spain | IPro TV (US)
+https://59ec5453559f0.streamlock.net/iprotv/iprotv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xdm6jCKz/mytimenetwork.jpg" group-title="Estados Unidos",My Time Movie Network (US)
 https://mytime-tcl.amagi.tv/playlist.m3u8
 
@@ -13828,6 +13910,9 @@ https://jmp2.uk/str-5430.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fRgR936P/shoplc.jpg" group-title="Estados Unidos",Shop LC (US)
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(xumo)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Hs3cn4g6/stre.jpg" group-title="Estados Unidos",Steam Uno TV (US)
+https://streamunoapp.com:3201/live/streamunotvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mDDDFVmr/Sundancetv.jpg" group-title="Estados Unidos",Sundance (US)
 https://fl5.moveonjoy.com/SUNDANCE/index.m3u8
@@ -14825,6 +14910,9 @@ https://ss9.domint.net:3040/ame_str/amecanal47/chunklist_w1167058089.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3JNdkVQc/bajotechotv.jpg" group-title="República Dominicana",Bajo Techo TV (RD)
 https://rdn.essastream.com:3042/live/bajotechotvlive.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg020x8v/beb.jpg" group-title="República Dominicana",Bebeto TV | Alberto Bernabe Televisión (RD)
+https://television.essastream.com:3502/live/bebetotelevisionlive.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HsHGmRXY/bonao.jpg" group-title="República Dominicana",Bonao TV (RD)
 https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8
 
@@ -14874,6 +14962,12 @@ https://cdn01.setar.aw/Telearuba/telearuba/chunklist_w1983999681.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9MWD7Hxv/telemedios.jpg" group-title="República Dominicana",Canal 25 | Tele Medios (RD)
 https://ss3.domint.net:3150/c25_str/canal25/chunklist_w1085656988.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/598HMSGH/cd.jpg" group-title="República Dominicana",Canal 26 | CDTV | La Vega (RD)
+https://rdn.essastream.com:3400/live/canal18hdlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tCNd5jN4/vtv3.jpg" group-title="República Dominicana",Canal 32 | VTV 32 (RD)
+https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yxGrxyqd/hmtv.jpg" group-title="República Dominicana",Canal 33 | HM TV  | Hermanas Mirabal TV (RD)
 https://cnn.essastream.com:3091/live/hmtvlive.m3u8
@@ -14947,6 +15041,9 @@ https://live.teledomdr.com:3087/live/explosiontvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MZsQy25H/faro.jpg" group-title="República Dominicana",Farovision (RD)
 https://5790d294af2dc.streamlock.net/8100/8100/chunklist_w1413275826.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjg6RY3w/fem.jpg" group-title="República Dominicana",Femenina TV (RD)
+https://streamunoapp.com:3511/live/femeninatvlive.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4FrF02N/fueg.jpg" group-title="República Dominicana",Fuego TV (RD)
 https://video.misistemareseller.com/Fuegotv/Fuegotv/chunklist_w1035033865.m3u8
 
@@ -14958,6 +15055,9 @@ https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1RVwGRCt/guay.jpg" group-title="República Dominicana",Guaymate TV (RD)
 https://fl1002.bozztv.com/ssh101/guaymatetv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4dgb5StG/hai.jpg" group-title="República Dominicana",HAINA Visión (RD)
+https://cdn.streamingcpanel.com:3447/live/hainavisionlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fbLjwsf6/hilando.jpg" group-title="República Dominicana",Hilando Fino TV (RD)
 https://hilandofinotv.essastream.com:3053/live/hilandofinotvlive.m3u8
@@ -14973,6 +15073,9 @@ https://ss9.domint.net:3038/mtvd_str/miamontv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K8cfP4fY/megavision.jpg" group-title="República Dominicana",Megavision (RD)
 http://server3.prostudionetwork.com:1943/megavision/MV/chunklist_w1643488906.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DfDPZ6y7/miav.jpg" group-title="República Dominicana",Miavisión (RD)
+https://rdn.essastream.com:3550/live/miavisiontvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CKVTNGZg/microvision.jpg" group-title="República Dominicana",Microvision (RD)
 https://streaming.telecablecentral.com.do/live/MicroHD/chunklist_w920908092.m3u8
@@ -14993,13 +15096,19 @@ https://ed18ov.live.opencaster.com/bznudxxdtppv/index.m3u8
 https://cdn.essastream.com:3457/live/noticiasn16live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CKkF35vp/ondatv.jpg" group-title="República Dominicana",Onda TV (RD)
-https://ss5.domint.net:3176/otv_str/ondatv/playlist.m3u8
+https://cnn.hostlagarto.com/ondatv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k4fVCMQT/opciontv.jpg" group-title="República Dominicana",Opción TV (RD)
 https://5790d294af2dc.streamlock.net/8066/8066/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8FFFjcs/oxit.jpg" group-title="República Dominicana",Oxi TV (RD)
+https://streamunoapp.com:3520/live/oxitvcanal36live.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/h4wdGvzm/peravision.jpg" group-title="República Dominicana",Peravia Vision (RD)
 https://ss5.domint.net:3048/pvv_str/peravia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MGF4sx5B/pet.jpg" group-title="República Dominicana",Pétalos TV (RD)
+https://video.misistemareseller.com/crontv/crontv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C5DRTnmN/PHtv.jpg" group-title="República Dominicana",PHTV (RD)
 https://vdo1.streamgato.us:3138/live/phtvlive.m3u8
@@ -15046,8 +15155,14 @@ https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1Xwx68gk/teled.jpg" group-title="República Dominicana",Tele Dajabón (RD)
 https://cloud5.streaminglivehd.com:3880/hybrid/play.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6qwkkK2p/teledo.jpg" group-title="República Dominicana",Tele Dominicana (RD)
+https://vdopanel.jlahozconsulting.com/p/3417/hybrid/play.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fW9Mc6GK/telefuturo.jpg" group-title="República Dominicana",Telefuturo (RD)
 https://ss9.domint.net:3054/tf_str/telefuturo/chunklist_w1761578858.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tp3pM5V/teleme.jpg" group-title="República Dominicana",TeleMetro (RD)
+https://streamunoapp.com:3366/live/telemetrolive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vmMDVb14/teleoriental.jpg" group-title="República Dominicana",Tele Oriental Digital (RD)
 https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8
@@ -15843,13 +15958,6 @@ http://cdntv.online/high/bkju4aqd9v/1723.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/B6hqSrrV/ero.jpg" group-title="18+ 🔥",Ero Puls (DE)
 http://api.alpaca.t62a.com/hls/9108/stream0.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zfc2Srbq/husx.jpg" group-title="18+ 🔥",Hustler (US)
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgcqHH49/miami.jpg" group-title="18+ 🔥",Miami TV (US)
-https://59ec5453559f0.streamlock.net/miamitv/smil:WEB4141/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kgb9W4P2/jennylive.jpg" group-title="18+ 🔥",Miami TV | Jenny For You (US)
-https://59ec5453559f0.streamlock.net/JennyLiveMembers/smil:WEB3131/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTsDHQbw/miamitvlatino.jpg" group-title="18+ 🔥",Miami TV | Latino (US)
-https://59ec5453559f0.streamlock.net/Latino/smil:WEB4141/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MyCamTVAnal.cy" tvg-logo="https://i.postimg.cc/Xqs3K0Dr/mycamtv.jpg" group-title="18+ 🔥",MyCamTV | Anal
 http://live.mycamtv.com/anal.m3u8
