@@ -16460,7 +16460,7 @@ https://5ed7b8fd7bf40.streamlock.net:444/sharkyssunset/sharkyssunsetcam/chunklis
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d06Xc6G/du.jpg" group-title="Camaras 📹",Sloppy Joe | Duval Street | Key West | Cam 1 (US)
 https://use01-smr05-relay.ozolio.com/hls-live/_definst_/smil:relay01.vtcldi6.fd0.sm1.av2.mt1.at0.as1.dv0.sh2.rt23850.rc0.smil/chunklist_w798383612_b3096000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d06Xc6G/du.jpg" group-title="Camaras 📹",Sloppy Joe | Duval Street | Key West | Cam 2 (US)
-https://usw01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.eboldpj.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt23850.rc0.edge.basic.stream/chunklist_w2073239887.m3u8
+https://usw01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.eboldpj.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt23850.rc0.edge.basic.stream/chunklist_w1248587662.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d06Xc6G/du.jpg" group-title="Camaras 📹",Sloppy Joe | Duval Street | Key West | Cam 3 | Stage (US)
 https://use01-smr03-relay.ozolio.com/hls-live/_definst_/smil:relay01.xnbwdi1.fd0.sm1.av2.mt1.at0.as1.dv0.sh2.rt23850.rc0.smil/chunklist_w1678962918_b3096000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d06Xc6G/du.jpg" group-title="Camaras 📹",Sloppy Joe | Duval Street | Key West | Cam 4 | Inside (US)
@@ -16480,9 +16480,11 @@ https://usw01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.thmldue.fd0.sm1.
 https://video.camden.rutgers.edu/camdenstarbucks/camdenstarbucks.stream/chunklist_w664863998.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/G74FrVm/c8.jpg" group-title="Camaras 📹",Tennessee | Elam Center (US)
 http://208.87.72.176:80/mjpg/video.mjpg
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Rhhp2xwj/t1.jpg" group-title="Camaras 📹",The Beach Bar on St. John | CAM 1 | Islas Vírgenes (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Rhhp2xwj/t1.jpg" group-title="Camaras 📹",The Beach Bar on St. John | CAM 1 | Bar | Islas Vírgenes (US)
 https://usw01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.awjyeqm.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt23850.rc0.edge.basic.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Rhhp2xwj/t1.jpg" group-title="Camaras 📹",The Beach Bar on St. John | CAM 2 | Islas Vírgenes (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Rhhp2xwj/t1.jpg" group-title="Camaras 📹",The Beach Bar on St. John | CAM 2 | Ecenario | Islas Vírgenes (US)
+https://usw01-smr03-relay.ozolio.com/hls-live/_definst_/relay01.kikvep8.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt23850.rc0.edge.basic.stream/chunklist_w384144002.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Rhhp2xwj/t1.jpg" group-title="Camaras 📹",The Beach Bar on St. John | CAM 2 | Playa | Islas Vírgenes (US)
 https://usw01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.majgep3.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt23850.rc0.edge.basic.stream/chunklist_w1096564165.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GJvRxnQ/c11.jpg" group-title="Camaras 📹",Virginia | Midway Home Service (US)
 http://71.41.73.146:80/mjpg/video.mjpg
