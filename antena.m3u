@@ -216,6 +216,9 @@ http://tvmate.icu:8080/live/7686199/9576982/46708.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k445qPXh/cas.jpg" group-title="Animados | Variado",Cascara TV (RD)
 https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZYvMLJtP/ceno.jpg" group-title="Animados | Variado",Cenovisión (RD)
+https://5790d294af2dc.streamlock.net/cenovision/cenovision/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tCmX5r2N/chinola.jpg" group-title="Animados | Variado",Chinola TV (AR)
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 
@@ -530,6 +533,9 @@ http://fl5.moveonjoy.com/NICK_MUSIC/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kzc7gqxP/ninja.jpg" group-title="Animados | Variado",Ninja Kids (US)
 https://jmp2.uk/stvp-US2200007QG
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFN8cyZC/14.jpg" group-title="Animados | Variado",Nuevavisión 14 (RD)
+https://live20.bozztv.com/akamaissh101/ssh101/nuevavisionhd/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0yGkKYhs/omid.jpg" group-title="Animados | Variado",Omid TV | Irán (IR)
 https://lenz.splus.ir/PLTV/88888888/224/3221226159/index.m3u8
 
@@ -624,6 +630,9 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00286-pocketwatch-ryanandfriends-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sg6wRPQf/seamos.jpg" group-title="Animados | Variado",Seamos Niños | TV Tica (CR)
 https://video.misistemareseller.com:1936/tvtica/tvtica/chunklist_w60158658.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XvGnKTVr/sist.jpg" group-title="Animados | Variado",Sistesur (RD)
+https://5790d294af2dc.streamlock.net/SISTESUR/SISTESUR/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8c7cd33b/smile.jpg" group-title="Animados | Variado",Smile | Grecia (GR)
 https://s1.cystream.net/live/smile/playlist.m3u8
 
@@ -693,6 +702,9 @@ http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdzvqF07/punto2.jpg" group-title="Animados | Variado",Telemundo | Punto 2 | Puerto Rico (PR)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T11n2dVk/telen.jpg" group-title="Animados | Variado",TeleNovisa | 43 (RD)
+https://rdn.essastream.com:3230/live/telenovisa43live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DfMNyDd8/ten.jpg" group-title="Animados | Variado",Ten (ES)
 
