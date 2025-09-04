@@ -2,7 +2,7 @@
 #EXTINF:-1 GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 #EXTINF:-1 Para disfrutar de los canales y abrir correctamente, añade esta dirección a la aplicación IPTV PRO una vez instalada, disponible GRATIS en Google Play o bien descargala sin anuncios y completa acá: https//bit.ly/orbitaxpp  Compactible para todos tus dispositivos con Android y Google TV, TVBox, ect... 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r3ZXxVz/orbi-pride.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 03.09.25
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r3ZXxVz/orbi-pride.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 04.09.25
 https://pomf2.lain.la/f/572x442.mp4
 
 #EXTINF:-1 tvg-id="66b0dfa1d512590008bfa7fd" tvg-name="Pluto TV Gore & Slasher" tvg-logo="https://i.postimg.cc/pVgRH9CQ/pluto-g.jpg" tvg-chno="01" group-title="Animados | Variado",Pluto TV | Gore & Slasher (ES)
@@ -422,7 +422,7 @@ https://jmp2.uk/stvp-GBBC4300005AL
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Wbbkyv8k/loading.jpg" group-title="Animados | Variado",Loading (BR)
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vTb11D2S/locomotio5.jpg" group-title="Animados | Variado",Locomotion [Inestable] (LATAM)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dVPdGkqK/locomotio4.jpg" group-title="Animados | Variado",Locomotion (LATAM)
 https://live20.bozztv.com/giatvplayout7/giatv-210075/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vTb11D2S/locomotio5.jpg" group-title="Animados | Variado",Locomotion [Inestable] | Opción 2 (LATAM)
 http://85.239.54.197:81/live/loco_hi/index.m3u8
@@ -652,10 +652,13 @@ http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RVwRLZ3q/supr.jpg" group-title="Animados | Variado",Supreme Master TV (GLOBAL)
 https://lbs-us1.suprememastertv.com/origin/720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yd9hv9WK/taltal2.jpg" group-title="Animados | Variado",Taltal TV | Canal Anime (CL)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yd9hv9WK/taltal2.jpg" group-title="Animados | Variado",Taltal TV | Canal Anime | Películas (CL)
 https://live20.bozztv.com/akamaissh101/ssh101/taltal/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRYr0XNp/tal3.jpg" group-title="Animados | Variado",Taltal TV | Series (CL)
 https://giatv.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/playlist.m3u8
+https://live20.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRYr0XNp/tal3.jpg" group-title="Animados | Variado",Taltal TV | City Pop (CL)
+https://live20.bozztv.com/giatvplayout7/giatv-210394/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bNdnqK4z/tam.jpg" group-title="Animados | Variado",Tamyr (RU)
 https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
@@ -6238,10 +6241,11 @@ https://live20.bozztv.com/akamaissh101/ssh101/simpz1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zvzckYnF/simpsons-3.jpg" group-title="Mas Series 🧟",Los Simpsons | 1 (LATAM)
 https://live20.bozztv.com/akamaissh101/ssh101/simplat/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5y2sCqVP/simpsons-4.jpg" group-title="Mas Series 🧟",Los Simpsons | 2 (LATAM)
-https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dtJFXNYP/simpsons-1.jpg" group-title="Mas Series 🧟",Los Simpsons | 3 (LATAM)
-
+https://live20.bozztv.com/akamaissh101/ssh101/simgit/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/P5gDCgf9/simpsons-2.jpg" group-title="Mas Series 🧟",Los Simpsons | 4 (LATAM)
+https://live20.bozztv.com/akamaissh101/ssh101/simplatn/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yxrSNFZD/super.jpg" group-title="Mas Series 🧟",Los Supersonicos (LATAM)
 
@@ -6941,6 +6945,9 @@ https://ia601607.us.archive.org/24/items/hot-transi-4-hd-720p-1415600/HotTransi4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wh0PWShH/ia.jpg" group-title="Mas Películas 🎃",I.A. | Inteligencia Artificial | 2001 | Latino
 https://ia601206.us.archive.org/32/items/int-3l-1g-3nc-14-art-1f-1c1-4l-2001-60fps-dual-9-78-gb/Int3l1g3nc1%E2%81%B4%20Art1f1c%C2%B94l%20%282001%29%2060fps%20DUAL%209%2C78%20GB.mkv
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gmg1Drjv/a1.jpg" group-title="Mas Películas 🎃",Inactividad Paranormal | 2013 | Latino
+https://archive.org/serve/y-donde-esta-el-fantasma-1-720-p-hd/Y%20donde%20est%C3%A1%20el%20fantasma%201%28720P_HD%29.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRfRQ4WH/ins2.jpg" group-title="Mas Películas 🎃",Intensamente | 2 | 2024 | Latino
 https://archive.org/download/457626384-3837006406554626-8111903668788379276-n/IntensaMente.2.2024.720p-Dual-Lat.mkv
@@ -19743,6 +19750,19 @@ https://archive.org/download/1-6_20240726/1_49.mp4
 https://archive.org/download/1-6_20240726/1_50.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hGhqcLYY/d3.jpg" group-title="Digimon ☺️",Digimon 03 | S03E51 | Latino [2001]
 https://archive.org/download/1-6_20240726/1_51.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6qyVbrvH/in.jpg" group-title="Invisible 🥹",Invisible | S01E01 | Español [2024]
+https://archive.org/serve/bflix-6_202501/BFLIX%20%281%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6qyVbrvH/in.jpg" group-title="Invisible 🥹",Invisible | S01E02 | Español [2024]
+https://archive.org/download/bflix-6_202501/BFLIX%20%282%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6qyVbrvH/in.jpg" group-title="Invisible 🥹",Invisible | S01E03 | Español [2024]
+https://archive.org/download/bflix-6_202501/BFLIX%20%283%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6qyVbrvH/in.jpg" group-title="Invisible 🥹",Invisible | S01E04 | Español [2024]
+https://archive.org/download/bflix-6_202501/BFLIX%20%284%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6qyVbrvH/in.jpg" group-title="Invisible 🥹",Invisible | S01E05 | Español [2024]
+https://archive.org/download/bflix-6_202501/BFLIX%20%285%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6qyVbrvH/in.jpg" group-title="Invisible 🥹",Invisible | S01E06 | Español [2024]
+https://archive.org/download/bflix-6_202501/BFLIX%20%286%29.ia.mp4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GVd2bmr/1.jpg" group-title="Youtube Recomendados 👾",@Agusvitshorts
 https://pomf2.lain.la/f/3o1f2ocn.mp4
