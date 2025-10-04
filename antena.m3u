@@ -2,20 +2,64 @@
 #EXTINF:-1 GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 #EXTINF:-1 Para disfrutar de los canales y abrir correctamente, añade esta dirección a la aplicación IPTV PRO una vez instalada, disponible GRATIS en Google Play o bien descargala sin anuncios y completa acá: https//bit.ly/orbitaxpp  Compactible para todos tus dispositivos con Android y Google TV, TVBox, ect... 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8kBn99zh/orbi2025.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 28.09.25
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8kBn99zh/orbi2025.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 04.10.25
 https://pomf2.lain.la/f/572x442.mp4
 
 #EXTINF:-1 tvg-id="66b0dfa1d512590008bfa7fd" tvg-name="Pluto TV Gore & Slasher" tvg-logo="https://i.postimg.cc/pVgRH9CQ/pluto-g.jpg" tvg-chno="01" group-title="Animados | Variado",Pluto TV | Gore & Slasher (ES)
 https://jmp2.uk/plu-66b0dfa1d512590008bfa7fd.m3u8
+#EXTINF:-1 tvg-id="65786888b228b7000843ad9a" tvg-name="https://i.postimg.cc/G2MW3Bxz/zomb.jpg"  tvg-chno="02" group-title="Animados | Variado",Pluto TV | Zombies (ES)
+https://jmp2.uk/plu-65786888b228b7000843ad9a.m3u8
+#EXTINF:-1 tvg-id="66b0e00814a2bb00085f5934" tvg-logo="https://i.postimg.cc/8PTZXkdy/plutoterror.jpg" tvg-chno="03" group-title="Animados | Variado",Pluto TV | Terror Clásico (ES)
+https://jmp2.uk/plu-66b0e00814a2bb00085f5934.m3u8
+#EXTINF:-1 tvg-id="68345650e8377f86acdeda83" tvg-logo="https://i.postimg.cc/15yv7R0K/pluto-set.jpg" tvg-chno="04" group-title="Animados | Variado",Pluto TV | Series Terror (ES)
+https://jmp2.uk/plu-68345650e8377f86acdeda83.m3u8
 
-#EXTINF:-1 tvg-id="5d8d180092e97a5e107638d3" tvg-logo="https://i.postimg.cc/Wb2PmVKb/cint.jpg" tvg-chno="02" group-title="Animados | Variado" ,Pluto TV | Cine Terror (US)
+#EXTINF:-1 tvg-id="5d8d180092e97a5e107638d3" tvg-logo="https://i.postimg.cc/Wb2PmVKb/cint.jpg" tvg-chno="05" group-title="Animados | Variado" ,Pluto TV | Cine Terror (US)
 https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8
+#EXTINF:-1 tvg-id="5dcddf1ed95e740009fef7ab" tvg-logo="https://i.postimg.cc/Wb2PmVKb/cint.jpg" tvg-chno="06" group-title="Animados | Variado" ,Pluto TV | Cine Terror (LATAM)
+https://jmp2.uk/plu-5dcddf1ed95e740009fef7ab.m3u8
 
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-64e6e2f04a5e9b4cedc6d52b" tvg-logo="https://i.postimg.cc/MTtc7LPc/cinehorror.jpg" tvg-chno="03" group-title="Animados | Variado",Plex | Cine de Horror (LATAM)
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-64e6e2f04a5e9b4cedc6d52b" tvg-logo="https://i.postimg.cc/MTtc7LPc/cinehorror.jpg" tvg-chno="07" group-title="Animados | Variado",Plex | Cine de Horror (LATAM)
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-64e6e2f04a5e9b4cedc6d52b.m3u8
 
-#EXTINF:-1 tvg-id="ESBC40000248" tvg-logo="https://i.postimg.cc/PrFRtYz3/horrorvision.jpg" tvg-chno="04" group-title="Animados | Variado",Samsung TV Plus | Horror Visión (ES)
+#EXTINF:-1 tvg-id="ESBC40000248" tvg-logo="https://i.postimg.cc/PrFRtYz3/horrorvision.jpg" tvg-chno="08" group-title="Animados | Variado",Samsung TV Plus | Horror Visión (ES)
 https://jmp2.uk/stvp-ESBC40000248
+
+#EXTINF:-1 tvg-id="6838a98df9bd067a38d1b8f7" tvg-logo="https://i.postimg.cc/wjvgpVVj/cria.jpg" tvg-chno="09" group-title="Animados | Variado",Pluto TV | Criaturas Malditas (LATAM)
+https://jmp2.uk/plu-6838a98df9bd067a38d1b8f7.m3u8
+
+#EXTINF:-1 tvg-id="5f4d3696d938c900072679fd" tvg-logo="https://i.postimg.cc/Bvq0pfYb/pluto-his.jpg" tvg-chno="10" group-title="Animados | Variado",Pluto TV | Historias de Ultratumba (LATAM)
+https://jmp2.uk/plu-5f4d3696d938c900072679fd.m3u8
+
+#EXTINF:-1 tvg-id="67f95fa76b11614ab0caaef3" tvg-logo="https://postimg.cc/jCntYqH7" tvg-chno="11" group-title="Animados | Variado",Pluto TV | Hechiceras (LATAM)
+https://jmp2.uk/plu-67f95fa76b11614ab0caaef3.m3u8
+#EXTINF:-1 tvg-id="678aa0b3680721c77c5035dd"  tvg-logo="https://i.postimg.cc/nL05LTYT/thewalkingdead.jpg" tvg-chno="12" group-title="Animados | Variado",Pluto TV | The Walking Dead by AMC (LATAM)
+https://jmp2.uk/plu-678aa0b3680721c77c5035dd.m3u8
+
+#EXTINF:-1 tvg-id="612ce5214bb5790007ad3016" tvg-logo="https://i.postimg.cc/T2j6WwYR/pluto-p.jpg" tvg-chno="13" group-title="Animados | Variado",Pluto TV | Paranormal (ES)
+https://jmp2.uk/plu-612ce5214bb5790007ad3016.m3u8
+
+#EXTINF:-1 tvg-id="609ae5cd48d3200007b0a98e" tvg-logo="https://i.postimg.cc/15sTqrfV/pluto-so.jpg" tvg-chno="14" group-title="Animados | Variado",Pluto TV | South Park | Halloween (LATAM)
+https://jmp2.uk/plu-609ae5cd48d3200007b0a98e.m3u8
+
+#EXTINF:-1 tvg-id="6874adbb3ffa5e0c917f721e" tvg-logo="https://i.postimg.cc/dVF2558P/pluto-k.jpg" tvg-chno="15" group-title="Animados | Variado",Pluto TV | Kids Halloween (CA)
+https://jmp2.uk/plu-6874adbb3ffa5e0c917f721e.m3u8
+
+#EXTINF:-1 tvg-id="660e767baec9680008fac009" tvg-logo="https://i.postimg.cc/d3Sf8z7C/pluto-ha.jpg" tvg-chno="16" group-title="Animados | Variado",Pluto TV | Halloween (DE)
+https://jmp2.uk/plu-660e767baec9680008fac009.m3u8
+#EXTINF:-1 tvg-id="62e8d3c2c2db99000787b786" tvg-logo="https://i.postimg.cc/d3Sf8z7C/pluto-ha.jpg" tvg-chno="17" group-title="Animados | Variado",Pluto TV | Halloween (IT)
+https://jmp2.uk/plu-62e8d3c2c2db99000787b786.m3u8
+
+#EXTINF:-1 tvg-id="68485d6fe99efeef64428f98" tvg-logo="https://i.postimg.cc/d0w3rdmP/mtv-ha.jpg" tvg-chno="18" group-title="Animados | Variado",Pluto TV | MTV | Halloween (LATAM)
+https://jmp2.uk/plu-68485d6fe99efeef64428f98.m3u8
+#EXTINF:-1 tvg-id="66c4a5cf1e11410009b382c3" tvg-logo="https://i.postimg.cc/d0w3rdmP/mtv-ha.jpg" tvg-chno="19" group-title="Animados | Variado",Pluto TV | MTV | Halloween (ES)
+https://jmp2.uk/plu-66c4a5cf1e11410009b382c3.m3u8
+#EXTINF:-1 tvg-id="68485f62fcd2ec536bd11ac1" tvg-logo="https://i.postimg.cc/d0w3rdmP/mtv-ha.jpg" tvg-chno="20" group-title="Animados | Variado",Pluto TV | MTV | Halloween (BR)
+https://jmp2.uk/plu-68485f62fcd2ec536bd11ac1.m3u8
+#EXTINF:-1 tvg-id="6874aec6fd6704e9d3b9b45d" tvg-logo="https://i.postimg.cc/d0w3rdmP/mtv-ha.jpg" tvg-chno="21" group-title="Animados | Variado",Pluto TV | MTV | Halloween (CA)
+https://jmp2.uk/plu-6874aec6fd6704e9d3b9b45d.m3u8
+#EXTINF:-1 tvg-id="67fe4bf317d83d0b4cfef739" tvg-logo="https://i.postimg.cc/d0w3rdmP/mtv-ha.jpg" tvg-chno="22" group-title="Animados | Variado",Pluto TV | MTV | Halloween (DE)
+https://jmp2.uk/plu-67fe4bf317d83d0b4cfef739.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvmTYXJB/pride2.jpg" group-title="Animados | Variado",Pride TV | Feed Chile (LATAM)
 https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=dem0pRideTVweb
@@ -175,13 +219,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11061
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/brnvpW88/canalj.jpg" group-title="Animados | Variado",Canal Juegos Retros (ES)
 https://live20.bozztv.com/giatvplayout7/giatv-209604/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Animados | Variado",Canal Sin Identicar Pendiente | 1 (LATAM)
-http://200.115.120.1:8000/play/ca038/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Animados | Variado",Canal Sin Identicar Pendiente | 2 (LATAM)
-http://200.115.120.1:8000/play/ca032/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Animados | Variado",Canal Sin Identicar Pendiente | 3 (LATAM)
-http://200.115.120.1:8000/play/ca072/index.m3u8
-
 #EXTINF:-1 tvg-id="ES26000068D" tvg-logo="https://i.postimg.cc/SxktvyYX/canalq.jpg" group-title="Animados | Variado",Canal Quickie (ES)
 https://jmp2.uk/stvp-ES26000068D
 #EXTINF:-1 tvg-id="ESBD3000002GP" tvg-logo="https://i.postimg.cc/brQG8vYN/andalucia1.jpg" group-title="Animados | Variado",Canal Sur | Andalucía (ES)
@@ -217,6 +254,13 @@ https://freya.mivideo.pro/centraltv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tCmX5r2N/chinola.jpg" group-title="Animados | Variado",Chinola TV (AR)
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8zwzVRCz/cinema1.jpg" group-title="Animados | Variado",Cinema | 1 (LATAM)
+http://200.115.120.1:8000/play/ca038/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xwxT63y/cinema2.jpg" group-title="Animados | Variado",Cinema | 2 (LATAM)
+http://200.115.120.1:8000/play/ca032/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Njbjw60K/cinema3.jpg" group-title="Animados | Variado",Cinema | 3 (LATAM)
+http://200.115.120.1:8000/play/ca072/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xTnkPnmS/cuidadmagica2.jpg" group-title="Animados | Variado",Ciudad Magica TV (AR)
 https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 
@@ -234,9 +278,6 @@ https://jmp2.uk/plu-655b5d865812e80008843bd1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t4Z93PKq/comedytv.jpg" group-title="Animados | Variado",Comedy TV (LATAM)
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HnG71kb5/coz.jpg" group-title="Animados | Variado",Cozi TV (US)
-http://fl3.moveonjoy.com/COZI_TV/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T24jJ21K/crom.jpg" group-title="Animados | Variado",Crom TV (RD)
 https://cnn.essastream.com:3333/live/cromtvlive.m3u8
 
@@ -244,8 +285,6 @@ https://cnn.essastream.com:3333/live/cromtvlive.m3u8
 https://d3eq0jseza7fm5.cloudfront.net/tg4_vod_3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9Q8pXs2M/dark.jpg" group-title="Animados | Variado",Dark (ES)
-http://espronewtt.top:8080/Juangomezroda/54uzajv2rb/16782
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9Q8pXs2M/dark.jpg" group-title="Animados | Variado",Dark | Opción 2 (ES)
 http://viphlvp.xyz:8080/VIP018591735564577288/8a620abdcadb/782
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6qQPRspm/5tvcl.jpg" group-title="Animados | Variado",Diario | TV 5 (CL)
@@ -19843,16 +19882,8 @@ https://pomf2.lain.la/f/o0ucqxo.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y8kt3Zj2/astrum.jpg" group-title="GUILMONZERO 😉",Astrum [No 24/7] (LATAM)
 https://live20.bozztv.com/akamaissh101/ssh101/guilmonzero/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/X71ycsQB/disneym.jpg" group-title="GUILMONZERO 😉",Disney | Mixtape
-https://18743.live.streamtheworld.com/INSTORE_2_S01.aac
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnLsGFMf/glob.jpg" group-title="GUILMONZERO 😉",Global Metal | Radio (ID)
-https://stream.zeno.fm/mfuutjhc31quv
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zDR8jWXr/radio-h.jpg" group-title="GUILMONZERO 😉",Horror Halloween Radio
 http://s2.voscast.com:11034/;stream1634719277384/1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/WzvV82Kc/Invasiondeathtrip.jpg" group-title="GUILMONZERO 😉",Invasion Death Trip | Radio
-http://23.100.77.47:8000/stream1
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hPpjbYpL/joe-1.jpg" group-title="GUILMONZERO 😉",JOE | Bruselas (BE)
 https://icecast-qmusicbe-cdp.triple-it.nl/joe_easy.aac
@@ -19871,9 +19902,6 @@ https://kathy.torontocast.com:2800/;
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1t5Nv664/metals.jpg" group-title="GUILMONZERO 😉",Metal Station | Radio (DE)
 https://metalstation.stream.laut.fm/metalstation
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wM2Ttb3B/mtvr.jpg" group-title="GUILMONZERO 😉",MTV | Rocks (ID)
-https://stream-164.zeno.fm/mqy5rybacxhvv
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/44DjN91W/radio-15.jpg" group-title="GUILMONZERO 😉",Radio Anime | 24
 http://91.232.4.33:7028/stream/;
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6pwjdthY/radio-3.jpg" group-title="GUILMONZERO 😉",Radio Anime | Alemania
@@ -19891,7 +19919,7 @@ https://radio.stereoanime.net/listen/stereoanime/128
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g2D7DBb7/radio-12.jpg" group-title="GUILMONZERO 😉",Radio Anime | Estéreo | México
 https://radioanime.radioca.st/stream/1/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mZXpzGxx/radio-1.jpg" group-title="GUILMONZERO 😉",Radio Anime | Fan World*
-http://184.154.45.106:8461/autodj
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/D01X6Z5y/radio9.jpg" group-title="GUILMONZERO 😉",Radio Anime | FM
 https://stream.laut.fm/animefm?ref=radiode
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xjJW2RLk/radio-11.jpg" group-title="GUILMONZERO 😉",Radio Anime | FM | Brasil
@@ -19910,10 +19938,10 @@ https://centova.listenon.in/proxy/animetracks/stream
 https://radioanime.radioca.st/stream
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zBLPqzHm/radio-18.jpg" group-title="GUILMONZERO 😉",Radio Anime | Vocaloid | Estados Unidos
 http://curiosity.shoutca.st:8019/stream
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VkvTXtrY/radio-19.jpg" group-title="GUILMONZERO 😉",Radio Anime | Weeb
-https://stream.zeno.fm/6rd41zgh2uhvv.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/k5Ypr64F/radio-14.jpg" group-title="GUILMONZERO 😉",Radio AniNeko | Híbrido | Alemania
-https://radio01.projectventure.net:8270/RadioAniNeko-128kbps.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VkvTXtrY/radio-19.jpg" group-title="GUILMONZERO 😉",Radio Anime | Weeb*
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k5Ypr64F/radio-14.jpg" group-title="GUILMONZERO 😉",Radio AniNeko | Híbrido | Alemania*
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HWhQ1KXp/co-80.jpg" group-title="GUILMONZERO 😉",Radio Contact | 80s (BE)
 https://contact90s.ice.infomaniak.ch/contact80s-128.mp3
@@ -19927,17 +19955,17 @@ https://contactmix.ice.infomaniak.ch/contactmix-128.mp3
 https://contactplus.ice.infomaniak.ch/contactplus-192.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fRV3jjbB/co-k.jpg" group-title="GUILMONZERO 😉",Radio Contact | Kids (BE)
 https://contact90s.ice.infomaniak.ch/contactkids-128.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFmCZrbX/co-ur.jpg" group-title="GUILMONZERO 😉",Radio Contact | Urban (BE)
-https://contacturban.ice.infomaniak.ch/contacturban-128.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rmvYh9Gc/co.jpg" group-title="GUILMONZERO 😉",Radio Contact | La Playlist de Tonton (BE)
 https://contactlaplaylistdetonton.ice.infomaniak.ch/contactlaplaylistdetonton-192.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qqt4Pf3f/mint.jpg" group-title="GUILMONZERO 😉",Radio Contact | Mint (BE)
+https://mint.ice.infomaniak.ch/mint-mp3-192.mp3?rp_source=1&=&&___cb=272706975667386
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsdrRWxt/disneyr.jpg" group-title="GUILMONZERO 😉",Radio Disney | Argentina
-https://27613.live.streamtheworld.com/DISNEY_ARG_BA.mp3
+https://27363.live.streamtheworld.com/DISNEY_ARG_BA.mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsdrRWxt/disneyr.jpg" group-title="GUILMONZERO 😉",Radio Disney | Bolivia
 https://24383.live.streamtheworld.com/DISNEY_BOL_SCAAC.aac
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsdrRWxt/disneyr.jpg" group-title="GUILMONZERO 😉",Radio Disney | Chile
-https://24223.live.streamtheworld.com/DISNEY_CHI_SA_ADP.aac
+https://mdstrm.com/audio/67fe714d82a1ac0e129ae3cc/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsdrRWxt/disneyr.jpg" group-title="GUILMONZERO 😉",Radio Disney | Costa Rica
 https://ic.streann.com/disneycostarica
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsdrRWxt/disneyr.jpg" group-title="GUILMONZERO 😉",Radio Disney | Ecuador
@@ -19951,7 +19979,7 @@ https://ic.streann.com/disneypanama
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsdrRWxt/disneyr.jpg" group-title="GUILMONZERO 😉",Radio Disney | Paraguay
 https://rds1.radiomagic.com.py:9433/stream
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsdrRWxt/disneyr.jpg" group-title="GUILMONZERO 😉",Radio Disney | República Dominicana
-https://radio5.domint.net:8062/stream
+https://stream.zeno.fm/zky9fvlfkootv
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsdrRWxt/disneyr.jpg" group-title="GUILMONZERO 😉",Radio Disney | Suecia
 https://live-bauerse-fm.sharp-stream.com/radiodisney_instream_se_aacp
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsdrRWxt/disneyr.jpg" group-title="GUILMONZERO 😉",Radio Disney | Uruguay
@@ -19981,17 +20009,29 @@ https://stream.rpr1.de/metal/mp3-128/tunein
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DzgRWPqx/star8.jpg" group-title="GUILMONZERO 😉",Star FM | 80s Rock
 https://starfm.streamabc.net/30-80srock-mp3-192-1213387
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x1yrXjGY/star9.jpg" group-title="GUILMONZERO 😉",Star FM | 90s Rock
+https://starfm.streamabc.net/30-90srock-mp3-192-6872646
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VLW9PZ1Z/stara.jpg" group-title="GUILMONZERO 😉",Star FM | Alternative Rock
 https://starfm.streamabc.net/30-alternativerock-mp3-192-8349543
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dtFjDFJZ/starbl.jpg" group-title="GUILMONZERO 😉",Star FM | Blues Rock
+https://starfm.streamabc.net/30-bluesrock-mp3-192-7042802
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqBJpg5w/starc.jpg" group-title="GUILMONZERO 😉",Star FM | Classic Rock
 https://starfm.streamabc.net/30-classicrock-mp3-192-4299376
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0yxD500g/starcr.jpg" group-title="GUILMONZERO 😉",Star FM | Country Rock
+https://starfm.streamabc.net/30-countryrock-mp3-192-1897463
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dz0tDsD4/starch.jpg" group-title="GUILMONZERO 😉",Star FM | Christmas Rock
+https://starfm.streamabc.net/30-christmasrock-mp3-192-7174283
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gkJQxhJD/starf.jpg" group-title="GUILMONZERO 😉",Star FM | From Hell
 https://starfm.streamabc.net/30-fromhell-mp3-192-7408486
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Gt7y9V2b/starha.jpg" group-title="GUILMONZERO 😉",Star FM | Hard Rock
 https://starfm.streamabc.net/30-hardrock-mp3-192-6928617
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jj9dkRM3/starm.jpg" group-title="GUILMONZERO 😉",Star FM | Maximum Rock National
+https://starfm.streamabc.net/30-maximumrocknational-mp3-192-2247730
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cL4dFCXk/starnm.jpg" group-title="GUILMONZERO 😉",Star FM | New Metal
-https://starfm.streamabc.net/30-newmetal-mp3-192-25799?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=6636e142-c542-77fc-12e6-2444d744091d&deviceLat=33.6647&deviceLon=-117.1743&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false23
+https://starfm.streamabc.net/30-newmetal-mp3-192-2579923
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RFChfd2h/starn.jpg" group-title="GUILMONZERO 😉",Star FM | New Rock
 https://starfm.streamabc.net/30-newrock-mp3-192-8752750
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3rVWB1sg/starb.jpg" group-title="GUILMONZERO 😉",Star FM | Rock Ballads
+https://starfm.streamabc.net/30-rockballads-mp3-192-4391848
 
 http:///get.php?username=&password=&type=m3u
