@@ -51,15 +51,6 @@ https://jmp2.uk/plu-660e767baec9680008fac009.m3u8
 https://jmp2.uk/plu-62e8d3c2c2db99000787b786.m3u8
 
 #EXTINF:-1 tvg-id="68485d6fe99efeef64428f98" tvg-logo="https://i.postimg.cc/d0w3rdmP/mtv-ha.jpg" tvg-chno="18" group-title="Animados | Variado",Pluto TV | MTV | Halloween (LATAM)
-https://jmp2.uk/plu-68485d6fe99efeef64428f98.m3u8
-#EXTINF:-1 tvg-id="66c4a5cf1e11410009b382c3" tvg-logo="https://i.postimg.cc/d0w3rdmP/mtv-ha.jpg" tvg-chno="19" group-title="Animados | Variado",Pluto TV | MTV | Halloween (ES)
-https://jmp2.uk/plu-66c4a5cf1e11410009b382c3.m3u8
-#EXTINF:-1 tvg-id="68485f62fcd2ec536bd11ac1" tvg-logo="https://i.postimg.cc/d0w3rdmP/mtv-ha.jpg" tvg-chno="20" group-title="Animados | Variado",Pluto TV | MTV | Halloween (BR)
-https://jmp2.uk/plu-68485f62fcd2ec536bd11ac1.m3u8
-#EXTINF:-1 tvg-id="6874aec6fd6704e9d3b9b45d" tvg-logo="https://i.postimg.cc/d0w3rdmP/mtv-ha.jpg" tvg-chno="21" group-title="Animados | Variado",Pluto TV | MTV | Halloween (CA)
-https://jmp2.uk/plu-6874aec6fd6704e9d3b9b45d.m3u8
-#EXTINF:-1 tvg-id="67fe4bf317d83d0b4cfef739" tvg-logo="https://i.postimg.cc/d0w3rdmP/mtv-ha.jpg" tvg-chno="22" group-title="Animados | Variado",Pluto TV | MTV | Halloween (DE)
-https://jmp2.uk/plu-67fe4bf317d83d0b4cfef739.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvmTYXJB/pride2.jpg" group-title="Animados | Variado",Pride TV | Feed Chile (LATAM)
 https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=dem0pRideTVweb
