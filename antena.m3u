@@ -7,7 +7,7 @@ https://pomf2.lain.la/f/572x442.mp4
 
 #EXTINF:-1 tvg-id="66b0dfa1d512590008bfa7fd" tvg-name="Pluto TV Gore & Slasher" tvg-logo="https://i.postimg.cc/pVgRH9CQ/pluto-g.jpg" tvg-chno="01" group-title="Animados | Variado",Pluto TV | Gore & Slasher (ES)
 https://jmp2.uk/plu-66b0dfa1d512590008bfa7fd.m3u8
-#EXTINF:-1 tvg-id="65786888b228b7000843ad9a" tvg-name="https://i.postimg.cc/G2MW3Bxz/zomb.jpg"  tvg-chno="02" group-title="Animados | Variado",Pluto TV | Zombies (ES)
+#EXTINF:-1 tvg-id="65786888b228b7000843ad9a" tvg-name="https://i.postimg.cc/QNHmKD9v/pluto-z.jpg" tvg-chno="02" group-title="Animados | Variado",Pluto TV | Zombies (ES)
 https://jmp2.uk/plu-65786888b228b7000843ad9a.m3u8
 #EXTINF:-1 tvg-id="66b0e00814a2bb00085f5934" tvg-logo="https://i.postimg.cc/8PTZXkdy/plutoterror.jpg" tvg-chno="03" group-title="Animados | Variado",Pluto TV | Terror Clásico (ES)
 https://jmp2.uk/plu-66b0e00814a2bb00085f5934.m3u8
@@ -16,7 +16,7 @@ https://jmp2.uk/plu-68345650e8377f86acdeda83.m3u8
 
 #EXTINF:-1 tvg-id="5d8d180092e97a5e107638d3" tvg-logo="https://i.postimg.cc/Wb2PmVKb/cint.jpg" tvg-chno="05" group-title="Animados | Variado" ,Pluto TV | Cine Terror (US)
 https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8
-#EXTINF:-1 tvg-id="5dcddf1ed95e740009fef7ab" tvg-logo="https://i.postimg.cc/Wb2PmVKb/cint.jpg" tvg-chno="06" group-title="Animados | Variado" ,Pluto TV | Cine Terror (LATAM)
+#EXTINF:-1 tvg-id="5dcddf1ed95e740009fef7ab" tvg-logo="https://i.postimg.cc/yxpYZ9Dg/pluto-cinet.jpg" tvg-chno="06" group-title="Animados | Variado" ,Pluto TV | Cine Terror (LATAM)
 https://jmp2.uk/plu-5dcddf1ed95e740009fef7ab.m3u8
 
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-64e6e2f04a5e9b4cedc6d52b" tvg-logo="https://i.postimg.cc/MTtc7LPc/cinehorror.jpg" tvg-chno="07" group-title="Animados | Variado",Plex | Cine de Horror (LATAM)
@@ -31,7 +31,7 @@ https://jmp2.uk/plu-6838a98df9bd067a38d1b8f7.m3u8
 #EXTINF:-1 tvg-id="5f4d3696d938c900072679fd" tvg-logo="https://i.postimg.cc/Bvq0pfYb/pluto-his.jpg" tvg-chno="10" group-title="Animados | Variado",Pluto TV | Historias de Ultratumba (LATAM)
 https://jmp2.uk/plu-5f4d3696d938c900072679fd.m3u8
 
-#EXTINF:-1 tvg-id="67f95fa76b11614ab0caaef3" tvg-logo="https://postimg.cc/jCntYqH7" tvg-chno="11" group-title="Animados | Variado",Pluto TV | Hechiceras (LATAM)
+#EXTINF:-1 tvg-id="67f95fa76b11614ab0caaef3" tvg-logo="https://i.postimg.cc/pVqT8pyq/hechi.jpg" tvg-chno="11" group-title="Animados | Variado",Pluto TV | Hechiceras (LATAM)
 https://jmp2.uk/plu-67f95fa76b11614ab0caaef3.m3u8
 #EXTINF:-1 tvg-id="678aa0b3680721c77c5035dd"  tvg-logo="https://i.postimg.cc/nL05LTYT/thewalkingdead.jpg" tvg-chno="12" group-title="Animados | Variado",Pluto TV | The Walking Dead by AMC (LATAM)
 https://jmp2.uk/plu-678aa0b3680721c77c5035dd.m3u8
