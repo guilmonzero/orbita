@@ -7,7 +7,7 @@ https://pomf2.lain.la/f/572x442.mp4
 
 #EXTINF:-1 tvg-id="66b0dfa1d512590008bfa7fd" tvg-name="Pluto TV Gore & Slasher" tvg-logo="https://i.postimg.cc/pVgRH9CQ/pluto-g.jpg" tvg-chno="01" group-title="Animados | Variado",Pluto TV | Gore & Slasher (ES)
 https://jmp2.uk/plu-66b0dfa1d512590008bfa7fd.m3u8
-#EXTINF:-1 tvg-id="65786888b228b7000843ad9a" tvg-name="https://i.postimg.cc/QNHmKD9v/pluto-z.jpg" tvg-chno="02" group-title="Animados | Variado",Pluto TV | Zombies (ES)
+#EXTINF:-1 tvg-id="65786888b228b7000843ad9a" tvg-logo="https://i.postimg.cc/QNHmKD9v/pluto-z.jpg" tvg-chno="02" group-title="Animados | Variado",Pluto TV | Zombies (ES)
 https://jmp2.uk/plu-65786888b228b7000843ad9a.m3u8
 #EXTINF:-1 tvg-id="66b0e00814a2bb00085f5934" tvg-logo="https://i.postimg.cc/8PTZXkdy/plutoterror.jpg" tvg-chno="03" group-title="Animados | Variado",Pluto TV | Terror Clásico (ES)
 https://jmp2.uk/plu-66b0e00814a2bb00085f5934.m3u8
