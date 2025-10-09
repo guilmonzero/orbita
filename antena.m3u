@@ -8,53 +8,53 @@ https://pomf2.lain.la/f/572x442.mp4
 #EXTINF:-1 tvg-id="66b0dfa1d512590008bfa7fd" tvg-name="Pluto TV Gore & Slasher" tvg-logo="https://i.postimg.cc/pVgRH9CQ/pluto-g.jpg" tvg-chno="01" group-title="Animados | Variado",Pluto TV | Gore & Slasher (ES)
 https://jmp2.uk/plu-66b0dfa1d512590008bfa7fd.m3u8
 
-#EXTINF:-1 tvg-id="65ce480a78df2200131c597b" tvg-name="Pluto TV Psycho" tvg-logo="https://i.postimg.cc/65xLVz7j/pluto-ps.jpg" tvg-chno="01" group-title="Animados | Variado",Pluto TV | Psycho (ES)
+#EXTINF:-1 tvg-id="65ce480a78df2200131c597b" tvg-name="Pluto TV Psycho" tvg-logo="https://i.postimg.cc/65xLVz7j/pluto-ps.jpg" tvg-chno="02" group-title="Animados | Variado",Pluto TV | Psycho (ES)
 https://jmp2.uk/plu-65ce480a78df2200131c597b.m3u8
 
-#EXTINF:-1 tvg-id="65786888b228b7000843ad9a" tvg-logo="https://i.postimg.cc/QNHmKD9v/pluto-z.jpg" tvg-chno="02" group-title="Animados | Variado",Pluto TV | Zombies (ES)
+#EXTINF:-1 tvg-id="65786888b228b7000843ad9a" tvg-logo="https://i.postimg.cc/QNHmKD9v/pluto-z.jpg" tvg-chno="03" group-title="Animados | Variado",Pluto TV | Zombies (ES)
 https://jmp2.uk/plu-65786888b228b7000843ad9a.m3u8
-#EXTINF:-1 tvg-id="66b0e00814a2bb00085f5934" tvg-logo="https://i.postimg.cc/8PTZXkdy/plutoterror.jpg" tvg-chno="03" group-title="Animados | Variado",Pluto TV | Terror Clásico (ES)
+#EXTINF:-1 tvg-id="66b0e00814a2bb00085f5934" tvg-logo="https://i.postimg.cc/8PTZXkdy/plutoterror.jpg" tvg-chno="04" group-title="Animados | Variado",Pluto TV | Terror Clásico (ES)
 https://jmp2.uk/plu-66b0e00814a2bb00085f5934.m3u8
-#EXTINF:-1 tvg-id="68345650e8377f86acdeda83" tvg-logo="https://i.postimg.cc/15yv7R0K/pluto-set.jpg" tvg-chno="04" group-title="Animados | Variado",Pluto TV | Series Terror (ES)
+#EXTINF:-1 tvg-id="68345650e8377f86acdeda83" tvg-logo="https://i.postimg.cc/15yv7R0K/pluto-set.jpg" tvg-chno="05" group-title="Animados | Variado",Pluto TV | Series Terror (ES)
 https://jmp2.uk/plu-68345650e8377f86acdeda83.m3u8
 
-#EXTINF:-1 tvg-id="5d8d180092e97a5e107638d3" tvg-logo="https://i.postimg.cc/Wb2PmVKb/cint.jpg" tvg-chno="05" group-title="Animados | Variado" ,Pluto TV | Cine Terror (US)
+#EXTINF:-1 tvg-id="5d8d180092e97a5e107638d3" tvg-logo="https://i.postimg.cc/Wb2PmVKb/cint.jpg" tvg-chno="06" group-title="Animados | Variado" ,Pluto TV | Cine Terror (US)
 https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8
-#EXTINF:-1 tvg-id="5dcddf1ed95e740009fef7ab" tvg-logo="https://i.postimg.cc/yxpYZ9Dg/pluto-cinet.jpg" tvg-chno="06" group-title="Animados | Variado" ,Pluto TV | Cine Terror (LATAM)
+#EXTINF:-1 tvg-id="5dcddf1ed95e740009fef7ab" tvg-logo="https://i.postimg.cc/yxpYZ9Dg/pluto-cinet.jpg" tvg-chno="07" group-title="Animados | Variado" ,Pluto TV | Cine Terror (LATAM)
 https://jmp2.uk/plu-5dcddf1ed95e740009fef7ab.m3u8
 
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-64e6e2f04a5e9b4cedc6d52b" tvg-logo="https://i.postimg.cc/MTtc7LPc/cinehorror.jpg" tvg-chno="07" group-title="Animados | Variado",Plex | Cine de Horror (LATAM)
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-64e6e2f04a5e9b4cedc6d52b" tvg-logo="https://i.postimg.cc/MTtc7LPc/cinehorror.jpg" tvg-chno="08" group-title="Animados | Variado",Plex | Cine de Horror (LATAM)
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-64e6e2f04a5e9b4cedc6d52b.m3u8
 
-#EXTINF:-1 tvg-id="ESBC40000248" tvg-logo="https://i.postimg.cc/PrFRtYz3/horrorvision.jpg" tvg-chno="08" group-title="Animados | Variado",Samsung TV Plus | Horror Visión (ES)
+#EXTINF:-1 tvg-id="ESBC40000248" tvg-logo="https://i.postimg.cc/PrFRtYz3/horrorvision.jpg" tvg-chno="09" group-title="Animados | Variado",Samsung TV Plus | Horror Visión (ES)
 https://jmp2.uk/stvp-ESBC40000248
 
-#EXTINF:-1 tvg-id="6838a98df9bd067a38d1b8f7" tvg-logo="https://i.postimg.cc/wjvgpVVj/cria.jpg" tvg-chno="09" group-title="Animados | Variado",Pluto TV | Criaturas Malditas (LATAM)
+#EXTINF:-1 tvg-id="6838a98df9bd067a38d1b8f7" tvg-logo="https://i.postimg.cc/wjvgpVVj/cria.jpg" tvg-chno="10" group-title="Animados | Variado",Pluto TV | Criaturas Malditas (LATAM)
 https://jmp2.uk/plu-6838a98df9bd067a38d1b8f7.m3u8
 
-#EXTINF:-1 tvg-id="5f4d3696d938c900072679fd" tvg-logo="https://i.postimg.cc/Bvq0pfYb/pluto-his.jpg" tvg-chno="10" group-title="Animados | Variado",Pluto TV | Historias de Ultratumba (LATAM)
+#EXTINF:-1 tvg-id="5f4d3696d938c900072679fd" tvg-logo="https://i.postimg.cc/Bvq0pfYb/pluto-his.jpg" tvg-chno="11" group-title="Animados | Variado",Pluto TV | Historias de Ultratumba (LATAM)
 https://jmp2.uk/plu-5f4d3696d938c900072679fd.m3u8
 
-#EXTINF:-1 tvg-id="67f95fa76b11614ab0caaef3" tvg-logo="https://i.postimg.cc/pVqT8pyq/hechi.jpg" tvg-chno="11" group-title="Animados | Variado",Pluto TV | Hechiceras (LATAM)
+#EXTINF:-1 tvg-id="67f95fa76b11614ab0caaef3" tvg-logo="https://i.postimg.cc/pVqT8pyq/hechi.jpg" tvg-chno="12" group-title="Animados | Variado",Pluto TV | Hechiceras (LATAM)
 https://jmp2.uk/plu-67f95fa76b11614ab0caaef3.m3u8
-#EXTINF:-1 tvg-id="678aa0b3680721c77c5035dd"  tvg-logo="https://i.postimg.cc/nL05LTYT/thewalkingdead.jpg" tvg-chno="12" group-title="Animados | Variado",Pluto TV | The Walking Dead by AMC (LATAM)
+#EXTINF:-1 tvg-id="678aa0b3680721c77c5035dd"  tvg-logo="https://i.postimg.cc/nL05LTYT/thewalkingdead.jpg" tvg-chno="13" group-title="Animados | Variado",Pluto TV | The Walking Dead by AMC (LATAM)
 https://jmp2.uk/plu-678aa0b3680721c77c5035dd.m3u8
 
-#EXTINF:-1 tvg-id="612ce5214bb5790007ad3016" tvg-logo="https://i.postimg.cc/T2j6WwYR/pluto-p.jpg" tvg-chno="13" group-title="Animados | Variado",Pluto TV | Paranormal (ES)
+#EXTINF:-1 tvg-id="612ce5214bb5790007ad3016" tvg-logo="https://i.postimg.cc/T2j6WwYR/pluto-p.jpg" tvg-chno="14" group-title="Animados | Variado",Pluto TV | Paranormal (ES)
 https://jmp2.uk/plu-612ce5214bb5790007ad3016.m3u8
 
-#EXTINF:-1 tvg-id="609ae5cd48d3200007b0a98e" tvg-logo="https://i.postimg.cc/15sTqrfV/pluto-so.jpg" tvg-chno="14" group-title="Animados | Variado",Pluto TV | South Park | Halloween (LATAM)
+#EXTINF:-1 tvg-id="609ae5cd48d3200007b0a98e" tvg-logo="https://i.postimg.cc/15sTqrfV/pluto-so.jpg" tvg-chno="15" group-title="Animados | Variado",Pluto TV | South Park | Halloween (LATAM)
 https://jmp2.uk/plu-609ae5cd48d3200007b0a98e.m3u8
 
-#EXTINF:-1 tvg-id="6874adbb3ffa5e0c917f721e" tvg-logo="https://i.postimg.cc/dVF2558P/pluto-k.jpg" tvg-chno="15" group-title="Animados | Variado",Pluto TV | Kids Halloween (CA)
+#EXTINF:-1 tvg-id="6874adbb3ffa5e0c917f721e" tvg-logo="https://i.postimg.cc/dVF2558P/pluto-k.jpg" tvg-chno="16" group-title="Animados | Variado",Pluto TV | Kids Halloween (CA)
 https://jmp2.uk/plu-6874adbb3ffa5e0c917f721e.m3u8
 
-#EXTINF:-1 tvg-id="660e767baec9680008fac009" tvg-logo="https://i.postimg.cc/d3Sf8z7C/pluto-ha.jpg" tvg-chno="16" group-title="Animados | Variado",Pluto TV | Halloween (DE)
+#EXTINF:-1 tvg-id="660e767baec9680008fac009" tvg-logo="https://i.postimg.cc/d3Sf8z7C/pluto-ha.jpg" tvg-chno="17" group-title="Animados | Variado",Pluto TV | Halloween (DE)
 https://jmp2.uk/plu-660e767baec9680008fac009.m3u8
-#EXTINF:-1 tvg-id="62e8d3c2c2db99000787b786" tvg-logo="https://i.postimg.cc/d3Sf8z7C/pluto-ha.jpg" tvg-chno="17" group-title="Animados | Variado",Pluto TV | Halloween (IT)
+#EXTINF:-1 tvg-id="62e8d3c2c2db99000787b786" tvg-logo="https://i.postimg.cc/d3Sf8z7C/pluto-ha.jpg" tvg-chno="18" group-title="Animados | Variado",Pluto TV | Halloween (IT)
 https://jmp2.uk/plu-62e8d3c2c2db99000787b786.m3u8
 
-#EXTINF:-1 tvg-id="68485d6fe99efeef64428f98" tvg-logo="https://i.postimg.cc/d0w3rdmP/mtv-ha.jpg" tvg-chno="18" group-title="Animados | Variado",Pluto TV | MTV | Halloween (LATAM)
+#EXTINF:-1 tvg-id="68485d6fe99efeef64428f98" tvg-logo="https://i.postimg.cc/d0w3rdmP/mtv-ha.jpg" tvg-chno="19" group-title="Animados | Variado",Pluto TV | MTV | Halloween (LATAM)
 https://jmp2.uk/plu-68485d6fe99efeef64428f98.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvmTYXJB/pride2.jpg" group-title="Animados | Variado",Pride TV | Feed Chile (LATAM)
@@ -142,6 +142,9 @@ https://jmp2.uk/stvp-ES3000288I
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vH279xCf/ani2.jpg" group-title="Animados | Variado",Ani (RU)
 http://31.148.48.15/Ani/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzVsHRLF/animotion2.jpg" group-title="Animados | Variado",Animotion (LATAM)
+http://45.173.201.51:4000/play/a01e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rmdD5VgS/anir.jpg" group-title="Animados | Variado",AniRetro (CL)
 https://tv.arkeo.cl:19360/8000/8000.m3u8
@@ -358,8 +361,11 @@ http://viphlvp.xyz:8080/VIP018591735564577288/8a620abdcadb/652
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=FilmRiseSciFiSpanish&ads.csid=zeus_es_filmrisescifispanish_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3689&ads.rakuten_streaming_id=9d559fca-cb04-4b3b-b4f6-24460a719b7d&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883026&ads.xumo_contentId=2701&ads.xumo_contentName=FilmRiseSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2701&ads.xumo_providerName=FilmRiseSpanish&ads.xumo_streamId=88883026
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnTw5tfk/fmh-family.jpg" group-title="Animados | Variado",Fmh | Family (LATAM)
+http://45.173.201.51:4000/play/a01b/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Dz4tWV7h/fmh-kids.jpg" group-title="Animados | Variado",Fmh | Kids (LATAM)
+http://45.173.201.51:4000/play/a01c/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vZ9ZbpCH/fmh-m.jpg" group-title="Animados | Variado",Fmh | Movies (LATAM)
+http://45.173.201.51:4000/play/a01a/index.m3u8
 
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-621674502c2627c068e73ada" tvg-logo="https://i.postimg.cc/hjSNbWbz/fri.jpg" group-title="Animados | Variado",FrightFlix | Plex (US)
 https://jmp2.uk/plex-643054b1fc3be59477853717-621674502c2627c068e73ada.m3u8
@@ -4175,6 +4181,8 @@ https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/R0XM95Xx/telehitx.jpg" group-title="Música 🎼",Telehit (MX)
 http://190.11.225.124:5000/live/telehit_hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5F2MHnp/telehitm.jpg" group-title="Música 🎼",Telehit | Música (MX)
+http://45.173.201.51:4000/play/a0jt/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0QpR20r5/teleritmo.jpg" group-title="Música 🎼",Tele Ritmo (MX)
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
@@ -4886,6 +4894,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 https://amg00658-amg00658c60-canelatv-international-5442.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-novelisimaappta-canelatvinternational/playlist.m3u8?rights_holder_id=novelisima&user_id=&ic=IAB1-7&content_livestream=1&app_bundle=canela.tv&app_name=CanelaTV&app_store_url=NA&dnt=0&did=02e27c44-b3ec-4523-9c12-e9b90380087a&url=https://www.canela.tv/player/channel/novelisima&us_privacy=null_us_privacy&ifa_type=NA&lmt=NA&device_language=es&coppa=0
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nzh0Z24s/oldplay.jpg" group-title="Películas | Series",OLD (LATAM)
+http://45.173.201.51:4000/play/a0mx/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bJ1LyZYW/orbit.jpg" group-title="Películas | Series",Orbit (RD)
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
