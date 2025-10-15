@@ -2,7 +2,7 @@
 #EXTINF:-1 GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 #EXTINF:-1 Para disfrutar de los canales y abrir correctamente, añade esta dirección a la aplicación IPTV PRO una vez instalada, disponible GRATIS en Google Play o bien descargala sin anuncios y completa acá: https//bit.ly/orbitaxpp  Compactible para todos tus dispositivos con Android y Google TV, TVBox, ect... 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8kBn99zh/orbi2025.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 09.10.25
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8kBn99zh/orbi2025.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 15.10.25
 https://pomf2.lain.la/f/572x442.mp4
 
 #EXTINF:-1 tvg-id="66b0dfa1d512590008bfa7fd" tvg-name="Pluto TV Gore & Slasher" tvg-logo="https://i.postimg.cc/pVgRH9CQ/pluto-g.jpg" tvg-chno="01" group-title="Animados | Variado",Pluto TV | Gore & Slasher (ES)
@@ -7373,6 +7373,8 @@ https://archive.org/serve/03-scooby-doo-visita-a-los-locos-adams-esp-las-nuevas-
 https://archive.org/download/ddd5d5-04/ddd5d5/ddd5d5-01.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MpMbXzkV/sco1.jpg" group-title="Mas Películas 🎃",Scooby Doo | La Escuela de Fantasmas | 1988 | Latino
 https://archive.org/serve/scooby-doo-y-la-escuela-de-fantasmas-1988/Scooby-Doo%20y%20la%20Escuela%20de%20Fantasmas%20%281988%29.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CTT0XvH/sco10.jpg" group-title="Mas Películas 🎃",Scooby Doo | La Isla de los Zombies | 1998 | Latino
+https://archive.org/serve/sc-00by-d-00-y-l-4-1sl-4-d-3-l-0s-z-0mb-13s/Sc00by-D00%21%20Y%20L4%201sl4%20D3%20L0s%20Z0mb13s.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9f5hnPyS/sco4.jpg" group-title="Mas Películas 🎃",Scooby Doo | Los Invasores Alien  | 2000 | Latino
 https://archive.org/serve/2000-scooby-doo-y-los-invasores-alien-480p.-www.-seires-hd.-com.mkv/2000%20Scooby%20doo%20y%20los%20invasores%20al%C3%ADen%20480p.Www.SeiresHD.Com.mkv.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7b8T3L3Q/sco6.jpg" group-title="Mas Películas 🎃",Scooby Doo | Misterio en La Lucha Libre | 2014 | Latino
@@ -18737,247 +18739,364 @@ https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-tempra
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzrtw4jj/t3.jpg" group-title="La Dimensión Desconocida",La Dimensión Desconocida | S03E30 | Latino [1989]
 https://archive.org/download/01-x-27-una-vida-por-cortesia-de-una-pobreza-temprana/03X30%20Dimensi%C3%B3n%20Desconocida%201985.%20El%20Juego%20De%20Padre%20E%20Hijo%20%28Father%20And%20Son%20Game%29.ia.mp4
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rF6zfVG2/be1.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S01E01 | Latino [1989]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MpPfKtHb/sco1.jpg" group-title="Scooby Doo Cachorro",Un cachorro llamado Scooby Doo | S01E01 | Latino [1988]
+https://archive.org/download/CachorroScoobyDoo88/1x01%20-%20El%20misterio%20de%20la%20bicicleta%20robada.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MpPfKtHb/sco1.jpg" group-title="Scooby Doo Cachorro",Un cachorro llamado Scooby Doo | S01E02 | Latino [1988]
+https://archive.org/download/CachorroScoobyDoo88/1x02%20-%20El%20misterio%20del%20monstruo%20del%20centro%20de%20la%20tierra.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MpPfKtHb/sco1.jpg" group-title="Scooby Doo Cachorro",Un cachorro llamado Scooby Doo | S01E03 | Latino [1988]
+https://archive.org/download/CachorroScoobyDoo88/1x03%20-%20El%20misterio%20del%20monstruo%20de%20queso.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MpPfKtHb/sco1.jpg" group-title="Scooby Doo Cachorro",Un cachorro llamado Scooby Doo | S01E04 | Latino [1988]
+https://archive.org/download/CachorroScoobyDoo88/1x04%20-%20Un%20monstruo%20se%20ha%20llevado%20mi%20c%C3%B3mic.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MpPfKtHb/sco1.jpg" group-title="Scooby Doo Cachorro",Un cachorro llamado Scooby Doo | S01E05 | Latino [1988]
+https://archive.org/download/CachorroScoobyDoo88/1x05%20-%20Un%20fantasma%20detr%C3%A1s%20de%20emisi%C3%B3n.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MpPfKtHb/sco1.jpg" group-title="Scooby Doo Cachorro",Un cachorro llamado Scooby Doo | S01E06 | Latino [1988]
+https://archive.org/download/CachorroScoobyDoo88/1x06%20-%20Una%20ni%C3%B1era%20del%20m%C3%A1s%20all%C3%A1.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MpPfKtHb/sco1.jpg" group-title="Scooby Doo Cachorro",Un cachorro llamado Scooby Doo | S01E07 | Latino [1988]
+https://archive.org/download/CachorroScoobyDoo88/1x07%20-%20Un%20misterio%20muy%20fr%C3%ADo.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MpPfKtHb/sco1.jpg" group-title="Scooby Doo Cachorro",Un cachorro llamado Scooby Doo | S01E08 | Latino [1988]
+https://archive.org/download/CachorroScoobyDoo88/1x08%20-%20El%20fantasma%20del%20museo.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MpPfKtHb/sco1.jpg" group-title="Scooby Doo Cachorro",Un cachorro llamado Scooby Doo | S01E09 | Latino [1988]
+https://archive.org/download/CachorroScoobyDoo88/1x09%20-%20El%20patinador%20sin%20cabeza.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MpPfKtHb/sco1.jpg" group-title="Scooby Doo Cachorro",Un cachorro llamado Scooby Doo | S01E10 | Latino [1988]
+https://archive.org/download/CachorroScoobyDoo88/1x10%20-%20Una%20noche%20de%20brujas.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MpPfKtHb/sco1.jpg" group-title="Scooby Doo Cachorro",Un cachorro llamado Scooby Doo | S01E11 | Latino [1988]
+https://archive.org/download/CachorroScoobyDoo88/1x11%20-%20Un%20monstruo%20de%20madera.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MpPfKtHb/sco1.jpg" group-title="Scooby Doo Cachorro",Un cachorro llamado Scooby Doo | S01E12 | Latino [1988]
+https://archive.org/download/CachorroScoobyDoo88/1x12%20-%20El%20perro%20nuclear.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MpPfKtHb/sco1.jpg" group-title="Scooby Doo Cachorro",Un cachorro llamado Scooby Doo | S01E13 | Latino [1988]
+https://archive.org/download/CachorroScoobyDoo88/1x13%20-%20Luces%2C%20c%C3%A1mara%2C%20un%20monstruo.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSvG4gLR/sco2.jpg" group-title="Scooby Doo Cachorro",Un cachorro llamado Scooby Doo | S02E01 | Latino [1989]
+https://archive.org/download/CachorroScoobyDoo88/2x01%20-%20La%20maldici%C3%B3n%20del%20collar.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSvG4gLR/sco2.jpg" group-title="Scooby Doo Cachorro",Un cachorro llamado Scooby Doo | S02E02 | Latino [1989]
+https://archive.org/download/CachorroScoobyDoo88/2x02%20-%20El%20regreso%20del%20Comandante%20Coloso.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSvG4gLR/sco2.jpg" group-title="Scooby Doo Cachorro",Un cachorro llamado Scooby Doo | S02E03 | Latino [1989]
+https://archive.org/download/CachorroScoobyDoo88/2x03%20-%20El%20fantasma%20rockero.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSvG4gLR/sco2.jpg" group-title="Scooby Doo Cachorro",Un cachorro llamado Scooby Doo | S02E04 | Latino [1989]
+https://archive.org/download/CachorroScoobyDoo88/2x04%20-%20Gallenstein%20vive.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSvG4gLR/sco2.jpg" group-title="Scooby Doo Cachorro",Un cachorro llamado Scooby Doo | S02E05 | Latino [1989]
+https://archive.org/download/CachorroScoobyDoo88/2x05%20-%20La%20noche%20de%20la%20hamburguesa%20viviente.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSvG4gLR/sco2.jpg" group-title="Scooby Doo Cachorro",Un cachorro llamado Scooby Doo | S02E06 | Latino [1989]
+https://archive.org/download/CachorroScoobyDoo88/2x06%20-%20Nos%20invaden%20las%20m%C3%A1quinas.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSvG4gLR/sco2.jpg" group-title="Scooby Doo Cachorro",Un cachorro llamado Scooby Doo | S02E07 | Latino [1989]
+https://archive.org/download/CachorroScoobyDoo88/2x07%20-%20Scooby-Doo%20se%20va%20de%20casa.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSvG4gLR/sco2.jpg" group-title="Scooby Doo Cachorro",Un cachorro llamado Scooby Doo | S02E08 | Latino [1989]
+https://archive.org/download/CachorroScoobyDoo88/2x08%20-%20El%20espect%C3%A1culo%20m%C3%A1s%20grande%20del%20mundo.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NzM6mK3/sco3.jpg" group-title="Scooby Doo Cachorro",Un cachorro llamado Scooby Doo | S03E01 | Latino [1990]
+https://archive.org/download/CachorroScoobyDoo88/3x03%20-%20Los%20locos%20de%20la%20lucha%20libre.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NzM6mK3/sco3.jpg" group-title="Scooby Doo Cachorro",Un cachorro llamado Scooby Doo | S03E02 | Latino [1990]
+https://archive.org/download/CachorroScoobyDoo88/3x04%20-%20El%20horror%20de%20la%20peluca%20embrujada.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NzM6mK3/sco3.jpg" group-title="Scooby Doo Cachorro",Un cachorro llamado Scooby Doo | S03E03 | Latino [1990]
+https://archive.org/download/CachorroScoobyDoo88/3x05%20-%20Las%20travesuras%20del%20molusco%20andar%C3%ADn.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/43Y7KtHj/sco4.jpg" group-title="Scooby Doo Cachorro",Un cachorro llamado Scooby Doo | S04E01 | Latino [1991]
+https://archive.org/download/CachorroScoobyDoo88/3x06%20-%20El%20monstruo%20de%20la%20mansi%C3%B3n%20Doo.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/43Y7KtHj/sco4.jpg" group-title="Scooby Doo Cachorro",Un cachorro llamado Scooby Doo | S04E02 | Latino [1991]
+https://archive.org/download/CachorroScoobyDoo88/3x07%20-%20El%20Catcher%20astuto.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/43Y7KtHj/sco4.jpg" group-title="Scooby Doo Cachorro",Un cachorro llamado Scooby Doo | S04E03 | Latino [1991]
+https://archive.org/download/CachorroScoobyDoo88/3x08%20-%20El%20fantasma%20de%20la%20Sra.%20Shusham.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/43Y7KtHj/sco4.jpg" group-title="Scooby Doo Cachorro",Un cachorro llamado Scooby Doo | S04E04 | Latino [1991]
+https://archive.org/download/CachorroScoobyDoo88/3x09%20-%20La%20furia%20del%20mesero.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kGbkY7Yb/scra1.jpg" group-title="Mas de Scooby Doo",Scooby Doo y Scrappy Doo | S01E01 | Latino [1979]
+https://archive.org/download/el-show-de-scooby-doo-y-scrappy-doo-2x-03seriesretro/El%20show%20de%20Scooby-Doo%20y%20Scrappy-Doo%202x02seriesretro.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kGbkY7Yb/scra1.jpg" group-title="Mas de Scooby Doo",Scooby Doo y Scrappy Doo | S01E02 | Latino [1979]
+https://archive.org/download/el-show-de-scooby-doo-y-scrappy-doo-2x-03seriesretro/El%20show%20de%20Scooby-Doo%20y%20Scrappy-Doo%202x03seriesretro%20-.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kGbkY7Yb/scra1.jpg" group-title="Mas de Scooby Doo",Scooby Doo y Scrappy Doo | S01E03 | Latino [1979]
+https://archive.org/download/el-show-de-scooby-doo-y-scrappy-doo-2x-03seriesretro/El%20show%20de%20Scooby-Doo%20y%20Scrappy-Doo%202x04seriesretro.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kGbkY7Yb/scra1.jpg" group-title="Mas de Scooby Doo",Scooby Doo y Scrappy Doo | S01E04 | Latino [1979]
+https://archive.org/download/el-show-de-scooby-doo-y-scrappy-doo-2x-03seriesretro/El%20show%20de%20Scooby-Doo%20y%20Scrappy-Doo%202x05seriesretro%20-.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kGbkY7Yb/scra1.jpg" group-title="Mas de Scooby Doo",Scooby Doo y Scrappy Doo | S01E05 | Latino [1979]
+https://archive.org/download/el-show-de-scooby-doo-y-scrappy-doo-2x-03seriesretro/El%20show%20de%20Scooby-Doo%20y%20Scrappy-Doo%202x06seriesretro%20-.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kGbkY7Yb/scra1.jpg" group-title="Mas de Scooby Doo",Scooby Doo y Scrappy Doo | S01E06 | Latino [1979]
+https://archive.org/download/el-show-de-scooby-doo-y-scrappy-doo-2x-03seriesretro/El%20show%20de%20Scooby-Doo%20y%20Scrappy-Doo%202x07seriesretro.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kGbkY7Yb/scra1.jpg" group-title="Mas de Scooby Doo",Scooby Doo y Scrappy Doo | S01E07 | Latino [1979]
+https://archive.org/download/el-show-de-scooby-doo-y-scrappy-doo-2x-03seriesretro/El%20show%20de%20Scooby-Doo%20y%20Scrappy-Doo%202x08seriesretro.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kGbkY7Yb/scra1.jpg" group-title="Mas de Scooby Doo",Scooby Doo y Scrappy Doo | S01E08 | Latino [1979]
+https://archive.org/download/el-show-de-scooby-doo-y-scrappy-doo-2x-03seriesretro/El%20show%20de%20Scooby-Doo%20y%20Scrappy-Doo%202x13seriesretro.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kGbkY7Yb/scra1.jpg" group-title="Mas de Scooby Doo",Scooby Doo y Scrappy Doo | S01E09 | Latino [1979]
+https://archive.org/download/el-show-de-scooby-doo-y-scrappy-doo-2x-03seriesretro/El.show.de.Scooby-Doo.y.Scrappy-Doo.3x01.-seriesretro.-.Copy.%282%29.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kGbkY7Yb/scra1.jpg" group-title="Mas de Scooby Doo",Scooby Doo y Scrappy Doo | S01E10 | Latino [1979]
+https://archive.org/download/el-show-de-scooby-doo-y-scrappy-doo-2x-03seriesretro/El.show.de.Scooby-Doo.y.Scrappy-Doo.3x04.-seriesretro.-.Copy.%282%29.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kGbkY7Yb/scra1.jpg" group-title="Mas de Scooby Doo",Scooby Doo y Scrappy Doo | S01E11 | Latino [1979]
+https://archive.org/download/el-show-de-scooby-doo-y-scrappy-doo-2x-03seriesretro/El.show.de.Scooby-Doo.y.Scrappy-Doo.3x05.-seriesretro.-.Copy.%282%29.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kGbkY7Yb/scra1.jpg" group-title="Mas de Scooby Doo",Scooby Doo y Scrappy Doo | S01E12 | Latino [1979]
+https://archive.org/download/el-show-de-scooby-doo-y-scrappy-doo-2x-03seriesretro/El.show.de.Scooby-Doo.y.Scrappy-Doo.3x06.-seriesretro.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kGbkY7Yb/scra1.jpg" group-title="Mas de Scooby Doo",Scooby Doo y Scrappy Doo | S01E13 | Latino [1980]
+https://archive.org/download/el-show-de-scooby-doo-y-scrappy-doo-2x-03seriesretro/El.show.de.Scooby-Doo.y.Scrappy-Doo.3x07.-seriesretro.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Rbrprzg/scos.jpg" group-title="Mas de Scooby Doo",El Show de Scooby Doo | S03E01 | Latino [1978]
+https://archive.org/download/3x-15-el-brujo-de-wimbledon/3x01%20-%20Cuidado%20con%20los%20Willawaw.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Rbrprzg/scos.jpg" group-title="Mas de Scooby Doo",El Show de Scooby Doo | S03E02 | Latino [1978]
+https://archive.org/download/3x-15-el-brujo-de-wimbledon/3x02%20-%20Un%20enredo%20morrocotudo%20en%20el%20tri%C3%A1ngulo%20de%20las%20Bermudas.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Rbrprzg/scos.jpg" group-title="Mas de Scooby Doo",El Show de Scooby Doo | S03E03 | Latino [1978]
+https://archive.org/download/3x-15-el-brujo-de-wimbledon/3x03%20-%20La%20abominable%20bestia%20de%20las%20nieves.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Rbrprzg/scos.jpg" group-title="Mas de Scooby Doo",El Show de Scooby Doo | S03E04 | Latino [1978]
+https://archive.org/download/3x-15-el-brujo-de-wimbledon/3x04%20-%20La%20bruja%20de%20Salem.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Rbrprzg/scos.jpg" group-title="Mas de Scooby Doo",El Show de Scooby Doo | S03E05 | Latino [1978]
+https://archive.org/download/3x-15-el-brujo-de-wimbledon/3x05%20-%20El%20monstruo%20de%20brea.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Rbrprzg/scos.jpg" group-title="Mas de Scooby Doo",El Show de Scooby Doo | S03E06 | Latino [1978]
+https://archive.org/download/3x-15-el-brujo-de-wimbledon/3x06%20-%20El%20monstruo%20del%20Lago%20Ness.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Rbrprzg/scos.jpg" group-title="Mas de Scooby Doo",El Show de Scooby Doo | S03E07 | Latino [1978]
+https://archive.org/download/3x-15-el-brujo-de-wimbledon/3x07%20-%20El%20pavoroso%20caso%20del%20hombre%20de%20cara%20de%20hierro.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Rbrprzg/scos.jpg" group-title="Mas de Scooby Doo",El Show de Scooby Doo | S03E08 | Latino [1978]
+https://archive.org/download/3x-15-el-brujo-de-wimbledon/3x08%20-%20El%20misterio%20del%20Jaguaro.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Rbrprzg/scos.jpg" group-title="Mas de Scooby Doo",El Show de Scooby Doo | S03E09 | Latino [1978]
+https://archive.org/download/3x-15-el-brujo-de-wimbledon/3x09%20-%20%C2%BFQui%C3%A9n%20era%20esa%20criatura%20gato%C2%BF.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Rbrprzg/scos.jpg" group-title="Mas de Scooby Doo",El Show de Scooby Doo | S03E10 | Latino [1978]
+https://archive.org/download/3x-15-el-brujo-de-wimbledon/3x10%20-%20La%20criatura%20del%20jard%C3%ADn%20bot%C3%A1nico.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Rbrprzg/scos.jpg" group-title="Mas de Scooby Doo",El Show de Scooby Doo | S03E11 | Latino [1978]
+https://archive.org/download/3x-15-el-brujo-de-wimbledon/3x11%20-%20El%20diab%C3%B3lico%20demonio.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Rbrprzg/scos.jpg" group-title="Mas de Scooby Doo",El Show de Scooby Doo | S03E12 | Latino [1978]
+https://archive.org/download/3x-15-el-brujo-de-wimbledon/3x12%20-%20El%20monstruo%20ladr%C3%B3n.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Rbrprzg/scos.jpg" group-title="Mas de Scooby Doo",El Show de Scooby Doo | S03E13 | Latino [1980]
+https://archive.org/download/3x-15-el-brujo-de-wimbledon/3x13%20-%20La%20amenaza%20en%20Venecia.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Rbrprzg/scos.jpg" group-title="Mas de Scooby Doo",El Show de Scooby Doo | S03E14 | Latino [1978]
+https://archive.org/download/3x-15-el-brujo-de-wimbledon/3x14%20-%20No%20se%20acerquen%20a%20la%20fortaleza%20del%20terror.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Rbrprzg/scos.jpg" group-title="Mas de Scooby Doo",El Show de Scooby Doo | S03E15 | Latino [1978]
+https://archive.org/download/3x-15-el-brujo-de-wimbledon/3x15%20-%20El%20brujo%20de%20Wimbledon.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Rbrprzg/scos.jpg" group-title="Mas de Scooby Doo",El Show de Scooby Doo | S03E16 | Latino [1978]
+https://archive.org/download/3x-15-el-brujo-de-wimbledon/3x16%20-%20La%20bestia%20del%20Lago.ia.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rF6zfVG2/be1.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S01E01 | Latino [1989]
 https://archive.org/download/BeetlejuiceTV89/1x001.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rF6zfVG2/be1.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S01E02 | Latino [1989]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rF6zfVG2/be1.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S01E02 | Latino [1989]
 https://archive.org/download/BeetlejuiceTV89/1x002.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rF6zfVG2/be1.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S01E03 | Latino [1989]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rF6zfVG2/be1.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S01E03 | Latino [1989]
 https://archive.org/download/BeetlejuiceTV89/1x003.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rF6zfVG2/be1.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S01E04 | Latino [1989]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rF6zfVG2/be1.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S01E04 | Latino [1989]
 https://archive.org/download/BeetlejuiceTV89/1x004.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rF6zfVG2/be1.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S01E05 | Latino [1989]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rF6zfVG2/be1.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S01E05 | Latino [1989]
 https://archive.org/download/BeetlejuiceTV89/1x005.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rF6zfVG2/be1.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S01E06 | Latino [1989]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rF6zfVG2/be1.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S01E06 | Latino [1989]
 https://archive.org/download/BeetlejuiceTV89/1x006.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rF6zfVG2/be1.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S01E07 | Latino [1989]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rF6zfVG2/be1.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S01E07 | Latino [1989]
 https://archive.org/download/BeetlejuiceTV89/1x007.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rF6zfVG2/be1.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S01E08 | Latino [1989]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rF6zfVG2/be1.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S01E08 | Latino [1989]
 https://archive.org/download/BeetlejuiceTV89/1x008.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rF6zfVG2/be1.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S01E09 | Latino [1989]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rF6zfVG2/be1.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S01E09 | Latino [1989]
 https://archive.org/download/BeetlejuiceTV89/1x009.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rF6zfVG2/be1.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S01E10 | Latino [1989]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rF6zfVG2/be1.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S01E10 | Latino [1989]
 https://archive.org/download/BeetlejuiceTV89/1x010.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rF6zfVG2/be1.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S01E11 | Latino [1989]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rF6zfVG2/be1.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S01E11 | Latino [1989]
 https://archive.org/download/BeetlejuiceTV89/1x011.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rF6zfVG2/be1.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S01E12 | Latino [1989]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rF6zfVG2/be1.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S01E12 | Latino [1989]
 https://archive.org/download/BeetlejuiceTV89/1x012.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rF6zfVG2/be1.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S01E13 | Latino [1989]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rF6zfVG2/be1.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S01E13 | Latino [1989]
 https://archive.org/download/BeetlejuiceTV89/1x013.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gkvj5C4X/be2.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S02E01 | Latino [1990]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gkvj5C4X/be2.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S02E01 | Latino [1990]
 https://archive.org/download/BeetlejuiceTV89/1x014.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gkvj5C4X/be2.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S02E02 | Latino [1990]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gkvj5C4X/be2.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S02E02 | Latino [1990]
 https://archive.org/download/BeetlejuiceTV89/1x015.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gkvj5C4X/be2.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S02E03 | Latino [1990]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gkvj5C4X/be2.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S02E03 | Latino [1990]
 https://archive.org/download/BeetlejuiceTV89/1x016.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gkvj5C4X/be2.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S02E04 | Latino [1990]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gkvj5C4X/be2.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S02E04 | Latino [1990]
 https://archive.org/download/BeetlejuiceTV89/1x017.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gkvj5C4X/be2.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S02E05 | Latino [1990]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gkvj5C4X/be2.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S02E05 | Latino [1990]
 https://archive.org/download/BeetlejuiceTV89/1x018.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gkvj5C4X/be2.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S02E06 | Latino [1990]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gkvj5C4X/be2.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S02E06 | Latino [1990]
 https://archive.org/download/BeetlejuiceTV89/1x019.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gkvj5C4X/be2.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S02E07 | Latino [1990]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gkvj5C4X/be2.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S02E07 | Latino [1990]
 https://archive.org/download/BeetlejuiceTV89/1x020.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gkvj5C4X/be2.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S02E08 | Latino [1990]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gkvj5C4X/be2.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S02E08 | Latino [1990]
 https://archive.org/download/BeetlejuiceTV89/1x021.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dwn0KxYC/be3.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S03E01 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dwn0KxYC/be3.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S03E01 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x022.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dwn0KxYC/be3.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S03E02 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dwn0KxYC/be3.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S03E02 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x023.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dwn0KxYC/be3.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S03E03 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dwn0KxYC/be3.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S03E03 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x024.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dwn0KxYC/be3.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S03E04 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dwn0KxYC/be3.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S03E04 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x025.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dwn0KxYC/be3.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S03E05 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dwn0KxYC/be3.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S03E05 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x026.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dwn0KxYC/be3.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S03E06 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dwn0KxYC/be3.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S03E06 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x027.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dwn0KxYC/be3.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S03E07 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dwn0KxYC/be3.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S03E07 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x028.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dwn0KxYC/be3.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S03E08 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dwn0KxYC/be3.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S03E08 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x029.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E01 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E01 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x030.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E02 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E02 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x031.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E03 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E03 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x032.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E04 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E04 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x033.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E05 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E05 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x034.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E06 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E06 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x035.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E07 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E07 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x036.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E08 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E08 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x037.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E09 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E09 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x038.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E10 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E10 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x039.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E11 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E11 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x040.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E12 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E12 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x041.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E13 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E13 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x042.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E14 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E14 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x043.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E15 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E15 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x044.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E16 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E16 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x045.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E17 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E17 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x046.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E18 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E18 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x047.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E19 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E19 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x048.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E20 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E20 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x049.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E21 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E21 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x050.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E22 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E22 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x051.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E23 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E23 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x052.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E24 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E24 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x053.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E25 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E25 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x054.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E26 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E26 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x055.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E27 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E27 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x056.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E28 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E28 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x057.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E29 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E29 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x058.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E30 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E30 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x059.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E31 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E31 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x060.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E32 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E32 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x061.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E33 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E33 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x062.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E34 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E34 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x063.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E35 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E35 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x064.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E36 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E36 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x065.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E37 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E37 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x066.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E38 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E38 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x067.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E39 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E39 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x068.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E40 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E40 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x069.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E41 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E41 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x070.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E42 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E42 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x071.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E43 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E43 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x072.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E44 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E44 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x073.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E45 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E45 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x074.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E46 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E46 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x075.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E47 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E47 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x076.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E48 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E48 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x077.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E49 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E49 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x078.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E50 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E50 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x079.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E51 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E51 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x080.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E52 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E52 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x081.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E53 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E53 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x082.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E54 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E54 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x083.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E55 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E55 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x084.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E56 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E56 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x085.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E57 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E57 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x086.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E58 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E58 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x087.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E59 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E59 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x088.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E60 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E60 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x089.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E61 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E61 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x090.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E62 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E62 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x091.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E63 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E63 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x092.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E64 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E64 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x093.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E65 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E65 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x094.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E66 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E66 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x095.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E67 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E67 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x096.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E68 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E68 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x097.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E69 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E69 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x098.ia.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E70 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E70 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x099.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E71 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E71 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x100.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E72 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E72 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x101.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E73 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E73 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x102.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E74 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E74 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x103.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E75 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E75 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x104.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E76 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E76 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x105.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E77 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E77 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x106.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E78 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E78 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x107.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E79 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E79 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x108.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E80 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E80 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x109.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E81 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E81 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x110.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E82 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E82 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x111.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E83 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E83 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x112.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E84 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E84 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x113.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E85 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E85 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x114.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E86 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E86 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x115.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E87 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E87 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x116.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E88 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E88 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x117.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E89 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E89 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x118.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E90 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E90 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x119.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E91 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E91 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x120.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | Animado | S04E92 | Latino [1991]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x15CjLw9/be4.jpg" group-title="Beetlejuice 🕷️",Beetlejuice | S04E92 | Latino [1991]
 https://archive.org/download/BeetlejuiceTV89/1x121.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwQ7bFrx/c1.jpg" group-title="Coraje 💀",Coraje | S01E01 | Una Noche en el Motel Katz | Latino [1999]
@@ -19070,7 +19189,7 @@ http://archive.org/download/26_20190827_20190827/44.mp4
 http://archive.org/download/26_20190827_20190827/45.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/D0rMc2hW/c4.jpg" group-title="Coraje 💀",Coraje | S04E06 | La Máscara | Latino [2002]
 http://archive.org/download/26_20190827_20190827/46.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/D0rMc2hW/c4.jpg" group-title="Coraje 💀",Coraje | S04E07 | Viaje a China | Latino [2002]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/D0rMc2hW/c4.jpg" group-title=n"Coraje 💀",Coraje | S04E07 | Viaje a China | Latino [2002]
 http://archive.org/download/26_20190827_20190827/47.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/D0rMc2hW/c4.jpg" group-title="Coraje 💀",Coraje | S04E08 | El Granjero Acuático | Latino [2002]
 http://archive.org/download/26_20190827_20190827/48.mp4
@@ -19161,6 +19280,280 @@ https://archive.org/download/Cripta93/CDC-37.ia.mp4
 https://archive.org/download/Cripta93/CDC-38.ia.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rmpG3pkj/cu3.jpg" group-title="Cuentos de la Cripta ⚰️",Cripta | Animado | S03E39 | Latino [1995]
 https://archive.org/download/Cripta93/CDC-39.ia.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPdmj6Rn/gh01.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S01E01 | Latino [1986]
+https://archive.org/download/Cazafantasmas86/01%20Ghosts%20R%20Us.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPdmj6Rn/gh01.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S01E02 | Latino [1986]
+https://archive.org/download/Cazafantasmas86/02.%20Killerwatt.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPdmj6Rn/gh01.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S01E03 | Latino [1986]
+https://archive.org/download/Cazafantasmas86/03.%20Mrs.%20Roger%27s%20Neighborhood.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPdmj6Rn/gh01.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S01E04 | Latino [1986]
+https://archive.org/download/Cazafantasmas86/04.%20Slimer%2C%20Come%20Home.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPdmj6Rn/gh01.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S01E05 | Latino [1986]
+https://archive.org/download/Cazafantasmas86/05.%20Troll%20Bridge.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPdmj6Rn/gh01.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S01E06 | Latino [1986]
+https://dn710002.ca.archive.org/0/items/Cazafantasmas86/06.%20The%20Bogeyman%20Cometh.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPdmj6Rn/gh01.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S01E07 | Latino [1986]
+https://archive.org/download/Cazafantasmas86/07.%20Mr.%20Sandman_%20Dream%20Me%20a%20Dream.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPdmj6Rn/gh01.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S01E08 | Latino [1986]
+https://archive.org/download/Cazafantasmas86/08.%20When%20Halloween%20Was%20Forever.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPdmj6Rn/gh01.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S01E09 | Latino [1986]
+https://archive.org/download/Cazafantasmas86/09.%20Look%20Homeward_%20Ray.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPdmj6Rn/gh01.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S01E10 | Latino [1986]
+https://archive.org/download/Cazafantasmas86/10.%20Take%20Two.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPdmj6Rn/gh01.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S01E11 | Latino [1986]
+https://archive.org/download/Cazafantasmas86/11.%20Citizen%20Ghost.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPdmj6Rn/gh01.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S01E12 | Latino [1986]
+https://archive.org/download/Cazafantasmas86/12.%20Janine%27s%20Genie.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPdmj6Rn/gh01.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S01E13 | Latino [1986]
+https://archive.org/download/Cazafantasmas86/13.%20X-Mas%20Marks%20the%20Spot.ia.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E01 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/14%20Janinie%20Day%27s%20Off.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E02 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/15%20Adventures%20in%20Slime%20and%20Space.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E03 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/16%20Ragnarok%20and%20Roll.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E04 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/17%20Captain%20Steel%20Saves%20the%20Day.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E05 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/18%20They%20Call%20Me%20Mister%20Slimer.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E06 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/19%20Buster%20the%20Ghost.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E07 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/20%20Night%20Game.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E08 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/21%20Rollerghoster.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E09 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/22%20Who%27re%20You%20Calling%20Two-Dimensional.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E10 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/23%20Dairy%20Farm.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E11 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/24%20Egon%27s%20Ghost.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E12 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/25%20Janine%20Melnitz%2C%20Ghostbuster.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E13 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/26%20The%20Cabinet%20of%20Calamari.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E14 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/27%20Ghostbuster%20of%20the%20Year.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E15 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/28%20Egon%27s%20Dragon.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E16 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/29%20No%20One%20Comes%20to%20Lupusville.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E17 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/30%20The%20Bird%20of%20Kildarby.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E18 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/31%20The%20Long%2C%20Long%2C%20Long%2C%20etc.%20Goodbye.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E19 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/32%20Cold%20Cash%20and%20Hot%20Water.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E20 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/33%20Who%27s%20Afraid%20of%20the%20Big%20Bad%20Ghost.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E21 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/34%20The%20Man%20Who%20Never%20Reached%20Home.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E22 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/35%20Doctor%2C%20Doctor.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E23 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/36%20You%20Can%27t%20Take%20It%20with%20You.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E24 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/37%20Victor%20the%20Happy%20Ghost.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E25 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/38%20Lost%20and%20Foundry.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E26 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/39%20Chicken%2C%20He%20Clucked.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E27 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/40%20Venkman%27s%20Ghost%20Repellers.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E28 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/41%20The%20Hole%20in%20the%20Wall%20Gang.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E29 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/42%20Ghost%20Busted.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E30 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/43%20The%20Ghostbusters%20in%20Paris.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E31 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/44%20A%20Fright%20at%20the%20Opera.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E32 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/45%20The%20Collect%20Call%20of%20Cthulhu.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E33 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/46%20Banshee%20Bake%20a%20Cherry%20Pie.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E34 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/47%20Drool%2C%20the%20Dog%20Faced%20Goblin.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E35 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/48%20Boo-Dunit.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E36 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/49%20The%20Revenge%20of%20Murray%20the%20Mantis.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E37 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/50%20The%20Headless%20Motorcyclist.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E38 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/51%20The%20Thing%20in%20Mrs.%20Faversham%27s%20Attic.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E39 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/52%20Moaning%20Stones.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E40 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/53%20Knock%2C%20Knock.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E41 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/54%20The%20Spirit%20of%20Aunt%20Lois.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E42 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/55%20Sea%20Fright.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E43 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/56%20Ghost%20Fight%20at%20the%20O.K.%20Corral.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E44 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/57%20Cry%20Uncle.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E45 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/58%20Bustman%27s%20Holiday.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E46 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/59%20The%20Scaring%20of%20the%20Green.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E47 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/60%20Ain%27t%20NASA-sarily%20So.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E48 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/61%20Apocalypse%20-%20What%2C%20NOW.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E49 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/62%20The%20Devil%20to%20Pay.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E50 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/63%20A%20Ghost%20Grows%20in%20Brooklyn.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E51 | Latino [1987]
+https://dn710002.ca.archive.org/0/items/Cazafantasmas86/64%20I%20Am%20the%20City.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E52 | Latino [1987]
+https://ia601301.us.archive.org/1/items/Cazafantasmas86/65%20Last%20Train%20to%20Oblivion.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E53 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/66%20Beneath%20These%20Streets.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E54 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/67%20Play%20Them%20Ragtime%20Boos.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E55 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/68%20The%20Old%20College%20Spirit.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E56 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/69%20Hard%20Knight%27s%20Day.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E57 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/70%20Masquerade.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E58 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/71%20Deadcon%201.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E59 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/72%20Don%27t%20Forget%20the%20Motor%20City.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E60 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/73%20The%20Devil%20in%20the%20Deep.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E61 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/74%20Lights%21%20Camera%21%20Haunting%21.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E62 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/75%20Egon%20on%20the%20Rampage.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E63 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/76%20Station%20Identification.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E64 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/77%20Hanging%20by%20a%20Thread.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFLpG0tY/gh02.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S02E65 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/78%20Transylvanian%20Homesick%20Blues.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2T9M9Tr/gh03.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S03E01 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/79%20Baby%20Spookums.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2T9M9Tr/gh03.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S03E02 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/80%20It%20s%20a%20Jungle%20Out%20There.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2T9M9Tr/gh03.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S03E03 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/81Slimer%20%20is%20That%20You.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2T9M9Tr/gh03.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S03E04 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/82%20The%20Bogeyman%20is%20Back.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2T9M9Tr/gh03.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S03E05 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/83%20Once%20Upon%20a%20Slime.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2T9M9Tr/gh03.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S03E06 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/84%20The%20Two%20Faces%20of%20Slimer.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2T9M9Tr/gh03.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S03E07 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/85%20Sticky%20Business.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2T9M9Tr/gh03.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S03E08 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/86%20Halloween%20Two%20and%20a%20Half.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2T9M9Tr/gh03.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S03E09 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/87%20Loathe%20Thy%20Neighbor.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2T9M9Tr/gh03.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S03E10 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/88%20The%20Grundel.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2T9M9Tr/gh03.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S03E11 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/89%20Big%20Trouble%20with%20Little%20Slimer.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2T9M9Tr/gh03.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S03E12 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/90%20The%20Copycat.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2T9M9Tr/gh03.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S03E13 | Latino [1987]
+https://archive.org/download/Cazafantasmas86/91%20Camping%20it%20Up.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YB52QB9/gh04.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S04E01 | Latino [1988]
+https://archive.org/download/Cazafantasmas86/92%20Camping%20It%20Up.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YB52QB9/gh04.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S04E02 | Latino [1988]
+https://archive.org/download/Cazafantasmas86/93%20Flip%20Side.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YB52QB9/gh04.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S04E03 | Latino [1988]
+https://archive.org/download/Cazafantasmas86/94%20Poultrygeist.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YB52QB9/gh04.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S04E04 | Latino [1988]
+https://archive.org/download/Cazafantasmas86/95%20The%20Joke%27s%20on%20Ray.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YB52QB9/gh04.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S04E05 | Latino [1988]
+https://archive.org/download/Cazafantasmas86/96%20Standing%20Room%20Only.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YB52QB9/gh04.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S04E06 | Latino [1988]
+https://archive.org/download/Cazafantasmas86/97%20Robo%20Buster.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YB52QB9/gh04.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S04E07 | Latino [1988]
+https://archive.org/download/Cazafantasmas86/98%20Short%20Stuff.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YB52QB9/gh04.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S04E08 | Latino [1988]
+https://archive.org/download/Cazafantasmas86/99%20Follow%20That%20Hearse.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YB52QB9/gh04.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S04E09 | Latino [1988]
+https://archive.org/download/Cazafantasmas86/100%20The%20Brooklyn%20Triangle.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YB52QB9/gh04.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S04E10 | Latino [1988]
+https://archive.org/download/Cazafantasmas86/101%20Something%27s%20Going%20Around.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YB52QB9/gh04.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S04E11 | Latino [1988]
+https://archive.org/download/Cazafantasmas86/102%20Three%20Men%20and%20an%20Egon.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YB52QB9/gh04.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S04E12 | Latino [1988]
+https://archive.org/download/Cazafantasmas86/103%20Elementary%20My%20Dear%20Winston.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YB52QB9/gh04.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S04E13 | Latino [1988]
+https://archive.org/download/Cazafantasmas86/104%20If%20I%20Were%20a%20Witch%20Man.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YB52QB9/gh04.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S04E14 | Latino [1988]
+https://archive.org/download/Cazafantasmas86/105%20Partners%20in%20Slime.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YB52QB9/gh04.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S04E15 | Latino [1988]
+https://archive.org/download/Cazafantasmas86/106%20Future%20Tense.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YB52QB9/gh04.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S04E16 | Latino [1988]
+https://archive.org/download/Cazafantasmas86/107%20Jailbusters.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YB52QB9/gh04.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S04E17 | Latino [1988]
+https://archive.org/download/Cazafantasmas86/108%20Live%21%20From%20Al%20Capone%27s%20Tomb.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YB52QB9/gh04.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S04E18 | Latino [1988]
+https://archive.org/download/Cazafantasmas86/109%20Something%27s%20Going%20Around.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YB52QB9/gh04.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S04E19 | Latino [1988]
+https://archive.org/download/Cazafantasmas86/110%20A%20Y%20B%20Trading%20Faces%20Y%20Transcendental%20Tourists.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YB52QB9/gh04.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S04E20 | Latino [1988]
+https://archive.org/download/Cazafantasmas86/111%20A%20Y%20B%20Slimer%27s%20Curse%20Y%20Til%20Death%20Do%20Us%20Part.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YB52QB9/gh04.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S04E21 | Latino [1988]
+https://archive.org/download/Cazafantasmas86/112%20A%20Y%20B%20It%27s%20About%20Time%20Y%20The%20Ransom%20of%20Greenspud.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdkj5n2t/gh05.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S05E01 | Latino [1990]
+https://archive.org/download/Cazafantasmas86/113%20A%20Y%20B%20Revenge%20of%20the%20Ghostmaster%20Y%20Loose%20Screws.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdkj5n2t/gh05.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S05E02 | Latino [1990]
+https://archive.org/download/Cazafantasmas86/114%20A%20y%20B%20Venk%20Man%21%20Y%20Slimer%20Streak.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdkj5n2t/gh05.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S05E03 | Latino [1990]
+https://archive.org/download/Cazafantasmas86/115%20A%20Y%20B%20Surely%20You%20Joust%20Y%20Kitty%20Cornered.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdkj5n2t/gh05.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S05E04 | Latino [1990]
+https://archive.org/download/Cazafantasmas86/116%20Janine%2C%20You%27ve%20Changed%20%28ingles%29.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdkj5n2t/gh05.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S05E05 | Latino [1990]
+https://archive.org/download/Cazafantasmas86/117%20You%20Can%27t%20Teach%20And%20Old%20Demon%20New%20Tricks.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdkj5n2t/gh05.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S05E06 | Latino [1990]
+https://archive.org/download/Cazafantasmas86/118%20The%20Haunting%20of%20Heck%20House%28%20Ingles%29.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdkj5n2t/gh05.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S05E07 | Latino [1990]
+https://archive.org/download/Cazafantasmas86/119%20Ghostworld.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdkj5n2t/gh05.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S05E08 | Latino [1990]
+https://archive.org/download/Cazafantasmas86/120%20Spacebusters.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdkj5n2t/gh05.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S05E09 | Latino [1990]
+https://archive.org/download/Cazafantasmas86/121%20My%20left%20Fang.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdkj5n2t/gh05.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S05E10 | Latino [1990]
+https://archive.org/download/Cazafantasmas86/122%20Russian%20about.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdkj5n2t/gh05.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S05E11 | Latino [1990]
+https://archive.org/download/Cazafantasmas86/123%20The%20slob.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdkj5n2t/gh05.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S05E12 | Latino [1990]
+https://archive.org/download/Cazafantasmas86/124%20Deja_Boo.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdkj5n2t/gh05.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S05E13 | Latino [1990]
+https://archive.org/download/Cazafantasmas86/125%20Afterlife%20In%20The%20Fast%20Lane.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdkj5n2t/gh05.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S05E14 | Latino [1990]
+https://archive.org/download/Cazafantasmas86/126%20Guess%20Whats%20Coming%20To%20Dinner.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdkj5n2t/gh05.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S05E15 | Latino [1990]
+https://archive.org/download/Cazafantasmas86/127%20Stay%20Tooned.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdkj5n2t/gh05.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S05E16 | Latino [1990]
+https://archive.org/download/Cazafantasmas86/128%20Very%20Beast%20Friends.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdkj5n2t/gh05.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S05E17 | Latino [1990]
+https://archive.org/download/Cazafantasmas86/129%20Busters%20In%20Toylandia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdkj5n2t/gh05.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S05E18 | Latino [1990]
+https://archive.org/download/Cazafantasmas86/130%20The%20magnificent%20five.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdkj5n2t/gh05.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S05E19 | Latino [1990]
+https://archive.org/download/Cazafantasmas86/131%20The%20Treasure%20of%20Sierra%20Tamale.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdkj5n2t/gh05.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S05E20 | Latino [1990]
+https://archive.org/download/Cazafantasmas86/132%20Not%20Now%2C%20Slimer%21.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdkj5n2t/gh05.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S05E21 | Latino [1990]
+https://archive.org/download/Cazafantasmas86/133%20Attack%20of%20the%20B-Movie%20Monsters.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdkj5n2t/gh05.jpg" group-title="Los Cazafantasmas 👻",Los Cazafantasmas | S05E22 | Latino [1990]
+https://archive.org/download/Cazafantasmas86/134%2020%2C000%20Leagues%20Under%20the%20Street.mp4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZLMfVr1/cal.jpg" group-title="Juego del Calamar 🦑",Juego del Calamar | S01E01 | Latino [2021]
 https://archive.org/download/94-1_20210929/1x01%20-%20Luz%20roja%2C%20luz%20verde.mp4
