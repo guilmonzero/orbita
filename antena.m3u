@@ -2,7 +2,7 @@
 #EXTINF:-1 GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 #EXTINF:-1 Para disfrutar de los canales y abrir correctamente, añade esta dirección a la aplicación IPTV PRO una vez instalada, disponible GRATIS en Google Play o bien descargala sin anuncios y completa acá: https//bit.ly/orbitaxpp  Compactible para todos tus dispositivos con Android y Google TV, TVBox, ect... 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8kBn99zh/orbi2025.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 28.10.25
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8kBn99zh/orbi2025.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 29.10.25
 https://pomf2.lain.la/f/572x442.mp4
 
 #EXTINF:-1 tvg-id="66b0dfa1d512590008bfa7fd" tvg-name="Pluto TV Gore & Slasher" tvg-logo="https://i.postimg.cc/pVgRH9CQ/pluto-g.jpg" tvg-chno="01" group-title="Animados | Variado",Pluto TV | Gore & Slasher (ES)
@@ -5194,9 +5194,8 @@ http://191.97.15.250:45000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fb9WGZps/cartoon.jpg" group-title="Premium | Latino",Cartoon Network | Opción 3 (LATAM)
 http://38.183.182.166:8000/play/a0w5/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fb9WGZps/cartoon.jpg" group-title="Premium | Latino",Cartoon Network | Opción 2 (LATAM)
-
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/32479
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5NGNXjgv/cartoonmx.jpg" group-title="Premium | Latino",Cartoon Network | Diferido 2 (MX)
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W3yxZkjy/nick2.jpg" group-title="Premium | Latino",Nickelodeon (LATAM)
 http://181.78.23.26:45000/play/a003
@@ -5209,13 +5208,14 @@ http://38.183.182.166:8000/play/a0w2/index.m3u8
 http://38.183.182.166:8000/play/a0rw/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjTWqxXL/teennick2.jpg" group-title="Premium | Latino",Teen Nick | Opción 2 (LATAM)
 
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CQxCrt7/disney.jpg" group-title="Premium | Latino",Disney Channel (LATAM)
 http://181.78.23.26:45000/play/a01b
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CQxCrt7/disney.jpg" group-title="Premium | Latino",Disney Channel | Opción 2 (LATAM)
 http://190.11.225.124:5000/live/disney_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CQxCrt7/disney.jpg" group-title="Premium | Latino",Disney Channel | Opción 3 (LATAM)
 http://191.97.15.250:45000/play/a055/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CQxCrt7/disney.jpg" group-title="Premium | Latino",Disney Channel | Opción 4 (LATAM)
+http:\\158.69.118.175:25461\salamlink58465\ttb3j5wXnz\32488
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sgXZpWWw/tooncast.jpg" group-title="Premium | Latino",Tooncast (LATAM)
 http://181.78.23.26:45000/play/a04z
@@ -5535,7 +5535,7 @@ http://190.11.225.124:5000/live/warner_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tTDnRn7N/amc-us.jpg" group-title="Premium | Latino",AMC (LATAM)
 http://38.183.182.166:8000/play/a0vm/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tTDnRn7N/amc-us.jpg" group-title="Premium | Latino",AMC | Opción 2 (LATAM)
-
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/32425
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jjKbbp2S/fx2.jpg" group-title="Premium | Latino",FX (LATAM)
 http://190.11.225.124:5000/live/fx_hd/playlist.m3u8
@@ -5543,6 +5543,8 @@ http://190.11.225.124:5000/live/fx_hd/playlist.m3u8
 http://181.78.23.26:45000/play/a032
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jjKbbp2S/fx2.jpg" group-title="Premium | Latino",FX | Opción 3 (LATAM)
 http://191.97.15.250:45000/play/a04a/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jjKbbp2S/fx2.jpg" group-title="Premium | Latino",FX | Opción 4 (LATAM)
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/32428
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/02kbjcVw/axn.jpg" group-title="Premium | Latino",AXN (LATAM)
 http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
@@ -5568,6 +5570,8 @@ http://191.97.15.250:45000/play/a05d/index.m3u8
 http://181.78.23.26:45000/play/a00a
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WpS2wj5J/tntp.jpg" group-title="Premium | Latino",TNT | Opción 2 (LATAM)
 http://191.97.15.250:45000/play/a00i/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WpS2wj5J/tntp.jpg" group-title="Premium | Latino",TNT | Opción 3 (LATAM)
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/32444
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MT2whpcS/tnt-series.jpg" group-title="Premium | Latino",TNT | Series (LATAM)
 http://38.183.182.166:8000/play/a0wv/index.m3u8
@@ -5632,6 +5636,8 @@ http://179.1.87.75:8098/play/a0er/index.m3u8
 http://181.78.23.26:45000/play/a020
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FHGM0fYP/discovery-home.jpg" group-title="Premium | Latino",Discovery | Home and Health | Opción 2 (LATAM)
 http://191.97.15.250:45000/play/a05r/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FHGM0fYP/discovery-home.jpg" group-title="Premium | Latino",Discovery | Home and Health | Opción 3 (LATAM)
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/32827
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/R0C0VR40/discovery-id.jpg" group-title="Premium | Latino",Discovery | ID (LATAM)
 http://181.78.23.26:45000/play/a01v
@@ -5648,7 +5654,7 @@ http://38.56.112.128:5000/play/a09h/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9QKm2BRJ/discovery-theater.jpg" group-title="Premium | Latino",Discovery | Theater (LATAM)
 http://38.183.182.166:8000/play/a0vr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9QKm2BRJ/discovery-theater.jpg" group-title="Premium | Latino",Discovery | Theater | Opción 2 (LATAM)
-
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/32835
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KvXBcdVv/discovery-turbo.jpg" group-title="Premium | Latino",Discovery | Turbo (LATAM)
 http://181.78.23.26:45000/play/a03b
@@ -16170,6 +16176,209 @@ http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HLHKz1Rj/playb-sd.jpg" group-title="18+ 🔥",Playboy TV | SD (LATAM)
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HLHKz1Rj/playb-sd.jpg" group-title="18+ 🔥",Playboy TV | SD | Opción 2 (LATAM)
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 1
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10885
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 2
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10886
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 3
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10887
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 4
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10889
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 5
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10890
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 6
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10891
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 7
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10892
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 8
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10893
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 9
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10894
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 10
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10895
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 11
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10896
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 12
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10897
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 13
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10898
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 14
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10899
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 15
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10900
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 16
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10901
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 17
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10902
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 18
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10903
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 19
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10904
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 20
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10905
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 21
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10906
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 22
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10907
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 23
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10908
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 24
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10909
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 25
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10910
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 26
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10911
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 27
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10912
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 28
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10913
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 29
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10914
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 30
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10915
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 31
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10916
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 32
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10917
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 33
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10918
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 34
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10919
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 35
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10920
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 36
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10921
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 37
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10922
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 38
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10923
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 39
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10924
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 40
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10925
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 41
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10926
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 42
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10927
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 43
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10928
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 44
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10929
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 45
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10930
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 46
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10931
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 47
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10932
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 48
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10933
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 49
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10934
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 50
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10935
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 51
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10936
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 52
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10937
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 53
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10938
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 54
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10939
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 55
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10940
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 56
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10941
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 57
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10942
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 58
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10943
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 59
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10945
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 60
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10946
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 61
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10947
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 62
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10948
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 63
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10949
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 64
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10950
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 65
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10951
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 66
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10952
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 67
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10953
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 68
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10954
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 69
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10955
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 70
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10956
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 71
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10957
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 72
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10958
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 73
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10959
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 74
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10960
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 75
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10961
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 76
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10962
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 77
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10963
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 78
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10964
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 79
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10965
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 80
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10966
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 81
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10967
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 82
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10968
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 83
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10969
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 84
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10970
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 85
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10971
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 86
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10972
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 87
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10973
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 88
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10974
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 89
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10975
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 90
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10976
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 91
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10977
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 92
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10978
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 93
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10979
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 94
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10980
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 95
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10981
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 96
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10982
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 97
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10983
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 98
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10984
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 99
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10985
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzqxkRF3/pornu.jpg" group-title="18+ 🔥",PornBox | 100
+http://158.69.118.175:25461/salamlink58465/ttb3j5wXnz/10986
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/906F030c/sextreme.jpg" group-title="18+ 🔥",SeXtreme (LATAM)
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2jZ729QF/taro.jpg" group-title="18+ 🔥",Tarotéame (ES)
