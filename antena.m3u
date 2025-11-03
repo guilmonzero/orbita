@@ -2,7 +2,7 @@
 #EXTINF:-1 GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 #EXTINF:-1 Para disfrutar de los canales y abrir correctamente, añade esta dirección a la aplicación IPTV PRO una vez instalada, disponible GRATIS en Google Play o bien descargala sin anuncios y completa acá: https//bit.ly/orbitaxpp  Compactible para todos tus dispositivos con Android y Google TV, TVBox, ect... 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8kBn99zh/orbi2025.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 29.10.25
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8kBn99zh/orbi2025.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 03.11.25
 https://pomf2.lain.la/f/572x442.mp4
 
 #EXTINF:-1 tvg-id="66b0dfa1d512590008bfa7fd" tvg-name="Pluto TV Gore & Slasher" tvg-logo="https://i.postimg.cc/pVgRH9CQ/pluto-g.jpg" tvg-chno="01" group-title="Animados | Variado",Pluto TV | Gore & Slasher (ES)
@@ -708,7 +708,6 @@ https://lbs-us1.suprememastertv.com/origin/720p/chunklist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/taltal/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRYr0XNp/tal3.jpg" group-title="Animados | Variado",Taltal TV | Series (CL)
 https://giatv.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/playlist.m3u8
-https://live20.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRYr0XNp/tal3.jpg" group-title="Animados | Variado",Taltal TV | City Pop (CL)
 https://live20.bozztv.com/giatvplayout7/giatv-210394/playlist.m3u8
 
@@ -800,13 +799,6 @@ https://rpn.bozztv.com/gusa/gusa-hitops/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KY1zK0Pk/tvr2.jpg" group-title="Animados | Variado",TVR (CL)
 https://redirector.dps.live/hls/tvr/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/K8yDkBFb/u-d.jpg" group-title="Animados | Variado",Ultra | Docu (US)
-http://45.176.193.222:2405/play/a05z
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cHTbTTxf/u-fa.jpg" group-title="Animados | Variado",Ultra | Familia (US)
-http://45.176.193.222:2405/play/a03j
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8CFZH8h/u-m.jpg" group-title="Animados | Variado",Ultra | Mex (US)
-http://45.176.193.222:2405/play/a061
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZYfjWdCT/unimas.jpg" group-title="Animados | Variado",Unimás (US)
 
@@ -13225,9 +13217,6 @@ https://videohd.live:19360/8076/8076.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0yx5929L/nicoyatv.jpg" group-title="Costa Rica 🇨🇷",Nicoya TV (CR)
 https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBSnmtbt/opa.jpg" group-title="Costa Rica 🇨🇷",Opa! (CR)
-https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vZLQ4xd1/alaj.jpg" group-title="Costa Rica 🇨🇷",Radio Alajuela | 1120 AM [Solo Audio] [No 24/7] (CR)
 https://tupanel.info:8970/;stream.nsv
