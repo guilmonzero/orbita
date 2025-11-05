@@ -15,6 +15,10 @@ Si deseas incluir un canal en mi lista, contactame.
 Tambien si quieres ayudar a restablecer canales estoy abierto a cualquier colaboración para mejorar la lista.
 Actualizo de vez en cuando, así que mantente atento a los cambios.
 
+Necesitas respaldo/backup. Tambien puedes descargar la lista aca: 
+https//bit.ly/orbitaiptv
+(El link no cambia, lo que descargas se actualiza en simultaneo con la versión en linea)
+
 Tambien puedes apoyar mi lista vía Paypal en:
 https://bit.ly/apoyaorbita
-Con tu colaboración me ayudas a seguir ofreciendo un servicio de calidad y de acceso libre para todos lo cual te agradezco de antemano. 
+Con tu colaboración me ayudas a seguir ofreciendo un servicio de calidad y de acceso libre para todos, lo cual te agradezco de antemano. 
