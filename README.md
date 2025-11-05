@@ -16,8 +16,8 @@ Tambien si quieres ayudar a restablecer canales estoy abierto a cualquier colabo
 Actualizo de vez en cuando, así que mantente atento a los cambios.
 
 Necesitas respaldo/backup. Tambien puedes descargar la lista aca: 
-
 https//bit.ly/orbitaiptv
+
 (El link no cambia, lo que descargas se actualiza en simultaneo con la versión en linea)
 
 Tambien puedes apoyar mi lista vía Paypal en:
