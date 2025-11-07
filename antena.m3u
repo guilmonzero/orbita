@@ -12971,6 +12971,8 @@ https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FKpN9Bt8/teletica1.jpg" group-title="Costa Rica 🇨🇷",Canal 7 | Teletica [GeoBloqueo] (CR)
 https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FKpN9Bt8/teletica1.jpg" group-title="Costa Rica 🇨🇷",Canal 7 | Teletica | Opción 2 (CR)
+https://restream-live.realiptv.to:443/Mika/Mika/52217
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqhQ97RX/8cr.jpg" group-title="Costa Rica 🇨🇷",Canal 8 | Multimedios (CR)
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
@@ -20109,3 +20111,5 @@ https://starfm.streamabc.net/30-newrock-mp3-192-8752750
 https://starfm.streamabc.net/30-rockballads-mp3-192-4391848
 
 http:///get.php?username=&password=&type=m3u
+
+http://newkalaplay.xyz:8080/get.php?username=971467548tv2&password=808pyeu&type=m3u
