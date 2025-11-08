@@ -4970,51 +4970,51 @@ https://jmp2.uk/stvp-USBD1700018II
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Dw4G6xpB/vix-vi.jpg" group-title="Películas | Series",Vix | Villanos de Pareja (MX)
 https://jmp2.uk/stvp-USBC2100011WI
 
-#EXTINF:-tvg-logo="https://i.postimg.cc/FRb3tRRz/wb-a.jpg" group-title="Películas | Series",WB TV | At The Movies (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FRb3tRRz/wb-a.jpg" group-title="Películas | Series",WB TV | At The Movies (US)
 https://livetv-fa.tubi.video/wbd-at-the-movies/playlist.m3u8
-#EXTINF:-tvg-logo="https://i.postimg.cc/wBHr8txB/wb-c.jpg" group-title="Películas | Series",WB TV | Chasing Criminals (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBHr8txB/wb-c.jpg" group-title="Películas | Series",WB TV | Chasing Criminals (US)
 https://livetv-fa.tubi.video/wbd-chasing-criminals/playlist.m3u8
-#EXTINF:-tvg-logo="https://i.postimg.cc/N0YnqyGK/wb-cl.jpg" group-title="Películas | Series",WB TV | Classic Cinema (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0YnqyGK/wb-cl.jpg" group-title="Películas | Series",WB TV | Classic Cinema (US)
 https://livetv-fa.tubi.video/wbd-classic-cinema/playlist.m3u8
-#EXTINF:-tvg-logo="https://i.postimg.cc/rpcHXdyr/wb-cr.jpg" group-title="Películas | Series",WB TV | Crime Scenes (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rpcHXdyr/wb-cr.jpg" group-title="Películas | Series",WB TV | Crime Scenes (US)
 https://livetv-fa.tubi.video/wbd-crime-scenes/playlist.m3u8
-#EXTINF:-tvg-logo="https://i.postimg.cc/hGgYWJ4m/wb-f.jpg" group-title="Películas | Series",WB TV | Family Faves (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGgYWJ4m/wb-f.jpg" group-title="Películas | Series",WB TV | Family Faves (US)
 https://livetv-fa.tubi.video/wbd-all-together-now/playlist.m3u8
-#EXTINF:-tvg-logo="https://i.postimg.cc/Pqh7sLfZ/wb-fa.jpg" group-title="Películas | Series",WB TV | Family Unscripted (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Pqh7sLfZ/wb-fa.jpg" group-title="Películas | Series",WB TV | Family Unscripted (US)
 https://livetv-fa.tubi.video/wbd-family-rules/playlist.m3u8
-#EXTINF:-tvg-logo="https://i.postimg.cc/Bvsz98Z2/wb-g.jpg" group-title="Películas | Series",WB TV | Generation Drama (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bvsz98Z2/wb-g.jpg" group-title="Películas | Series",WB TV | Generation Drama (US)
 https://livetv-fa.tubi.video/wbd-generation-drama/playlist.m3u8
-#EXTINF:-tvg-logo="https://i.postimg.cc/d0vfP7Q8/wb-gh.jpg" group-title="Películas | Series",WB TV | Ghosts Are Real (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0vfP7Q8/wb-gh.jpg" group-title="Películas | Series",WB TV | Ghosts Are Real (US)
 https://livetv-fa.tubi.video/wbd-supernatural/playlist.m3u8
-#EXTINF:-tvg-logo="https://i.postimg.cc/MGxL2cZ7/wb-h.jpg" group-title="Películas | Series",WB TV | How To (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MGxL2cZ7/wb-h.jpg" group-title="Películas | Series",WB TV | How To (US)
 https://livetv-fa.tubi.video/wbd-how-to/playlist.m3u8
-#EXTINF:-tvg-logo="https://i.postimg.cc/0Nx4R65d/wb-i.jpg" group-title="Películas | Series",WB TV | In The Garage (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Nx4R65d/wb-i.jpg" group-title="Películas | Series",WB TV | In The Garage (US)
 https://livetv-fa.tubi.video/wbd-in-the-garage/playlist.m3u8
-#EXTINF:-tvg-logo="https://i.postimg.cc/xdYZDkjP/wb-li.jpg" group-title="Películas | Series",WB TV | Living With Evil (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xdYZDkjP/wb-li.jpg" group-title="Películas | Series",WB TV | Living With Evil (US)
 https://livetv-fa.tubi.video/wbd-living-with-evil/playlist.m3u8
-#EXTINF:-tvg-logo="https://i.postimg.cc/zf5QZLD7/wb-lo.jpg" group-title="Películas | Series",WB TV | Love & Desire (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf5QZLD7/wb-lo.jpg" group-title="Películas | Series",WB TV | Love & Desire (US)
 https://livetv-fa.tubi.video/wbd-keeping-it-real/playlist.m3u8
-#EXTINF:-tvg-logo="https://i.postimg.cc/vmzNQQD6/wb-lov.jpg" group-title="Películas | Series",WB TV | Love and Marriage (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vmzNQQD6/wb-lov.jpg" group-title="Películas | Series",WB TV | Love and Marriage (US)
 https://livetv-fa.tubi.video/wbd-love-marriage/playlist.m3u8
-#EXTINF:-tvg-logo="https://i.postimg.cc/cJmbss6n/wb-m.jpg" group-title="Películas | Series",WB TV | Mysterious Worlds (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJmbss6n/wb-m.jpg" group-title="Películas | Series",WB TV | Mysterious Worlds (US)
 https://livetv-fa.tubi.video/wbd-mysteries/playlist.m3u8
-#EXTINF:-tvg-logo="https://i.postimg.cc/Jhq211tX/wb-n.jpg" group-title="Películas | Series",WB TV | Nikita (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jhq211tX/wb-n.jpg" group-title="Películas | Series",WB TV | Nikita (US)
 https://livetv-fa.tubi.video/wbd-nikita/playlist.m3u8
-#EXTINF:-tvg-logo="https://i.postimg.cc/k5cpnnD8/wb-o.jpg" group-title="Películas | Series",WB TV | On The Telly (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k5cpnnD8/wb-o.jpg" group-title="Películas | Series",WB TV | On The Telly (US)
 https://livetv-fa.tubi.video/wbd-on-the-telly/playlist.m3u8
-#EXTINF:-tvg-logo="https://i.postimg.cc/Pq4RttNY/wb-p.jpg" group-title="Películas | Series",WB TV | Paws and Claws (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Pq4RttNY/wb-p.jpg" group-title="Películas | Series",WB TV | Paws and Claws (US)
 https://livetv-fa.tubi.video/wbd-paws-claws/playlist.m3u8
-#EXTINF:-tvg-logo="https://i.postimg.cc/pdZ622yK/wb-s.jpg" group-title="Películas | Series",WB TV | Sweet Escapes (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdZ622yK/wb-s.jpg" group-title="Películas | Series",WB TV | Sweet Escapes (US)
 https://livetv-fa.tubi.video/wbd-sweet-escapes/playlist.m3u8
-#EXTINF:-tvg-logo="https://i.postimg.cc/cJmbss6R/wb-t.jpg" group-title="Películas | Series",WB TV | The FBI (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJmbss6R/wb-t.jpg" group-title="Películas | Series",WB TV | The FBI (US)
 https://livetv-fa.tubi.video/wbd-the-fbi/playlist.m3u8
-#EXTINF:-tvg-logo="https://i.postimg.cc/8CH011sh/wb-tr.jpg" group-title="Películas | Series",WB TV | Travel and Adventure (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CH011sh/wb-tr.jpg" group-title="Películas | Series",WB TV | Travel and Adventure (US)
 https://livetv-fa.tubi.video/wbd-travel-and-adventure/playlist.m3u8
-#EXTINF:-tvg-logo="https://i.postimg.cc/R0RDMMqQ/wb-u.jpg" group-title="Películas | Series",WB TV | Unique Lives (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0RDMMqQ/wb-u.jpg" group-title="Películas | Series",WB TV | Unique Lives (US)
 https://livetv-fa.tubi.video/wbd-slice-life/playlist.m3u8
-#EXTINF:-tvg-logo="https://i.postimg.cc/25wKzz37/wb-w.jpg" group-title="Películas | Series",WB TV | Watchlist (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/25wKzz37/wb-w.jpg" group-title="Películas | Series",WB TV | Watchlist (US)
 https://livetv-fa.tubi.video/wbd-watch-list/playlist.m3u8
-#EXTINF:-tvg-logo="https://i.postimg.cc/HL2hppjt/wb-we.jpg" group-title="Películas | Series",WB TV | Welcome Home (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HL2hppjt/wb-we.jpg" group-title="Películas | Series",WB TV | Welcome Home (US)
 https://livetv-fa.tubi.video/wbd-welcome-home/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4NMsZ3LW/west.jpg" group-title="Películas | Series",Westerns | Pluto TV (US)
