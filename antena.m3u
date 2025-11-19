@@ -2,13 +2,16 @@
 #EXTINF:-1 GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 #EXTINF:-1 Para disfrutar de los canales y abrir correctamente, añade esta dirección a la aplicación IPTV PRO una vez instalada, disponible GRATIS en Google Play o bien descargala sin anuncios y completa acá: https//bit.ly/orbitaxpp  Compactible para todos tus dispositivos con Android y Google TV, TVBox, ect... 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jSPPdm9b/orbita25nav.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 07.11.25
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jSPPdm9b/orbita25nav.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 19.11.25
 https://pomf2.lain.la/f/572x442.mp4
 
 #EXTINF:-1 tvg-id="ES260001081" tvg-logo="https://i.postimg.cc/4dMJ98YG/rakuten-na.jpg" group-title="Animados | Variado",100% Navidad | Rakuten TV (ES)
 https://jmp2.uk/stvp-ES260001081
 
-#EXTINF:-1 channel-id="62fb6d4308f5ec0007453c09" tvg-id="62fb6d4308f5ec0007453c09" tvg-logo="https://i.postimg.cc/tJntdTrX/nav-365.jpg" group-title="Animados | Variado" ,Pluto TV | Christmas 365 (CA)
+#EXTINF:-1 tvg-id="5f984b18dfe75800070e8645" tvg-logo="https://i.postimg.cc/4NV6Svtg/pluto-nav.jpg" group-title="Animados | Variado" ,Pluto TV | Cine Navideño (ES)
+https://jmp2.uk/plu-5f984b18dfe75800070e8645.m3u8
+
+#EXTINF:-1 tvg-id="62fb6d4308f5ec0007453c09" tvg-logo="https://i.postimg.cc/tJntdTrX/nav-365.jpg" group-title="Animados | Variado" ,Pluto TV | Christmas 365 (CA)
 https://jmp2.uk/plu-62fb6d4308f5ec0007453c09.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NMb3HNKJ/vevo-na.jpg" group-title="Animados | Variado",Samsung TV Plus | Vevo | Navidad (ES)
@@ -47,12 +50,6 @@ https://jmp2.uk/plu-678aa0b3680721c77c5035dd.m3u8
 
 #EXTINF:-1 tvg-id="612ce5214bb5790007ad3016" tvg-logo="https://i.postimg.cc/T2j6WwYR/pluto-p.jpg" tvg-chno="12" group-title="Animados | Variado",Pluto TV | Paranormal (ES)
 https://jmp2.uk/plu-612ce5214bb5790007ad3016.m3u8
-
-#EXTINF:-1 tvg-id="609ae5cd48d3200007b0a98e" tvg-logo="https://i.postimg.cc/15sTqrfV/pluto-so.jpg" tvg-chno="13" group-title="Animados | Variado",Pluto TV | South Park | Halloween (LATAM)
-https://jmp2.uk/plu-609ae5cd48d3200007b0a98e.m3u8
-
-#EXTINF:-1 tvg-id="6874adbb3ffa5e0c917f721e" tvg-logo="https://i.postimg.cc/dVF2558P/pluto-k.jpg" tvg-chno="14" group-title="Animados | Variado",Pluto TV | Kids Halloween (CA)
-https://jmp2.uk/plu-6874adbb3ffa5e0c917f721e.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvmTYXJB/pride2.jpg" group-title="Animados | Variado",Pride TV | Feed Chile (LATAM)
 https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=dem0pRideTVweb
@@ -7333,6 +7330,9 @@ https://pomf2.lain.la/f/tfx6bymw.mkv
 https://archive.org/download/patata/patata.mkv
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tRsMmtfV/zo2.jpg" group-title="Mas Películas 🎃",Zoombieland | 2 | 2019 | Latino
 https://archive.org/download/00200_20200117_0628/00200.mkv
+
+#EXTINF:-1 tvg-id="69148c470155f9b136b5d856" tvg-name="Pluto TV Snooker 900" tvg-logo="https://images.pluto.tv/channels/69148c470155f9b136b5d856/colorLogoPNG_1763054842514.png" group-title="Pluto TV | España",Snooker 900
+https://jmp2.uk/plu-69148c470155f9b136b5d856.m3u8
 
 #EXTINF:-1 tvg-id="685a996c7c4f2ad40cb4f276" tvg-name="Dragon Ball" tvg-logo="https://images.pluto.tv/channels/685a996c7c4f2ad40cb4f276/colorLogoPNG-1756801998.png" group-title="Pluto TV | España",Dragon Ball
 https://jmp2.uk/plu-685a996c7c4f2ad40cb4f276.m3u8
