@@ -2,7 +2,7 @@
 #EXTINF:-1 GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 #EXTINF:-1 Para disfrutar de los canales y abrir correctamente, añade esta dirección a la aplicación IPTV PRO una vez instalada, disponible GRATIS en Google Play o bien descargala sin anuncios y completa acá: https//bit.ly/orbitaxpp  Compactible para todos tus dispositivos con Android y Google TV, TVBox, ect... 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jSPPdm9b/orbita25nav.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 21.11.25
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jSPPdm9b/orbita25nav.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 26.11.25
 https://pomf2.lain.la/f/572x442.mp4
 
 #EXTINF:-1 tvg-id="ES260001081" tvg-logo="https://i.postimg.cc/4dMJ98YG/rakuten-na.jpg" group-title="Animados | Variado",100% Navidad | Rakuten TV (ES)
@@ -199,17 +199,6 @@ http://181.78.23.26:45000/play/a03w
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/brnvpW88/canalj.jpg" group-title="Animados | Variado",Canal Juegos Retros (ES)
 https://live20.bozztv.com/giatvplayout7/giatv-209604/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/D04KCVWn/canalo.jpg" group-title="Animados | Variado",Canal Anime Onegai | 1 (LATAM)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=10931
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/D04KCVWn/canalo.jpg" group-title="Animados | Variado",Canal Anime Onegai | 2 (LATAM)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=10932
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/D04KCVWn/canalo.jpg" group-title="Animados | Variado",Canal Anime Onegai | 3 (LATAM)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=10933
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/D04KCVWn/canalo.jpg" group-title="Animados | Variado",Canal Anime Onegai | 4 (LATAM)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=10934
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/D04KCVWn/canalo.jpg" group-title="Animados | Variado",Canal Anime Onegai | 5 (LATAM)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=10935
-
 #EXTINF:-1 tvg-id="ESBD3000002GP" tvg-logo="https://i.postimg.cc/brQG8vYN/andalucia1.jpg" group-title="Animados | Variado",Canal Sur | Andalucía (ES)
 https://jmp2.uk/stvp-ESBD3000002GP
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HsKM2QWq/anda2.jpg" group-title="Animados | Variado",Canal Sur | 2 | Andalucía (ES)
@@ -245,6 +234,9 @@ http://200.115.120.1:8000/play/ca038/index.m3u8
 http://200.115.120.1:8000/play/ca032/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Njbjw60K/cinema3.jpg" group-title="Animados | Variado",Cinema | 3 (LATAM)
 http://200.115.120.1:8000/play/ca072/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MH6WJdmC/cinep.jpg" group-title="Animados | Variado",Cine Plus (CR)
+https://acceso.radiosportstv.online:3259/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xTnkPnmS/cuidadmagica2.jpg" group-title="Animados | Variado",Ciudad Magica TV (AR)
 https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
@@ -540,6 +532,9 @@ https://jmp2.uk/stvp-US2200007QG
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NFN8cyZC/14.jpg" group-title="Animados | Variado",Nuevavisión 14 (RD)
 https://live20.bozztv.com/akamaissh101/ssh101/nuevavisionhd/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2yJqTs4r/oli.jpg" group-title="Animados | Variado",Oli (CL)
+https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0yGkKYhs/omid.jpg" group-title="Animados | Variado",Omid TV | Irán (IR)
 https://lenz.splus.ir/PLTV/88888888/224/3221226159/index.m3u8
 
@@ -611,7 +606,7 @@ https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hjvzL50N/retrox5.jpg" group-title="Animados | Variado",RetroX TV (CR)
-https://acceso.radiosportstv.online:3259/hybrid/play.m3u8
+https://live21.bozztv.com/akamaissh101/ssh101/retroxcrtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mgs3YqGS/a30-r.jpg" group-title="Animados | Variado",Ridiculous X TV | A30 TV (US)
 https://30a-tv.com/feeds/vidaa/funnyvideos.m3u8
@@ -804,9 +799,12 @@ https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vmWrxqWS/xi.jpg" group-title="Animados | Variado",Xilam | Animation (FR)
 https://xilam-animation-1-fr.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QNJV6RfF/xtrema.jpg" group-title="Animados | Variado",Xtrema | Catálogo (AR)
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hjz85GVn/xtremecartoon.jpg" group-title="Animados | Variado",Xtrema | Cartoons (AR)
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QNJV6RfF/xtrema.jpg" group-title="Animados | Variado",Xtrema | Canal Primario (AR)
+https://stmv6.voxtvhd.com.br/canal1/canal1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J09NtDYv/xtre-cart.jpg" group-title="Animados | Variado",Xtrema | Cartoons (AR)
+https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SNJ1scRB/xtre-retroc.jpg" group-title="Animados | Variado",Xtrema | RetroCartoons (AR)
+https://stmv3.voxtvhd.com.br/xtremaretrocartoons/xtremaretrocartoons/playlist.m3u8?hls_ctx=7d1506r5
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvkm8MJS/ya.jpg" group-title="Animados | Variado",Yaaas! (UK)
 https://jmp2.uk/stvp-GB340000289
 
@@ -1690,7 +1688,7 @@ https://jmp2.uk/stvp-GBBD1100001UI
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CMkcLNKG/xplor.jpg" group-title="Cultura | Educativo 🪐",Xplore (US)
 https://jmp2.uk/stvp-USBC2100008DP
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6QcvVWh9/xtrema-animal.jpg" group-title="Cultura | Educativo 🪐",Xtrema | Animal (LATAM)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W30FSW-5r/xtre.jpg" group-title="Cultura | Educativo 🪐",Xtrema | Animal (LATAM)
 https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VNGzvtYw/xtr.jpg" group-title="Cultura | Educativo 🪐",Xtreme Outdoor Presented | by History (US)
@@ -4732,10 +4730,13 @@ https://janus.xpbroadcasting.com:8443/hls/xptvUK.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VNXvvX1P/xptvU.jpg" group-title="Películas | Series",XPTV | US (US)
 https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5rDB2x2/xtrema2.jpg" group-title="Películas | Series",Xtrema | Cine Acción (LATAM)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rp3Z5mHN/xtre-cinea.jpg" group-title="Películas | Series",Xtrema | Cine Acción (LATAM)
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/chunklist_w458435397.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J0TNRRCh/xtrema-asia.jpg" group-title="Películas | Series",Xtrema | Cine Asia (LATAM)
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T12j8pSS/xtrema-comedia.jpg" group-title="Películas | Series",Xtrema | Cine Comedia (LATAM)
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GmBkGQnX/xtre-cinein.jpg" group-title="Películas | Series",Xtrema | Cine de la India (LATAM)
+https://stmv6.voxtvhd.com.br/cinehindi/cinehindi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/V6W9Hj7n/xtrema-drama.jpg" group-title="Películas | Series",Xtrema | Cine Drama  | Suspenso (LATAM)
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cJYBfqwD/xtrema-familia.jpg" group-title="Películas | Series",Xtrema | Cine Familia (LATAM)
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3xkBJ0RQ/xtrema-latino.jpg" group-title="Películas | Series",Xtrema | Cine Latino (LATAM)
@@ -12721,10 +12722,10 @@ https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sX7PJTqX/repretel6.jpg" group-title="Costa Rica 🇨🇷",Canal 6 | Repretel (CR)
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FKpN9Bt8/teletica1.jpg" group-title="Costa Rica 🇨🇷",Canal 7 | Teletica [GeoBloqueo] (CR)
-https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FKpN9Bt8/teletica1.jpg" group-title="Costa Rica 🇨🇷",Canal 7 | Teletica (CR)
+https://live21.bozztv.com/akamaissh101/ssh101/sietecanalcr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FKpN9Bt8/teletica1.jpg" group-title="Costa Rica 🇨🇷",Canal 7 | Teletica | Opción 2 (CR)
-
+https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqhQ97RX/8cr.jpg" group-title="Costa Rica 🇨🇷",Canal 8 | Multimedios (CR)
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
@@ -12735,7 +12736,7 @@ https://acceso.radiosportstv.online:3285/hybrid/play.m3u8
 https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13Jq8Pqr/canal13sinart.jpg" group-title="Costa Rica 🇨🇷",Canal 13 | Sinart (CR)
-https://live20.bozztv.com/akamaissh101/ssh101/sinart13/playlist.m3u8
+https://live.eu-north-1a.cf.dmcdn.net/sec2(AQehpkMIPkJ8R6AYI-am8bO1RCXXRYzuyis0LagnXWBpvlRdhXZ_32OyVz2SYDVH1ok1g11Db9LylBMVYaJ0lFMVhOLS7k1_WyfYC1K2UD5erYwqZ7pmENgekw_SjQ5g)/dm/3/x7vh8g3/s/live-480.m3u8#cell=lcf-eu-north-1a
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsVhqZjB/canal14cr.jpg" group-title="Costa Rica 🇨🇷",Canal 14 | TVN | San Carlos (CR)
 http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
@@ -12743,17 +12744,11 @@ http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sgfbyvVC/15cr.jpg" group-title="Costa Rica 🇨🇷",Canal 15 | Quince | UCR (CR)
 http://163.178.170.127:1935/quinceucr/_definst_/quinceucr.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0Wh7VPK/canal506.jpg" group-title="Costa Rica 🇨🇷",Canal 506 TV (CR)
-https://acceso.radiosportstv.online:3974/stream/play.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1tCbSs0R/casino.jpg" group-title="Costa Rica 🇨🇷",Casino TV | Limón (CR)
-https://xhateaec.com:8800/hls/oirahora/oirahora/2e68eeb4f04d3117d38c7d8ebe7bdaf4/index.m3u8
+https://micanal.ovh/livestreams/84.FAONPFMRZZBM.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T24wCVf3/cbtvcr.jpg" group-title="Costa Rica 🇨🇷",CBTV | Cotobrus TV (CR)
 https://s1.tvdatta.com:3072/live/cotobrustvlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dtWx0DTJ/comunicaciones.jpg" group-title="Costa Rica 🇨🇷",Comunicaciones Jiménez | Cartago (CR)
-https://live20.bozztv.com/akamaissh101/ssh101/comunicaciones/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0N0L4R0/costaricachannel.jpg" group-title="Costa Rica 🇨🇷",Costa Rica Channel (CR)
 https://video0.rogohosting.com:19360/8006/8006.m3u8
@@ -12777,7 +12772,7 @@ https://5cf4a2c2512a2.streamlock.net/8176/8176/playlist.m3u8
 https://5cf4a2c2512a2.streamlock.net/8172/8172/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1XkjNjwZ/kmk.jpg" group-title="Costa Rica 🇨🇷",KMK TV (CR)
-https://cloudvideo.servers10.com:8081/8120/index.m3u8
+https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3NxBT05N/limontv.jpg" group-title="Costa Rica 🇨🇷",Limón TV (CR)
 http://k4.usastreams.com/limontv1/limontv1/chunklist_w1958710633.m3u8
@@ -12789,10 +12784,7 @@ https://lstv.duckdns.org:449/hls/lstv.m3u8
 https://video20.klm99.com:3395/live/meganethitslive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sXLzRW2d/Megatvcr.jpg" group-title="Costa Rica 🇨🇷",Mega TV (CR)
-https://fl1002.bozztv.com/ssh101/megatvcr2024/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/52NRJRP4/Metv.jpg" group-title="Costa Rica 🇨🇷",Meta Versus (CR)
-https://vivo.solumedia.com:19360/metaversus/metaversus.m3u8
+https://enlineatv.net/hls/megatvcr/1_2/index.m3u8?tkn=37106372
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjV2Z4t7/norteinformativo1.jpg" group-title="Costa Rica 🇨🇷",Norte Informativo (CR)
 https://videohd.live:19360/8076/8076.m3u8
@@ -12806,14 +12798,11 @@ https://tupanel.info:8970/;stream.nsv
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XJkX7mCj/radiopuerto.jpg" group-title="Costa Rica 🇨🇷",Radio Puerto TV (CR)
 https://cloudvideo.servers10.com:8081/8256/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5rtzmXk/chirripo.jpg" group-title="Costa Rica 🇨🇷",RTV | Chirripó (CR)
-https://lstv.duckdns.org:449/hls/rtchirripo.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3yWFNtL/sanvito1.jpg" group-title="Costa Rica 🇨🇷",STV | San Vito (CR)
 https://acceso.radiosportstv.online:3150/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LX8PbcJQ/sarapiqui.jpg" group-title="Costa Rica 🇨🇷",SSTV | Sarapiqui Streming Television (CR)
-https://fl1002.bozztv.com/ssh101/sarapiquistreaming.cr/tracks-v1a1/mono.m3u8
+https://acceso.radiosportstv.online:3458/live/sstv2372live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/76tB0XPQ/telebrunc2.jpg" group-title="Costa Rica 🇨🇷",TeleBrunca | Puntarenas (CR)
 http://k4.usastreams.com/telebrunca/telebrunca/chunklist_w684257911.m3u8
@@ -12836,7 +12825,7 @@ https://s1.tvdatta.com:3582/live/telesurlive.m3u8
 https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStreamTRadio/bbcfd43fb9ad3b22af53808371ce9a16.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bbv5vLnR/teleunocr.jpg" group-title="Costa Rica 🇨🇷",TeleUno (CR)
-http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
+https://5eac7b031d945.streamlock.net/TVUNO/TVUNO/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sX23N08w/ticavision3.jpg" group-title="Costa Rica 🇨🇷",Ticavisión (CR)
 https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8
@@ -12848,19 +12837,16 @@ https://vivo.radiosportstv.online:3151/hybrid/play.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/tvcachi/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvkFL2V5/tvnosara.jpg" group-title="Costa Rica 🇨🇷",TV Nosara (CR)
-https://acceso.radiosportstv.online:3430/hybrid/play.m3u8
+https://latamvdo.com:3870/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cL4L4z9g/tvretro.jpg" group-title="Costa Rica 🇨🇷",TV Retro | Palmares (CR)
 https://live20.bozztv.com/akamaissh101/ssh101/tvretropalmares/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G29kZ8d4/tvguanaca.jpg" group-title="Costa Rica 🇨🇷",TV Santa Cruz | Guanacaste (CR)
-https://rtmp.info/tvsantacruz/envivo/chunklist_w307342586.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G2zwzFdF/telesurpz.jpg" group-title="Costa Rica 🇨🇷",Tv Sur | PZ (CR)
 https://k20.usastreams.com:8081/tvsur/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nVsVj8xd/ultr.jpg" group-title="Costa Rica 🇨🇷",Ultra Zona TV (CR)
-https://acceso.radiosportstv.online:3089/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qqrd9KpV/vo1.jpg" group-title="Costa Rica 🇨🇷",Voice Over Radio TV (CR)
 https://cloudvideo.servers10.com:8081/8198/rewind-3600.m3u8
