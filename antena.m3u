@@ -2,7 +2,7 @@
 #EXTINF:-1 GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 #EXTINF:-1 Para disfrutar de los canales y abrir correctamente, añade esta dirección a la aplicación IPTV PRO una vez instalada, disponible GRATIS en Google Play o bien descargala sin anuncios y completa acá: https//bit.ly/orbitaxpp  Compactible para todos tus dispositivos con Android y Google TV, TVBox, ect... 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rp9qQsHV/orbi2024.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 25.04.26
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rp9qQsHV/orbi2024.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 30.04.26
 https://ia600809.us.archive.org/18/items/orbita-guilmonzero-iptv-gratis-sigue-actualizando_202604/%5B%C3%92rbita%20%40guilmonzero%5D%20IPTV%20Gratis%20-%20Sigue%20Actualizando.mp4
 
 #EXTINF:-1 tvg-id="ES260001081" tvg-logo="https://i.postimg.cc/J7fC9BN4/rakuten-fam.jpg" group-title="Animados | Variado",En Familia | Rakuten TV (ES)
@@ -23,15 +23,15 @@ https://live20.bozztv.com/giatvplayout7/giatv-210863/playlist.m3u8
 http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
 
 #EXTINF:-1 tvg-id="66b0dfa1d512590008bfa7fd" tvg-name="Pluto TV Gore & Slasher" tvg-logo="https://i.postimg.cc/pVgRH9CQ/pluto-g.jpg" group-title="Animados | Variado",Pluto TV | Gore & Slasher (ES)
-
+https://jmp2.uk/plu-66b0dfa1d512590008bfa7fd.m3u8
 #EXTINF:-1 tvg-id="65ce480a78df2200131c597b" tvg-name="Pluto TV Psycho" tvg-logo="https://i.postimg.cc/65xLVz7j/pluto-ps.jpg" group-title="Animados | Variado",Pluto TV | Psycho (ES)
-
+https://jmp2.uk/plu-65ce480a78df2200131c597b.m3u8
 #EXTINF:-1 tvg-id="65786888b228b7000843ad9a" tvg-logo="https://i.postimg.cc/QNHmKD9v/pluto-z.jpg" group-title="Animados | Variado",Pluto TV | Zombies (ES)
-
+https://jmp2.uk/plu-65786888b228b7000843ad9a.m3u8
 #EXTINF:-1 tvg-id="5d8d180092e97a5e107638d3" tvg-logo="https://i.postimg.cc/Wb2PmVKb/cint.jpg" " group-title="Animados | Variado" ,Pluto TV | Cine Terror (US)
-
+https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8
 #EXTINF:-1 tvg-id="5dcddf1ed95e740009fef7ab" tvg-logo="https://i.postimg.cc/yxpYZ9Dg/pluto-cinet.jpg" group-title="Animados | Variado" ,Pluto TV | Cine Terror (LATAM)
-
+https://jmp2.uk/plu-5dcddf1ed95e740009fef7ab.m3u8
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-64e6e2f04a5e9b4cedc6d52b" tvg-logo="https://i.postimg.cc/MTtc7LPc/cinehorror.jpg" group-title="Animados | Variado",Plex | Cine de Horror (LATAM)
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-64e6e2f04a5e9b4cedc6d52b.m3u8
 
@@ -44,26 +44,24 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93
 #EXTINF:-1 tvg-id="ESBC40000248" tvg-logo="https://i.postimg.cc/PrFRtYz3/horrorvision.jpg" group-title="Animados | Variado",Samsung TV Plus | Horror Visión (ES)
 https://jmp2.uk/stvp-ESBC40000248
 
-#EXTINF:-1 tvg-id="6838a98df9bd067a38d1b8f7" tvg-logo="https://i.postimg.cc/wjvgpVVj/cria.jpg" " group-title="Animados | Variado",Pluto TV | Criaturas Malditas (LATAM)
-
 #EXTINF:-1 tvg-id="5f4d3696d938c900072679fd" tvg-logo="https://i.postimg.cc/Bvq0pfYb/pluto-his.jpg"  group-title="Animados | Variado",Pluto TV | Historias de Ultratumba (LATAM)
-
+https://jmp2.uk/plu-5f4d3696d938c900072679fd.m3u8
 #EXTINF:-1 tvg-id="67f95fa76b11614ab0caaef3" tvg-logo="https://i.postimg.cc/pVqT8pyq/hechi.jpg"  group-title="Animados | Variado",Pluto TV | Hechiceras (LATAM)
-
+https://jmp2.uk/plu-67f95fa76b11614ab0caaef3.m3u8
 #EXTINF:-1 tvg-id="678aa0b3680721c77c5035dd"  tvg-logo="https://i.postimg.cc/nL05LTYT/thewalkingdead.jpg"  group-title="Animados | Variado",Pluto TV | The Walking Dead by AMC (LATAM)
-
+https://jmp2.uk/plu-678aa0b3680721c77c5035dd.m3u8
 #EXTINF:-1 tvg-id="612ce5214bb5790007ad3016" tvg-logo="https://i.postimg.cc/T2j6WwYR/pluto-p.jpg"  group-title="Animados | Variado",Pluto TV | Paranormal (ES)
-
+https://jmp2.uk/plu-612ce5214bb5790007ad3016.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvmTYXJB/pride2.jpg" group-title="Animados | Variado",Pride TV | Feed Chile (LATAM)
 https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=dem0pRideTVweb
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/cLskdBh6/pride1.jpg" group-title="Animados | Variado" ,Pluto TV | Pride TV | Latino (LATAM)
 
 #EXTINF:-1 tvg-id="6368e15a51e9560007c592ed" tvg-logo="https://i.postimg.cc/sXHkGCKF/plu-pro.jpg" group-title="Animados | Variado" ,Pluto TV | Out TV Proud | Canada (CA)
-
+https://jmp2.uk/plu-6368e15a51e9560007c592ed.m3u8
 #EXTINF:-1 tvg-id="64510d3ad3fdde00080951f2" tvg-logo="https://i.postimg.cc/4y2MVSMq/drag.jpg" group-title="Animados | Variado" ,Pluto TV | Drag (LATAM)
-
+https://jmp2.uk/plu-64510d3ad3fdde00080951f2.m3u8
 #EXTINF:-1 tvg-id="5ce5a8954311f992edbe1da2" tvg-logo="https://i.postimg.cc/Gpdz9gRN/logo.jpg" group-title="Animados | Variado" ,Pluto TV | Logo (US)
-
+https://jmp2.uk/plu-5ce5a8954311f992edbe1da2.m3u8
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-62167144ab2095ca85353ad6" tvg-logo="https://i.postimg.cc/HsrBnqwG/cinepride.jpg" group-title="Animados | Variado",Cine Pride | Plex (US)
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-62167144ab2095ca85353ad6.m3u8
 
@@ -160,8 +158,7 @@ https://jmp2.uk/stvp-US800003JM
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nz5rtnqS/bemad.jpg" group-title="Animados | Variado",Be Mad (ES)
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VstSjbH0/bestc.jpg" group-title="Animados | Variado",Best Clásicos TV (CR)
-https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8
-https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8?WebM3UCL
+https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRRT64Cz/bigretro.jpg" group-title="Animados | Variado",Big Retro TV (CO)
 https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/chunks.m3u8
@@ -237,7 +234,7 @@ http://200.115.120.1:8000/play/ca032/index.m3u8
 http://200.115.120.1:8000/play/ca072/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xTnkPnmS/cuidadmagica2.jpg" group-title="Animados | Variado",Ciudad Magica TV (AR)
-https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
+https://tuvideoonline.com.ar:3145/live/grupocitylive.m3u8
 
 #EXTINF:-1 tvg-id="ESBC4100003WE" tvg-logo="https://i.postimg.cc/k4J3Hn06/clan4.jpg" group-title="Animados | Variado",Clan (ES)
 https://jmp2.uk/stvp-ESBC4100003WE
@@ -361,6 +358,7 @@ https://live20.bozztv.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/playlist.m3u8
 https://jmp2.uk/stvp-USBC44000072I
 
 #EXTINF:-1 tvg-id="631fb6be21b7440007b9f606" tvg-name="Hechizada" tvg-logo="https://i.postimg.cc/25HZ66L2/hechi.jpg" group-title="Animados | Variado",Hechizada
+https://jmp2.uk/plu-631fb6be21b7440007b9f606.m3u8
 
 #EXTINF:-1 tvg-id="US2900013AY" tvg-logo="https://i.postimg.cc/tgMN0dhp/hotw.jpg" group-title="Animados | Variado",Hot Wheels Action (US)
 https://jmp2.uk/stvp-US2900013AY
@@ -1527,7 +1525,7 @@ https://jmp2.uk/stvp-ESBD1400001L4
 https://jmp2.uk/stvp-GBBD1100007AC
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bnd7Km6F/Turismotraveltv.jpg" group-title="Cultura | Educativo 🪐",Turismo Travel TV (CL)
-https://stmv6.voxtvhd.com.br/turismotravel/turismotravel/chunklist_w1465026605.m3u8
+https://stmv3.voxtvhd.com.br/turismotraveltv/turismotraveltv/playlist.m3u8?hls_ctx=s4835a5l
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SsYFyzQ8/turitik.jpg" group-title="Cultura | Educativo 🪐",Turistik (MX)
 https://5fa5de1a545ae.streamlock.net/8030/8030/playlist.m3u8
@@ -7981,8 +7979,6 @@ https://jmp2.uk/plu-62bdb0bcd707b9000739d2e5.m3u8
 https://jmp2.uk/plu-62ea3f8a38acc80007072d26.m3u8
 #EXTINF:-1 channel-id="62e92a58f3e4290007290c96" tvg-id="62e92a58f3e4290007290c96" tvg-logo="https://images.pluto.tv/channels/62e92a58f3e4290007290c96/colorLogoPNG.png" group-title="Pluto TV | Canada" ,Paranormal
 https://jmp2.uk/plu-62e92a58f3e4290007290c96.m3u8
-#EXTINF:-1 channel-id="6835c3b25dcd940ee541b866" tvg-id="6835c3b25dcd940ee541b866" tvg-logo="https://images.pluto.tv/channels/6835c3b25dcd940ee541b866/colorLogoPNG.png" group-title="Pluto TV | Canada" ,Psycho
-https://jmp2.uk/plu-6835c3b25dcd940ee541b866.m3u8
 #EXTINF:-1 channel-id="67922858b83355184c699699" tvg-id="67922858b83355184c699699" tvg-logo="https://images.pluto.tv/channels/67922858b83355184c699699/colorLogoPNG.png" group-title="Pluto TV | Canada" ,Reality
 https://jmp2.uk/plu-67922858b83355184c699699.m3u8
 #EXTINF:-1 channel-id="630f1e6073bd1800082107f0" tvg-id="630f1e6073bd1800082107f0" tvg-logo="https://images.pluto.tv/channels/630f1e6073bd1800082107f0/colorLogoPNG.png" group-title="Pluto TV | Canada" ,Retro Crime Drama
@@ -12623,7 +12619,7 @@ https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QM53mhbm/10cr.jpg" group-title="Costa Rica 🇨🇷",Canal 10 | Sports (CR)
-https://acceso.mediosdecostarica.com:3606/live/canal10costaricalive.m3u8
+https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/63WRdBrH/repretel11.jpg" group-title="Costa Rica 🇨🇷",Canal 11 | Repretel (CR)
 https://d2qsan2ut81n2k.cloudfront.net/live/67efd9e7-d51f-40a9-b532-056669bd160a/ts:abr.m3u8
@@ -15883,8 +15879,19 @@ https://deliverys5.quanteec.com/contents/encodings/live/47fcda1a-38f6-4fb2-3938-
 http://69.70.89.58:8001/mjpg/video.mjpg
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SVJZH0q/pensa.jpg" group-title="Camaras 📹",Pensacola | Beach (US)
 https://cdn3.wowza.com/5/MmNRcC9LMmNmM2Mw/sunba/pensacola/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JjSvnRq/cam10.jpg" group-title="Camaras 📹",Playa Hermosa | Guanacaste | Costa Rica (CR)
-https://hls.cdn-surfline.com/ohio/cr-playahermosa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Wp6hn34w/es.jpg" group-title="Camaras 📹",Playa Espadilla | Manuel Antonio | Puntarenas | Costa Rica (CR)
+https://s62.ipcamlive.com/streams/3e20f4u5myqw7qvlg/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/50ZPsgN8/he.jpg" group-title="Camaras 📹",Playa Herradura | Puntarenas | Costa Rica (CR)
+https://s40.ipcamlive.com/streams/28ngl0fan7vrqowjc/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxTRQBny/ja.jpg" group-title="Camaras 📹",Playa Jacó | Puntarenas | Costa Rica (CR)
+https://s40.ipcamlive.com/streams/28t8ku1ycap9gfqnj/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jgv4Bsn/ma.jpg" group-title="Camaras 📹",Playa Madrigal | Puntarenas | Costa Rica (CR)
+https://s62.ipcamlive.com/streams/3eaworzn60ynz3jov/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7LspDSX7/tam.jpg" group-title="Camaras 📹",Playa Tamarindo | CAM 1 | Puntarenas | Costa Rica (CR)
+https://e1-na3.angelcam.com/cameras/103922/streams/hls/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9%2EeyJpYXQiOjE3Nzc1NDUxNjQsIm5iZiI6MTc3NzU0NTA0NCwiZXhwIjoxNzc3NTUyMzY0LCJkaWQiOiIxMDM5MjIifQ%2EAj7tK3GrrhqZxUXH8TP6DIt7f5EWXHMw1sqAd%5FSORDM
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7LspDSX7/tam.jpg" group-title="Camaras 📹",Playa Tamarindo | CAM 2 | Puntarenas | Costa Rica (CR)
+https://e1-na3.angelcam.com/cameras/1623/streams/hls/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9%2EeyJpYXQiOjE3Nzc1NDUxNjQsIm5iZiI6MTc3NzU0NTA0NCwiZXhwIjoxNzc3NTUyMzY0LCJkaWQiOiIxNjIzIn0%2EC%2DHBmD7GWOYKE1wwdgjEC7W%5F0HKB%2DdqI%2DS2zS2bwOWk
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3pbsSXs/cam13.jpg" group-title="Camaras 📹",Puente de la Amistad | Río Paraná (BR-PR)
 https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Wpyfsw-fZ/radiopua.jpg" group-title="Camaras 📹",Radio Puangue | Curacaví | Chile (CL)
@@ -15913,23 +15920,10 @@ https://use01-smr03-relay.ozolio.com/hls-live/_definst_/smil:relay01.ehyzdpo.fd0
 https://use01-smr03-relay.ozolio.com/hls-live/_definst_/relay01.hbeiet4.fd0.sm1.av2.mt0.at0.as0.dv1sh2.rt20655.rc0.edge.basic.stream/chunklist_w691459356_DVR.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/17cNHGM/c4.jpg" group-title="Camaras 📹",Stalder Kucher | Australia (DE)
 http://213.200.245.146:83/mjpg/video.mjpg
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/t4DcVX7g/sou.jpg" group-title="Camaras 📹",Southernmost Beach Resort: Pineapple Bar Cam | Cam 1 | Key West (US)
-https://use01-smr05-relay.ozolio.com/hls-live/_definst_/smil:relay01.vtcldi6.fd0.sm1.av2.mt1.at0.as1.dv0sh2.rt25500.rc0.smil/chunklist_w44464855_b3096000.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/t4DcVX7g/sou.jpg" group-title="Camaras 📹",Southernmost Beach Resort: Pineapple Bar Cam | Cam 2 | Key West (US)
-https://usw01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.ytzidtu.fd0.sm1.av2.mt0.at0.as0.dv0sh2.rt25500.rc0.edge.basic.stream/chunklist_w278116089.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/t4DcVX7g/sou.jpg" group-title="Camaras 📹",Southernmost Beach Resort: Pineapple Bar Cam | Cam 3 | Key West (US)
-https://usw01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.thmldue.fd0.sm1.av2.mt0.at0.as0.dv0sh2.rt25500.rc0.edge.basic.stream/chunklist_w2062968488.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pT7XM8hC/st.jpg" group-title="Camaras 📹",Starbucks | Rutgers-Camden | Nueva Jersey (US)
 https://video.camden.rutgers.edu/camdenstarbucks/camdenstarbucks.stream/chunklist_w664863998.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/G74FrVm/c8.jpg" group-title="Camaras 📹",Tennessee | Elam Center (US)
 http://208.87.72.176:80/mjpg/video.mjpg
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Rhhp2xwj/t1.jpg" group-title="Camaras 📹",The Beach Bar on St. John | CAM 1 | Bar | Islas Vírgenes (US)
-https://usw01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.awjyeqm.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt23850.rc0.edge.basic.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Rhhp2xwj/t1.jpg" group-title="Camaras 📹",The Beach Bar on St. John | CAM 2 | Ecenario | Islas Vírgenes (US)
-https://usw01-smr03-relay.ozolio.com/hls-live/_definst_/relay01.kikvep8.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt23850.rc0.edge.basic.stream/chunklist_w384144002.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Rhhp2xwj/t1.jpg" group-title="Camaras 📹",The Beach Bar on St. John | CAM 2 | Playa | Islas Vírgenes (US)
-https://usw01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.majgep3.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt23850.rc0.edge.basic.stream/chunklist_w1096564165.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GJvRxnQ/c11.jpg" group-title="Camaras 📹",Virginia | Midway Home Service (US)
 http://71.41.73.146:80/mjpg/video.mjpg
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/htVMrTz6/vo.jpg" group-title="Camaras 📹",Volcán Poás | 1 | Se actualiza cada minuto | Costa Rica (CR)
