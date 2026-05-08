@@ -486,6 +486,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/monitvhd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6qSKDhPG/morbidotv.jpg" group-title="Animados | Variado",Mórbido TV (LATAM)
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PfByWHvH/mrbeast.jpg" group-title="Animados | Variado",Mr. Beast | Tubi (US)
+https://aegis-cloudfront-1.tubi.video/cf8b86e9-932a-4454-99c5-32169b6a330f/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kMVQ97WX/mtvus.jpg" group-title="Animados | Variado",MTV (US)
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qqvtQhTv/mtv-fran.jpg" group-title="Animados | Variado",MTV | Francia (FR)
@@ -4409,8 +4412,11 @@ http://212.102.60.231/STARZ_WEST/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T3SYDWWK/star0.jpg" group-title="Películas | Series",Star | TVE (LATAM)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MHXm3PBY/sony-hal.jpg" group-title="Películas | Series",Sony | KAL (IN)
+https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fRGd01Nh/teleestrella.jpg" group-title="Películas | Series",Tele Estrella (AR)
-https://stmvideo6.livecastv.com/telestrella/telestrella/playlist.m3u8
+https://stmvideo6.livecastv.com/telestrella/telestrella/playlist.m3u
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xd8kG0Sm/terror.jpg" group-title="Películas | Series",Terror TV (CL)
 https://tv.streaming-chile.com:19360/8140/8140.m3u8
@@ -15885,7 +15891,7 @@ https://s62.ipcamlive.com/streams/3e20f4u5myqw7qvlg/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/50ZPsgN8/he.jpg" group-title="Camaras 📹",Playa Herradura | Puntarenas | Costa Rica (CR)
 https://s40.ipcamlive.com/streams/28ngl0fan7vrqowjc/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HxTRQBny/ja.jpg" group-title="Camaras 📹",Playa Jacó | Puntarenas | Costa Rica (CR)
-https://s40.ipcamlive.com/streams/28t8ku1ycap9gfqnj/stream.m3u8
+https://s40.ipcamlive.com/streams/284nnb80el1toambk/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jgv4Bsn/ma.jpg" group-title="Camaras 📹",Playa Madrigal | Puntarenas | Costa Rica (CR)
 https://s62.ipcamlive.com/streams/3eaworzn60ynz3jov/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7LspDSX7/tam.jpg" group-title="Camaras 📹",Playa Tamarindo | CAM 1 | Puntarenas | Costa Rica (CR)
