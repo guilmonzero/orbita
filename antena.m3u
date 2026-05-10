@@ -2,7 +2,7 @@
 #EXTINF:-1 GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 #EXTINF:-1 Para disfrutar de los canales y abrir correctamente, añade esta dirección a la aplicación IPTV PRO una vez instalada, disponible GRATIS en Google Play o bien descargala sin anuncios y completa acá: https//bit.ly/orbitaxpp  Compactible para todos tus dispositivos con Android y Google TV, TVBox, ect... 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rp9qQsHV/orbi2024.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 30.04.26
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rp9qQsHV/orbi2024.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 10.05.26
 https://ia600809.us.archive.org/18/items/orbita-guilmonzero-iptv-gratis-sigue-actualizando_202604/%5B%C3%92rbita%20%40guilmonzero%5D%20IPTV%20Gratis%20-%20Sigue%20Actualizando.mp4
 
 #EXTINF:-1 tvg-id="ES260001081" tvg-logo="https://i.postimg.cc/J7fC9BN4/rakuten-fam.jpg" group-title="Animados | Variado",En Familia | Rakuten TV (ES)
@@ -195,9 +195,6 @@ https://stmvideo1.livecastv.com/madmultimedios/madmultimedios/chunklist_w6201724
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k4Mr6HkX/canal-infantil.jpg" group-title="Animados | Variado",Canal | Infantil (LATAM)
 http://181.78.23.26:45000/play/a03w
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/brnvpW88/canalj.jpg" group-title="Animados | Variado",Canal Juegos Retros (ES)
-https://live20.bozztv.com/giatvplayout7/giatv-209604/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ESBD3000002GP" tvg-logo="https://i.postimg.cc/brQG8vYN/andalucia1.jpg" group-title="Animados | Variado",Canal Sur | Andalucía (ES)
 https://jmp2.uk/stvp-ESBD3000002GP
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HsKM2QWq/anda2.jpg" group-title="Animados | Variado",Canal Sur | 2 | Andalucía (ES)
@@ -241,14 +238,14 @@ https://jmp2.uk/stvp-ESBC4100003WE
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k4J3Hn06/clan4.jpg" group-title="Animados | Variado",Clan (LATAM)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_1080.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvZhr5pW/cla.jpg" group-title="Animados | Variado",Clásicos Animados (LATAM)
+https://live20.bozztv.com/giatvplayout7/giatv-209599/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJvzVN5Z/cotv.jpg" group-title="Animados | Variado",Coco TV (RD)
 https://mlb.essastream.com:8081/canalcocotv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T24jJ21K/crom.jpg" group-title="Animados | Variado",Crom TV (RD)
 https://fox.hostlagarto.com:8081/cromtv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwBds9tk/cucu.jpg" group-title="Animados | Variado",Cucuta Retro TV (VE)
-https://mist01.homestream.fun/hls/ntvlive/0_1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9Q8pXs2M/dark.jpg" group-title="Animados | Variado",Dark (ES)
 
@@ -381,6 +378,9 @@ https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4xTsLDQ4/ja.jpg" group-title="Animados | Variado",Japanim TV (FR)
 https://foxkidstv.be:3369/stream/play.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/28HWTP6X/jpd.jpg" group-title="Animados | Variado",JPD TV | Juan Pablo Duarte TV (RD)
+https://imagenuniversaltv.net:3026/live/juanpabloduartetvlive.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TY44FKB7/jup.jpg" group-title="Animados | Variado",Jupiter TV (US)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c7e85b21-ea01-42b4-85db-15dcfec98942/manifest.m3u8
 
@@ -457,8 +457,14 @@ https://5790d294af2dc.streamlock.net/latinostv/latinostv/chunklist_w658193714.m3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tRFY8cMx/MAGICkids2.jpg" group-title="Animados | Variado",Magic Kids [Solo Abre en PC con VLC] (AR)
 https://magicstream.ddns.net/magicstream/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SsQ8DDmW/maj.jpg" group-title="Animados | Variado",Majestad Televisión (EC)
+https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6qV9HK6N/majidtv.jpg" group-title="Animados | Variado",Majid TV (SA)
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5jqWybY/manaclar.jpg" group-title="Animados | Variado",Manaclar TV (RD)
+https://5790d294af2dc.streamlock.net/manaclar/manaclar/chunklist_w1247945233.m3u8
 
 #EXTINF:-1 tvg-id="US4500002UB" tvg-logo="https://i.postimg.cc/1tTW4Xzm/mattel.jpg" group-title="Animados | Variado",Mattel Jr. (US)
 https://jmp2.uk/stvp-US4500002UB
@@ -602,7 +608,11 @@ https://live20.bozztv.com/akamaissh101/ssh101/retrotoons/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j5Hd1Ypj/retrocr.jpg" group-title="Animados | Variado",Retro TV Online (CR)
 https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dz1HzJQK/retrox4.jpg" group-title="Animados | Variado",RetroX (CR)
+https://tvservices.fullhd-streaming.com:3963/live/tvgroupretroxtvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/43ngCC3g/retroxplus.jpg" group-title="Animados | Variado",RetroX Plus (CR)
+https://tvservices.fullhd-streaming.com:3100/live/tvgroupretroxtvpluslive.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/43ngCC3g/retroxplus.jpg" group-title="Animados | Variado",RetroX Plus | Opción 2 (CR)
 https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mgs3YqGS/a30-r.jpg" group-title="Animados | Variado",Ridiculous X TV | A30 TV (US)
@@ -673,6 +683,9 @@ https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/28xL148Q/tcm2.jpg" group-title="Animados | Variado",TCM | Turner Classic Movies (US)
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Ghqxrh8N/teleonce-US.jpg" group-title="Animados | Variado",Tele 11 (US)
+https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/TeleOnce/EnVivo1/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qB8jdW8z/telea1.jpg" group-title="Animados | Variado",Teleanimemanía (ES)
 https://live20.bozztv.com/giatvplayout7/giatv-209474/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VkFxLdnd/telea2.jpg" group-title="Animados | Variado",Teleanimemanía (LATAM)
@@ -683,6 +696,9 @@ https://videohd.live:19360/8016/8016.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TqMC3Xym/telecla.jpg" group-title="Animados | Variado",Tele Clásica (LATAM)
 https://sc1.wasidata.com/Teleclasica/tracks-v1/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0x29VWS/telemar.jpg" group-title="Animados | Variado",Telemar (EC)
+https://cloudpro.servidoresdestream.com:8081/8020/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="USBB3200016HO" tvg-logo="https://i.ibb.co/RTpgGqkK/telemundo-a.jpg" group-title="Animados | Variado",Telemundo | Ahora | Samsung TV Plus (US)
 https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
@@ -2789,10 +2805,10 @@ https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/chunklist_b2000000.
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hGhGghkC/wor.jpg" group-title="Informativo",News World (AU)
 https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8?ads_amagi_channel=867&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5636&ads_rtv_content_language=eng&ads_rtvid=271859&ads_streaming_id=e5486688-7476-43a4-9b1a-a750305a1168&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T1qXxt1F/noticiast.jpg" group-title="Informativo",Noticias Telemundo | Ahora (US)
-https://jmp2.uk/stvp-US3000005RS
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T1qXxt1F/noticiast.jpg" group-title="Informativo",Noticias Telemundo | California (US)
+https://jmp2.uk/plu-65790feacbd0d60008fac87a.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7Y4XXSVP/univisionnoti.jpg" group-title="Informativo",Noticias Univision | 24/7 (US)
-https://jmp2.uk/stvp-USBD1700014QU
+https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist_1280x720.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BQNjYTTy/not.jpg" group-title="Informativo",Notigram (MX)
 https://stream.oursnetworktv.com/latin/encoder32/playlist.m3u8
@@ -3305,6 +3321,13 @@ https://vivo.solumedia.com:19360/masfm/masfm.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qB3xhq5N/mcm.jpg" group-title="Música 🎼",MCM (UK)
 http://iptv.prosto.tv:7000/ch137/video.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j5yY5Qpz/me2.jpg" group-title="Música 🎼",Memorias | Classic (US)
+https://video.xtrematv.com:3576/live/memoriasclassiclive.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Sscbs7Bz/me1.jpg" group-title="Música 🎼",Memorias | Corazón (US)
+https://video.xtrematv.com:3401/live/grupomemoriaslive.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zBTYBSsS/me3.jpg" group-title="Música 🎼",Memorias | Tropical (US)
+https://video.xtrematv.com:3361/live/memoriastropicallive.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HWhTHh75/metal.jpg" group-title="Música 🎼",Metal Rocks | Rakuten (ES)
 https://amg00771-amg00771c5-rakuten-gb-9713.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00771-kochfilmsfast-metalrocks-rakutengb/playlist.m3u8?ads_amagi_channel_id=1063&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=entertainment&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=149.102.236.246&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=12&ads_rtv_content_id=7194&ads_rtv_content_language=&ads_rtvid=271859&ads_streaming_id=6281c2af-4cbc-4b88-84b8-9065f770c737&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
@@ -3568,6 +3591,9 @@ https://video08.logicahost.com.br/retroclub/retroclub/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Ct2XMBS/retromusictv.jpg" group-title="Música 🎼",Retro Music | Republica Checa (CZ)
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7LXRht6Q/retrom.jpg" group-title="Música 🎼",RetroMusic TV (LATAM)
+https://stream.enlineatv.net/hls/retromusic/1_2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dVCnC5K1/retroplus.jpg" group-title="Música 🎼",Retro Plus | Música (CL)
 https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
@@ -4184,6 +4210,15 @@ https://cnn.hostlagarto.com/megacinetv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NFtmC5YN/megacine.jpg" group-title="Películas | Series",Mega Cine TV | Opción 2 (RD)
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/26nN6Fsd/me5.jpg" group-title="Películas | Series",Memorias | Film (US)
+https://video.xtrematv.com:3725/live/memoriasfilmlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tTFGTtKB/me7.jpg" group-title="Películas | Series",Memorias | Novelas (US)
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/V6XP6Bxq/me4.jpg" group-title="Películas | Series",Memorias | Series (US)
+https://video.xtrematv.com:3633/live/memoriasserieslive.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnjCncfK/me6.jpg" group-title="Películas | Series",Memorias | Toons (US)
+https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GmYKVvVm/movied.jpg" group-title="Películas | Series",Movie Dome (UK)
 https://jmp2.uk/stvp-GBBB3800003JH
@@ -11386,7 +11421,7 @@ https://tv.mediacp.eu:8081/coraltv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYmCW3HB/cristalbo.jpg" group-title="Bolivia",Cristal (BO)
 https://srv5.elittehosting.com:3369/live/cristaltvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HkghWDrn/f10.jpg" group-title="Bolivia",F10 | Red Nacional de Televisión (BO)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63d6SGfm/f10.jpg" group-title="Bolivia",F10 | Red Nacional de Televisión (BO)
 https://tv2.bitstreaming.net:3235/multi_live/play_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bv8YMqyh/fap.jpg" group-title="Bolivia",Fap (BO)
@@ -12705,7 +12740,7 @@ https://acceso.mediosdecostarica.com:3134/live/sstv2372live.m3u8
 http://k4.usastreams.com/telebrunca/telebrunca/chunklist_w684257911.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gkvVYH5f/telem.jpg" group-title="Costa Rica 🇨🇷",Telemas (CR)
-https://mist01.homestream.fun/hls/tlmas904/0_1/index.m3u8
+https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g0xHK6Q1/telered2.jpg" group-title="Costa Rica 🇨🇷",TeleRed (CR)
 https://k20.usastreams.com:8081/telered/tracks-v1a1/mono.m3u8
