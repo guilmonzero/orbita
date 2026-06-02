@@ -2,8 +2,11 @@
 #EXTINF:-1 GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 #EXTINF:-1 Para disfrutar de los canales y abrir correctamente, añade esta dirección a la aplicación IPTV PRO una vez instalada, disponible GRATIS en Google Play o bien descargala sin anuncios y completa acá: https//bit.ly/orbitaxpp  Compactible para todos tus dispositivos con Android y Google TV, TVBox, ect... 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rp9qQsHV/orbi2024.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 16.05.26
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rp9qQsHV/orbi2024.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 02.06.26
 https://ia600809.us.archive.org/18/items/orbita-guilmonzero-iptv-gratis-sigue-actualizando_202604/%5B%C3%92rbita%20%40guilmonzero%5D%20IPTV%20Gratis%20-%20Sigue%20Actualizando.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/t40DbGNF/fox.jpg" group-title="Animados | Variado",FOX (LATAM)
+http://200.115.120.1:8000/play/a017/index.m3u8
 
 #EXTINF:-1 tvg-id="ES260001081" tvg-logo="https://i.postimg.cc/J7fC9BN4/rakuten-fam.jpg" group-title="Animados | Variado",En Familia | Rakuten TV (ES)
 https://jmp2.uk/stvp-ES260001081
@@ -158,7 +161,7 @@ http://38.44.109.41:8003/play/a00f
 https://fox.hostlagarto.com:8081/bocachicatv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HkqqLTcs/boing.jpg" group-title="Animados | Variado",Boing (ES)
-
+http://92.176.119.180:2095/play/a1fy
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCX1gTYY/boome.jpg" group-title="Animados | Variado",Boomerang (US)
 
@@ -286,6 +289,7 @@ https://streamyes.alsolnet.com/esportsmax/live/playlist.m3u8
 https://jmp2.uk/stvp-ES26000068D
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T3YrRxQ3/Etc.jpg" group-title="Animados | Variado",ETC (CL)
+http://45.181.122.46:8090/play/a00t
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Pr8cGZMJ/failarmy.jpg" group-title="Animados | Variado",FailArmy | 1 (US)
 https://failarmy-international-au.samsung.wurl.tv/playlist.m3u8
@@ -334,7 +338,7 @@ https://live20.bozztv.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/playlist.m3u8
 https://jmp2.uk/stvp-USBC44000072I
 
 #EXTINF:-1 tvg-id="631fb6be21b7440007b9f606" tvg-name="Hechizada" tvg-logo="https://i.postimg.cc/25HZ66L2/hechi.jpg" group-title="Animados | Variado",Hechizada
-https://jmp2.uk/plu-631fb6be21b7440007b9f606.m3u8
+
 
 #EXTINF:-1 tvg-id="US2900013AY" tvg-logo="https://i.postimg.cc/tgMN0dhp/hotw.jpg" group-title="Animados | Variado",Hot Wheels Action (US)
 https://jmp2.uk/stvp-US2900013AY
@@ -469,7 +473,7 @@ https://aegis-cloudfront-1.tubi.video/cf8b86e9-932a-4454-99c5-32169b6a330f/playl
 https://daiconnect.com/live/hls/tvup/tvfy-mundoseries/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L50q5Ht1/neox.jpg" group-title="Animados | Variado",Neox (ES)
-
+http://92.176.119.180:2095/play/a1eg
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vHf5pTQD/neoxtv.jpg" group-title="Animados | Variado",Neox TV (AR)
 https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8?t=1778670795141
@@ -600,8 +604,11 @@ https://stmv7.voxtvhd.com.br/solartv/solartv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qBh1nTGN/sq.jpg" group-title="Animados | Variado",Squirrel (ES)
 http://200.115.120.1:8000/play/ca034/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZX4FqX2/squirrel2.jpg" group-title="Animados | Variado",Squirrel | 2 (ES)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qBh1nTGN/sq.jpg" group-title="Animados | Variado",Squirrel | Opción 2 (ES)
+http://92.176.119.180:2095/play/a1ey
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZX4FqX2/squirrel2.jpg" group-title="Animados | Variado",Squirrel | 2 (ES)
+http://92.176.119.180:2095/play/a1g3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DyTkkpGP/star2.jpg" group-title="Animados | Variado",Star Channel (ES)
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJjnghbB/supers.jpg" group-title="Animados | Variado",Super Simple Songs (EU)
@@ -15856,7 +15863,7 @@ https://s62.ipcamlive.com/streams/3e20f4u5myqw7qvlg/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/50ZPsgN8/he.jpg" group-title="Camaras 📹",Playa Herradura | Puntarenas | Costa Rica (CR)
 https://s40.ipcamlive.com/streams/28ngl0fan7vrqowjc/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HxTRQBny/ja.jpg" group-title="Camaras 📹",Playa Jacó | Puntarenas | Costa Rica (CR)
-https://s40.ipcamlive.com/streams/28isjtwh1y2clpeua/stream.m3u8
+https://s40.ipcamlive.com/streams/28j1pgflvyemyhie0/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jgv4Bsn/ma.jpg" group-title="Camaras 📹",Playa Madrigal | Puntarenas | Costa Rica (CR)
 https://s62.ipcamlive.com/streams/3eaworzn60ynz3jov/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7LspDSX7/tam.jpg" group-title="Camaras 📹",Playa Tamarindo | CAM 1 | Puntarenas | Costa Rica (CR)
