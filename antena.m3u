@@ -87,9 +87,9 @@ https://jmp2.uk/plu-67f95fa76b11614ab0caaef3.m3u8
 https://jmp2.uk/plu-678aa0b3680721c77c5035dd.m3u8
 #EXTINF:-1 tvg-id="612ce5214bb5790007ad3016" tvg-logo="https://i.postimg.cc/T2j6WwYR/pluto-p.jpg"  group-title="Animados | Variado",Pluto TV | Paranormal (ES)
 https://jmp2.uk/plu-612ce5214bb5790007ad3016.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvmTYXJB/pride2.jpg" group-title="Animados | Variado",Pride TV | Feed Chile (LATAM)
 https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=dem0pRideTVweb
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/cLskdBh6/pride1.jpg" group-title="Animados | Variado" ,Pluto TV | Pride TV | Latino (LATAM)
 
 #EXTINF:-1 tvg-id="6368e15a51e9560007c592ed" tvg-logo="https://i.postimg.cc/sXHkGCKF/plu-pro.jpg" group-title="Animados | Variado" ,Pluto TV | Out TV Proud | Canada (CA)
 https://jmp2.uk/plu-6368e15a51e9560007c592ed.m3u8
@@ -152,9 +152,6 @@ http://31.148.48.15/Ani/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nzVsHRLF/animotion2.jpg" group-title="Animados | Variado",Animotion (LATAM)
 http://45.173.201.51:4000/play/a0l8/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N02bRmVx/antena6x.jpg" group-title="Animados | Variado",Antena Seis (CR)
-https://video1.azulstream.com:8081/antenaseistv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tRcX8DCy/atfal.jpg" group-title="Animados | Variado",Atfal & Mawaheb TV | Arabia (AE)
 https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
@@ -329,6 +326,9 @@ https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g2fnvqcd/film-sci.jpg" group-title="Animados | Variado",FilmRise | Sci-Fi (ES)
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=FilmRiseSciFiSpanish&ads.csid=zeus_es_filmrisescifispanish_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3689&ads.rakuten_streaming_id=9d559fca-cb04-4b3b-b4f6-24460a719b7d&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883026&ads.xumo_contentId=2701&ads.xumo_contentName=FilmRiseSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2701&ads.xumo_providerName=FilmRiseSpanish&ads.xumo_streamId=88883026
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g2vtHxx0/flashback.jpg" group-title="Animados | Variado",Flashback (CL)
+http://190.102.247.126:8000/play/a017/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnTw5tfk/fmh-family.jpg" group-title="Animados | Variado",Fmh | Family (LATAM)
 http://45.173.201.51:4000/play/a0m4/index.m3u8
@@ -525,6 +525,9 @@ https://pacific.direcnode.com:3562/live/nuevavisionlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jSGpfy3Y/odisea.jpg" group-title="Animados | Variado",Odisea (ES)
 https://tinyurl.com/odiseatv
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzh0Z24s/oldplay.jpg" group-title="Animados | Variado",OLD (CL)
+http://190.102.247.126:8000/play/a011/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2yJqTs4r/oli.jpg" group-title="Animados | Variado",Oli (CL)
 https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.ts.m3u8
 
@@ -604,6 +607,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/playlist.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/43ngCC3g/retroxplus.jpg" group-title="Animados | Variado",RetroX Plus (CR)
 https://lbgo.bozztv.com/ssh101/ssh101/retp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tJ6PhVBZ/rewind2.jpg" group-title="Animados | Variado",Rewind (CL)
+http://190.102.247.126:8000/play/a012/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mgs3YqGS/a30-r.jpg" group-title="Animados | Variado",Ridiculous X TV | A30 TV (US)
 https://30a-tv.com/feeds/vidaa/funnyvideos.m3u8
@@ -4002,6 +4008,7 @@ http://181.78.23.26:45000/play/a039
 https://rpn.bozztv.com/gusa/gusa-classiccinema/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4ypfp7ZJ/clover.jpg" group-title="Películas | Series",Clover Channel (LATAM)
+http://190.102.247.126:8000/play/a01e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BQpNMcXh/core.jpg" group-title="Películas | Series",Coreano by CJ ENM | Samsung TV Plus (ES)
 https://jmp2.uk/stvp-ES1700003C6
@@ -4206,8 +4213,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tT0dNYXC/novelisima.jpg" group-title="Películas | Series",Novelisima | Opción 2 (LATAM)
 https://amg00658-amg00658c60-canelatv-international-5442.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-novelisimaappta-canelatvinternational/playlist.m3u8?rights_holder_id=novelisima&user_id=&ic=IAB1-7&content_livestream=1&app_bundle=canela.tv&app_name=CanelaTV&app_store_url=NA&dnt=0&did=02e27c44-b3ec-4523-9c12-e9b90380087a&url=https://www.canela.tv/player/channel/novelisima&us_privacy=null_us_privacy&ifa_type=NA&lmt=NA&device_language=es&coppa=0
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzh0Z24s/oldplay.jpg" group-title="Películas | Series",OLD (LATAM)
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bJ1LyZYW/orbit.jpg" group-title="Películas | Series",Orbit (RD)
 https://cnn.hostlagarto.com/orbittv/tracks-v1a1/mono.m3u8
 
@@ -4317,9 +4322,6 @@ https://jmp2.uk/stvp-GB2600018PD
 https://jmp2.uk/stvp-IT2600002F6
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pdCp59TJ/rakuten-viki.jpg" group-title="Películas | Series",Rakuten TV | Viki (ES)
 https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_RakutenViki/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=4398&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=46d527bb-460e-40c7-9e0f-ef32740cfd09&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1065
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSp5fZYR/romanza.jpg" group-title="Películas | Series",Romanza | Africa (CO.ZA)
-https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yNPX10Zh/runtime2.jpg" group-title="Películas | Series",Runtime | Samsung TV Plus (ES)
 https://jmp2.uk/stvp-ESBC400001QQ
@@ -12602,6 +12604,9 @@ https://video.ejeserver.com/live/veotv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HWK8td3G/zoom.jpg" group-title="Colombia",Zoom (CO)
 https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N02bRmVx/antena6x.jpg" group-title="Costa Rica 🇨🇷",Antena Seis (CR)
+https://video1.azulstream.com:8081/antenaseistv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvY1V7Wt/360r.jpg" group-title="Costa Rica 🇨🇷",360 RFTV (CR)
 https://acceso.mediosdecostarica.com:3638/live/360rftvcrlive.m3u8
 
@@ -12708,9 +12713,9 @@ https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g0xHK6Q1/telered2.jpg" group-title="Costa Rica 🇨🇷",TeleRed (CR)
 https://k20.usastreams.com:8081/telered/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/851S0ZcK/telesisem2.jpg" group-title="Costa Rica 🇨🇷",TeleSistema (CR)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gkbt1cyr/telesistema2.jpg" group-title="Costa Rica 🇨🇷",TeleSistema (CR)
 https://k20.usastreams.com:8081/telesistema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/851S0ZcK/telesisem2.jpg" group-title="Costa Rica 🇨🇷",TeleSistema | Opción 2 (CR)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gkbt1cyr/telesistema2.jpg" group-title="Costa Rica 🇨🇷",TeleSistema | Opción 2 (CR)
 https://k20.usastreams.com:8081/telesistema/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sgw3TCmQ/telesurx.jpg" group-title="Costa Rica 🇨🇷",TeleSur (CR)
