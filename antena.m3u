@@ -17,10 +17,8 @@ http://45.5.119.43:4000/play/a02v/index.m3u8
 https://jmp2.uk/stvp-ES260001081
 #EXTINF:-1 tvg-id="GB2600017PX" tvg-logo="https://i.postimg.cc/mrJmt72T/rakuten-f.jpg" group-title="Animados | Variado",Family | Rakuten TV (GB)
 https://jmp2.uk/stvp-GB2600017PX
-
 #EXTINF:-1 tvg-id="FR2600001PI" tvg-logo="https://i.postimg.cc/BQJfSfVT/rakuten-fa.jpg" group-title="Animados | Variado",Famille | Rakuten TV (FR)
 https://jmp2.uk/stvp-FR2600001PI
-
 #EXTINF:-1 tvg-id="IT2600010E0" tvg-logo="https://i.postimg.cc/mrJmt72T/rakuten-f.jpg" group-title="Animados | Variado",Family | Rakuten TV (IT)
 https://jmp2.uk/stvp-IT2600010E0
 
@@ -149,9 +147,9 @@ https://jmp2.uk/stvp-CABD12000247O
 https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRRT64Cz/bigretro.jpg" group-title="Animados | Variado",Big Retro TV (CO)
-https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRRT64Cz/bigretro.jpg" group-title="Animados | Variado",Big Retro TV | Opción 2 (CO)
-https://live20.bozztv.com/akamaissh101/ssh101/bigchannel/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VLgJ0XnN/bitm.jpg" group-title="Animados | Variado",BitMe (MX)
 http://38.44.109.41:8003/play/a00f
@@ -187,8 +185,6 @@ https://jmp2.uk/stvp-ESBD3000002GP
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HsKM2QWq/anda2.jpg" group-title="Animados | Variado",Canal Sur | 2 | Andalucía (ES)
 https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="US2200005Y2" tvg-logo="https://i.postimg.cc/GpZQ1LkH/vix.jpg" group-title="Animados | Variado",Canal Vix (LATAM)
-https://jmp2.uk/stvp-US2200005Y2
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y97nVfFy/canela-kids.jpg" group-title="Animados | Variado",Canela Kids (LATAM)
 https://amg00658-amg00658c47-canelatv-international-7222.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelakids-canelatvinternational/playlist.m3u8?rights_holder_id=canela-kids&user_id=&vip=186.32.216.161&ic=IAB1-7&content_livestream=1&app_bundle=canela.tv&app_name=CanelaTV&app_store_url=NA&dnt=0&did=02e27c44-b3ec-4523-9c12-e9b90380087a&url=https://www.canela.tv/kids&us_privacy=null_us_privacy&ifa_type=NA&lmt=NA&device_language=es&coppa=1
@@ -290,7 +286,7 @@ https://jmp2.uk/stvp-ES26000068D
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T3YrRxQ3/Etc.jpg" group-title="Animados | Variado",ETC (CL)
 http://45.181.122.46:8090/play/a00t
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T3YrRxQ3/Etc.jpg" group-title="Animados | Variado",ETC | Opción 2 (CL)
-http://190.102.247.126:8000/play/a00d/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Pr8cGZMJ/failarmy.jpg" group-title="Animados | Variado",FailArmy | 1 (US)
 https://failarmy-international-au.samsung.wurl.tv/playlist.m3u8
@@ -305,7 +301,6 @@ https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=FilmRiseSciFiSpanish&ads.csid=zeus_es_filmrisescifispanish_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3689&ads.rakuten_streaming_id=9d559fca-cb04-4b3b-b4f6-24460a719b7d&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883026&ads.xumo_contentId=2701&ads.xumo_contentName=FilmRiseSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2701&ads.xumo_providerName=FilmRiseSpanish&ads.xumo_streamId=88883026
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g2vtHxx0/flashback.jpg" group-title="Animados | Variado",Flashback (CL)
-http://190.102.247.126:8000/play/a017/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnTw5tfk/fmh-family.jpg" group-title="Animados | Variado",Fmh | Family (LATAM)
 http://45.173.201.51:4000/play/a0m4/index.m3u8
@@ -316,9 +311,6 @@ http://45.173.201.51:4000/play/a0m6/index.m3u8
 
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-621674502c2627c068e73ada" tvg-logo="https://i.postimg.cc/hjSNbWbz/fri.jpg" group-title="Animados | Variado",FrightFlix | Plex (US)
 https://jmp2.uk/plex-643054b1fc3be59477853717-621674502c2627c068e73ada.m3u8
-
-#EXTINF:-1 tvg-id="643054b1fc3be59477853717-63d08694ab0965e49583e3b2" tvg-logo="https://i.postimg.cc/7Psmdy9M/funny.jpg" group-title="Animados | Variado",Funny or Die | Plex (US)
-https://jmp2.uk/plex-643054b1fc3be59477853717-63d08694ab0965e49583e3b2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bNwBCmSg/xabarin3.jpg" group-title="Animados | Variado",Galicia | Xabarín (ES)
 http://crtvg-infantil-schlive.flumotion.cloud/crtvglive/smil:channel5PRG.smil/chunklist_b2200000.m3u8
@@ -387,7 +379,6 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
 https://jmp2.uk/stvp-ESAJ38000046O
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/V6GSPhMf/kpop3.jpg" group-title="Animados | Variado",KPOP (LATAM)
-http://190.102.247.126:8000/play/a01w/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TPcWCpLd/laco.jpg" group-title="Animados | Variado",La Comarca TV (CL)
 https://v2.tustreaming.cl/lcomarcatv/index.m3u8
@@ -473,6 +464,11 @@ https://aegis-cloudfront-1.tubi.video/cf8b86e9-932a-4454-99c5-32169b6a330f/playl
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qRvR30kn/mtvlive.jpg" group-title="Animados | Variado",MTV | Live (US)
 #EXTINF:-1 tvg-logo=https://i.postimg.cc/0jf2TPwN/mtvu.jpg" group-title="Animados | Variado",MTV | U (US)
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L4nwDtVC/multivox-c.jpg" group-title="Animados | Variado",Multivox | Cartoons (LATAM)
+https://vtm1.msinteractiva.com/multivoxcartoons/multivoxcartoons/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fWJpCcvF/multivox-rc.jpg" group-title="Animados | Variado",Multivox | Retro Cartoons (LATAM)
+https://vtm1.msinteractiva.com/multivoxretcartoon/multivoxretcartoon/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdJCLD8z/mundose.jpg" group-title="Animados | Variado",Mundo Series | Tivify (ES)
 https://daiconnect.com/live/hls/tvup/tvfy-mundoseries/.m3u8
 
@@ -503,7 +499,6 @@ https://pacific.direcnode.com:3562/live/nuevavisionlive.m3u8
 https://tinyurl.com/odiseatv
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nzh0Z24s/oldplay.jpg" group-title="Animados | Variado",OLD (CL)
-http://190.102.247.126:8000/play/a011/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2yJqTs4r/oli.jpg" group-title="Animados | Variado",Oli (CL)
 https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.ts.m3u8
@@ -586,7 +581,7 @@ https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/chunks.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/retp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tJ6PhVBZ/rewind2.jpg" group-title="Animados | Variado",Rewind (CL)
-http://190.102.247.126:8000/play/a012/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mgs3YqGS/a30-r.jpg" group-title="Animados | Variado",Ridiculous X TV | A30 TV (US)
 https://30a-tv.com/feeds/vidaa/funnyvideos.m3u8
@@ -974,11 +969,17 @@ https://jmp2.uk/stvp-ES4300001K6
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CMfx4z56/chilech.jpg" group-title="Cultura | Educativo 🪐",Chile Channel TV (CL)
 https://v2.tustreaming.cl/chilechannel/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g2C39W9r/chinach.jpg" group-title="Cultura | Educativo 🪐",China Channel (CL)
+https://v2.tustreaming.cl/chinachannel/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fRLZxyQF/conc.jpg" group-title="Cultura | Educativo 🪐",ConCiencia TV (VE)
 http://38.41.8.1:8000/play/a03q
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4yKm1rBQ/coo.jpg" group-title="Cultura | Educativo 🪐",Cooking Panda | Plex (US)
 https://jmp2.uk/plex-643054b1fc3be59477853717-5f07e9fdf313eb0041bbecda.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf76tp6Z/coop.jpg" group-title="Cultura | Educativo 🪐",Cooperativa | Ciencia (CL)
+https://unlimited2-cl-isp.dps.live/cooperativaciencia/cooperativaciencia.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RZkkyHXg/cor.jpg" group-title="Cultura | Educativo 🪐",Coreografía | 1 | Niños (RU)
 https://fl1001.bozztv.com/ushba7/index.m3u8
@@ -1036,13 +1037,13 @@ https://jmp2.uk/stvp-DEBA3300014CV
 https://live-manifest.production-public.tubi.io/live/c33ee7ce-d9dc-41cd-8960-815637099a65/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DmVvmx6B/dw.jpg" group-title="Cultura | Educativo 🪐",Deutsche Welle | Aleman (DE)
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DmVvmx6B/dw.jpg" group-title="Cultura | Educativo 🪐",Deutsche Welle+ | Aleman (DE)
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DmVvmx6B/dw.jpg" group-title="Cultura | Educativo 🪐",Deutsche Welle+ | Ingles (DE)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DmVvmx6B/dw.jpg" group-title="Cultura | Educativo 🪐",Deutsche Welle | Español (DE)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DmVvmx6B/dw.jpg" group-title="Cultura | Educativo 🪐",Deutsche Welle+ | Ingles (DE)
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fTJXPB63/dipu.jpg" group-title="Cultura | Educativo 🪐",Diputados TV (AR)
 https://ythls.armelin.one/channel/UC1h8_HKc5wScqeRw1HV6a6w.m3u8
@@ -1357,6 +1358,9 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-5ef11487d33ab9004048a1d6.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MK9hqzN8/presu.jpg" group-title="Cultura | Educativo 🪐",Presumiendo México (MX)
 http://streamingcws10.com:1935/telemetrika/videotelemetrika/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N02bTDtd/qultura.jpg" group-title="Cultura | Educativo 🪐"Qultura (CL)
+https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7YVmRsCh/raices.jpg" group-title="Cultura | Educativo 🪐",Raices Arabes TV (CL)
 https://tv.streaming-chile.com:1936/raicesarabestv/raicesarabestv/playlist.m3u8
@@ -3514,6 +3518,9 @@ https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1zZPgPNB/retroclub.jpg" group-title="Música 🎼",Retro Club (LATAM)
 https://video08.logicahost.com.br/retroclub/retroclub/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXmLXk28/retromu.jpg" group-title="Música 🎼",Retro Música (CL)
+https://vdochile.com:3864/stream/play.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Ct2XMBS/retromusictv.jpg" group-title="Música 🎼",Retro Music | Republica Checa (CZ)
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
@@ -3800,6 +3807,9 @@ https://30a-tv.com/feeds/vidaa/scifi.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gcVPSbPX/a30-c.jpg" group-title="Películas | Series",30A TV | Classic Movies (US)
 https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5kDnW2r/addicta.jpg" group-title="Películas | Series",Addicta TV | Plex (ES)
+https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-69d6d88b1790acff6189dea5/?X-Plex-Token=nFTEVExzUdMp4j615VYx
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pVwY9MsH/masc.jpg" group-title="Películas | Series",+ Cine (CL)
 https://tv.streaming-chile.com:19360/8142/8142.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k5NsP8sg/mascin.jpg" group-title="Películas | Series",+ Cine | Classic (CL)
@@ -3872,6 +3882,9 @@ https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W1sjLZ4L/canalclaro.jpg" group-title="Películas | Series",Canal Claro | Pluto TV (LATAM)
 https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8
 
+#EXTINF:-1 tvg-id="US2200005Y2" tvg-logo="https://i.postimg.cc/GpZQ1LkH/vix.jpg" group-title="Películas | Series",Canal Vix (LATAM)
+https://jmp2.uk/stvp-US2200005Y2
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3xVq3R8X/canel.jpg" group-title="Películas | Series",Canela TV (LATAM)
 https://amg00658-amg00658c108-canelatv-international-7664.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelatvlatamapp-canelatvinternational/playlist.m3u8?rights_holder_id=canela-tv2&user_id=&vip=186.32.216.161&ic=IAB1-7&content_livestream=1&app_bundle=canela.tv&app_name=CanelaTV&app_store_url=NA&dnt=0&did=02e27c44-b3ec-4523-9c12-e9b90380087a&url=https://www.canela.tv/player/channel/canela-tv2&us_privacy=null_us_privacy&ifa_type=NA&lmt=NA&device_language=es&coppa=0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qqkBGkdw/canela-3.jpg" group-title="Películas | Series",Canela TV | 2 (ES)
@@ -3905,6 +3918,10 @@ https://amg00658-amg00658c99-canelatv-international-7218.playouts.now.amagi.tv/p
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9Q0Yxmzq/canela-se.jpg" group-title="Películas | Series",Canela TV | Secretos (LATAM)
 https://amg00658-amg00658c117-canelatv-us-11650.playouts.now.amagi.tv/ts-us-e2-n1/playlist/amg00658-canelamediafast-channele-canelatvus/playlist.m3u8?rights_holder_id=amg00658c117&user_id=&vip=186.32.216.161&ic=IAB1-7&content_livestream=1&app_bundle=canela.tv&app_name=CanelaTV&app_store_url=NA&dnt=0&did=02e27c44-b3ec-4523-9c12-e9b90380087a&url=https://www.canela.tv/player/channel/canelatv-secretos&us_privacy=null_us_privacy&ifa_type=NA&lmt=NA&device_language=es&coppa=0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/280W5YnP/caracolmix.jpg" group-title="Películas | Series",Caracol Mix | Plex (CO)
+https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-69b3481702912c2ce7ad9a3d/?X-Plex-Token=nFTEVExzUdMp4j615VYx
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XvDhzDzK/cineenes.jpg" group-title="Películas | Series",Cine en Español | Plex (LATAM)
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-64e6e46f27a915f9b5184e9a.m3u8
 
@@ -3978,7 +3995,7 @@ http://181.78.23.26:45000/play/a039
 https://rpn.bozztv.com/gusa/gusa-classiccinema/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4ypfp7ZJ/clover.jpg" group-title="Películas | Series",Clover Channel (LATAM)
-http://190.102.247.126:8000/play/a01e/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BQpNMcXh/core.jpg" group-title="Películas | Series",Coreano by CJ ENM | Samsung TV Plus (ES)
 https://jmp2.uk/stvp-ES1700003C6
@@ -4150,14 +4167,14 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 https://jmp2.uk/stvp-USBD17000117B
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pdrqtw5T/mx-classic.jpg" group-title="Películas | Series",MX | Classic (LATAM)
-http://190.102.247.126:8000/play/a01f/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zBmXr1Pr/mx-drama.jpg" group-title="Películas | Series",MX | Drama (LATAM)
-http://190.102.247.126:8000/play/a01p/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8c5YX7BP/mx-prime.jpg" group-title="Películas | Series",MX | Prime (LATAM)
-http://190.102.247.126:8000/play/a010/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9Mf1Cv4B/mx-series.jpg" group-title="Películas | Series",MX | Series (LATAM)
-http://190.102.247.126:8000/play/a016/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VkrnZsDv/yupp.jpg" group-title="Películas | Series",Murasu TV | Yupp TV | India (IN)
 https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
 
@@ -5336,6 +5353,9 @@ https://live20.bozztv.com/giatvplayout7/giatv-211111/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bYbytshS/chip.jpg" group-title="Mas Series 🧟",Chip y Dale | Al Rescate (LATAM)
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13PybV8J/cir.jpg" group-title="Mas Series 🧟",Cirque du Soleil | Plex (ES)
+https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-67642f277c5e3b38af72dcdb/?X-Plex-Token=nFTEVExzUdMp4j615VYx
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4y5zYpV3/cold.jpg" group-title="Mas Series 🧟",Cold Case Files | by A&E (US)
 https://jmp2.uk/stvp-USBC390002256
 
@@ -5746,8 +5766,8 @@ https://jmp2.uk/stvp-ESBD130000205
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0jkjGjy9/smur.jpg" group-title="Mas Series 🧟",Smurf TV (UK)
 https://jmp2.uk/stvp-GBBD1300001WA
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/g2YWYHjt/pla.jpg" group-title="Mas Series 🧟",Platos Sucios | Rakuten (ES)
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?=&ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=sitcom%2Ccomedy&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=PlatosSucios&ads.content_livestream=0&ads.csid=zeus_es_platossucious_ssai&ads.gam_correlator=&ads.google_ad_manager_nonce=&ads.inv_partner_domain=rakuten.tv&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=6827&ads.rakuten_streaming_id=1d63156f-9a5c-49e0-9ec9-42a316f32638&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883120&ads.xumo_channel_id=88883120&ads.xumo_contentId=2054&ads.xumo_contentName=IndigeniusSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2054&ads.xumo_providerName=platos-sucios-spa-rakutentv&ads.xumo_streamId=88883120
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g2YWYHjt/pla.jpg" group-title="Mas Series 🧟",Platos Sucios | Plex (ES)
+https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-68645c1f1a2f321847ec0391/?X-Plex-Token=nFTEVExzUdMp4j615VYx
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KjVxFrqK/poco.jpg" group-title="Mas Series 🧟",Pocoyó (LATAM)
 https://jmp2.uk/stvp-ESBC3900004ED
@@ -6041,7 +6061,7 @@ https://archive.org/download/ch-1c-0s-bu-3n-0s-2019-1080p-3-07-gb/Ch1c0s%20bu3n0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MT1txD0x/chu8.jpg" group-title="Mas Películas 🎃",Child's Play | 2019 | Latino
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c1Q5NsTY/chu1.jpg" group-title="Mas Películas 🎃",Chucky | 1 | El Muñeco Diabólico | 1988 | Latino
-
+https://ia601509.us.archive.org/20/items/chucky-muneco-diabolico-pelicula-completa-en-espanol-latino-480p-none/Chucky%20Mu%C3%B1eco%20diab%C3%B3lico%20%20-%20pel%C3%ADcula%20completa%20en%20espa%C3%B1ol%20latino-%28480pNone%29.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VLmZf3Hh/chu2.jpg" group-title="Mas Películas 🎃",Chucky | 2 | El Muñeco Diabólico | 1990 | Latino
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7Y9sfmFZ/chu3.jpg" group-title="Mas Películas 🎃",Chucky | 3 | El Muñeco Diabólico | 1991 | Latino
@@ -6392,6 +6412,9 @@ https://ia600501.us.archive.org/30/items/la-f-13st-4-d-3-s-4lch-1ch-4s-720p-1-36
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZXsqbY3/lag.jpg" group-title="Mas Películas 🎃",La Guardería de Papá | 2003 | Latino
 https://ia600504.us.archive.org/35/items/le-4-gu4rder-14-720p-lat-885.07-mb/Le4%20Gu%E2%81%B4rder14%20720p%20LAT%20885.07%20MB.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQXXgV8b/lah.jpg" group-title="Mas Películas 🎃",La Hora del Terror | 2007 | Latino
+https://ia801007.us.archive.org/0/items/la-hora-del-terror.-2007/La_Hora_Del_Terror.2007.ia.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85RJNQJz/lal.jpg" group-title="Mas Películas 🎃",La Llave Mágica | 1995 | Latino
 https://archive.org/serve/llm_20240326/llm.mp4
@@ -11955,13 +11978,16 @@ https://vdo.miserver.pro:3102/stream/play.m3u8
 https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TwkNVVH/chilevision.jpg" group-title="Chile" ,Chilevision | Contigo
-http://190.102.247.126:8000/play/a00f/index.m3u8
+http://45.181.122.46:8090/play/a01o
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k4K2FTRM/classicc.jpg" group-title="Chile",Classic Channel TV (CL)
 https://paneltv.online:1936/8046/8046/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fyzdHqDk/clubradiotv.jpg" group-title="Chile",Club TV (CL)
 https://stmv5.voxtvhd.com.br/clubtv/clubtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sxGVCtC4/coy.jpg" group-title="Chile",Coyhaique TV (CL)
+https://v2.tustreaming.cl/coyhaiquetv/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4y4RG0QM/com-2.jpg" group-title="Chile",COM | Channel (CL)
 https://streaming-cl.sh1ny.space/memfs/4f2393d1-64eb-4e8f-a2f4-f60feea9e63d.m3u8
@@ -11997,7 +12023,7 @@ https://us.streaminghd.cl/el3deconce/index.m3u8
 https://cloud2.streaminglivehd.com:1936/longinotv-1/longinotv-1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/HzxpRlp.jpg" group-title="Chile",Energia TV (CL)
-https://cdn.oneplaychile.cl:1936/regionales/energia-fm/chunks.m3u8
+https://andromeda2.trapemn.tv:1936/regionales/energia-fm/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/HzzJkvV.jpg" group-title="Chile",Enfoque Digital TV (CL)
 https://5eaccbab48461.streamlock.net:1936/8074/8074/chunklist_w828842357.m3u8
@@ -16599,54 +16625,54 @@ https://archive.org/download/TDG-V1/S02x24%20%20Viaje%20Salvaje.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/R0xKynvG/g2.jpg" group-title="Tierra de Gigantes",Tierra de Gigantes | S02E25 | Sub Español [1970]
 https://archive.org/download/TDG-V1/S02x25%20%20Graveyard%20Of%20Fools.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1qq7701/chu1.jpg" group-title="Chucky La Serie 🔪",Chucky | La Serie | S01E01 | Sub [2021]
-https://pomf2.lain.la/f/uc4ck83.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1qq7701/chu1.jpg" group-title="Chucky La Serie 🔪",Chucky | La Serie | S01E02 | Sub [2021]
-https://pomf2.lain.la/f/0syaisq1.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1qq7701/chu1.jpg" group-title="Chucky La Serie 🔪",Chucky | La Serie | S01E03 | Sub [2021]
-https://pomf2.lain.la/f/cpezlags.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1qq7701/chu1.jpg" group-title="Chucky La Serie 🔪",Chucky | La Serie | S01E04 | Sub [2021]
-https://pomf2.lain.la/f/zbrrua1.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1qq7701/chu1.jpg" group-title="Chucky La Serie 🔪",Chucky | La Serie | S01E05 | Sub [2021]
-https://pomf2.lain.la/f/glft0orl.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1qq7701/chu1.jpg" group-title="Chucky La Serie 🔪",Chucky | La Serie | S01E06 | Sub [2021]
-https://pomf2.lain.la/f/d39dorn8.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1qq7701/chu1.jpg" group-title="Chucky La Serie 🔪",Chucky | La Serie | S01E07 | Sub [2021]
-https://pomf2.lain.la/f/l566ogwu.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1qq7701/chu1.jpg" group-title="Chucky La Serie 🔪",Chucky | La Serie | S01E08 | Sub [2021]
-https://pomf2.lain.la/f/3wu5fcu7.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FDT0jf3/chu2.jpg" group-title="Chucky La Serie 🔪",Chucky | La Serie | S02E01 | Sub [2022]
-https://pomf2.lain.la/f/cko5fb0o.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FDT0jf3/chu2.jpg" group-title="Chucky La Serie 🔪",Chucky | La Serie | S02E02 | Sub [2022]
-https://pomf2.lain.la/f/2o4eu62n.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FDT0jf3/chu2.jpg" group-title="Chucky La Serie 🔪",Chucky | La Serie | S02E03 | Sub [2022]
-https://pomf2.lain.la/f/e2xgizzg.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FDT0jf3/chu2.jpg" group-title="Chucky La Serie 🔪",Chucky | La Serie | S02E04 | Sub [2022]
-https://pomf2.lain.la/f/qmng5h1z.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FDT0jf3/chu2.jpg" group-title="Chucky La Serie 🔪",Chucky | La Serie | S02E05 | Sub [2022]
-https://pomf2.lain.la/f/mqubg80u.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FDT0jf3/chu2.jpg" group-title="Chucky La Serie 🔪",Chucky | La Serie | S02E06 | Sub [2022]
-https://pomf2.lain.la/f/iup9wds8.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FDT0jf3/chu2.jpg" group-title="Chucky La Serie 🔪",Chucky | La Serie | S02E07 | Sub [2022]
-https://pomf2.lain.la/f/83ki07we.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FDT0jf3/chu2.jpg" group-title="Chucky La Serie 🔪",Chucky | La Serie | S02E08 | Sub [2022]
-https://pomf2.lain.la/f/hgxrrmry.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1qq7701/chu1.jpg" group-title="Chucky La Serie 🔪",Chucky | La Serie | S01E01 | Latino [2021]
+https://archive.org/download/t-2-capitulo-7/T1-Capitulo%201.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1qq7701/chu1.jpg" group-title="Chucky La Serie 🔪",Chucky | La Serie | S01E02 | Latino [2021]
+https://archive.org/download/t-2-capitulo-7/T1-Capitulo%202.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1qq7701/chu1.jpg" group-title="Chucky La Serie 🔪",Chucky | La Serie | S01E03 | Latino [2021]
+https://archive.org/download/t-2-capitulo-7/T1-Capitulo%203.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1qq7701/chu1.jpg" group-title="Chucky La Serie 🔪",Chucky | La Serie | S01E04 | Latino [2021]
+https://archive.org/download/t-2-capitulo-7/T1-Capitulo%204.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1qq7701/chu1.jpg" group-title="Chucky La Serie 🔪",Chucky | La Serie | S01E05 | Latino [2021]
+https://archive.org/download/t-2-capitulo-7/T1-Capitulo%205.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1qq7701/chu1.jpg" group-title="Chucky La Serie 🔪",Chucky | La Serie | S01E06 | Latino [2021]
+https://archive.org/download/t-2-capitulo-7/T1-Capitulo%206.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1qq7701/chu1.jpg" group-title="Chucky La Serie 🔪",Chucky | La Serie | S01E07 | Latino [2021]
+https://archive.org/download/t-2-capitulo-7/T1-Capitulo%207.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1qq7701/chu1.jpg" group-title="Chucky La Serie 🔪",Chucky | La Serie | S01E08 | Latino [2021]
+https://archive.org/download/t-2-capitulo-7/T1-Capitulo%208.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FDT0jf3/chu2.jpg" group-title="Chucky La Serie 🔪",Chucky | La Serie | S02E01 | Latino [2022]
+https://archive.org/download/t-2-capitulo-7/T2-Capitulo%201.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FDT0jf3/chu2.jpg" group-title="Chucky La Serie 🔪",Chucky | La Serie | S02E02 | Latino [2022]
+https://archive.org/download/t-2-capitulo-7/T2-Capitulo%202.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FDT0jf3/chu2.jpg" group-title="Chucky La Serie 🔪",Chucky | La Serie | S02E03 | Latino [2022]
+https://archive.org/download/t-2-capitulo-7/T2-Capitulo%203.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FDT0jf3/chu2.jpg" group-title="Chucky La Serie 🔪",Chucky | La Serie | S02E04 | Latino [2022]
+https://archive.org/download/t-2-capitulo-7/T2-Capitulo%204.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FDT0jf3/chu2.jpg" group-title="Chucky La Serie 🔪",Chucky | La Serie | S02E05 | Latino [2022]
+https://archive.org/download/t-2-capitulo-7/T2-Capitulo%205.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FDT0jf3/chu2.jpg" group-title="Chucky La Serie 🔪",Chucky | La Serie | S02E06 | Latino [2022]
+https://archive.org/download/t-2-capitulo-7/T2-Capitulo%206.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FDT0jf3/chu2.jpg" group-title="Chucky La Serie 🔪",Chucky | La Serie | S02E07 | Latino [2022]
+https://archive.org/download/t-2-capitulo-7/T2-Capitulo%207.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FDT0jf3/chu2.jpg" group-title="Chucky La Serie 🔪",Chucky | La Serie | S02E08 | Latino [2022]
+https://archive.org/download/t-2-capitulo-7/T2-Capitulo%208.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zZznbfv/chu3.jpg" group-title="Chucky La Serie 🔪",Chucky | La Serie | S03E01 [Sub] [2023]
-https://pomf2.lain.la/f/m3alxcc.mp4
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zZznbfv/chu3.jpg" group-title="Chucky La Serie 🔪",Chucky | La Serie | S03E02 [Sub] [2023]
-https://pomf2.lain.la/f/h2m0kay.mp4
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zZznbfv/chu3.jpg" group-title="Chucky La Serie 🔪",Chucky | La Serie | S03E03 [Sub] [2023]
-https://pomf2.lain.la/f/yi0800op.mp4
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zZznbfv/chu3.jpg" group-title="Chucky La Serie 🔪",Chucky | La Serie | S03E04 [Sub] [2023]
-https://pomf2.lain.la/f/eybeavdk.mp4
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zZznbfv/chu3.jpg" group-title="Chucky La Serie 🔪",Chucky | La Serie | S03E05 [Sub] [2023]
-https://pomf2.lain.la/f/b1r7knal.mp4
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zZznbfv/chu3.jpg" group-title="Chucky La Serie 🔪",Chucky | La Serie | S03E06 [Sub] [2023]
-https://pomf2.lain.la/f/0m8huhrn.mp4
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zZznbfv/chu3.jpg" group-title="Chucky La Serie 🔪",Chucky | La Serie | S03E07 [Sub] [2023]
-https://pomf2.lain.la/f/00w8vj2p.mp4
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zZznbfv/chu3.jpg" group-title="Chucky La Serie 🔪",Chucky | La Serie | S03E08 [Sub] [2023]
-https://pomf2.lain.la/f/r0f876bt.mp4
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0XHH417/a1.jpg" group-title="La Familia Addams 💀",La Familia Addams | S01E01 | Latino [1964]
 https://archive.org/serve/LLA-V1/S01xE01.mp4
@@ -18819,23 +18845,23 @@ https://archive.org/download/Cazafantasmas86/133%20Attack%20of%20the%20B-Movie%2
 https://archive.org/download/Cazafantasmas86/134%2020%2C000%20Leagues%20Under%20the%20Street.mp4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZLMfVr1/cal.jpg" group-title="Juego del Calamar 🦑",Juego del Calamar | S01E01 | Latino [2021]
-https://archive.org/download/94-1_20210929/1x01%20-%20Luz%20roja%2C%20luz%20verde.mp4
+https://archive.org/download/el-juego-del-calamar-temporada-1-capitulo-1/El%20juego%20del%20calamar%20Temporada%201%20C%C3%A1pitulo%201.ia.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZLMfVr1/cal.jpg" group-title="Juego del Calamar 🦑",Juego del Calamar | S01E02 | Latino [2021]
-https://archive.org/download/94-1_20210929/1x02%20-%20INFIERNO.mp4
+https://archive.org/download/el-juego-del-calamar-temporada-1-capitulo-2/El%20juego%20del%20calamar%20Temporada%201%20C%C3%A1pitulo%202.ia.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZLMfVr1/cal.jpg" group-title="Juego del Calamar 🦑",Juego del Calamar | S01E03 | Latino [2021]
-https://archive.org/download/94-1_20210929/1x03%20-%20El%20hombre%20del%20paraguas.mp4
+https://archive.org/download/el-juego-del-calamar-temporada-1-capitulo-3/El%20juego%20del%20calamar%20Temporada%201%20C%C3%A1pitulo%203.ia.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZLMfVr1/cal.jpg" group-title="Juego del Calamar 🦑",Juego del Calamar | S01E04 | Latino [2021]
-https://archive.org/download/94-1_20210929/1x04%20-%20No%20abandones%20el%20equipo.mp4
+https://archive.org/download/el-juego-del-calamar-temporada-1-capitulo-4/El%20juego%20del%20calamar%20Temporada%201%20C%C3%A1pitulo%204.ia.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZLMfVr1/cal.jpg" group-title="Juego del Calamar 🦑",Juego del Calamar | S01E05 | Latino [2021]
-https://archive.org/download/94-1_20210929/1x05%20-%20Un%20mundo%20justo.mp4
+https://archive.org/download/el-juego-del-calamar-temporada-1-capitulo-5_202412/El%20juego%20del%20calamar%20Temporada%201%20C%C3%A1pitulo%205.ia.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZLMfVr1/cal.jpg" group-title="Juego del Calamar 🦑",Juego del Calamar | S01E06 | Latino [2021]
-https://archive.org/download/94-1_20210929/1x06%20-%20Gganbu.mp4
+https://archive.org/download/el-juego-del-calamar-temporada-1-capitulo-6/El%20juego%20del%20calamar%20Temporada%201%20C%C3%A1pitulo%206.ia.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZLMfVr1/cal.jpg" group-title="Juego del Calamar 🦑",Juego del Calamar | S01E07 | Latino [2021]
-https://archive.org/download/94-1_20210929/1x07%20-%20LOS%20VIPS.mp4
+https://archive.org/download/el-juego-del-calamar-temporada-1-capitulo-7/El%20juego%20del%20calamar%20Temporada%201%20C%C3%A1pitulo%207.ia.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZLMfVr1/cal.jpg" group-title="Juego del Calamar 🦑",Juego del Calamar | S01E08 | Latino [2021]
-https://archive.org/download/94-1_20210929/1x08%20-%20El%20l%C3%ADder.mp4
+https://archive.org/download/el-juego-del-calamar-temporada-1-capitulo-8/El%20juego%20del%20calamar%20Temporada%201%20C%C3%A1pitulo%208.ia.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZLMfVr1/cal.jpg" group-title="Juego del Calamar 🦑",Juego del Calamar | S01E09 | Latino [2021]
-https://archive.org/download/94-1_20210929/1x09%20-%20Un%20d%C3%ADa%20de%20suerte.mp4
+https://archive.org/download/el-juego-del-calamar-temporada-1-capitulo-9/El%20juego%20del%20calamar%20Temporada%201%20C%C3%A1pitulo%209.ia.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tgc5fhQ2/cal2.jpg" group-title="Juego del Calamar 🦑",Juego del Calamar | S02E01 | Latino [2024]
 https://archive.org/serve/el-juego-del-calamar-temporada-2-ep-1_202501/El%20juego%20del%20Calamar%20Temporada%202%20Ep1.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tgc5fhQ2/cal2.jpg" group-title="Juego del Calamar 🦑",Juego del Calamar | S02E02 | Latino [2024]
@@ -18847,32 +18873,21 @@ https://ia600605.us.archive.org/1/items/el-juego-del-calamar-temporada-2-ep-4_20
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tgc5fhQ2/cal2.jpg" group-title="Juego del Calamar 🦑",Juego del Calamar | S02E05 | Latino [2024]
 https://ia600607.us.archive.org/16/items/el-juego-del-calamar-temporada-2-ep-5/El%20juego%20del%20Calamar%20Temporada%202%20Ep5.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tgc5fhQ2/cal2.jpg" group-title="Juego del Calamar 🦑",Juego del Calamar | S02E06 | Latino [2024]
-https://ia802302.us.archive.org/20/items/el-juego-del-calamar-temporada-2-ep-6/El%20juego%20del%20Calamar%20Temporada%202%20Ep6.mp4
+https://archive.org/download/el-juego-del-calamar-temporada-2-capitulo-6_202506/El%20juego%20del%20calamar%20Temporada%202%20C%C3%A1pitulo%206.ia.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tgc5fhQ2/cal2.jpg" group-title="Juego del Calamar 🦑",Juego del Calamar | S02E07 | Latino [2024]
-https://pomf2.lain.la/f/plu5nbs5.mp4
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BLbZymq/futurama.jpg" group-title="Futurama [2023] 🚀",Futurama | Aviso | Nueva Temporada
-https://i.postimg.cc/155XPdqZ/orbita-avisos-futurama.jpg
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BLbZymq/futurama.jpg" group-title="Futurama [2023] 🚀",Futurama | S08E01 | Latino [2023]
-https://pomf2.lain.la/f/gu2sbzmd.mkv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BLbZymq/futurama.jpg" group-title="Futurama [2023] 🚀",Futurama | S08E02 | Latino [2023]
-https://pomf2.lain.la/f/88exrt3m.mkv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BLbZymq/futurama.jpg" group-title="Futurama [2023] 🚀",Futurama | S08E03 | Latino [2023]
-https://pomf2.lain.la/f/8y6kthv.mkv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BLbZymq/futurama.jpg" group-title="Futurama [2023] 🚀",Futurama | S08E04 | Latino [2023]
-https://pomf2.lain.la/f/ofzso9xo.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BLbZymq/futurama.jpg" group-title="Futurama [2023] 🚀",Futurama | S08E05 | Latino [2023]
-https://pomf2.lain.la/f/9lzphys3.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BLbZymq/futurama.jpg" group-title="Futurama [2023] 🚀",Futurama | S08E06 | Latino [2023]
-https://pomf2.lain.la/f/u9zgq41q.mkv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BLbZymq/futurama.jpg" group-title="Futurama [2023] 🚀",Futurama | S08E07 | Latino [2023]
-https://pomf2.lain.la/f/2arlptq.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BLbZymq/futurama.jpg" group-title="Futurama [2023] 🚀",Futurama | S08E08 | Latino [2023]
-https://pomf2.lain.la/f/bswant1v.mkv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BLbZymq/futurama.jpg" group-title="Futurama [2023] 🚀",Futurama | S08E09 | Latino [2023]
-https://pomf2.lain.la/f/l8xf8f99.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BLbZymq/futurama.jpg" group-title="Futurama [2023] 🚀",Futurama | S08E10 | Latino [2023]
-https://pomf2.lain.la/f/oznvvkzu.mp4
+https://archive.org/download/el-juego-del-calamar-temporada-2-capitulo-7_202506/El%20juego%20del%20calamar%20Temporada%202%20C%C3%A1pitulo%207.ia.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JntZw467/cal3.jpg" group-title="Juego del Calamar 🦑",Juego del Calamar | S03E01 | Latino [2025]
+https://archive.org/download/el-juego-del-calamar-s-03-e-03-no-es-culpa-tuya/El%20juego%20del%20calamar_S03E01_Llaves%20y%20pu%C3%B1ales.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JntZw467/cal3.jpg" group-title="Juego del Calamar 🦑",Juego del Calamar | S03E02 | Latino [2025]
+https://archive.org/download/el-juego-del-calamar-s-03-e-03-no-es-culpa-tuya/El%20juego%20del%20calamar_S03E02_Noche%20estrellada.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JntZw467/cal3.jpg" group-title="Juego del Calamar 🦑",Juego del Calamar | S03E03 | Latino [2025]
+https://archive.org/download/el-juego-del-calamar-s-03-e-03-no-es-culpa-tuya/El%20juego%20del%20calamar_S03E03_No%20es%20culpa%20tuya.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JntZw467/cal3.jpg" group-title="Juego del Calamar 🦑",Juego del Calamar | S03E04 | Latino [2025]
+https://archive.org/download/el-juego-del-calamar-s-03-e-03-no-es-culpa-tuya/El%20juego%20del%20calamar_S03E04_222.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JntZw467/cal3.jpg" group-title="Juego del Calamar 🦑",Juego del Calamar | S03E05 | Latino [2025]
+https://archive.org/download/el-juego-del-calamar-s-03-e-03-no-es-culpa-tuya/El%20juego%20del%20calamar_S03E05_%E2%97%8B%E2%96%B3%E2%96%A1.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JntZw467/cal3.jpg" group-title="Juego del Calamar 🦑",Juego del Calamar | S03E06 | Latino [2025]
+https://archive.org/download/el-juego-del-calamar-s-03-e-03-no-es-culpa-tuya/El%20juego%20del%20calamar_S03E06_Humanos.mp4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KVTxc16/b1.jpg" group-title="Mundo de Beakman",Beakman | S01E01 | Lluvia y Volcanes | Latino [1992]
 https://archive.org/download/Beakman92/S01E01%20Beakman%20-%20Lluvia%2C%20Beakman%C3%ADa%20y%20Volcanes.mp4
@@ -19404,38 +19419,24 @@ https://archive.org/download/bflix-6_202501/BFLIX%20%285%29.ia.mp4
 https://archive.org/download/bflix-6_202501/BFLIX%20%286%29.ia.mp4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GVd2bmr/1.jpg" group-title="Youtube Recomendados 👾",@Agusvitshorts
-https://pomf2.lain.la/f/3o1f2ocn.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b7Pgrhb/2.jpg" group-title="Youtube Recomendados 👾",@Cheems9132
-https://pomf2.lain.la/f/frfvxtdw.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PxGW4nkJ/15.jpg" group-title="Youtube Recomendados 👾",@Derec_tv
-https://pomf2.lain.la/f/1kiv8psa.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RjNvs7b/4.jpg" group-title="Youtube Recomendados 👾",@EduardoGonzalez-ws3isn
-https://pomf2.lain.la/f/isxxml1p.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R9SRSdr/12.jpg" group-title="Youtube Recomendados 👾",@FanMike21
-https://pomf2.lain.la/f/1gtpnit.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MRtjLcC/5.jpg" group-title="Youtube Recomendados 👾",@FeryTiggy
-https://pomf2.lain.la/f/2wnz03mr.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ByX7vS3/6.jpg" group-title="Youtube Recomendados 👾",@Gustyy_ARG
-https://pomf2.lain.la/f/3eugg8oy.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4N6tqGKm/14.jpg" group-title="Youtube Recomendados 👾",@Joancrack312
-https://pomf2.lain.la/f/0ojodaz.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QCR0Swf/7.jpg" group-title="Youtube Recomendados 👾",@Leo_Arte_DIY
-https://pomf2.lain.la/f/80lyhypo.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7tb9czf/3.jpg" group-title="Youtube Recomendados 👾",@Mattiaaaa23
-https://pomf2.lain.la/f/7zfw94ji.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k54JrgmP/13.jpg" group-title="Youtube Recomendados 👾",@Patybenitez8099
-https://pomf2.lain.la/f/oo24ecpv.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z6YQHZD/8.jpg" group-title="Youtube Recomendados 👾",@Pedrosalchicha1326
-https://pomf2.lain.la/f/y4f4s6k.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GnfLP14/9.jpg" group-title="Youtube Recomendados 👾",@Pytscayt
-https://pomf2.lain.la/f/x2aaguc3.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6JVXVdM/10.jpg" group-title="Youtube Recomendados 👾",@Soyeldibujantejuan
-https://pomf2.lain.la/f/526uxlcn.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b6cjgkX/11.jpg" group-title="Youtube Recomendados 👾",@Titanspeaker2099_9
-https://pomf2.lain.la/f/gl8wq5j2.mp4
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VLknJj4v/orbi-pride.jpg" group-title="GUILMONZERO 😉",Órbita by GUILMONZERO | Feedback
-https://pomf2.lain.la/f/o0ucqxo.mp4
+https://ia600809.us.archive.org/18/items/orbita-guilmonzero-iptv-gratis-sigue-actualizando_202604/%5B%C3%92rbita%20%40guilmonzero%5D%20IPTV%20Gratis%20-%20Sigue%20Actualizando.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y8kt3Zj2/astrum.jpg" group-title="GUILMONZERO 😉",Astrum [No 24/7] (LATAM)
 https://live20.bozztv.com/akamaissh101/ssh101/guilmonzero/playlist.m3u8
