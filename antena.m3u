@@ -2,7 +2,7 @@
 #EXTINF:-1 GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 #EXTINF:-1 Para disfrutar de los canales y abrir correctamente, añade esta dirección a la aplicación IPTV PRO una vez instalada, disponible GRATIS en Google Play o bien descargala sin anuncios y completa acá: https//bit.ly/orbitaxpp  Compactible para todos tus dispositivos con Android y Google TV, TVBox, ect... 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLknJj4v/orbi-pride.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 09.07.26
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLknJj4v/orbi-pride.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 14.07.26
 https://ia600809.us.archive.org/18/items/orbita-guilmonzero-iptv-gratis-sigue-actualizando_202604/%5B%C3%92rbita%20%40guilmonzero%5D%20IPTV%20Gratis%20-%20Sigue%20Actualizando.mp4
 
 #EXTINF:-1 tvg-id="69fa3faab9c0f0d444e64de3" tvg-logo="https://i.postimg.cc/hvqcQb9K/pluto-pride.jpg" group-title="Animados | Variado",Pluto TV | Pride | USA (US)
@@ -12,6 +12,8 @@ https://jmp2.uk/plu-69fa3faab9c0f0d444e64de3.m3u8
 http://200.115.120.1:8000/play/a017/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t40DbGNF/fox.jpg" group-title="Animados | Variado",FOX | Opción 2 (CR)
 http://45.5.119.43:4000/play/a02v/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZY5KtM6/tigo.jpg" group-title="Animados | Variado",Tigo Sports | Señal Temporal (UY)
+https://lbgo.bozztv.com/ssh101/ssh101/tvplaytv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ES260001081" tvg-logo="https://i.postimg.cc/J7fC9BN4/rakuten-fam.jpg" group-title="Animados | Variado",En Familia | Rakuten TV (ES)
 https://jmp2.uk/stvp-ES260001081
@@ -127,6 +129,9 @@ http://31.148.48.15/Ani/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nzVsHRLF/animotion2.jpg" group-title="Animados | Variado",Animotion (LATAM)
 http://45.173.201.51:4000/play/a0l8/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdmQYLWW/apa.jpg" group-title="Animados | Variado",Apanines TV (LATAM)
+https://live20.bozztv.com/akamaissh101/ssh101/apaninestv2025/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tRcX8DCy/atfal.jpg" group-title="Animados | Variado",Atfal & Mawaheb TV | Arabia (AE)
 https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
@@ -576,8 +581,10 @@ https://live20.bozztv.com/akamaissh101/ssh101/retrotoons/playlist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bwmNPSsZ/retrox1.jpg" group-title="Animados | Variado",RetroX (CR)
-https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/43ngCC3g/retroxplus.jpg" group-title="Animados | Variado",RetroX Plus (CR)
+https://lbgo.bozztv.com/ssh101/ssh101/pagasde1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HL2pX8XQ/retroxm.jpg" group-title="Animados | Variado",RetroX | Music TV (CR)
+https://lbgo.bozztv.com/ssh101/ssh101/retroxmusictv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/43ngCC3g/retroxplus.jpg" group-title="Animados | Variado",RetroX | Plus (CR)
 https://lbgo.bozztv.com/ssh101/ssh101/retp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tJ6PhVBZ/rewind2.jpg" group-title="Animados | Variado",Rewind (CL)
@@ -3200,6 +3207,9 @@ https://stream.cmctv.hr:49998/kit/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7hjWLFJL/kpop2.jpg" group-title="Música 🎼",K-POP | by CJ ENM | Samsung TV Plus (ES)
 https://jmp2.uk/stvp-ES3900001QG
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vmHWW9kp/kpop4.jpg" group-title="Música 🎼",KPOP TV (US)
+https://lbgo.bozztv.com/ssh101/ssh101/24hrkpoptv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/768m9sCD/kronehit.jpg" group-title="Música 🎼",Kronehit (AU)
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 
@@ -4005,6 +4015,9 @@ https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pVDDCqTw/cowb.jpg" group-title="Películas | Series",Cowboy Movie Channel | Stirr (US)
 https://jmp2.uk/str-5745.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vH1pbxmN/zon.jpg" group-title="Películas | Series",Demo TV (LATAM)
+https://servertv.online:3882/live/demolive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RZWZVRfk/df.jpg" group-title="Películas | Series",Discover Film (UK)
 https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
@@ -11287,6 +11300,7 @@ https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DZPntJZ8/mix.jpg" group-title="Bolivia",Mix Bolivia TV (BO)
 https://live20.bozztv.com/giatv/giatv-mixboliviatv/mixboliviatv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MfYFgfd/pat.jpg" group-title="Bolivia",PAT | La Paz (BO)
 https://w8.redpat.tv:8000/play/110/46698652.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MfYFgfd/pat.jpg" group-title="Bolivia",PAT | La Paz | Opción 2 (BO)
