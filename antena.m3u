@@ -666,7 +666,7 @@ https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/28xL148Q/tcm2.jpg" group-title="Animados | Variado",TCM | Turner Classic Movies (US)
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Ghqxrh8N/teleonce-US.jpg" group-title="Animados | Variado",Tele 11 (US)
-https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/TeleOnce/EnVivo1/chunks.m3u8
+https://cdn.jwplayer.com/live/broadcast/DccQWXXz.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TqMC3Xym/telecla.jpg" group-title="Animados | Variado",Tele Clásica (LATAM)
 https://stmv7.voxtvhd.com.br/teleclasica/teleclasica/playlist.m3u8
@@ -692,6 +692,9 @@ https://fox.hostlagarto.com:8081/telenonisa43/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NFKwJ7bs/tigue.jpg" group-title="Animados | Variado",Tigueritos (LATAM)
 https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vTy0mqK2/timetravel.jpg" group-title="Animados | Variado",Time Travel Network (LATAM)
+https://lbgo.bozztv.com/ssh101/ssh101/timetraveltv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GBBD3200003T6" tvg-logo="https://i.postimg.cc/nhtyXWBn/tiny.jpg" group-title="Animados | Variado",Tiny POP (UK)
 https://jmp2.uk/stvp-GBBD3200003T6
@@ -15092,9 +15095,6 @@ https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/908CYJgP/a2z.jpg" group-title="Mas Señales",A2Z | Filipinas (PH)
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SjFqYq0q/acs2.jpg" group-title="Mas Señales",ACS Network TV (PR)
-https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w1677884939.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RVPtVcsM/al1.jpg" group-title="Mas Señales",Al Araby | Catar (QA)
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
