@@ -3816,13 +3816,14 @@ https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8kBn99zh/orbi2025.jpg" group-title="Películas | Series",Órbita by @guilmonzero
 https://ia600809.us.archive.org/18/items/orbita-guilmonzero-iptv-gratis-sigue-actualizando_202604/%5B%C3%92rbita%20%40guilmonzero%5D%20IPTV%20Gratis%20-%20Sigue%20Actualizando.mp4
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9Xnbq7vp/24ho.jpg" group-title="Películas | Series",24 Hour |Free Movies (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9Xnbq7vp/24ho.jpg" group-title="Películas | Series",24 Hour | Free Movies (US)
 https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcVPSbPX/a30-c.jpg" group-title="Películas | Series",30A TV | Classic Movies (US)
+https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Xv1vvSv7/a30-sci.jpg" group-title="Películas | Series",30A TV | Sci Fi & Spooky (US)
 https://30a-tv.com/feeds/vidaa/scifi.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcVPSbPX/a30-c.jpg" group-title="Películas | Series",30A TV | Classic Movies (US)
-https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5kDnW2r/addicta.jpg" group-title="Películas | Series",Addicta TV | Plex (ES)
 https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-69d6d88b1790acff6189dea5/?X-Plex-Token=nFTEVExzUdMp4j615VYx
