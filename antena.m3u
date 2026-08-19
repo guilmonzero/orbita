@@ -249,7 +249,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wjPQKLd2/dreamw.jpg" group-title="Animados | Variado",DreamWorks (ES)
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T1WRCfqH/dreikotv.jpg" group-title="Animados | Variado",Dreiko TV (PA)
-https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
+https://cloudvideo.servers10.com:8081/8020/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GmRds4Lq/duc2.jpg" group-title="Animados | Variado",Duck TV (US)
 https://jmp2.uk/stvp-ESBC4700001GR
