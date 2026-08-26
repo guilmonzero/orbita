@@ -119,7 +119,7 @@ https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 http://31.148.48.15/Ani/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nzVsHRLF/animotion2.jpg" group-title="Animados | Variado",Animotion (LATAM)
-http://190.110.96.238:8000/play/a0co/index.m3u8
+http://38.199.67.246:8000/play/a01d/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdmQYLWW/apa.jpg" group-title="Animados | Variado",Apanines TV (LATAM)
 https://live20.bozztv.com/akamaissh101/ssh101/apaninestv2025/playlist.m3u8
@@ -288,7 +288,7 @@ https://jmp2.uk/stvp-ES26000068D
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T3YrRxQ3/Etc.jpg" group-title="Animados | Variado",ETC (CL)
 http://190.60.39.221:8000/play/a05m/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T3YrRxQ3/Etc.jpg" group-title="Animados | Variado",ETC | Opción 2 (CL)
-http://190.110.96.238:8000/play/a0cn/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Pr8cGZMJ/failarmy.jpg" group-title="Animados | Variado",FailArmy | 1 (US)
 https://failarmy-international-au.samsung.wurl.tv/playlist.m3u8
@@ -303,13 +303,13 @@ https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=FilmRiseSciFiSpanish&ads.csid=zeus_es_filmrisescifispanish_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3689&ads.rakuten_streaming_id=9d559fca-cb04-4b3b-b4f6-24460a719b7d&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883026&ads.xumo_contentId=2701&ads.xumo_contentName=FilmRiseSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2701&ads.xumo_providerName=FilmRiseSpanish&ads.xumo_streamId=88883026
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g2vtHxx0/flashback.jpg" group-title="Animados | Variado",Flashback (CL)
-http://190.110.96.238:8000/play/a0i5/index.m3u8
+http://38.199.67.246:8000/play/a021/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnTw5tfk/fmh-family.jpg" group-title="Animados | Variado",Fmh | Family (LATAM)
-http://190.110.96.238:8000/play/a0cv/index.m3u8
+http://38.199.67.246:8000/play/a01f/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Dz4tWV7h/fmh-kids.jpg" group-title="Animados | Variado",Fmh | Kids (LATAM)
-http://190.110.96.238:8000/play/a0cq/index.m3u8
+http://38.199.67.246:8000/play/a01g/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vZ9ZbpCH/fmh-m.jpg" group-title="Animados | Variado",Fmh | Movies (LATAM)
-http://190.110.96.238:8000/play/a0cu/index.m3u8
+http://38.199.67.246:8000/play/a01i/index.m3u8
 
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-621674502c2627c068e73ada" tvg-logo="https://i.postimg.cc/hjSNbWbz/fri.jpg" group-title="Animados | Variado",FrightFlix | Plex (US)
 https://jmp2.uk/plex-643054b1fc3be59477853717-621674502c2627c068e73ada.m3u8
@@ -456,6 +456,7 @@ https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvRFgtJq/megaes.jpg" group-title="Animados | Variado",Mega (ES)
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JnjCncfK/me6.jpg" group-title="Animados | Variado",Memorias | Toons (US)
+http://38.199.67.246:8000/play/a01a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6ptd18Vq/mercury.jpg" group-title="Animados | Variado",Mercury+ | Stirr (US)
 https://streams2.sofast.tv/sofastplayout/b7867c83-0c17-4de2-a74b-beb972c4f342_1000015693_HLS/master.m3u8
@@ -547,6 +548,7 @@ https://tls-cl.cdnz.cl/orbitatv/live/playlist.m3u8
 https://streamunoapp.com:3255/live/palmartvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zD0L8Ypm/panico.jpg" group-title="Animados | Variado",Pánico (MX)
+http://38.199.67.246:8000/play/a00q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NGSQ0KzX/pantalla.jpg" group-title="Animados | Variado",Pantalla Clásica (EC)
 https://live20.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
@@ -608,7 +610,7 @@ https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/playlist.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/erinaca/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tJ6PhVBZ/rewind2.jpg" group-title="Animados | Variado",Rewind (CL)
-
+http://38.199.67.246:8000/play/a01j/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mgs3YqGS/a30-r.jpg" group-title="Animados | Variado",Ridiculous X TV | A30 TV (US)
 https://30a-tv.com/feeds/vidaa/funnyvideos.m3u8
@@ -4188,9 +4190,10 @@ https://cnn.hostlagarto.com/megacinetv/index.m3u8
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26nN6Fsd/me5.jpg" group-title="Películas | Series",Memorias | Film (US)
+http://38.199.67.246:8000/play/a01b/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tTFGTtKB/me7.jpg" group-title="Películas | Series",Memorias | Novelas (US)
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/V6XP6Bxq/me4.jpg" group-title="Películas | Series",Memorias | Series (US)
-
+http://38.199.67.246:8000/play/a019/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GmYKVvVm/movied.jpg" group-title="Películas | Series",Movie Dome (UK)
 https://jmp2.uk/stvp-GBBB3800003JH
 
@@ -5319,8 +5322,6 @@ http://190.61.47.54:8000/play/a022/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C1tBgByM/caracol.jpg" group-title="Premium | Latino",Caracol (CO)
 http://181.78.23.26:45000/play/a02g
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C1tBgByM/caracol.jpg" group-title="Premium | Latino",Caracol | Opción 2 (CO)
-http://200.115.120.1:8000/play/ca067/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C1tBgByM/caracol.jpg" group-title="Premium | Latino",Caracol | Opción 3 (CO)
 http://corgol.com@181.78.82.6:46090/play/a05x
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8c0zTRGK/citytv.jpg" group-title="Premium | Latino",City TV (CO)
@@ -12082,7 +12083,7 @@ https://vdo.miserver.pro:3102/stream/play.m3u8
 https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TwkNVVH/chilevision.jpg" group-title="Chile" ,Chilevision | Contigo
-http://190.110.96.238:8000/play/a07x/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k4K2FTRM/classicc.jpg" group-title="Chile",Classic Channel TV (CL)
 https://paneltv.online:1936/8046/8046/playlist.m3u8
