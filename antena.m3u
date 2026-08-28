@@ -2,7 +2,7 @@
 #EXTINF:-1 GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 #EXTINF:-1 Para disfrutar de los canales y abrir correctamente, añade esta dirección a la aplicación IPTV PRO una vez instalada, disponible GRATIS en Google Play o bien descargala sin anuncios y completa acá: https//bit.ly/orbitaxpp  Compactible para todos tus dispositivos con Android y Google TV, TVBox, ect... 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8kBn99zh/orbi2025.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 25.08.26
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8kBn99zh/orbi2025.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 28.08.26
 https://ia600809.us.archive.org/18/items/orbita-guilmonzero-iptv-gratis-sigue-actualizando_202604/%5B%C3%92rbita%20%40guilmonzero%5D%20IPTV%20Gratis%20-%20Sigue%20Actualizando.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZK4Lv6F0/crimen.jpg" group-title="Animados | Variado",Crímenes Reales | Rakuten TV (ES)
@@ -479,6 +479,8 @@ https://aegis-cloudfront-1.tubi.video/cf8b86e9-932a-4454-99c5-32169b6a330f/playl
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kMVQ97WX/mtvus.jpg" group-title="Animados | Variado",MTV (US)
 http://198.58.104.90:8989/mtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kMVQ97WX/mtvus.jpg" group-title="Animados | Variado",MTV | Europe ()
+http://dvr2.kablova.tv/MTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fTh7cKCW/mtv2.jpg" group-title="Animados | Variado",MTV | 2 (US)
 http://198.58.104.90:8989/mtv2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qRvR30kn/mtvlive.jpg" group-title="Animados | Variado",MTV | Live (US)
@@ -11054,6 +11056,9 @@ https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6qRC3mq5/3.jpg" group-title="Argentina",Canal 3 | Pinamar (AR)
 https://intelincloud01.com.ar/hls/cn3/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xdQ9Qp95/canal3s.jpg" group-title="Argentina",Canal 3 | Salta (AR)
+https://ututotv.com.ar/live/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7YyYqw6F/4ar.jpg" group-title="Argentina",Canal 4 | Esquel (AR)
 https://stream.arcast.com.ar/canal4esquel/canal4esquel/chunklist_w1842650708.m3u8
 
@@ -12228,6 +12233,9 @@ https://freya.mivideo.pro:8081/parentesistv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bNmdTPpV/pichilemu.jpg" group-title="Chile",Pichilemu TV (CL)
 https://5ff3d9babae13.streamlock.net/8028/8028/chunklist_w30638986.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yYq1n822/pir.jpg" group-title="Chile",Pirque TV (CL)
+https://eu1.servers10.com:8081/laureltv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jt4ww14/plazatv.jpg" group-title="Chile",Plaza TV (CL)
 https://live20.bozztv.com/akamaissh101/ssh101/plazatv2/playlist.m3u8
 
@@ -12272,6 +12280,9 @@ https://unlimited1-us.dps.live/smtv/smtv.smil/smtv/livestream1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZntKrK6T/SEXTAvision.jpg" group-title="Chile",Sexta Visión (CL)
 https://5ff3d9babae13.streamlock.net/8020/8020/chunklist_w1619355387.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0yFcKhzZ/showtimetv.jpg" group-title="Chile",Showtime TV (CL)
+https://stmv7.voxtvhd.com.br/showtimetv/showtimetv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/HzTcap4.jpg" group-title="Chile",Soberania Radio (CL)
 https://tls-cl.cdnz.cl/radiosoberania/live/chunklist_w1305280686.m3u8
@@ -14971,6 +14982,9 @@ https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Mpk8hGbN/chiv.jpg" group-title="Venezuela",Chivacoa TV | Internacional (VE)
 https://fl1004.bozztv.com/ssh101/1234chivacoa/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6pryCv3m/contact.jpg" group-title="Venezuela",ContacTV (VE)
+https://lbgo.bozztv.com/ssh101/ssh101/contactv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vBKtTbGv/gua.jpg" group-title="Venezuela",Guaro TV (VE)
 https://streamtv.intervenhosting.net:3592/stream/play.m3u8
