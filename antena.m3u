@@ -2,7 +2,7 @@
 #EXTINF:-1 GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 #EXTINF:-1 Para disfrutar de los canales y abrir correctamente, añade esta dirección a la aplicación IPTV PRO una vez instalada, disponible GRATIS en Google Play o bien descargala sin anuncios y completa acá: https//bit.ly/orbitaxpp  Compactible para todos tus dispositivos con Android y Google TV, TVBox, ect... 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8kBn99zh/orbi2025.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 31.08.26
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8kBn99zh/orbi2025.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 04.09.26
 https://ia600809.us.archive.org/18/items/orbita-guilmonzero-iptv-gratis-sigue-actualizando_202604/%5B%C3%92rbita%20%40guilmonzero%5D%20IPTV%20Gratis%20-%20Sigue%20Actualizando.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZK4Lv6F0/crimen.jpg" group-title="Animados | Variado",Crímenes Reales | Rakuten TV (ES)
@@ -646,9 +646,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/retrotoons/playlist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bwmNPSsZ/retrox1.jpg" group-title="Animados | Variado",RetroX (CR)
-https://live20.bozztv.com/giatv/giatv-tvtvtv/tvtvtv/chunks.m3u8
+https://lbgo.bozztv.com/ssh101/ssh101/sternblink/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/43ngCC3g/retroxplus.jpg" group-title="Animados | Variado",RetroX | Plus (CR)
-https://lbgo.bozztv.com/ssh101/ssh101/erinaca/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tJ6PhVBZ/rewind2.jpg" group-title="Animados | Variado",Rewind (CL)
 http://38.199.67.246:8000/play/a01j/index.m3u8
@@ -3623,7 +3623,6 @@ https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HL2pX8XQ/retroxm.jpg" group-title="Música 🎼",RetroX | Music TV (CR)
 https://lbgo.bozztv.com/ssh101/ssh101/retroxmusictv/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BQJKnNp2/ritmotop.jpg" group-title="Música 🎼",Ritmo Top Latino (CL)
 https://5ff3d9babae13.streamlock.net/vzzfdajnnf/vzzfdajnnf/playlist.m3u8
@@ -12738,7 +12737,7 @@ http://163.178.170.127:1935/quinceucr/_definst_/quinceucr.stream/playlist.m3u8
 https://acceso.mediosdecostarica.com:3511/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vBdLLMbf/ctv2.jpg" group-title="Costa Rica 🇨🇷",Casino TV | CTV | Limón (CR)
-https://server5.cloundmediacp.in/roger1341/roger1341/playlist.m3u8
+https://183.bozztv.com/giatv/giatv-ctvlimon/ctvlimon/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/htWjGGr1/cedrotv.jpg" group-title="Costa Rica 🇨🇷",Cedros TV (CR)
 https://eu1.servers10.com:8081/cedrostv/index.m3u8
@@ -12801,7 +12800,7 @@ https://rtv.fullhd-streaming.com:19360/radiopuertotv/radiopuertotv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3yWFNtL/sanvito1.jpg" group-title="Costa Rica 🇨🇷",STV | San Vito (CR)
 https://lstv.duckdns.org:449/hls/stv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/LX8PbcJQ/sarapiqui.jpg" group-title="Costa Rica 🇨🇷",SSTV | Sarapiqui Streming Television (CR)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Zn1XL3TM/sv.jpg" group-title="Costa Rica 🇨🇷",SVCR | Sarapiqui Visión (CR)
 https://acceso.mediosdecostarica.com:3134/live/sstv2372live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/76tB0XPQ/telebrunc2.jpg" group-title="Costa Rica 🇨🇷",TeleBrunca | Puntarenas (CR)
@@ -16016,13 +16015,13 @@ https://5ed7b8fd7bf40.streamlock.net:444/sharkys/sharkysbeachcam/chunklist_w5228
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4WQ85Jj/sh2.jpg" group-title="Camaras 📹",Sharkys Beach | Beach Cam | Panama City (US)
 https://5ed7b8fd7bf40.streamlock.net:444/sharkyssunset/sharkyssunsetcam/chunklist_w367109247.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d06Xc6G/du.jpg" group-title="Camaras 📹",Sloppy Joe | Duval Street | Key West | Cam 1 (US)
-https://use01-smr05-relay.ozolio.com/hls-live/_definst_/smil:relay01.vtcldi6.fd0.sm1.av2.mt1.at0.as1.dv0.sh2.rt15771.rc0.smil/chunklist_w1985780868_b1596000.m3u8
+https://liveduvalstreet.b-cdn.net/bcdn_token=b3cUo5mTUS22Br-ubM4VjxUN4odQa0HrivXiLo3kUt0&amp;token_path=%2Fhls%2Fduval-main%2F&amp;expires=1788602211/hls/duval-main/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d06Xc6G/du.jpg" group-title="Camaras 📹",Sloppy Joe | Duval Street | Key West | Cam 2 (US)
-https://usw01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.eboldpj.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt15771.rc0.edge.basic.stream/chunklist_w2072808503.m3u8
+https://liveduvalstreet.b-cdn.net/bcdn_token=bL9nD0K4vlp-arg9ZLuQMLPqGeFFdtcKpCES4RbxIHA&amp;token_path=%2Fhls%2Fsloppyjoes-crowd%2F&amp;expires=1788602260/hls/sloppyjoes-crowd/sloppyjoes-crowd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d06Xc6G/du.jpg" group-title="Camaras 📹",Sloppy Joe | Duval Street | Key West | Cam 3 | Stage (US)
-https://use01-smr03-relay.ozolio.com/hls-live/_definst_/smil:relay01.xnbwdi1.fd0.sm1.av2.mt1.at0.as1.dv0.sh2.rt15771.rc0.smil/chunklist_w880662183_b3096000.m3u8
+https://liveduvalstreet.b-cdn.net/bcdn_token=lC_SAU2icZIURXF3gwVFtJMXH4E_KdYIuJU_lhuaRNg&amp;token_path=%2Fhls%2Fsloppyjoes-stage%2F&amp;expires=1788557523/hls/sloppyjoes-stage/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d06Xc6G/du.jpg" group-title="Camaras 📹",Sloppy Joe | Duval Street | Key West | Cam 4 | Inside (US)
-https://use01-smr05-relay.ozolio.com/hls-live/_definst_/smil:relay01.ehyzdpo.fd0.sm1.av2.mt1.at0.as1.dv0.sh2.rt15771.rc0.smil/chunklist_w1535708354_b846000.m3u8
+https://liveduvalstreet.b-cdn.net/bcdn_token=JHKszXN6nN2j5gQ8NVwbMvOJBbRRyNVI-3KDMK3wqKg&amp;token_path=%2Fhls%2Fsloppyjoes-bar%2F&amp;expires=1788557530/hls/sloppyjoes-bar/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d06Xc6G/du.jpg" group-title="Camaras 📹",Sloppy Joe | Duval Street | Key West | Cam 5 | Eventos (US)
 https://use01-smr03-relay.ozolio.com/hls-live/_definst_/relay01.hbeiet4.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt32481.rc0.edge.basic.stream/chunklist_w358730242.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/17cNHGM/c4.jpg" group-title="Camaras 📹",Stalder Kucher | Australia (DE)
