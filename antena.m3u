@@ -325,12 +325,8 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 http://190.60.39.221:8000/play/a01v/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Dz4tWV7h/fmh-kids.jpg" group-title="Animados | Variado",Fmh | Kids (LATAM)
 http://190.60.39.221:8000/play/a01w/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dz4tWV7h/fmh-kids.jpg" group-title="Animados | Variado",Fmh | Kids | Opción 2 (LATAM)
-https://tr-netcdn.bitel.com.pe/netcdn-live-4/bitel/fmhkids_abr/playlist.m3u8?timestamp=1790606406&wmkid=0&token=8df27d1f8838a431c2b5fa7dfd7dc6de&manifestfilter=video_bitrate:1-10000000&uid=17280722
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vZ9ZbpCH/fmh-m.jpg" group-title="Animados | Variado",Fmh | Movies (LATAM)
 http://190.60.39.221:8000/play/a01y/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZ9ZbpCH/fmh-m.jpg" group-title="Animados | Variado",Fmh | Movies | Opción 2 (LATAM)
-https://tr-netcdn.bitel.com.pe/netcdn-live-4/bitel/fmhmovies_abr/playlist.m3u8?timestamp=1790606283&wmkid=0&token=d6c8a58faab8a1251ad253fe8ba9c4da&manifestfilter=video_bitrate:1-10000000&uid=17280722
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yYSsJfpX/foxkids.jpg" group-title="Animados | Variado",Fox Kids (PL)
 https://live20.bozztv.com/giatvplayout7/giatv-211400/playlist.m3u8
