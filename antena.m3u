@@ -2,7 +2,7 @@
 #EXTINF:-1 GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 #EXTINF:-1 Para disfrutar de los canales y abrir correctamente, añade esta dirección a la aplicación IPTV PRO una vez instalada, disponible GRATIS en Google Play o bien descargala sin anuncios y completa acá: https//bit.ly/orbitaxpp  Compactible para todos tus dispositivos con Android y Google TV, TVBox, ect... 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8kBn99zh/orbi2025.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 02.10.26
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8kBn99zh/orbi2025.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 07.10.26
 https://ia600809.us.archive.org/18/items/orbita-guilmonzero-iptv-gratis-sigue-actualizando_202604/%5B%C3%92rbita%20%40guilmonzero%5D%20IPTV%20Gratis%20-%20Sigue%20Actualizando.mp4
 
 #EXTINF:-1 tvg-id="6ab165fdeae99d62d7e541ff" tvg-logo="https://i.postimg.cc/C5PgbxZN/pluto-Halloween.jpg" group-title="Animados | Variado",Pluto TV | Halloween (US)
@@ -12686,9 +12686,9 @@ http://45.163.139.42:8000/play/a04x/index.m3u8
 https://d2hha8xu9trvi8.cloudfront.net/ts:abr.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hGJ1XD0V/repretel4.jpg" group-title="Costa Rica 🇨🇷",Canal 4 | Repretel (CR)
-https://dlhn7gdemxofz.cloudfront.net/ts:abr.m3u8
+https://ddycmnicl95kp.cloudfront.net/live/1a04m9qnerwa/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sX7PJTqX/repretel6.jpg" group-title="Costa Rica 🇨🇷",Canal 6 | Repretel (CR)
-https://d3xpfoln9sj56.cloudfront.net/ts:abr.m3u8
+https://ddycmnicl95kp.cloudfront.net/live/w0wu3g4t42xb/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FKpN9Bt8/teletica1.jpg" group-title="Costa Rica 🇨🇷",Canal 7 | Teletica (CR)
 http://45.163.139.42:8000/play/a02k/index.m3u8
@@ -12704,7 +12704,7 @@ https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/63WRdBrH/repretel11.jpg" group-title="Costa Rica 🇨🇷",Canal 11 | Repretel (CR)
-https://d3mstgwjcwqz1y.cloudfront.net/ts:abr.m3u8
+https://ddycmnicl95kp.cloudfront.net/live/ez84cni2g3hk/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13Jq8Pqr/canal13sinart.jpg" group-title="Costa Rica 🇨🇷",Canal 13 | Sinart (CR)
 http://45.163.139.42:8000/play/a02r/index.m3u8
@@ -15997,13 +15997,13 @@ https://5ed7b8fd7bf40.streamlock.net:444/sharkys/sharkysbeachcam/chunklist_w5228
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4WQ85Jj/sh2.jpg" group-title="Camaras 📹",Sharkys Beach | Beach Cam | Panama City (US)
 https://5ed7b8fd7bf40.streamlock.net:444/sharkyssunset/sharkyssunsetcam/chunklist_w367109247.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d06Xc6G/du.jpg" group-title="Camaras 📹",Sloppy Joe | Duval Street | Key West | Cam 1 (US)
-https://liveduvalstreet.b-cdn.net/bcdn_token=bHmjPY9b3U1zQK4vKOn3QxmlvhVmGnUtKmmTvQWkXjQ&token_path=%2Fhls%2Fduval-main%2F&expires=1791150202/hls/duval-main/master.m3u8
+https://liveduvalstreet.b-cdn.net/bcdn_token=epbMpPbsEnx9xrWP66FBNKzVotFS1-b5g7W249n14Ic&token_path=%2Fhls%2Fduval-main%2F&expires=1791489604/hls/duval-main/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d06Xc6G/du.jpg" group-title="Camaras 📹",Sloppy Joe | Duval Street | Key West | Cam 2 (US)
-https://liveduvalstreet.b-cdn.net/bcdn_token=PCnzFE0pY5NQwb36-kGv1aRRj6Uw3HZj002pVT6Cv8I&token_path=%2Fhls%2Fsloppyjoes-crowd%2F&expires=1791150257/hls/sloppyjoes-crowd/sloppyjoes-crowd.m3u8
+https://liveduvalstreet.b-cdn.net/bcdn_token=VKLk2vqjEMPNpJ1VTxlSH5UtK7ZaL1AbbpFSVmPs-rs&token_path=%2Fhls%2Fsloppyjoes-crowd%2F&expires=1791489610/hls/sloppyjoes-crowd/sloppyjoes-crowd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d06Xc6G/du.jpg" group-title="Camaras 📹",Sloppy Joe | Duval Street | Key West | Cam 3 | Stage (US)
-https://sloppyjoes.b-cdn.net/bcdn_token=WRE-R7H1oYpNn8Z7Q1BVZjinMB3hBpC0hz8Pmqn-4Vs&token_path=%2Fhls%2Fsloppyjoes-stage%2F&expires=1791047225/hls/sloppyjoes-stage/master.m3u8
+https://sloppyjoes.b-cdn.net/bcdn_token=XI5kqf_68EWSFdO2j7Im1Ra0U39KYyYQeM-csI0fA90&token_path=%2Fhls%2Fsloppyjoes-stage%2F&expires=1791473859/hls/sloppyjoes-stage/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d06Xc6G/du.jpg" group-title="Camaras 📹",Sloppy Joe | Duval Street | Key West | Cam 4 | Inside (US)
-https://sloppyjoes.b-cdn.net/bcdn_token=x6x1jIf2I6J6YIXNJ5JfRQHgl_Bw8h-YJ42g-QLc5l8&token_path=%2Fhls%2Fsloppyjoes-bar%2F&expires=1791046857/hls/sloppyjoes-bar/master.m3u8
+https://sloppyjoes.b-cdn.net/bcdn_token=2_WSp59lS-JP6xKpoU5Olhp-ZaDOp_IpzeksS4jSG98&token_path=%2Fhls%2Fsloppyjoes-bar%2F&expires=1791473854/hls/sloppyjoes-bar/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d06Xc6G/du.jpg" group-title="Camaras 📹",Sloppy Joe | Duval Street | Key West | Cam 5 | Eventos (US)
 https://use01-smr03-relay.ozolio.com/hls-live/_definst_/relay01.hbeiet4.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt32481.rc0.edge.basic.stream/chunklist_w358730242.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/17cNHGM/c4.jpg" group-title="Camaras 📹",Stalder Kucher | Australia (DE)
