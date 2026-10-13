@@ -616,6 +616,9 @@ https://cdn.40mediagroup.com/live/c7eds/Primired/SA_LIVE_hls_enc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sg6KZR6V/pritv.jpg" group-title="Animados | Variado",Pri TV (LATAM)
 https://live20.bozztv.com/akamaissh101/ssh101/tv1251master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5cLvLyg/radiomagica.jpg" group-title="Animados | Variado",Radio Magica TV | Señal 2 (CL)
+https://stmv5.voxtvhd.com.br/radiomagicatv2/radiomagicatv2/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dtzbNmqk/RCNma2.jpg" group-title="Animados | Variado",RCN | Más (CO)
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 
@@ -3397,6 +3400,9 @@ https://5ce9406b73c33.streamlock.net/ONFM/livestream/chunklist_w1570932987.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/B6SFMk2z/our.jpg" group-title="Música 🎼",Our Vinyl TV | Stirr (US)
 https://jmp2.uk/str-6443.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSP291nY/palm.jpg" group-title="Música 🎼",PalMundo FM (CL)
+https://streampanelcp.palmundofm.cl/hls/palmundofm/visual/720p.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2ybydyTd/pa.jpg" group-title="Música 🎼",Panik TV | Grecia (GR)
 https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
 
@@ -3494,6 +3500,9 @@ https://5ff3d9babae13.streamlock.net:443/chrgkqgkyb/chrgkqgkyb/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JnnzX4H8/radiom2o.jpg" group-title="Música 🎼",Radio M2o (IT)
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5cLvLyg/radiomagica.jpg" group-title="Música 🎼",Radio Magica TV | Señal 1 (CL)
+https://stmv1.voxtvhd.com.br/radiomagicatv/radiomagicatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hGFQQ7dq/radiona.jpg" group-title="Música 🎼",Radio Navarino TV (CL)
 https://panel.tvstream.cl:1936/8000/8000/playlist.m3u8
@@ -12196,7 +12205,7 @@ https://5e3483cba9114.streamlock.net/kbwqdhjxtz/kbwqdhjxtz/playlist.m3u8
 https://unlimited1-cl-isp.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream2/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CMk41zcx/huasco.jpg" group-title="Chile",Huasco TV (CL)
-https://paneltv.online:1936/8024/8024/playlist.m3u8
+https://paneltv.stream:19360/huasco/huasco.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d0FbDX9H/itv.jpg" group-title="Chile",ITV Patagonia (CL)
 https://unlimited1-cl-isp.dps.live/itv/itv.smil/itv/livestream1/chunks.m3u8
