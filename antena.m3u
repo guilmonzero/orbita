@@ -124,7 +124,7 @@ https://corgol.com@amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pXzFZXTJ/amou.jpg" group-title="Animados | Variado",Amou Yazid TV | Argelía (DZ)
 http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7h8Jd5gt/andi.jpg" group-title="Animados | Variado",Andinart TV (PE)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7h8Jd5gt/andi.jpg" group-title="Animados | Variado",Andinart TV [CANAL DE PRUEBAS] [SOLO VIA PC CON VLC] (PE)
 https://tr-netcdn.bitel.com.pe/netcdn-live-7/bitel/andinartvSRT-TRA/playlist.m3u8?timestamp=1792584594&wmkid=0&token=d39527f04079ddcc88c4009e2c940588&manifestfilter=video_bitrate:1-10000000&uid=17280722
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N0r9cMrc/anifun.jpg" group-title="Animados | Variado",ANIFUN (LATAM)
@@ -383,10 +383,10 @@ https://live20.bozztv.com/giatvplayout7/giatv-211565/playlist.m3u8
 #EXTINF:-1 tvg-id="US2900013AY" tvg-logo="https://i.postimg.cc/tgMN0dhp/hotw.jpg" group-title="Animados | Variado",Hot Wheels Action (US)
 https://jmp2.uk/stvp-US2900013AY
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cMXgfxW/hoype.jpg" group-title="Animados | Variado",Hoy Perú TV (PE)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cMXgfxW/hoype.jpg" group-title="Animados | Variado",Hoy Perú TV [CANAL DE PRUEBAS] [SOLO VIA PC CON VLC] (PE)
 https://tr-netcdn.bitel.com.pe/netcdn-live-4/bitel/hoyperutv/playlist.m3u8?timestamp=1792585341&wmkid=0&token=43cc8f4da542b3d314be045f6665b851&manifestfilter=video_bitrate:1-10000000&uid=17280722
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gk1Q5d5P/huanta.jpg" group-title="Animados | Variado",Huanta TV (PE)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gk1Q5d5P/huanta.jpg" group-title="Animados | Variado",Huanta TV [CANAL DE PRUEBAS] [SOLO VIA PC CON VLC] (PE)
 https://tr-netcdn.bitel.com.pe/netcdn-live-4/bitel/huantatv/playlist.m3u8?timestamp=1792584906&wmkid=0&token=d11cc8287d25759a26f84b9e80f01f17&manifestfilter=video_bitrate:1-10000000&uid=17280722
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4xV9mr52/iu.jpg" group-title="Animados | Variado",Imagen Universal TV (RD)
@@ -673,7 +673,7 @@ https://stmv2.srvif.com/solartv/solartv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DyTkkpGP/star2.jpg" group-title="Animados | Variado",Star Channel (ES)
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jjf7X6fL/supercanal3.jpg" group-title="Animados | Variado",Super Canal (PE)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jjf7X6fL/supercanal3.jpg" group-title="Animados | Variado",Super Canal [CANAL DE PRUEBAS] [SOLO VIA PC CON VLC] (PE)
 https://tr-netcdn.bitel.com.pe/netcdn-live-5/bitel/supercanalSRT/playlist.m3u8?timestamp=1792585746&wmkid=0&token=edf733421e36a92c01e6877582854c15&manifestfilter=video_bitrate:1-10000000&uid=17280722
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJjnghbB/supers.jpg" group-title="Animados | Variado",Super Simple Songs (EU)
