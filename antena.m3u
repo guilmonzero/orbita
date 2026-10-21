@@ -124,6 +124,9 @@ https://corgol.com@amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pXzFZXTJ/amou.jpg" group-title="Animados | Variado",Amou Yazid TV | Argelía (DZ)
 http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7h8Jd5gt/andi.jpg" group-title="Animados | Variado",Andinart TV (PE)
+https://tr-netcdn.bitel.com.pe/netcdn-live-7/bitel/andinartvSRT-TRA/playlist.m3u8?timestamp=1792584594&wmkid=0&token=d39527f04079ddcc88c4009e2c940588&manifestfilter=video_bitrate:1-10000000&uid=17280722
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N0r9cMrc/anifun.jpg" group-title="Animados | Variado",ANIFUN (LATAM)
 https://lbgo.bozztv.com/giatv/giatv-FunTVEste/FunTVEste/playlist.m3u8
 
@@ -232,9 +235,6 @@ https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9QTDc3xC/central.jpg" group-title="Animados | Variado",Central (CL)
 https://freya.mivideo.pro/centraltv/tracks-v1a1/mono.m3u8
-
-
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tCmX5r2N/chinola.jpg" group-title="Animados | Variado",Chinola TV (AR)
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
@@ -382,6 +382,12 @@ https://live20.bozztv.com/giatvplayout7/giatv-211565/playlist.m3u8
 
 #EXTINF:-1 tvg-id="US2900013AY" tvg-logo="https://i.postimg.cc/tgMN0dhp/hotw.jpg" group-title="Animados | Variado",Hot Wheels Action (US)
 https://jmp2.uk/stvp-US2900013AY
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cMXgfxW/hoype.jpg" group-title="Animados | Variado",Hoy Perú TV (PE)
+https://tr-netcdn.bitel.com.pe/netcdn-live-4/bitel/hoyperutv/playlist.m3u8?timestamp=1792585341&wmkid=0&token=43cc8f4da542b3d314be045f6665b851&manifestfilter=video_bitrate:1-10000000&uid=17280722
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gk1Q5d5P/huanta.jpg" group-title="Animados | Variado",Huanta TV (PE)
+https://tr-netcdn.bitel.com.pe/netcdn-live-4/bitel/huantatv/playlist.m3u8?timestamp=1792584906&wmkid=0&token=d11cc8287d25759a26f84b9e80f01f17&manifestfilter=video_bitrate:1-10000000&uid=17280722
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4xV9mr52/iu.jpg" group-title="Animados | Variado",Imagen Universal TV (RD)
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
@@ -666,6 +672,9 @@ https://stmv2.srvif.com/solartv/solartv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DZX4FqX2/squirrel2.jpg" group-title="Animados | Variado",Squirrel | 2 (ES)
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DyTkkpGP/star2.jpg" group-title="Animados | Variado",Star Channel (ES)
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jjf7X6fL/supercanal3.jpg" group-title="Animados | Variado",Super Canal (PE)
+https://tr-netcdn.bitel.com.pe/netcdn-live-5/bitel/supercanalSRT/playlist.m3u8?timestamp=1792585746&wmkid=0&token=edf733421e36a92c01e6877582854c15&manifestfilter=video_bitrate:1-10000000&uid=17280722
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJjnghbB/supers.jpg" group-title="Animados | Variado",Super Simple Songs (EU)
 https://janson-supersimplesongs-1-eu.xiaomi.wurl.tv/playlist.m3u8
@@ -2197,8 +2206,8 @@ http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2yL2tW70/orig.jpg" group-title="Deportes | Aventura",Origin Sports (US)
 https://jmp2.uk/stvp-USBD1200010I8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpK4H6NY/ovaciontv.jpg" group-title="Deportes | Aventura",Ovacion TV (PE)
-https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Nfs5HkFh/ovaci.jpg" group-title="Deportes | Aventura",Ovacion TV (PE)
+https://live-evg7.tv360.bitel.com.pe/bitel/ovaciontv_ori/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJhqNdn6/outdoor.jpg" group-title="Deportes | Aventura",Outdoor Channel (CA)
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
@@ -3040,6 +3049,9 @@ https://tv.beatfm.nl/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d1jbsxjj/Beats.jpg" group-title="Música 🎼",Beats | 100.5FM (AR)
 https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3R3Hc9z6/bit.jpg" group-title="Música 🎼",Bitt (PE)
+https://live-evg10.tv360.bitel.com.pe/bitel/bitt/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Z58XwGVG/blu.jpg" group-title="Música 🎼",Blues TV (US)
 https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
 
@@ -3120,6 +3132,9 @@ https://jmp2.uk/stvp-ES2500001F9
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3N33hm4p/coraz.jpg" group-title="Música 🎼",Corazón TV (PA)
 https://sistemastr.tropicalmoonmedia.com:443/live/56BE17DB16EB76C9F2DDB8346F4DFA4E/12.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/y8wfxdjH/cositel.jpg" group-title="Música 🎼",Cositel | Juliaca (PE)
+https://live-evg10.tv360.bitel.com.pe/bitel/cositeljuliaca/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fbXGJW5w/paja.jpg" group-title="Música 🎼",CTPAHA FM | Rusia (RU)
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
@@ -3798,6 +3813,9 @@ https://rpn.bozztv.com/gusa/gusa-tvsmusic/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ09jDwJ/ultra.jpg" group-title="Música 🎼",Ultra TV | 92.5FM (MX)
 https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZCVWSP5/unilan.jpg" group-title="Música 🎼",Unilan TV (PE)
+https://live-evg8.tv360.bitel.com.pe/bitel/unilantv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d04vYQ3Z/urbano.jpg" group-title="Música 🎼",Urbano TV (CR)
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
 
@@ -3889,6 +3907,9 @@ https://jmp2.uk/stvp-USBD3300010L9
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MZ9Xnc00/xpressojoven.jpg" group-title="Música 🎼",Xpresso Joven Radio (CR)
 https://vivo.solumedia.com:19360/xpressojoven/xpressojoven.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pTKJpJTC/XTV.jpg" group-title="Música 🎼",X TV (PE)
+https://live-evg11.tv360.bitel.com.pe/bitel/xtvSRT/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vT44jQVV/zeleve.jpg" group-title="Música 🎼",Zeleve TV (PE)
 https://live-evg11.tv360.bitel.com.pe/bitel/zeleve/playlist.m3u8
@@ -14491,6 +14512,9 @@ https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VsnZwyNB/forotv.jpg" group-title="Perú",Foro TV (PE)
 https://mc.servidor.stream:19360/8274/8274.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bn2cnCV4/fuego.jpg" group-title="Perú",Fuego TV (PE)
+https://live-evg5.tv360.bitel.com.pe/bitel/fuegotv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85Pv06sF/galactica.jpg" group-title="Perú",Galactica TV [NO 24/7] (PE)
 https://stream.neux.site/memfs/e3f59eec-6b93-45e1-a2ab-c82381c2a9ec.m3u8
 
@@ -14549,6 +14573,9 @@ https://live-evg5.tv360.bitel.com.pe/bitel/megatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5yM33px/megap.jpg" group-title="Perú",Mega TV | Jaen (PE)
 https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvtTVwJV/megavi.jpg" group-title="Perú",Megavisión | Canal 45 (PE)
+https://live-evg10.tv360.bitel.com.pe/bitel/megavision/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dQS2KDYJ/maya.jpg" group-title="Perú",Maya TV (PE)
 https://play.agenciastreaming.com:8081/tvalturalimalive/video.m3u8
 
@@ -14585,6 +14612,9 @@ https://live-evg8.tv360.bitel.com.pe/bitel/nexSRT_TRA/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cC9v9pzF/nexxor.jpg" group-title="Perú",Nexxor TV (PE)
 https://live-evg11.tv360.bitel.com.pe/bitel/unicentroSRT/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BbxHnSmy/nexus.jpg" group-title="Perú",Nexus TV (PE)
+https://live-evg13.tv360.bitel.com.pe/bitel/nexustvSRT-TRA/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4yNXCp3z/norselva.jpg" group-title="Perú",Norselva | RTV (PE)
 https://live.obslivestream.com/norselvatv/index.m3u8
 
@@ -14604,6 +14634,11 @@ https://live.obslivestream.com/oktv/video.m3u8?token=Bk-DXAXulO1OV0
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pTKBNnSX/ondadigital.jpg" group-title="Perú",Onda Digital (PE)
 https://tv.ondadigital.pe/ondadigital/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fRZnL8Rk/odtv.jpg" group-title="Perú",OD TV | Onda Digital | 1 (PE)
+https://live-evg5.tv360.bitel.com.pe/bitel/odtvSRT/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k4RhwS5V/odtv2.jpg" group-title="Perú",OD TV | Onda Digital | 2 (PE)
+https://live-evg5.tv360.bitel.com.pe/bitel/odtv2SRT/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KvM8pBg0/ozono.jpg" group-title="Perú",Ozono Televisión (PE)
 http://vps.chasquirouter.com/salida/ozono.m3u8
@@ -14737,6 +14772,9 @@ https://live-evg8.tv360.bitel.com.pe/bitel/tvempresaSRT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YCsDQjqZ/tevesur.jpg" group-title="Perú",Teve Sur (PE)
 https://live-evg11.tv360.bitel.com.pe/bitel/tevesurSRT/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MK68Ds1h/tusami.jpg" group-title="Perú",Tusami TV (PE)
+https://live-evg8.tv360.bitel.com.pe/bitel/tusamimillonario/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJDvqBHh/topa.jpg" group-title="Perú",Top TV | Aguaytia (PE)
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
 
@@ -14754,6 +14792,9 @@ https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7LWShTXD/tvenli.jpg" group-title="Perú",TV En Linea | Cusco (PE)
 https://srt.tvdatta.com/tvenlinea/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2dBvdhd/tvliber.jpg" group-title="Perú",TVL | Livertad (PE)
+https://live-evg8.tv360.bitel.com.pe/bitel/tvlibertadSRT/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nzR1fPj6/tvmar2.jpg" group-title="Perú",TV Mar (PE)
 https://live-evg11.tv360.bitel.com.pe/bitel/tvmarSRT/playlist.m3u8
@@ -14792,6 +14833,9 @@ https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2jhBN5bZ/visionsur2.jpg" group-title="Perú",Visión Sur | Arequipa (PE)
 https://live-evg8.tv360.bitel.com.pe/bitel/visionsur/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8Svf7fS/visu.jpg" group-title="Perú",Visu (PE)
+https://live-evg13.tv360.bitel.com.pe/bitel/visutv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LsDNTTSc/vivatv2.jpg" group-title="Perú",Viva TV | Yurimaguas (PE)
 https://live.obslivestream.com/vivatv/index.m3u8
