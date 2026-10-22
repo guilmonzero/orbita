@@ -15941,13 +15941,13 @@ http://217.5.197.4:80/mjpg/video.mjpg
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NFkSyvz/cam3.jpg" group-title="Camaras 📹",Río Sena | París (FR)
 https://cdn-orange.quanteec.com/contents/encodings/live/c51d6b18-94cf-4476-3838-3330-6d61-63-ab88-8df2f1cd0327d/media_0.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d06Xc6G/du.jpg" group-title="Camaras 📹",Sloppy Joe | Duval Street | Key West | Cam 1 (US)
-https://liveduvalstreet.b-cdn.net/bcdn_token=Xs7JRCovgUJbINcO5wyfLhigbFIa7EdcBLShfDbCXkg&token_path=%2Fhls%2Fduval-main%2F&expires=1792768706/hls/duval-main/master.m3u8
+https://liveduvalstreet.b-cdn.net/bcdn_token=HRtGjmje42lUfdHJy-mFMX-EnT1OcQ2RKaYQ4Z26Tew&token_path=%2Fhls%2Fduval-main%2F&expires=1792781137/hls/duval-main/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d06Xc6G/du.jpg" group-title="Camaras 📹",Sloppy Joe | Duval Street | Key West | Cam 2 (US)
-https://sloppyjoes.b-cdn.net/bcdn_token=SmhoPCRPMELcrvc3rPVPfvuXuGlALjXlFG8ZuZ1v3Xs&token_path=%2Fhls%2Fsloppyjoes-crowd%2F&expires=1792691026/hls/sloppyjoes-crowd/sloppyjoes-crowd.m3u8
+https://sloppyjoes.b-cdn.net/bcdn_token=-pa3Owr_NeqCzKkfzK866BMRnd42Zfu0HyzaeCwO0kU&token_path=%2Fhls%2Fsloppyjoes-crowd%2F&expires=1792702180/hls/sloppyjoes-crowd/sloppyjoes-crowd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d06Xc6G/du.jpg" group-title="Camaras 📹",Sloppy Joe | Duval Street | Key West | Cam 3 | Stage (US)
-https://sloppyjoes.b-cdn.net/bcdn_token=3tKN908Yy8yN2woNrXkkCSGbpJmj-asd42jPChSkNjM&token_path=%2Fhls%2Fsloppyjoes-stage%2F&expires=1792689785/hls/sloppyjoes-stage/master.m3u8
+https://sloppyjoes.b-cdn.net/bcdn_token=CoseIt6KtkuLiRYuKLR6jdlmMqVFGVkvwMQUOXnoLIg&token_path=%2Fhls%2Fsloppyjoes-stage%2F&expires=1792702056/hls/sloppyjoes-stage/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d06Xc6G/du.jpg" group-title="Camaras 📹",Sloppy Joe | Duval Street | Key West | Cam 4 | Inside (US)
-https://sloppyjoes.b-cdn.net/bcdn_token=kBIc2Sw22qxUrryZ8AgO4VBnRhXwVJhwEuZHRus-73s&token_path=%2Fhls%2Fsloppyjoes-bar%2F&expires=1792689878/hls/sloppyjoes-bar/master.m3u8
+https://sloppyjoes.b-cdn.net/bcdn_token=Ng790sR6i2lIwsTpFsbDPu4f2pZ5QeEImTJnuWnD56w&token_path=%2Fhls%2Fsloppyjoes-bar%2F&expires=1792702101/hls/sloppyjoes-bar/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d06Xc6G/du.jpg" group-title="Camaras 📹",Sloppy Joe | Duval Street | Key West | Cam 5 | Eventos (US)
 https://use01-smr03-relay.ozolio.com/hls-live/_definst_/relay01.hbeiet4.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt32481.rc0.edge.basic.stream/chunklist_w358730242.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/17cNHGM/c4.jpg" group-title="Camaras 📹",Stalder Kucher | Australia (DE)
