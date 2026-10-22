@@ -2,7 +2,7 @@
 #EXTINF:-1 GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 #EXTINF:-1 Para disfrutar de los canales y abrir correctamente, añade esta dirección a la aplicación IPTV PRO una vez instalada, disponible GRATIS en Google Play o bien descargala sin anuncios y completa acá: https//bit.ly/orbitaxpp  Compactible para todos tus dispositivos con Android y Google TV, TVBox, ect... 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8kBn99zh/orbi2025.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 21.10.26
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8kBn99zh/orbi2025.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 22.10.26
 https://ia600809.us.archive.org/18/items/orbita-guilmonzero-iptv-gratis-sigue-actualizando_202604/%5B%C3%92rbita%20%40guilmonzero%5D%20IPTV%20Gratis%20-%20Sigue%20Actualizando.mp4
 
 #EXTINF:-1 tvg-id="6ab165fdeae99d62d7e541ff" tvg-logo="https://i.postimg.cc/C5PgbxZN/pluto-Halloween.jpg" group-title="Animados | Variado",Pluto TV | Halloween (US)
@@ -1487,6 +1487,9 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-664292a80e0ec7b4ce5eb28c.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TwHJ3HD0/stv.jpg" group-title="Cultura | Educativo 🪐",Stgo TV (CL)
 https://stv4.janus.cl/playlist/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63dp0b2N/surandino.jpg" group-title="Cultura | Educativo 🪐",Sur Andino TV (PE)
+https://5949aa132c8fb.streamlock.net:1963/iptvsurandinotv/livesurandinotvtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwqT9jsc/sur.jpg" group-title="Cultura | Educativo 🪐",Surf Now TV (US)
 https://jmp2.uk/stvp-USBB10000058A
@@ -14405,7 +14408,7 @@ https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/playlist.m3u8
 https://videoserver.tmcreativos.com:19360/amazonicatv/amazonicatv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/28MNw01j/ameri-p.jpg" group-title="Perú",América (PE)
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/america.stream/playlist.m3u8
+http://190.93.224.42/AMERICA-TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2y2mggJD/andes.jpg" group-title="Perú",Andes TV (PE)
 https://live-evg7.tv360.bitel.com.pe/bitel/andestvSRT/playlist.m3u8
@@ -15940,7 +15943,7 @@ https://cdn-orange.quanteec.com/contents/encodings/live/c51d6b18-94cf-4476-3838-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d06Xc6G/du.jpg" group-title="Camaras 📹",Sloppy Joe | Duval Street | Key West | Cam 1 (US)
 https://liveduvalstreet.b-cdn.net/bcdn_token=Xs7JRCovgUJbINcO5wyfLhigbFIa7EdcBLShfDbCXkg&token_path=%2Fhls%2Fduval-main%2F&expires=1792768706/hls/duval-main/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d06Xc6G/du.jpg" group-title="Camaras 📹",Sloppy Joe | Duval Street | Key West | Cam 2 (US)
-https://liveduvalstreet.b-cdn.net/bcdn_token=ZQmAH6kOd6R36L1se7uNbv_drqKupqgvF7a6MNqep80&token_path=%2Fhls%2Fsloppyjoes-crowd%2F&expires=1792768906/hls/sloppyjoes-crowd/sloppyjoes-crowd.m3u8
+https://sloppyjoes.b-cdn.net/bcdn_token=SmhoPCRPMELcrvc3rPVPfvuXuGlALjXlFG8ZuZ1v3Xs&token_path=%2Fhls%2Fsloppyjoes-crowd%2F&expires=1792691026/hls/sloppyjoes-crowd/sloppyjoes-crowd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d06Xc6G/du.jpg" group-title="Camaras 📹",Sloppy Joe | Duval Street | Key West | Cam 3 | Stage (US)
 https://sloppyjoes.b-cdn.net/bcdn_token=3tKN908Yy8yN2woNrXkkCSGbpJmj-asd42jPChSkNjM&token_path=%2Fhls%2Fsloppyjoes-stage%2F&expires=1792689785/hls/sloppyjoes-stage/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d06Xc6G/du.jpg" group-title="Camaras 📹",Sloppy Joe | Duval Street | Key West | Cam 4 | Inside (US)
