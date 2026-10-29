@@ -14623,6 +14623,12 @@ https://live.obslivestream.com/cumo/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g01q4BQz/cv.jpg" group-title="Perú",CV | Cable Visión (PE)
 https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9MGTnT7D/cvn.jpg" group-title="Perú",CVN Televisión | Tumbes (PE)
+https://7.innovatestream.pe:19360/cvntumbes/cvntumbes.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k4199Y8K/dac.jpg" group-title="Perú",Dac+ TV (PE)
+https://live-evg8.tv360.bitel.com.pe/bitel/dactvSRT/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dVn3kDTX/delta.jpg" group-title="Perú",Delta TV (PE)
 https://tv2.bitstreaming.net:3539/live/deltanetlive.m3u8
 
@@ -14806,16 +14812,18 @@ https://live-evg10.tv360.bitel.com.pe/bitel/nasca/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hG5CWZr8/oasistv.jpg" group-title="Perú",Oasis | RTV (PE)
 https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fRZnL8Rk/odtv.jpg" group-title="Perú",OD TV | Onda Digital | 1 (PE)
+https://live-evg5.tv360.bitel.com.pe/bitel/odtvSRT/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k4RhwS5V/odtv2.jpg" group-title="Perú",OD TV | Onda Digital | 2 (PE)
+https://live-evg5.tv360.bitel.com.pe/bitel/odtv2SRT/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bNGXkVy4/okteve.jpg" group-title="Perú",OK Teve (PE)
 https://live.obslivestream.com/oktv/video.m3u8?token=Bk-DXAXulO1OV0
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pTKBNnSX/ondadigital.jpg" group-title="Perú",Onda Digital (PE)
 https://tv.ondadigital.pe/ondadigital/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fRZnL8Rk/odtv.jpg" group-title="Perú",OD TV | Onda Digital | 1 (PE)
-https://live-evg5.tv360.bitel.com.pe/bitel/odtvSRT/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/k4RhwS5V/odtv2.jpg" group-title="Perú",OD TV | Onda Digital | 2 (PE)
-https://live-evg5.tv360.bitel.com.pe/bitel/odtv2SRT/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YPPF72K/on.jpg" group-title="Perú",Onda TV (PE)
+https://live-evg5.tv360.bitel.com.pe/bitel/onda/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QMY1L0Fb/orientaltv.jpg" group-title="Perú",Oriental TV (PE)
 https://play.agenciastreaming.com:8081/orientaltv/index.m3u8
