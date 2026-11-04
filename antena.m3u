@@ -5,14 +5,10 @@
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8kBn99zh/orbi2025.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 04.11.26
 https://ia600809.us.archive.org/18/items/orbita-guilmonzero-iptv-gratis-sigue-actualizando_202604/%5B%C3%92rbita%20%40guilmonzero%5D%20IPTV%20Gratis%20-%20Sigue%20Actualizando.mp4
 
-#EXTINF:-1 tvg-id="6ab165fdeae99d62d7e541ff" tvg-logo="https://i.postimg.cc/C5PgbxZN/pluto-Halloween.jpg" group-title="Animados | Variado",Pluto TV | Halloween (US)
-https://jmp2.uk/plu-6ab165fdeae99d62d7e541ff.m3u8
-#EXTINF:-1 tvg-id="66bb66e2d512590008d728aa" tvg-logo="https://i.postimg.cc/504TpMM6/pluto-ha.jpg" group-title="Animados | Variado",Pluto TV | Halloween (UK)
-https://jmp2.uk/plu-66bb66e2d512590008d728aa.m3u8
-#EXTINF:-1 tvg-id="6501c7ea9201e80008bb17b9" tvg-logo="https://i.postimg.cc/tC3f0TCG/south.jpg" group-title="Animados | Variado",Pluto TV | South Park | Halloween (NO)
-https://jmp2.uk/plu-6501c7ea9201e80008bb17b9.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZK4Lv6F0/crimen.jpg" group-title="Animados | Variado",Crímenes Reales | Rakuten TV (ES)
 https://amg01796-amg01796c13-rakuten-gb-6739.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tC03jXyw/wb-c.jpg" group-title="Animados | Variado",True Crime | Warner Bros TV (US)
+https://i.mjh.nz/.r/sky-fast4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ncNJZRXB/mimiedo.jpg" group-title="Animados | Variado",Mi Miedo | Stirr (LATAM)
 https://streams2.sofast.tv/sofast3/v1/019835b204cf1ea50649363a59b188/019835c7f7dd1ea506ec3d330f48ad/playlist.m3u8
@@ -21,10 +17,6 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ce
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKz8Yf1z/americanhorrors.jpg" group-title="Animados | Variado",American Horrors (US)
 http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
-#EXTINF:-1 tvg-id="66b0e00814a2bb00085f5934" tvg-logo="https://i.postimg.cc/PrrzSrcJ/plutoterror.jpg" group-title="Animados | Variado",Pluto TV | Terror Clásico (ES)
-https://jmp2.uk/plu-66b0e00814a2bb00085f5934.m3u8
-#EXTINF:-1 tvg-id="68345650e8377f86acdeda83" tvg-logo="https://i.postimg.cc/jjXS3KBt/pluto-set.jpg" group-title="Animados | Variado",Pluto TV | Series de Terror (ES)
-https://jmp2.uk/plu-68345650e8377f86acdeda83.m3u8
 #EXTINF:-1 tvg-id="66b0dfa1d512590008bfa7fd" tvg-name="Pluto TV Gore & Slasher" tvg-logo="https://i.postimg.cc/pVgRH9CQ/pluto-g.jpg" group-title="Animados | Variado",Pluto TV | Gore & Slasher (ES)
 https://jmp2.uk/plu-66b0dfa1d512590008bfa7fd.m3u8
 #EXTINF:-1 tvg-id="65ce480a78df2200131c597b" tvg-name="Pluto TV Psycho" tvg-logo="https://i.postimg.cc/65xLVz7j/pluto-ps.jpg" group-title="Animados | Variado",Pluto TV | Psycho (ES)
@@ -63,6 +55,12 @@ https://9485e5d3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FzmMNPfY/parano.jpg" group-title="Animados | Variado",Beyong Paranormal (US)
 https://videoelephantlimited-beyondparanormal-1-us.ohlscdn.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bwXFTd3N/para.jpg" group-title="Animados | Variado",Paranormal Files (UK)
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885527/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885527
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3rgSsDhP/wb-p.jpg" group-title="Animados | Variado",Paranormal | Warner Bros TV (US)
+https://i.mjh.nz/.r/sky-fast5.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GthKWsW-J/cinedeterror.jpg" group-title="Animados | Variado",Cine de Terror (LATAM)
 https://live20.bozztv.com/giatvplayout7/giatv-211420/playlist.m3u8
 
@@ -74,9 +72,6 @@ https://cablered.iptvperu.tv:1936/cablered/peruchannel.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5d81607ab737153ea3c1c80e" tvg-logo="https://i.postimg.cc/1zXs56ft/pluto-thea.jpg" group-title="Animados | Variado",Pluto TV | The Addams Family (US)
 https://jmp2.uk/plu-5d81607ab737153ea3c1c80e.m3u8
-
-#EXTINF:-1 tvg-id="5ef3958c66ac540007d6e6a7" tvg-logo="https://i.postimg.cc/1z2VryFy/darks.jpg" group-title="Animados | Variado",Pluto TV | Dark Shadows (US)
-https://jmp2.uk/plu-5ef3958c66ac540007d6e6a7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvmTYXJB/pride2.jpg" group-title="Animados | Variado",Pride TV | Feed Chile (LATAM)
 https://stream.pridetvlatam.cl/iptv/session/2/live.m3u8
@@ -598,12 +593,6 @@ http://200.115.120.1:8000/play/ca120/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NGSQ0KzX/pantalla.jpg" group-title="Animados | Variado",Pantalla Clásica (EC)
 https://live20.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bwXFTd3N/para.jpg" group-title="Animados | Variado",Paranormal Files (UK)
-https://d3is52sgpnlx4c.cloudfront.net/10901/88885527/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885527
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3rgSsDhP/wb-p.jpg" group-title="Animados | Variado",Paranormal | Warner Bros TV (US)
-https://i.mjh.nz/.r/sky-fast5.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C53q7pVD/pbskids.jpg" group-title="Animados | Variado",PBS | Kids (US)
 http://4.30.180.36:8420/kids/index.m3u8?token=test
 
@@ -792,9 +781,6 @@ https://scl.edge.grupoz.cl/torococotv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d0VcmvjY/totalx.jpg" group-title="Animados | Variado",Total (HN)
 https://live20.bozztv.com/akamaissh101/ssh101/totaltvhd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tC03jXyw/wb-c.jpg" group-title="Animados | Variado",True Crime | Warner Bros TV (US)
-https://i.mjh.nz/.r/sky-fast4.m3u8
-
 #EXTINF:-1 tvg-id="ESBC4100001NZ" tvg-logo="https://i.postimg.cc/Bn7Kb6g8/tve1.jpg" group-title="Animados | Variado",TVE | La 1 (ES)
 #EXTINF:-1 tvg-id="ESBC4100001NZ" tvg-logo="https://i.postimg.cc/Bn7Kb6g8/tve1.jpg" group-title="Animados | Variado",TVE | La 1 | Opción 2 (ES)
 #EXTINF:-1 tvg-id="ESBC4100002AG" tvg-logo="https://i.postimg.cc/0yXwjQfp/tve2.jpg" group-title="Animados | Variado",TVE | La 2 (ES) 
@@ -830,10 +816,10 @@ https://5ff3d9babae13.streamlock.net:443/ubyecbxnfd/ubyecbxnfd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1RYB2ytx/univers2.jpg" group-title="Animados | Variado",Universo (US)
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1zSFgjW5/univisio2.jpg" group-title="Animados | Variado",Univision (US)
-http://200.115.120.1:8000/play/ca372/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zSFgjW5/univisio2.jpg" group-title="Animados | Variado",Univision | Opción 2 (US)
 http://168.228.44.241:9997/play/a09d/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zSFgjW5/univisio2.jpg" group-title="Animados | Variado",Univision | Opción 3 (US)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zSFgjW5/univisio2.jpg" group-title="Animados | Variado",Univision | Opción 2 (LATAM)
+http://200.115.120.1:8000/play/ca372/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zSFgjW5/univisio2.jpg" group-title="Animados | Variado",Univision | Opción 3 (LATAM)
 http://138.121.15.230:9002/UNIVISION/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g09jJDKT/uva.jpg" group-title="Animados | Variado",Uva TV (RD)
@@ -4038,13 +4024,13 @@ https://jmp2.uk/stvp-USBD3300010L9
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MZ9Xnc00/xpressojoven.jpg" group-title="Música 🎼",Xpresso Joven Radio (CR)
 https://vivo.solumedia.com:19360/xpressojoven/xpressojoven.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0S5xCtJ/XTV.jpg" group-title="Perú",XTV (PE)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0S5xCtJ/XTV.jpg" group-title="Música 🎼",XTV (PE)
 https://live-evg11.tv360.bitel.com.pe/bitel/xtvSRT/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0S5xCtJ/XTV.jpg" group-title="Perú",XTV | Opción 2 (PE)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0S5xCtJ/XTV.jpg" group-title="Música 🎼",XTV | Opción 2 (PE)
 https://xtvpe.duckdns.org/xtv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tJ8NkG7F/xtvplus.jpg" group-title="Perú",XTV Plus (PE)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tJ8NkG7F/xtvplus.jpg" group-title="Música 🎼",XTV Plus (PE)
 https://xtvpe.duckdns.org/xtvplus/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tJ8NkG7F/xtvplus.jpg" group-title="Perú",XTV Plus | Opción 2 (PE)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tJ8NkG7F/xtvplus.jpg" group-title="Música 🎼",XTV Plus | Opción 2 (PE)
 https://live-evg11.tv360.bitel.com.pe/bitel/xtvplusSRT/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vT44jQVV/zeleve.jpg" group-title="Música 🎼",Zeleve TV (PE)
@@ -12941,6 +12927,8 @@ http://45.163.139.42:8000/play/a02k/index.m3u8
 http://45.139.122.199/zeaftaUD/qGbyAgdf/2351990
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FKpN9Bt8/teletica1.jpg" group-title="Costa Rica 🇨🇷",Canal 7 | Teletica | Opción 3 (CR)
 http://168.228.44.241:9997/play/a01u/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FKpN9Bt8/teletica1.jpg" group-title="Costa Rica 🇨🇷",Canal 7 | Teletica | Opción 4 (CR)
+http://45.167.1.138:8000/play/a05d
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqhQ97RX/8cr.jpg" group-title="Costa Rica 🇨🇷",Canal 8 | Multimedios (CR)
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
