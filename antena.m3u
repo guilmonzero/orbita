@@ -2,7 +2,7 @@
 #EXTINF:-1 GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 #EXTINF:-1 Para disfrutar de los canales y abrir correctamente, añade esta dirección a la aplicación IPTV PRO una vez instalada, disponible GRATIS en Google Play o bien descargala sin anuncios y completa acá: https//bit.ly/orbitaxpp  Compactible para todos tus dispositivos con Android y Google TV, TVBox, ect... 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8kBn99zh/orbi2025.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 04.11.26
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8kBn99zh/orbi2025.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 05.11.26
 https://ia600809.us.archive.org/18/items/orbita-guilmonzero-iptv-gratis-sigue-actualizando_202604/%5B%C3%92rbita%20%40guilmonzero%5D%20IPTV%20Gratis%20-%20Sigue%20Actualizando.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZK4Lv6F0/crimen.jpg" group-title="Animados | Variado",Crímenes Reales | Rakuten TV (ES)
@@ -3160,7 +3160,6 @@ http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PrcK25J7/colosal2.jpg" group-title="Música 🎼",Colosal | 88.3FM (CR)
 https://5d16127744872.streamlock.net/canal3/canal3/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YC25bqRt/companytv.jpg" group-title="Música 🎼",Company TV (IT)
 https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
 
@@ -3178,9 +3177,6 @@ https://jmp2.uk/stvp-ES2500001F9
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3N33hm4p/coraz.jpg" group-title="Música 🎼",Corazón TV (PA)
 https://sistemastr.tropicalmoonmedia.com:443/live/56BE17DB16EB76C9F2DDB8346F4DFA4E/12.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/y8wfxdjH/cositel.jpg" group-title="Música 🎼",Cositel | Juliaca (PE)
-https://live-evg10.tv360.bitel.com.pe/bitel/cositeljuliaca/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fbXGJW5w/paja.jpg" group-title="Música 🎼",CTPAHA FM | Rusia (RU)
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
@@ -3257,6 +3253,9 @@ https://play.corporacionobiaga.pe/StreamSD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RFGmSkxj/fol.jpg" group-title="Música 🎼",Folk Klub | Bulgaria (BG)
 http://tv1.intv.mk:1935/live2/folkklub/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/y6XnKqVn/fa.jpg" group-title="Música 🎼",Frecuencia Amazónica (PE)
+https://vivatv.juanjuiserver.com:3112/live/frecuenciaamazonicalive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RVwFWPXZ/free-b.jpg" group-title="Música 🎼",Free TV | Banda (LATAM)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmcfreetv-ono/playlist.m3u8
@@ -3620,6 +3619,9 @@ https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8C1B3VNN/radioc.jpg" group-title="Música 🎼",Radio Capital (IT)
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/htmD50B3/radiod.jpg" group-title="Música 🎼",Radio Digital | 94.1 FM (PE)
+https://live.tvcontrolcp.com:8081/radiodigital/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zGynSnfS/fiessta.jpg" group-title="Música 🎼",Radio Fiessta (CL)
 https://www.cloudscriptdog.cl:19360/fiesta-video-01/fiesta-video-01.m3u8
@@ -6298,6 +6300,9 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2260
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JhZ1CLbN/sonic.jpg" group-title="Mas Series 🧟",Sonic | Plex (US)
 https://jmp2.uk/plex-643054b1fc3be59477853717-62ba4aaff663580a7238f327.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/15Q41TWP/spi.jpg" group-title="Mas Series 🧟",Spiderman (LATAM)
+https://live20.bozztv.com/giatvplayout7/giatv-210702/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9fVfG9X0/sto.jpg" group-title="Mas Series 🧟",Storage Wars: LA | by A&E (US)
 https://jmp2.uk/stvp-USBD1700006T2
 
@@ -6426,6 +6431,8 @@ https://live-manifest.production-public.tubi.io/live/8a3bfd19-8982-4a0a-b76c-14d
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tR1bkv8f/ww.jpg" group-title="Mas Series 🧟", WWE | Superstar Central | by A&E (US)
 https://jmp2.uk/stvp-US700005ID
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xC5pjBKJ/xmen.jpg" group-title="Mas Series 🧟",X-Men (LATAM)
+https://live20.bozztv.com/giatvplayout7/giatv-210703/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9F6M36Mq/yugi.jpg" group-title="Mas Series 🧟",Yu-Gi-Oh! (ES)
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L67vnCy1/orbiavisos.jpg" group-title="Mas Películas 🎃",Mas Películas | Aviso 
@@ -12955,6 +12962,8 @@ https://nosaravdo.online:3707/stream/play.m3u8
 https://acceso.mediosdecostarica.com:3511/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vBdLLMbf/ctv2.jpg" group-title="Costa Rica 🇨🇷",Casino TV | CTV | Limón (CR)
+https://stmv1.novacasthd.in/roger1341/roger1341/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vBdLLMbf/ctv2.jpg" group-title="Costa Rica 🇨🇷",Casino TV | CTV | Limón | Opción 2 (CR)
 https://183.bozztv.com/giatv/giatv-ctvlimon/ctvlimon/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/htWjGGr1/cedrotv.jpg" group-title="Costa Rica 🇨🇷",Cedros TV (CR)
@@ -14638,6 +14647,9 @@ https://live-evg10.tv360.bitel.com.pe/bitel/abctv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/15wQZnqt/abctv.jpg" group-title="Perú",ABC TV (PE)
 https://live-evg8.tv360.bitel.com.pe/bitel/abctelevisionSRT/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tTnGsq48/albricias.jpg" group-title="Perú",Albricias TV (PE)
+https://live-evg11.tv360.bitel.com.pe/bitel/albriciastv/playlist.m3u8 
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/brVP0dBy/activatv2.jpg" group-title="Perú",Activa TV (PE)
 https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/playlist.m3u8
 
@@ -14783,6 +14795,11 @@ https://live.obslivestream.com/controversiatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9x7GWMM/corp.jpg" group-title="Perú",Corporación TV (PE)
 https://183.bozztv.com/ssh101/ssh101/corporaciontv/playlist.m3u8 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RCGzsDnZ/cosi.jpg" group-title="Música 🎼",Cositel | Ica (PE)
+https://stream.radionexcloud.com/CositelTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/y8wfxdjH/cositel.jpg" group-title="Música 🎼",Cositel | Juliaca (PE)
+https://live-evg10.tv360.bitel.com.pe/bitel/cositeljuliaca/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2S022hBT/CPN.jpg" group-title="Perú",CPN | Cable Perú (PE)
 https://video2.lhdserver.es/cableperu/live.m3u8
 
@@ -14920,6 +14937,8 @@ https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3
 https://redirector.rudo.video/hls-video/plus226/latina4/latina4.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bv0n7QXy/latremenda.jpg" group-title="Perú",La Tremenda (PE)
+https://iptv.latremenda.pe/LaTremendaTv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bv0n7QXy/latremenda.jpg" group-title="Perú",La Tremenda | Opción 2 (PE)
 http://187.102.210.46/KARIBENA/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L8NgfWBk/laribere-a.jpg" group-title="Perú",La Ribereña (PE)
@@ -14992,6 +15011,8 @@ https://live-evg7.tv360.bitel.com.pe/bitel/neotvSRT/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZYvfhJjk/nexp.jpg" group-title="Perú",Nex (PE)
 https://live-evg8.tv360.bitel.com.pe/bitel/nexSRT_TRA/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZYvfhJjk/nexp.jpg" group-title="Perú",Nex | Opción 2 (PE)
+https://play.agenciastreaming.com:8081/nextv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cC9v9pzF/nexxor.jpg" group-title="Perú",Nexxor TV (PE)
 https://live-evg11.tv360.bitel.com.pe/bitel/unicentroSRT/playlist.m3u8
