@@ -359,7 +359,9 @@ http://181.78.21.171:8000/play/a09a/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vZ9ZbpCH/fmh-m.jpg" group-title="Animados | Variado",Fmh | Movies | Opción 2 (LATAM)
 http://45.186.254.75:8000/play/a07j/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yYSsJfpX/foxkids.jpg" group-title="Animados | Variado",Fox Kids (PL)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yYSsJfpX/foxkids.jpg" group-title="Animados | Variado",Fox Kids | Fan Made (BR)
+https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yYSsJfpX/foxkids.jpg" group-title="Animados | Variado",Fox Kids | Fan Made (PL)
 https://live20.bozztv.com/giatvplayout7/giatv-211400/playlist.m3u8
 
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-621674502c2627c068e73ada" tvg-logo="https://i.postimg.cc/hjSNbWbz/fri.jpg" group-title="Animados | Variado",FrightFlix | Plex (US)
@@ -407,7 +409,10 @@ https://janimotion.com/hls/janimotion/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4xTsLDQ4/ja.jpg" group-title="Animados | Variado",Japanim TV (FR)
 https://foxkidstv.be:3369/stream/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59Q2vN6t/jetix.jpg" group-title="Animados | Variado",Jetix (PL)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59Q2vN6t/jetix.jpg" group-title="Animados | Variado",Jetix | Fan Made (LATAM)
+https://lbgo.bozztv.com/giatv/giatv-MYJETIXRETRO/MYJETIXRETRO/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59Q2vN6t/jetix.jpg" group-title="Animados | Variado",Jetix | Fan Made (PL)
 https://live20.bozztv.com/giatvplayout7/giatv-211388/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/28HWTP6X/jpd.jpg" group-title="Animados | Variado",JPD TV | Juan Pablo Duarte TV (RD)
@@ -457,14 +462,14 @@ https://jmp2.uk/stvp-GBBC4300005AL
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Wbbkyv8k/loading.jpg" group-title="Animados | Variado",Loading (BR)
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dVPdGkqK/locomotio4.jpg" group-title="Animados | Variado",Locomotion (LATAM)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dVPdGkqK/locomotio4.jpg" group-title="Animados | Variado",Locomotion | Fan Made (LATAM)
 https://live20.bozztv.com/giatvplayout7/giatv-210075/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vTb11D2S/locomotio5.jpg" group-title="Animados | Variado",Locomotion (ES)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vTb11D2S/locomotio5.jpg" group-title="Animados | Variado",Locomotion | Fan Made 2 (ES)
 https://live20.bozztv.com/akamaissh101/ssh101/myevent2025/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vTb11D2S/locomotio5.jpg" group-title="Animados | Variado",Locomotion [Inestable] | Señal Diferente (LATAM)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vTb11D2S/locomotio5.jpg" group-title="Animados | Variado",Locomotion [Inestable] | Señal Diferente | Fan Made 3 (LATAM)
 http://146.19.49.197:81/live/loco_hi/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vTb11D2S/locomotio5.jpg" group-title="Animados | Variado",Locomotion [Inestable] | Opción 2 (LATAM)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vTb11D2S/locomotio5.jpg" group-title="Animados | Variado",Locomotion [Inestable] | Opción 2 | Fan Made 3 (LATAM)
 http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1 tvg-id="ES5000001CS" tvg-logo="https://i.postimg.cc/4xQ4qsG2/loo.jpg" group-title="Animados | Variado",LooLoo Kids TV | Samsung TV Plus (ES)
@@ -473,8 +478,11 @@ https://jmp2.uk/stvp-ES5000001CS
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qB1pLwyM/ltv.jpg" group-title="Animados | Variado",LTV | Latinos TV | NY (US)
 https://5790d294af2dc.streamlock.net/latinostv/latinostv/chunklist_w658193714.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tRFY8cMx/MAGICkids2.jpg" group-title="Animados | Variado",Magic Kids (AR)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tRFY8cMx/MAGICkids2.jpg" group-title="Animados | Variado",Magic Kids | Fan Made 1 (AR)
 https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tRFY8cMx/MAGICkids2.jpg" group-title="Animados | Variado",Magic Kids | Fan Made 2 (AR)
+https://live20.bozztv.com/giatv/giatv-magicplus/magicplus/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SsQ8DDmW/maj.jpg" group-title="Animados | Variado",Majestad Televisión (EC)
 https://revo2.discovr.now/majestadtv.m3u8
@@ -641,7 +649,7 @@ https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/q7SfVkz8/re.jpg" group-title="Animados | Variado",Retro Crush (US)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13021
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/G2RBXG8F/retromagico.jpg" group-title="Animados | Variado",Retro Mágico (AR)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G2RBXG8F/retromagico.jpg" group-title="Animados | Variado",Retro Mágico | Fan Made 3 (AR)
 https://live20.bozztv.com/akamaissh101/ssh101/retromagicocnl/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dVCnC5K1/retroplus.jpg" group-title="Animados | Variado",Retro Plus | Películas | Señal 3 (CL)
@@ -825,6 +833,9 @@ http://138.121.15.230:9002/UNIVISION/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g09jJDKT/uva.jpg" group-title="Animados | Variado",Uva TV (RD)
 https://www.uvatvhd.com/hls.php?file=live.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8544rxsn/Varied24.jpg" group-title="Animados | Variado",Varied TV (LATAM)
+https://live20.bozztv.com/akamaissh101/ssh101/variedtvonline/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cHWfc3rD/VH1u.jpg" group-title="Animados | Variado",VH1 (US)
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XJTwBrH2/kanaldramavive.jpg" group-title="Animados | Variado",Vive | Kanal D | Drama (LATAM)
@@ -843,6 +854,9 @@ https://amg01796-amg01796c3-rakuten-uk-2555.playouts.now.amagi.tv/playlist/amg01
 https://jmp2.uk/plex-643054b1fc3be59477853717-621672612c2627c068e73ad6.m3u8
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-621671d05abdd3d5556a1baf" tvg-logo="https://i.postimg.cc/13G8hBfb/watchits.jpg" group-title="Animados | Variado",Watch it Scream | Plex (US)
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-621671d05abdd3d5556a1baf.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rmwFqt4x/wepa.jpg" group-title="Animados | Variado",Wepa TV (LATAM)
+https://lbgo.bozztv.com/ssh101/ssh101/tvwxfxxgo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9MqFG917/wipr.jpg" group-title="Animados | Variado",Wipr (PR)
 https://streamwipr.pr/hls/stream/index.m3u8?
