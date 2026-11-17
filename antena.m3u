@@ -145,6 +145,8 @@ https://live-evg8.tv360.bitel.com.pe/bitel/animakids/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W3NC0Rnh/animash.jpg" group-title="Animados | Variado",Animash (LATAM)
 http://38.7.195.44:8000/play/a0ce
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W3NC0Rnh/animash.jpg" group-title="Animados | Variado",Animash | Opción 2 (LATAM)
+http://181.78.121.15:8000/play/a00h/index.m3u8
 
 #EXTINF:-1 tvg-id="US400002PS" tvg-logo="https://i.postimg.cc/ZKkkQWFG/animation.jpg" group-title="Animados | Variado",Animation+ (US)
 https://linear-918.frequency.stream/dist/animationplus/918/hls/master/playlist_1920x1080.m3u8
@@ -1215,6 +1217,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01546-ftv-fashiontv-xiaomi/playlist
 https://live-evg10.tv360.bitel.com.pe/bitel/planetahistoria/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9Mnjw8Z0/feel-s.jpg" group-title="Cultura | Educativo 🪐",Feel | Salvaje (PE)
 https://live-evg10.tv360.bitel.com.pe/bitel/planetasalvaje/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9Mnjw8Z0/feel-s.jpg" group-title="Cultura | Educativo 🪐",Feel | Salvaje | Opción 2 (PE)
+http://181.78.121.15:8000/play/a00g/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MHxhDRNy/fev2.jpg" group-title="Cultura | Educativo 🪐",Feva TV | Stirr (US)
 https://jmp2.uk/str-5297.m3u8
@@ -3624,6 +3628,9 @@ https://sistemastr.tropicalmoonmedia.com/live/2C7CA6CECC9B8F8C3A07315FDA110936/7
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fTKbYjPH/pj2.jpg" group-title="Música 🎼",PJ TV | Musical (EC)
 https://stmv1.novacasthd.in/patricio4162/patricio4162/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kGDMY5Bc/planet.jpg" group-title="Música 🎼",Planet | 100.9 FM (PA)
+https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pXNtG6XS/playtv.jpg" group-title="Música 🎼",Play TV (CM)
 http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
 
@@ -3979,11 +3986,17 @@ https://59a564764e2b6.streamlock.net/vallenato/tropical/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/q7ntKzDv/tro.jpg" group-title="Música 🎼",Tropical Ranchero (CL)
 https://radioxxx.ddns.net/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c1KWvC8h/tropip.jpg" group-title="Música 🎼",Tropi Q | 99.7 FM (PA)
+https://www.streaming507.net:19360/videotropiq/videotropiq.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3rqL8GpM/TRT.jpg" group-title="Música 🎼",TRT Muzik (TR)
 https://tv-trtmuzik.medya.trt.com.tr/master_360.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9Q4cCHqB/538.jpg" group-title="Música 🎼",TV 538 TV (NL)
 https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WbHTzjhL/tvone2.jpg" group-title="Música 🎼",TV One (NI)
+https://hdbox.chunklistv.com/live?stream=tvone
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tX108Vq/tvs-mu.jpg" group-title="Música 🎼",TVS | Music (US)
 https://rpn.bozztv.com/gusa/gusa-tvsmusic/index.m3u8
@@ -4153,6 +4166,9 @@ https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
 https://familyhls.avatv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/m27HG8SQ/ava-series.jpg" group-title="Películas | Series",AVA | Series (IR)
 https://avaserieshls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8TrtpFC/avi2.jpg" group-title="Películas | Series",AVI TV (PA)
+http://181.78.121.15:8000/play/a00f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpkbCH6V/axnow.jpg" group-title="Películas | Series",AXS TV Now (US)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=922
@@ -14800,18 +14816,20 @@ https://stream.oursnetworktv.com/latin/encoder73/chunklist_w2129733347.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Dw9ys5qk/televicentro.jpg" group-title="Nicaragua | Panamá",Canal 2 | Televicentro (NI)
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/1075.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/66jyKcnr/tvnpa.jpg" group-title="Nicaragua | Panamá",Canal 2 | TVN (PA)
-
+http://181.78.121.15:8000/play/a00k/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qM8P7jbG/rpc.jpg" group-title="Nicaragua | Panamá",Canal 4 | RPC (PA)
-
+http://181.78.121.15:8000/play/a00j/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Fsq8KmHy/canal4ni.jpg" group-title="Nicaragua | Panamá",Canal 4 (NI)
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Fsq8KmHy/canal4ni.jpg" group-title="Nicaragua | Panamá",Canal 4 | Opción 2 (NI)
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yd9NY2DT/canal6ni.jpg" group-title="Nicaragua | Panamá",Canal 6 (NI)
-https://live.eu-north-1a.cf.dmcdn.net/sec2(2Aph-VWkZ-0ce0eikWsODzGA-UBFF5hz0gvN_C1fX4kn0U1fgVhNUwnLnNNl-oAwvCVNYiSQRYyNR92yDO8evhI2vmz4PfvVoAjYx_L8qj3aP-N5yWxKFI8pO-mSSFa4)/dm/3/xaka1oy/s/live-480.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g0RHKbdP/TN8.jpg" group-title="Nicaragua | Panamá",Canal 8 | TN8 (NI)
 https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0RHKbdP/TN8.jpg" group-title="Nicaragua | Panamá",Canal 8 | TN8 | Opción 2 (NI)
+https://streamingcws30.com/tn8/videotn8/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wj9wz83V/canal10ni.jpg" group-title="Nicaragua | Panamá",Canal 10 (NI)
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/1076.m3u8
@@ -14820,18 +14838,15 @@ http://m3u.tvcluboficial.com/free/ReachBot/Kip/1076.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QCVwch6d/telemetropa.jpg" group-title="Nicaragua | Panamá",Canal 13 | Telemetro (PA)
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCVwch6d/telemetropa.jpg" group-title="Nicaragua | Panamá",Canal 13 | Telemetro | Opción 2 (PA)
-
+http://181.78.121.15:8000/play/a00l/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NMr6Ddn6/vivanicaragua.jpg" group-title="Nicaragua | Panamá",Canal 13 | Viva Nicaragua (NI)
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMr6Ddn6/vivanicaragua.jpg" group-title="Nicaragua | Panamá",Canal 13 | Viva Nicaragua | Opción 2 (NI)
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YSp1V0LG/nit.jpg" group-title="Nicaragua | Panamá",Canal 14 | Vos TV (NI)
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSp1V0LG/nit.jpg" group-title="Nicaragua | Panamá",Canal 14 | Vos TV | Opción 2 (NI)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Pr46rpn4/NEX.jpg" group-title="Nicaragua | Panamá",Canal 21 | Nex TV (PA)
+https://movil.ejeserver.com/live/nextv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kgDYrsbs/nicarao.jpg" group-title="Nicaragua | Panamá",Canal 51 | Nicarao TV (NI)
 http://45.5.117.3:4000/play/a02l/index.m3u8
@@ -14839,23 +14854,23 @@ http://45.5.117.3:4000/play/a02l/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kgDYrsbs/nicarao.jpg" group-title="Nicaragua | Panamá",Canal 51 | Nicarao TV  | Opción 2 (NI)
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hv3fp17s/MAS23.jpg" group-title="Nicaragua | Panamá",Más +23 (PA)
-https://vcp4.myplaytv.com:1936/mas23/mas23/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hv3fp17s/MAS23.jpg" group-title="Nicaragua | Panamá",Más +23 | Opción 2 (PA)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpZjmB1B/fab.jpg" group-title="Nicaragua | Panamá",Fabulosa Estéreo | 100.5 FM (PA)
+https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Pr46rpn4/NEX.jpg" group-title="Nicaragua | Panamá",Nex TV (PA)
-https://vcp4.myplaytv.com:1936/nextv/nextv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hv3fp17s/MAS23.jpg" group-title="Nicaragua | Panamá",Más +23 (PA)
+https://movil.ejeserver.com/live/mas23tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zB4KFTrb/cootel.jpg" group-title="Nicaragua | Panamá",CooTel (NI)
 http://138.117.4.70:8075/channel9/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y2ZZ4x1d/hispa.jpg" group-title="Nicaragua | Panamá",Hispania (PA)
+http://181.78.121.15:8000/play/a005/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/V63wC6y3/Tvmax.jpg" group-title="Nicaragua | Panamá",TV Max (PA)
-http://45.167.3.81:45000/play/a04u/index.m3u8
+http://181.78.121.15:8000/play/a00i/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7PmG4ZwY/wtv.jpg" group-title="Nicaragua | Panamá",WTV (NI)
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7PmG4ZwY/wtv.jpg" group-title="Nicaragua | Panamá",WTV | Opción 2 (NI)
-https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3xvvZpnz/ABC.jpg" group-title="Paraguay",ABC TV (PY)
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8
