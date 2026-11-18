@@ -2,7 +2,7 @@
 #EXTINF:-1 GUILMONZERO LISTA TV PLUS - GRATIS - Mi contacto: guilmoncr@yahoo.com - Youtube/Instagram/Twitter/TikTok: @Guilmonzero
 #EXTINF:-1 Para disfrutar de los canales y abrir correctamente, añade esta dirección a la aplicación IPTV PRO una vez instalada, disponible GRATIS en Google Play o bien descargala sin anuncios y completa acá: https//bit.ly/orbitaxpp  Compactible para todos tus dispositivos con Android y Google TV, TVBox, ect... 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8kBn99zh/orbi2025.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 16.11.26
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8kBn99zh/orbi2025.jpg" tvg-chno="01" group-title="Animados | Variado",Órbita by GUILMONZERO | Sigue Actualizando 17.11.26
 https://ia600809.us.archive.org/18/items/orbita-guilmonzero-iptv-gratis-sigue-actualizando_202604/%5B%C3%92rbita%20%40guilmonzero%5D%20IPTV%20Gratis%20-%20Sigue%20Actualizando.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZK4Lv6F0/crimen.jpg" group-title="Animados | Variado",Crímenes Reales | Rakuten TV (ES)
@@ -3459,6 +3459,9 @@ https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vBMcpfv4/stirr-live.jpg" group-title="Música 🎼",Live X One | Stirr (US)
 https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zDL7cYYG/lonuestro.jpg" group-title="Música 🎼",Lo Nuestro TV (PE)
+https://vivatv.juanjuiserver.com:3733/live/lonuestrotvlive.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HWZvK2QL/look.jpg" group-title="Música 🎼",Look Thoong TV | Tailandia (TH)
 https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
 
@@ -4956,8 +4959,9 @@ https://live-manifest.production-public.tubi.io/live/5602f3d6-c62c-4109-8de7-b7d
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HL2hppjt/wb-we.jpg" group-title="Películas | Series",WB TV | Welcome Home (US)
 https://live-manifest.production-public.tubi.io/live/edb986fe-9600-4f83-8b6d-8593986f2f3a/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/K82Pn9v0/west2.jpg" group-title="Películas | Series",Wester (PE)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/K82Pn9v0/west2.jpg" group-title="Películas | Series",West (PE)
 https://cablered.iptvperu.tv:1936/cablered/west/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4NMsZ3LW/west.jpg" group-title="Películas | Series",Westerns | Pluto TV (US)
 https://jmp2.uk/stvp-USBA300005MK
@@ -6022,8 +6026,10 @@ https://183.giatvcdn.com/giatv/giatv-dball/dball/playlist.m3u8
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/303.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKybdG6F/drago.jpg" group-title="Mas Series 🧟",Dragon Ball | Las Películas (LATAM)
 https://183.giatvcdn.com/ssh101/ssh101/gokupelis/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/V6JXrJ3M/sup.jpg" group-title="Mas Series 🧟",Dragon Ball | Super (LATAM)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/V6JXrJ3M/sup.jpg" group-title="Mas Series 🧟",Dragon Ball | Super | 1 (LATAM)
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/305.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/V6JXrJ3M/sup.jpg" group-title="Mas Series 🧟",Dragon Ball | Super | 2 (LATAM)
+https://183.giatvcdn.com/ssh101/ssh101/dbsuperlat/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T2JtbQVJ/dragonb.jpg" group-title="Mas Series 🧟",Dragon Ball Z | 1 (LATAM)
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/307.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T2JtbQVJ/dragonb.jpg" group-title="Mas Series 🧟",Dragon Ball Z | 2 (LATAM)
@@ -15086,12 +15092,16 @@ https://live-evg11.tv360.bitel.com.pe/bitel/aldiatvSRT/chunks.m3u8 aldia tv
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8k4SjxHf/alpa2.jpg" group-title="Perú",Alpha Televisión (PE)
 https://live-evg8.tv360.bitel.com.pe/bitel/bnbSRT/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8k4SjxHf/alpa2.jpg" group-title="Perú",Alpha Televisión | Opción 2 (PE)
+https://play.agenciastreaming.com:8081/redalphatv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pTsZ91jc/amazon.jpg" group-title="Perú",Amazónica (PE)
 https://live.obslivestream.com/amazonicatv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QtzHv9Wf/amazo.jpg" group-title="Perú",Amazónica TV (PE)
 https://videoserver.tmcreativos.com:19360/amazonicatv/amazonicatv.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QtzHv9Wf/amazo.jpg" group-title="Perú",Amazónica TV | Opción 2 (PE)
+https://live-evg8.tv360.bitel.com.pe/bitel/amazonicatvSRT/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/28MNw01j/ameri-p.jpg" group-title="Perú",América (PE)
 http://190.93.224.42/AMERICA-TV/index.m3u8
@@ -15123,6 +15133,9 @@ https://vdo.oyotunserver.com/arpegio/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RhQBtnm5/apolo.jpg" group-title="Perú",Apolo TV (PE)
 https://183.giatvcdn.com/ssh101/ssh101/uca777/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bN5sV48c/artem.jpg" group-title="Perú",Artemusa TV | Puno (PE)
+https://183.giatvcdn.com/ssh101/ssh101/artemusa2punotv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RVP9V50W/asiri.jpg" group-title="Perú",Asiri TV (PE)
 https://video2.lhdserver.es/asiritv/live.m3u8
@@ -15183,6 +15196,9 @@ https://live-evg8.tv360.bitel.com.pe/bitel/cajamarcatvSRT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/brJShrR7/CANAL8-CANTA.jpg" group-title="Perú",Canal 8 | Catacaos (PE)
 https://live.obslivestream.com/canal8/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5VWKhbN/ch30.jpg" group-title="Perú",Canal 30 | Paita Piura (PE)
+https://7.innovatestream.pe:19360/canal30/canal30.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tJMsxKy/36tv.jpg" group-title="Perú",Canal 36 | TV Huacho (PE)
 https://live-evg10.tv360.bitel.com.pe/bitel/36tvSRT/playlist.m3u8
 
@@ -15214,6 +15230,9 @@ https://live-evg10.tv360.bitel.com.pe/bitel/charapatvSRT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9XPd1fzq/chicha.jpg" group-title="Perú",Chicha TV (PE)
 https://s3.tvdatta.com:3908/stream/play.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7h1HXQxM/chu.jpg" group-title="Perú",Chupaca TV (PE)
+https://live-evg13.tv360.bitel.com.pe/bitel/chupacatv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvRWXLx6/cnc-c.jpg" group-title="Perú",CNC | Cajamarca (PE)
 https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
 
@@ -15222,6 +15241,8 @@ https://srt.grupolimalive.com:8081/cnc/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7Z42knG3/conect2.jpg" group-title="Perú",Conecta2 (PE)
 https://live.obslivestream.com/conecta2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7Z42knG3/conect2.jpg" group-title="Perú",Conecta2 | Opción 2 (PE)
+https://sc1.wasidata.com/Conecta2/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26rRYv9j/contactotv.jpg" group-title="Perú",Contacto TV (PE)
 https://live.obslivestream.com/contactotv/index.m3u8
@@ -15243,6 +15264,7 @@ https://live-evg10.tv360.bitel.com.pe/bitel/cositeljuliaca/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85RQ8XFD/cosm.jpg" group-title="Perú",Cosmovisión (PE)
 https://live-evg10.tv360.bitel.com.pe/bitel/cosmovision/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85RQ8XFD/cosm.jpg" group-title="Perú",Cosmovisión | Opción 2 (PE)
+https://vivatv.juanjuiserver.com:3320/live/cosmovisionlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2S022hBT/CPN.jpg" group-title="Perú",CPN | Cable Perú (PE)
 https://video2.lhdserver.es/cableperu/live.m3u8
@@ -15257,6 +15279,9 @@ https://live.obslivestream.com/crtvmux/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L8mtNMyK/ctvp.jpg" group-title="Perú",CTV | Perú (PE)
 https://ca2.oxira.net.pe/ctvperu-live/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XNLkDNXR/cub.jpg" group-title="Perú",Cuba TV (PE)
+https://live-evg8.tv360.bitel.com.pe/bitel/Ayacanal/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xTY4xdcg/cumo2.jpg" group-title="Perú",Cumo TV | Centro Cultural Moyobamba (PE)
 https://live.obslivestream.com/cumo/index.m3u8
@@ -15276,11 +15301,16 @@ https://live-evg8.tv360.bitel.com.pe/bitel/dactvSRT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dVn3kDTX/delta.jpg" group-title="Perú",Delta TV (PE)
 https://tv2.bitstreaming.net:3539/live/deltanetlive.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/52VKF4KQ/diasporatv.jpg" group-title="Perú",Diasporas TV [NO 24/7] (PE)
+https://s1.tvdatta.com:3978/live/diasporatvlive.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J0GHwfd0/doblea.jpg" group-title="Perú",DobLe AA (PE)
 https://live.obslivestream.com/dobleaa/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g2pYFMj6/doblec.jpg" group-title="Perú",DobLe C (PE)
 https://183.giatvcdn.com/giatv/giatv-doblec1/doblec1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g2pYFMj6/doblec.jpg" group-title="Perú",DobLe C | Opción 2 (PE)
+https://183.giatvcdn.com/ssh101/ssh101/doblectv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g2pYFMj6/doblec.jpg" group-title="Perú",DTV+ | Chincha (PE)
 https://live-evg11.tv360.bitel.com.pe/bitel/tvchincha/playlist.m3u8
@@ -15353,6 +15383,9 @@ https://cablered.iptvperu.tv:1936/Cablered/imperialtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wjczJ6bW/inka.jpg" group-title="Perú",Inka Visión (PE)
 https://live-evg5.tv360.bitel.com.pe/bitel/inkavision/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/508Bfb4f/ipe2.jpg" group-title="Perú",IPE TV (PE)
+http://190.93.224.42/IPE/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fbGFzTdQ/iqt.jpg" group-title="Perú",Iqt TV (PE)
 https://183.giatvcdn.com/giatv/giatv-iqttvlive/iqttvlive/playlist.m3u8
 
@@ -15385,6 +15418,12 @@ https://play.agenciastreaming.com:8081/lanoticiatv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1zD0FpX4/lanu.jpg" group-title="Perú",La Nueva TV (PE)
 https://7.innovatestream.pe:19360/lanuevatumbes/lanuevatumbes.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kGkSx0B6/radiola.jpg" group-title="Perú",La Nueva Universal TV (PE)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kGkSx0B6/radiola.jpg" group-title="Perú",La Nueva Universal | Radio | 102.5 FM (PE)
+https://vs20.live.opencaster.com/universal123_fec91396/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3NfyQ6xk/latinape.jpg" group-title="Perú",Latina (PE)
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
@@ -15436,6 +15475,9 @@ https://live-evg5.tv360.bitel.com.pe/bitel/mastertvSRT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FFTbp5QF/master2.jpg" group-title="Perú",Master Television & Radio | Opción 2 (PE)
 https://live.obslivestream.com/mastertv/tracks-v1a1/mono.m3u8 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vTDRxqcC/master3.jpg" group-title="Perú",Master TV (PE)
+https://live-evg5.tv360.bitel.com.pe/bitel/mastertvMADSRT/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMC2BB5f/max1.jpg" group-title="Perú",Max Channel (PE)
 https://live-evg5.tv360.bitel.com.pe/bitel/maxchannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMC2BB5f/max1.jpg" group-title="Perú",Max Channel | Opción 2 (PE) 
@@ -15455,6 +15497,8 @@ https://183.giatvcdn.com/ssh101/ssh101/mayatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qvVNXjqP/media.jpg" group-title="Perú",Media TV (PE)
 https://live-evg5.tv360.bitel.com.pe/bitel/mediatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvVNXjqP/media.jpg" group-title="Perú",Media TV | Opción 2 (PE)
+https://v4.tustreaming.cl/mediatvperu/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cCGJMJ4w/megatvp.jpg" group-title="Perú",Mega TV (PE)
 https://live-evg5.tv360.bitel.com.pe/bitel/megatv/playlist.m3u8
@@ -15489,6 +15533,9 @@ https://videoserver.tmcreativos.com:2020/hls/nqvnhujhrx/nqvnhujhrx.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gj037mCG/mo.jpg" group-title="Perú",Mo Channel (PE)
 https://cloudvideo.servers10.com:8081/8070/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsdR2GDG/monit.jpg" group-title="Perú",Monitor TV (PE)
+https://live-evg5.tv360.bitel.com.pe/bitel/monitortvSRT/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sXqBFCMX/mipe.jpg" group-title="Perú",My TV | Canal 19 (PE)
 https://vdo.streamingperuano.com:3997/live/mytv19live.m3u8
@@ -15531,6 +15578,12 @@ https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/52rK1tB9/nq.jpg" group-title="Perú",NQ Televisión (PE)
 https://live.obslivestream.com/radionq/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FKTbPNrb/97.jpg" group-title="Perú",Nueva 97 TV | Radio (PE)
+https://183.giatvcdn.com/ssh101/ssh101/radiolanueva97/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKQxPfDX/nu.jpg" group-title="Perú",Nueva TV | Chanchamayo (PE)
+https://183.giatvcdn.com/ssh101/ssh101/nuevatvchyo/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NM93G7t1/nzx.jpg" group-title="Perú",NZX Televisión (PE)
 https://eu1.servers10.com:8081/8258/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NM93G7t1/nzx.jpg" group-title="Perú",NZX Televisión | Opción 2 (PE)
@@ -15556,8 +15609,10 @@ https://live.obslivestream.com/oktv/video.m3u8?token=Bk-DXAXulO1OV0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pTKBNnSX/ondadigital.jpg" group-title="Perú",Onda Digital (PE)
 https://tv.ondadigital.pe/ondadigital/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YPPF72K/on.jpg" group-title="Perú",Onda TV (PE)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YPPF72K/on.jpg" group-title="Perú",Onda TV | Ica [NO 24/7] (PE)
 https://live-evg5.tv360.bitel.com.pe/bitel/onda/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YPPF72K/on.jpg" group-title="Perú",Onda TV | Ica | Opción 2 [NO 24/7] (PE)
+https://v4.tustreaming.cl:2020/hls/ondatv/ondatv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QMY1L0Fb/orientaltv.jpg" group-title="Perú",Oriental TV (PE)
 https://play.agenciastreaming.com:8081/orientaltv/index.m3u8
@@ -15603,6 +15658,8 @@ https://7.innovatestream.pe:19360/planetajaen/planetajaen.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5QgBx8F/prem.jpg" group-title="Perú",Premium GO TV (PE)
 https://live-evg8.tv360.bitel.com.pe/bitel/premiumgoSRT-TRA/chunks.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5QgBx8F/prem.jpg" group-title="Perú",Premium GO TV | Opción 2 (PE)
+http://190.108.83.69:8000/play/a082/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wMD06Ncz/primavera15.jpg" group-title="Perú",Primaravera 15 TV (PE)
 https://mc.servidor.stream:19360/8244/8244.m3u8
@@ -15623,9 +15680,6 @@ https://tv.sistemasandinos.org/armoniatv/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvXwzJkp/radiochacala.jpg" group-title="Perú",Radio Chacala (PE)
 https://servilive.com:3414/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kGkSx0B6/radiola.jpg" group-title="Perú",Radio La Nueva Universal | 102.5 FM (PE)
-https://vs20.live.opencaster.com/universal123_fec91396/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cC5wG4PY/radiom.jpg" group-title="Perú",Radio Master Perú (PE)
 https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8
@@ -15701,6 +15755,8 @@ https://live-evg8.tv360.bitel.com.pe/bitel/totaltv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3rFBYRGL/rumba2.jpg" group-title="Perú",Rumba (PE)
 https://live-evg7.tv360.bitel.com.pe/bitel/rumba/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3rFBYRGL/rumba2.jpg" group-title="Perú",Rumba | Opción 2 (PE)
+https://tv.sistemasandinos.org/rumbatv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W17x7Pxk/rvp.jpg" group-title="Perú",RVP | Radio Visión Pucallpa (PE)
 https://eu1.servers10.com:8081/8030/tracks-v1a1/mono.m3u8
@@ -15746,6 +15802,8 @@ https://183.giatvcdn.com/ssh101/ssh101/makins/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7YNszmpq/supercanal.jpg" group-title="Perú",Super Canal | Yurimaguas (PE)
 https://live.obslivestream.com/supercanal/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YNszmpq/supercanal.jpg" group-title="Perú",Super Canal | Yurimaguas | Opción 2 (PE)
+https://live-evg7.tv360.bitel.com.pe/bitel/supercanalSRT/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yYXtpJ1Q/surtvp.jpg" group-title="Perú",Sur TV (PE)
 https://s3.tvdatta.com:3781/live/surtvlive.m3u8
@@ -15951,6 +16009,8 @@ https://live.obslivestream.com/vivatv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mkJQBDxT/vox2.jpg" group-title="Perú",Vox (PE)
 https://7.innovatestream.pe:19360/voxtv/voxtv.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkJQBDxT/vox2.jpg" group-title="Perú",Vox | Opción 2 (PE)
+https://live-evg8.tv360.bitel.com.pe/bitel/voxtvSRT-TRA/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sX1FX06P/vozp.jpg" group-title="Perú",Voz Perú TV (PE)
 https://vs20.live.opencaster.com/vozcallao_adaf2f07/index.m3u8
